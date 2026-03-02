@@ -123,7 +123,7 @@ El directorio `public/data/` contiene **36 archivos JSON** organizados en tres c
   "adm2_code": "02001",
   "municipio": "Azua",
   "provincia": "Azua",
-  "region": "Valdesia",
+  "region": "El Valle",
   "servicios": {
     "cocina_vivienda": { ... },
     "servicios_sanitarios": { ... },
