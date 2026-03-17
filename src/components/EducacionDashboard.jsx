@@ -9,12 +9,6 @@ import {
 } from "recharts";
 import { GraduationCap } from "lucide-react";
 
-import ofertaData from "../data/educacion_oferta_municipal.json";
-import ofertaProvinciaData from "../data/educacion_oferta_municipal_provincia.json";
-import nationalEducOferta from "../data/national_educacion_oferta.json";
-import educacionData from "../data/educacion.json";
-import nivelData from "../data/educacion_nivel.json";
-
 /* ============================================================
    3 色テーマ（Educación のオレンジ系 UI に合わせた配色）
 ============================================================ */
@@ -181,6 +175,10 @@ export default function EducacionDashboard({
   isRegionSelection,
   educacionNivel,
   regionsIndexData,
+  educacionData,
+  educacionOfertaMunicipalData,
+  educacionOfertaMunicipalProvinciaData,
+  nationalEducOferta,
 }) {
   const muni = records?.[0] || null;
 
@@ -201,7 +199,9 @@ export default function EducacionDashboard({
       const reg = regionsIndexData.find((r) => r.name === regionName);
       if (reg && reg.provincias) {
         const provs = reg.provincias;
-        const relevantOfertas = provs.map(p => ofertaProvinciaData.find(o => o.provincia === p)).filter(Boolean);
+        const relevantOfertas = provs
+          .map((p) => educacionOfertaMunicipalProvinciaData.find((o) => o.provincia === p))
+          .filter(Boolean);
         if (relevantOfertas.length > 0) {
           const agg = {
             centros_total: 0,
@@ -237,7 +237,7 @@ export default function EducacionDashboard({
     // Provincia selection
     if (isProvinceSelection && selectedMunicipio?.provincia) {
       const provinciaName = String(selectedMunicipio.provincia).trim();
-      return ofertaProvinciaData.find(
+      return educacionOfertaMunicipalProvinciaData.find(
         (o) => String(o.provincia).trim() === provinciaName
       ) || null;
     }
@@ -256,7 +256,7 @@ export default function EducacionDashboard({
       candidates.push((o) => String(o.municipio).trim() === name);
     }
     for (const match of candidates) {
-      const hit = ofertaData.find(match);
+      const hit = educacionOfertaMunicipalData.find(match);
       if (hit) return hit;
     }
     return null;
@@ -368,7 +368,7 @@ export default function EducacionDashboard({
     if (!muni.adm2_code) return null;
     const code = String(muni.adm2_code).padStart(5, "0");
     return (
-      nivelData.find(
+      educacionData.find(
         (r) => String(r.adm2_code).padStart(5, "0") === code
       ) || null
     );

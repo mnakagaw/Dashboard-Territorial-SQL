@@ -47,13 +47,16 @@ export function DashboardProvider({ children }) {
         }
     }, [regionsIndexData, municipiosIndex, selectedRegion]);
 
-    const handleMapSelect = (adm2, provFromMap) => {
-        setSelectionKey(adm2);
-        if (provFromMap) {
-            setSelectedProvince(provFromMap);
-            const reg = regionsIndexData.find(r => r.provincias.includes(provFromMap));
+    const handleMapSelect = (adm2) => {
+        const muni = municipiosIndex.find(m => m.adm2_code === adm2)
+                   || municipiosIndexData.find(m => m.adm2_code === adm2);
+        if (muni) {
+            const prov = muni.provincia;
+            setSelectedProvince(prov);
+            const reg = regionsIndexData.find(r => r.provincias.includes(prov));
             if (reg) setSelectedRegion(reg.id);
         }
+        setSelectionKey(adm2);
     };
 
     const handlePrint = () => {
@@ -97,6 +100,7 @@ export function DashboardProvider({ children }) {
         nationalSalud: data.nationalSalud,
         nationalEducOferta: data.nationalEducOferta,
         educacionOfertaMunicipalData: data.educacionOfertaMunicipalData,
+        educacionOfertaMunicipalProvinciaData: data.educacionOfertaMunicipalProvinciaData,
     });
 
     const value = {

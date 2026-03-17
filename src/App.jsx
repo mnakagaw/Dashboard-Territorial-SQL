@@ -100,6 +100,9 @@ function DashboardContent() {
     nationalEducOferta,
     nationalHogares,
     nationalSalud,
+    educacionData,
+    educacionOfertaMunicipalData,
+    educacionOfertaMunicipalProvinciaData,
 
     resumenComparacionRows,
   } = ctx;
@@ -195,6 +198,10 @@ function DashboardContent() {
           isRegionSelection={isRegionSelection}
           educacionNivel={educacionNivel}
           regionsIndexData={regionsIndexData}
+          educacionData={educacionData}
+          educacionOfertaMunicipalData={educacionOfertaMunicipalData}
+          educacionOfertaMunicipalProvinciaData={educacionOfertaMunicipalProvinciaData}
+          nationalEducOferta={nationalEducOferta}
         />
 
         <div className="page-break"></div>

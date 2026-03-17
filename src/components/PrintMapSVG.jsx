@@ -12,6 +12,18 @@
 
 import React, { useEffect, useState, useMemo } from "react";
 
+function buildDataUrl(fileName) {
+    return `${import.meta.env.BASE_URL}data/${fileName}`;
+}
+
+async function loadJson(fileName) {
+    const response = await fetch(buildDataUrl(fileName));
+    if (!response.ok) {
+        throw new Error(`Failed to load ${fileName}: ${response.status} ${response.statusText}`);
+    }
+    return response.json();
+}
+
 // Simple equirectangular projection with latitude correction
 // For the Dominican Republic (~18°N), cos(18°) ≈ 0.951
 const LAT_CENTER = 18.7;
@@ -34,10 +46,12 @@ export function PrintMapSVG({
     const [regionsIndex, setRegionsIndex] = useState([]);
 
     useEffect(() => {
-        import("../data/adm2.json").then((m) => setGeojson(m.default));
-        import("../data/regions_index.json").then((m) =>
-            setRegionsIndex(m.default)
-        );
+        loadJson("adm2.json")
+            .then((data) => setGeojson(data))
+            .catch((error) => console.error("Error loading print GeoJSON", error));
+        loadJson("regions_index.json")
+            .then((data) => setRegionsIndex(data))
+            .catch((error) => console.error("Error loading print region index", error));
     }, []);
 
     const svgData = useMemo(() => {

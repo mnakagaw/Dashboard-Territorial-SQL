@@ -10,6 +10,18 @@
 import { useEffect, useState } from "react";
 import { buildCondicionVidaParsed } from "../utils/dataHelpers";
 
+function buildDataUrl(fileName) {
+    return `${import.meta.env.BASE_URL}data/${fileName}`;
+}
+
+async function loadJson(fileName) {
+    const response = await fetch(buildDataUrl(fileName));
+    if (!response.ok) {
+        throw new Error(`Failed to load ${fileName}: ${response.status} ${response.statusText}`);
+    }
+    return response.json();
+}
+
 export default function useDataLoader() {
     const [loaded, setLoaded] = useState(false);
 
@@ -46,6 +58,7 @@ export default function useDataLoader() {
 
     // Datos de oferta educativa municipal (para promedios ponderados)
     const [educacionOfertaMunicipalData, setEducacionOfertaMunicipalData] = useState([]);
+    const [educacionOfertaMunicipalProvinciaData, setEducacionOfertaMunicipalProvinciaData] = useState([]);
 
     // Datos de TIC (Tecnologías de Información y Comunicación)
     const [ticData, setTicData] = useState([]);
@@ -91,24 +104,26 @@ export default function useDataLoader() {
                     saludEstablecimientosData,
                     condicionVidaData,
                     educacionOfertaMunicipalData,
+                    educacionOfertaMunicipalProvinciaData,
                     regionsIndexData,
                 ] = await Promise.all([
-                    import("../data/municipios_index.json").then((m) => m.default),
-                    import("../data/indicadores_basicos.json").then((m) => m.default),
-                    import("../data/pyramids.json").then((m) => m.default),
-                    import("../data/economia_empleo.json").then((m) => m.default),
-                    import("../data/educacion.json").then((m) => m.default),
-                    import("../data/educacion_nivel.json").then((m) => m.default),
-                    import("../data/edad_sexo_2010.json").then((m) => m.default),
-                    import("../data/adm2_map_2010.json").then((m) => m.default),
-                    import("../data/hogares_resumen.json").then((m) => m.default),
-                    import("../data/tamano_hogar.json").then((m) => m.default),
-                    import("../data/poblacion_urbana_rural.json").then((m) => m.default),
-                    import("../data/tic.json").then((m) => m.default),
-                    import("../data/salud_establecimientos.json").then((m) => m.default),
-                    import("../data/condicion_vida.json").then((m) => m.default),
-                    import("../data/educacion_oferta_municipal.json").then((m) => m.default),
-                    import("../data/regions_index.json").then((m) => m.default),
+                    loadJson("municipios_index.json"),
+                    loadJson("indicadores_basicos.json"),
+                    loadJson("pyramids.json"),
+                    loadJson("economia_empleo.json"),
+                    loadJson("educacion.json"),
+                    loadJson("educacion_nivel.json"),
+                    loadJson("edad_sexo_2010.json"),
+                    loadJson("adm2_map_2010.json"),
+                    loadJson("hogares_resumen.json"),
+                    loadJson("tamano_hogar.json"),
+                    loadJson("poblacion_urbana_rural.json"),
+                    loadJson("tic.json"),
+                    loadJson("salud_establecimientos.json"),
+                    loadJson("condicion_vida.json"),
+                    loadJson("educacion_oferta_municipal.json"),
+                    loadJson("educacion_oferta_municipal_provincia.json"),
+                    loadJson("regions_index.json"),
                 ]);
 
                 setMunicipiosIndexData(municipiosIndexData);
@@ -126,6 +141,7 @@ export default function useDataLoader() {
                 setSaludEstablecimientosData(saludEstablecimientosData);
                 setCondicionVidaData(condicionVidaData);
                 setEducacionOfertaMunicipalData(educacionOfertaMunicipalData);
+                setEducacionOfertaMunicipalProvinciaData(educacionOfertaMunicipalProvinciaData);
                 setRegionsIndexData(regionsIndexData);
 
                 // ---- Provincia Level Data ----
@@ -142,17 +158,17 @@ export default function useDataLoader() {
                     pyramidsProvinciaData,
                     pyramid2010ProvinciaData,
                 ] = await Promise.all([
-                    import("../data/educacion_provincia.json").then((m) => m.default),
-                    import("../data/hogares_resumen_provincia.json").then((m) => m.default),
-                    import("../data/tamano_hogar_provincia.json").then((m) => m.default),
-                    import("../data/poblacion_urbana_rural_provincia.json").then((m) => m.default),
-                    import("../data/tic_provincia.json").then((m) => m.default),
-                    import("../data/condicion_vida_provincia.json").then((m) => m.default),
-                    import("../data/salud_establecimientos_provincia.json").then((m) => m.default),
-                    import("../data/economia_empleo_provincia.json").then((m) => m.default),
-                    import("../data/educacion_nivel_provincia.json").then((m) => m.default),
-                    import("../data/pyramids_provincia.json").then((m) => m.default),
-                    import("../data/edad_sexo_2010_provincia.json").then((m) => m.default),
+                    loadJson("educacion_provincia.json"),
+                    loadJson("hogares_resumen_provincia.json"),
+                    loadJson("tamano_hogar_provincia.json"),
+                    loadJson("poblacion_urbana_rural_provincia.json"),
+                    loadJson("tic_provincia.json"),
+                    loadJson("condicion_vida_provincia.json"),
+                    loadJson("salud_establecimientos_provincia.json"),
+                    loadJson("economia_empleo_provincia.json"),
+                    loadJson("educacion_nivel_provincia.json"),
+                    loadJson("pyramids_provincia.json"),
+                    loadJson("edad_sexo_2010_provincia.json"),
                 ]);
 
                 setEducacionProvinciaData(educacionProvinciaData);
@@ -178,14 +194,14 @@ export default function useDataLoader() {
                     nationalSalud,
                     nationalCondicionVidaRaw,
                 ] = await Promise.all([
-                    import("../data/national_basic.json").then((m) => m.default),
-                    import("../data/national_economia_empleo.json").then((m) => m.default),
-                    import("../data/national_tic.json").then((m) => m.default),
-                    import("../data/national_educacion_nivel.json").then((m) => m.default),
-                    import("../data/national_educacion_oferta.json").then((m) => m.default),
-                    import("../data/national_hogares.json").then((m) => m.default),
-                    import("../data/national_salud_establecimientos.json").then((m) => m.default),
-                    import("../data/national_condicion_vida.json").then((m) => m.default),
+                    loadJson("national_basic.json"),
+                    loadJson("national_economia_empleo.json"),
+                    loadJson("national_tic.json"),
+                    loadJson("national_educacion_nivel.json"),
+                    loadJson("national_educacion_oferta.json"),
+                    loadJson("national_hogares.json"),
+                    loadJson("national_salud_establecimientos.json"),
+                    loadJson("national_condicion_vida.json"),
                 ]);
 
                 setNationalBasic(nationalBasic);
@@ -243,6 +259,7 @@ export default function useDataLoader() {
         pyramidsProvinciaData,
         pyramid2010ProvinciaData,
         educacionOfertaMunicipalData,
+        educacionOfertaMunicipalProvinciaData,
         ticData,
         condicionVidaData,
         nationalCondicionVida,

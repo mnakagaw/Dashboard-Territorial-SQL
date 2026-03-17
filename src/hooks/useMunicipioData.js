@@ -64,6 +64,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
     pyramidsProvinciaData,
     pyramid2010ProvinciaData,
     educacionOfertaMunicipalData,
+    educacionOfertaMunicipalProvinciaData,
     ticData,
     condicionVidaData,
     nationalCondicionVida,
@@ -782,5 +783,6 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
     economiaEmpleoProvinciaData,
     indicadoresBasicosData,
     educacionOfertaMunicipalData,
+    educacionOfertaMunicipalProvinciaData,
   };
 }

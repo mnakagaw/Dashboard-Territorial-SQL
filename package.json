@@ -8,6 +8,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && node scripts/postbuild.mjs",
+    "build:node18": "npx --yes node@18 ./node_modules/vite/bin/vite.js build && npx --yes node@18 scripts/postbuild.mjs",
     "preview": "vite preview",
     "deploy": "node scripts/deploy.mjs",
     "test": "vitest run"

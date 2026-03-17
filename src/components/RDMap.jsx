@@ -14,14 +14,26 @@ import React, { useEffect, useState } from "react";
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 
+function buildDataUrl(fileName) {
+  return `${import.meta.env.BASE_URL}data/${fileName}`;
+}
+
+async function loadJson(fileName) {
+  const response = await fetch(buildDataUrl(fileName));
+  if (!response.ok) {
+    throw new Error(`Failed to load ${fileName}: ${response.status} ${response.statusText}`);
+  }
+  return response.json();
+}
+
 export function RDMap({ selectedAdm2, selectedProvince, selectedRegion, onSelectMunicipio }) {
   const [geojson, setGeojson] = useState(null);
 
   useEffect(() => {
     async function load() {
       try {
-        const mod = await import("../data/adm2.json");
-        setGeojson(mod.default);
+        const data = await loadJson("adm2.json");
+        setGeojson(data);
       } catch (e) {
         console.error("Error cargando GeoJSON", e);
       }
@@ -31,7 +43,9 @@ export function RDMap({ selectedAdm2, selectedProvince, selectedRegion, onSelect
 
   const [regionsIndex, setRegionsIndex] = useState([]);
   useEffect(() => {
-    import("../data/regions_index.json").then(m => setRegionsIndex(m.default));
+    loadJson("regions_index.json")
+      .then((data) => setRegionsIndex(data))
+      .catch((error) => console.error("Error cargando índice de regiones", error));
   }, []);
 
   const styleFeature = (feature) => {
@@ -95,7 +109,7 @@ export function RDMap({ selectedAdm2, selectedProvince, selectedRegion, onSelect
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         {geojson && (
-          <GeoJSON data={geojson} style={styleFeature} onEachFeature={onEachFeature} />
+          <GeoJSON key={selectedAdm2 || selectedProvince || selectedRegion || 'all'} data={geojson} style={styleFeature} onEachFeature={onEachFeature} />
         )}
       </MapContainer>
     </div>
