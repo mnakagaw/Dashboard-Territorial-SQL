@@ -83,6 +83,7 @@ El archivo `vite.config.mjs` contiene la configuración `base: "/dashboard/"`. E
 |---------|-------------|
 | `npm run dev` | Servidor de desarrollo |
 | `npm run build` | Build de producción |
+| `npm run build:node18` | Build de producción usando Node 18 vía `npx` |
 | `npm run preview` | Vista previa del build |
 
 ## Estructura del Proyecto
@@ -108,9 +109,6 @@ El archivo `vite.config.mjs` contiene la configuración `base: "/dashboard/"`. E
 │   │   ├── ResumenComparacionSection.jsx # Tabla de comparación territorial
 │   │   └── ui/                       # Componentes UI reutilizables
 │   │
-│   ├── data/                         # Datos JSON (bundled con la app)
-│   │   └── adm2.json                 # GeoJSON de municipios
-│   │
 │   ├── hooks/                        # React hooks personalizados
 │   │   └── useMunicipioData.js       # Hook para cargar y agregar datos territoriales
 │   │
@@ -119,7 +117,7 @@ El archivo `vite.config.mjs` contiene la configuración `base: "/dashboard/"`. E
 │       └── calculations.js           # Cálculos estadísticos
 │
 ├── public/                           # Archivos estáticos
-│   └── data/                         # Datos JSON (36+ archivos)
+│   └── data/                         # Datos JSON estáticos cargados vía fetch
 │       ├── municipios_index.json     # Índice de 158 municipios
 │       ├── regions_index.json        # Índice de regiones y sus provincias
 │       ├── indicadores_basicos.json  # Población total, hombres, mujeres, crecimiento
@@ -213,9 +211,11 @@ Cada archivo de municipio tiene su equivalente agregado a nivel provincial.
 
 Para desplegar al servidor FTP:
 ```bash
-npm run build
+npm run build:node18
 node scripts/deploy.mjs
 ```
+
+> Nota: en algunos entornos con Node 24, `npm run build` puede fallar durante el build de Vite. En ese caso use `npm run build:node18`.
 
 ## Versión Offline (sin conexión a Internet)
 
