@@ -1,5 +1,9 @@
 // src/utils/resumenComparacionHelpers.js
 import { computeNivelPct } from "./educationHelpers";
+import {
+    getEducationEfficiencyOverride,
+    getEducationLevelOverride,
+} from "./educationEfficiencyOverrides";
 
 // --------------------------------------------------------------------------
 // Helpers (Internal)
@@ -82,6 +86,17 @@ export function buildResumenComparacion({
     const isProvinciaMode = !selectedMunicipio.adm2_code;
     const isNacionalMode = selectedMunicipio.region === "Nacional" || selectedMunicipio.municipio === "República Dominicana";
     const adm2 = selectedMunicipio.adm2_code;
+    const isSingleMunicipioProvince = !!actualProvName && (
+        indicadoresBasicosData?.filter((r) => r.provincia === actualProvName).length === 1
+    );
+    const educEfficiencyOverride = getEducationEfficiencyOverride({
+        adm2Code: adm2,
+        provincia: actualProvName,
+    });
+    const educLevelOverride = getEducationLevelOverride({
+        adm2Code: adm2,
+        provincia: actualProvName,
+    });
 
     // --- 1. PREPARE ROBUST DATA SOURCES ---
 
@@ -128,13 +143,14 @@ export function buildResumenComparacion({
         ? null
         : getMunicipioRow(educacionData, adm2);
 
-    const saludMun = saludLocal || (() => {
+    const saludMun = (() => {
+        if (saludLocal?.centros) return saludLocal;
+        if (saludLocal && adm2 && saludLocal[String(adm2).padStart(5, "0")]) {
+            return saludLocal[String(adm2).padStart(5, "0")];
+        }
         if (isProvinciaMode) return null;
         if (!saludEstablecimientosData) return null;
-        // saludEstablecimientosData is an object keyed by ADM2 code (string)
-        // or loaded as such in useMunicipioData.
-        // Let's assume it's the object passed from useMunicipioData.
-        return saludEstablecimientosData[adm2] || null;
+        return saludEstablecimientosData[String(adm2).padStart(5, "0")] || null;
     })();
 
     // --- 2. GETTER FUNCTIONS ---
@@ -236,10 +252,14 @@ export function buildResumenComparacion({
                     if (count > 0) return sum / count;
                 }
             }
-            return educMun?.anuario?.eficiencia?.secundario?.abandono;
+            return educMun?.anuario?.eficiencia?.secundario?.abandono
+                ?? educEfficiencyOverride?.secundario?.abandono
+                ?? null;
         }
         if (scope === "prov") {
-            return educProv?.anuario?.eficiencia?.secundario?.abandono;
+            return educProv?.anuario?.eficiencia?.secundario?.abandono
+                ?? educEfficiencyOverride?.secundario?.abandono
+                ?? null;
         }
         if (scope === "nac") {
             if (educacionData && educacionOfertaMunicipalData) {
@@ -288,6 +308,10 @@ export function buildResumenComparacion({
             nivelSource = dataObj.nivel;
         } else if (dataObj?.provincia) {
             nivelSource = dataObj.nivel;
+        }
+
+        if (!nivelSource && scope !== "nac") {
+            nivelSource = educLevelOverride;
         }
 
         const computed = computeNivelPct(nivelSource);
@@ -463,7 +487,7 @@ export function buildResumenComparacion({
             rows: [
                 {
                     id: "internet_hogares",
-                    label: "% Hogares con Internet",
+                    label: "% Acceso a Internet",
                     unidad: "porcentaje",
                     municipio: getTicPct(tic, "mun"),
                     provincia: getTicPct(ticProv, "prov"),
@@ -542,6 +566,17 @@ export function buildResumenComparacion({
             ],
         },
     ];
+
+    if (isSingleMunicipioProvince && !isProvinciaMode && !isNacionalMode) {
+        return rows.map((group) => ({
+            ...group,
+            rows: group.rows.map((row) => ({
+                ...row,
+                municipio: row.municipio ?? row.provincia,
+                provincia: row.provincia ?? row.municipio,
+            })),
+        }));
+    }
 
     return rows;
 }

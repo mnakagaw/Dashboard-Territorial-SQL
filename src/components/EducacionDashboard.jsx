@@ -8,6 +8,14 @@ import {
   ResponsiveContainer,
 } from "recharts";
 import { GraduationCap } from "lucide-react";
+import {
+  getEducationEfficiencyOverride,
+  getEducationInfrastructureOverride,
+  getEducationLevelOverride,
+  mergeEducationEfficiency,
+  mergeEducationInfrastructure,
+  mergeEducationLevel,
+} from "../utils/educationEfficiencyOverrides";
 
 /* ============================================================
    3 色テーマ（Educación のオレンジ系 UI に合わせた配色）
@@ -349,8 +357,21 @@ export default function EducacionDashboard({
     }
   }
 
-  infra = infra || {};
-  efic = efic || {};
+  const eficienciaOverride = getEducationEfficiencyOverride({
+    adm2Code: selectedMunicipio?.adm2_code || muni?.adm2_code,
+    provincia: selectedMunicipio?.provincia || muni?.provincia,
+  });
+  const infraestructuraOverride = getEducationInfrastructureOverride({
+    adm2Code: selectedMunicipio?.adm2_code || muni?.adm2_code,
+    provincia: selectedMunicipio?.provincia || muni?.provincia,
+  });
+  const nivelOverride = getEducationLevelOverride({
+    adm2Code: selectedMunicipio?.adm2_code || muni?.adm2_code,
+    provincia: selectedMunicipio?.provincia || muni?.provincia,
+  });
+
+  infra = mergeEducationInfrastructure(infra || {}, infraestructuraOverride);
+  efic = mergeEducationEfficiency(efic || {}, eficienciaOverride);
 
   const RD = {
     inicial: { abandono: 1.4, promocion: 98.6, reprobacion: 0.0 },
@@ -374,7 +395,7 @@ export default function EducacionDashboard({
     );
   })();
 
-  const nivel = nivelRow?.nivel || null;
+  const nivel = mergeEducationLevel(nivelRow?.nivel || null, nivelOverride);
 
   const totalNivel =
     nivel &&

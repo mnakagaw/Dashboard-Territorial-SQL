@@ -142,7 +142,7 @@ export default function CondicionVidaSection({
 
         <CardContent className="pt-0 text-xs space-y-1">
           <div className="flex justify-between print-flex">
-            <span>Internet:</span> <span>{pct(tic.internet)}%</span>
+            <span>Acceso a Internet:</span> <span>{pct(tic.internet)}%</span>
           </div>
           <div className="flex justify-between print-flex">
             <span>Smartphone:</span> <span>{pct(tic.cellular)}%</span>

@@ -30,6 +30,10 @@ import {
   buildProvinceMap,
   buildCondicionVidaParsed,
 } from "../utils/dataHelpers";
+import {
+  getTicPersonalOverride,
+  mergeTicPersonal,
+} from "../utils/educationEfficiencyOverrides";
 
 // ---------------------------------------------------------------------------
 // Main Hook
@@ -556,12 +560,17 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
   }, [ticData]);
 
   const tic = useMemo(() => {
+    const ticPersonalOverride = getTicPersonalOverride({
+      adm2Code: selectedAdm2Norm,
+      provincia: selectedMunicipio?.provincia || selectedProvinceScope,
+    });
+
     if (selectedAdm2Norm) {
-      return ticMap.get(selectedAdm2Norm) || null;
+      return mergeTicPersonal(ticMap.get(selectedAdm2Norm) || null, ticPersonalOverride);
     }
     if (isProvinceSelection && selectedProvinceScope) {
       const rows = ticProvinciaMap.get(selectedProvinceScope) || [];
-      return rows[0] || null;
+      return mergeTicPersonal(rows[0] || null, ticPersonalOverride);
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
@@ -583,7 +592,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       };
     }
     return null;
-  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, ticMap, ticProvinciaMap, regionsIndexData]);
+  }, [selectedAdm2Norm, selectedMunicipio, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, ticMap, ticProvinciaMap, regionsIndexData]);
 
   // ---------------------------------------------------------------------------
   // Condición de Vida (municipio)
@@ -727,7 +736,9 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
     condicionVidaRaw,
     nationalCondicionVida,
     saludEstablecimientos: (() => {
-      if (selectedAdm2Norm) return saludEstablecimientosData;
+      if (selectedAdm2Norm) {
+        return saludEstablecimientosData?.[selectedAdm2Norm] || null;
+      }
       if (isProvinceSelection && selectedProvinceScope) {
         return (saludEstablecimientosProvinciaMap.get(selectedProvinceScope) || [])[0] || null;
       }
