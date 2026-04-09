@@ -1,0 +1,92 @@
+最終まとめ（あなたが今すぐダッシュボードに追加できるExcelリスト）
+Vivienda（住宅） – 11ファイル（最小構成）
+cuadro-11-volumen-i.xlsm
+cuadro-12-volumen-i.xlsm
+cuadro-13-volumen-i.xlsm
+cuadro-14-volumen-i.xlsm
+cuadro-6-volumen-ii.xlsx
+cuadro-13-volumen-ii.xlsx
+cuadro-14-volumen-ii.xlsx
+cuadro-15-volumen-ii.xlsx
+cuadro-16-volumen-ii.xlsx
+cuadro-17-volumen-ii.xlsx
+cuadro-18-volumen-ii.xlsx
+
+Educación（教育） – 3ファイル（最小構成）
+cuadro-1-del-volumen-iv.xlsx
+cuadro-8-del-volumen-iv.xlsx
+cuadro-9-del-volumen-iv.xlsx
+
+TIC – 3ファイル（最小構成）
+cuadro-4-vol-4.xlsx
+cuadro-5-vol-4.xlsx
+cuadro-6-vol-4.xlsx
+
+
+📌 最終まとめ — 新規追加できる指標一覧（この42件の中だけ）
+1. Vivienda（住宅）
+Tipo de vivienda / Condición de ocupación / Material（pared, techo, piso） / Cocina / Servicios sanitarios / Agua / Combustible / Alumbrado / Basura
+
+2. Hogares
+Número de cuartos / dormitorios / miembros
+
+3. Zona urbana-rural
+人口・住宅・世帯・TIC・教育・年齢の都市／農村分類
+
+4. Educación
+Nivel de instrucción / Asistencia escolar
+
+5. TIC
+Uso internet（edad/sexo/zona） / dispositivos TIC
+
+6. Demografía avanzada
+Índice de masculinidad / población por zona / estructura por edad（zona×sexo）
+
+7. Estado conyugal
+Soltero / Casado / Unión libre / Divorciado / Viudo
+
+
+	ファイルのタイトル (Título)	ファイル名 (Nombre del archivo)
+1	Número de hogares en viviendas particulares ocupadas, población en hogares y número promedio de personas por hogar, según provincia y municipio	número-de-hogares-en-viviendas-particulares-ocupadas-provincia-y-mun-xcnpv.xlsx
+2	Número de hogares en viviendas particulares ocupadas, población en hogares y número promedio de personas por hogar, según provincia, municipio y distrito municipal de residencia	núm-de-hogares-en-viviendas-por-condición-de-ocupación-prov-mun-y-dm-xcnpv.xlsx
+3	Número de viviendas particulares, por condición de ocupación y número de viviendas colectivas, según provincia y municipio	número-de-viviendas-particulares-por-condición-de-ocupación-prov-y-mun-xcnpv.xlsx
+4	Número de viviendas particulares, por condición de ocupaciónと número de viviendas colectivas, según provincia, municipio y distrito municipal	núm-de-viviendas-particulares-por-condición-de-ocupación-prov-mun-y-dm-xcnpv.xlsx
+5	Población por sexo, según provincia y municipio de residencia	población-por-sexo-según-provincia-y-municipio-xcnpv.xlsx
+6	Población por sexo, según provincia, municipio y distrito municipal de residencia	población-por-sexo-según-provincia-municipio-y-distrito-municipal-xcnpv.xlsx
+7	Población, superficie en km² y densidad poblacional, según región, provincia, municipio y distrito municipal	cuadro-5-volumen-i-xcnpv.xlsm
+8	Población por zona de residencia y sexo, según región, provincia, municipio y distrito municipal	cuadro-6-volumen-i-xcnpv.xlsm
+9	Número de viviendas particulares ocupadas por tipo, según región, provincia, municipio y distrito municipal	cuadro-11-volumen-i-xcnpv.xlsm
+10	Número de viviendas particulares ocupadas por tipo, según región, provincia, municipio, zona y material de construcción predominante en las paredes	cuadro-12-volumen-i-xcnpv.xlsm
+11	Número de viviendas particulares ocupadas por tipo, según región, provincia, municipio, zona y material de construcción predominante en el techo	cuadro-13-volumen-i-xcnpv.xlsm
+12	Número de viviendas particulares ocupadas por tipo, según región, provincia, municipio, zona y material de construcción predominante en el piso	cuadro-14-volumen-i-xcnpv.xlsm
+13	Número de viviendas ocupadas (particulares y colectivas) por tipo, según región, provincia, municipio, distrito municipal y zona	cuadro-1-volumen-ii.xlsx
+14	Número de viviendas particulares por tipo, según región, provincia, municipio, distrito municipal y condición de ocupación de la vivienda	cuadro-2-volumen-ii.xlsx
+15	Número de viviendas particulares ocupadas por tipo, según región, provincia, municipio, zona y material de construcción predominante en las paredes	cuadro-3-volumen-ii.xlsx
+16	Número de viviendas particulares ocupadas por tipo, según región, provincia, municipio, zona y material de construcción predominante en el techo	cuadro-4-volumen-ii.xlsx
+17	Número de viviendas particulares ocupadas por tipo, según región, provincia, municipio, zonaと material de construcción predominante en el piso	cuadro-5-volumen-ii.xlsx
+18	Número de viviendas particulares ocupadas, por zona y tenencia de cocina o cuarto para cocinar, según región, provincia, municipio y distrito municipal	cuadro-6-volumen-ii.xlsx
+19	Número de viviendas particulares ocupadas por número de cuartos, según región, provincia, municipio, distrito municipalと zona	cuadro-7-volumen-ii.xlsx
+20	Número de viviendas particulares ocupadas por tipo, según región, provincia, zonaと número de hogares en la vivienda	cuadro-8-volumen-ii.xlsx
+21	Número de hogares por zona, según región, provinciaと tipos de bienes y servicios existentes	cuadro-9-volumen-ii.xlsx
+22	Número de hogares por tipo de viviendas particulares ocupadas, según región, provincia, zonaと forma de tenencia de la parte que ocupa el hogar en la vivienda	cuadro-10-volumen-ii.xlsx
+23	Número de hogares por número de miembros, según región, provincia, municipio, distrito municipalと zona	cuadro-11-volumen-ii.xlsx
+24	Número de hogares por número de dormitorios, según región, provincia, municipio, distrito municipalと zona	cuadro-12-volumen-ii.xlsx
+25	Número de hogares por disponibilidad de servicios sanitariosと usos del servicio sanitario, según provincia, municipio, distrito municipalと zona	cuadro-13-volumen-ii.xlsx
+26	Número de hogares por fuente de abastecimiento de agua para uso doméstico, según región, provincia, municipio, distrito municipalと zona	cuadro-14-volumen-ii.xlsx
+27	Número de hogares por fuente de abastecimiento de agua para beber, según región, provincia, municipio y distrito municipalと zona	cuadro-15-volumen-ii.xlsx
+28	Número de hogares por el principal combustible utilizado para cocinar, según región, provincia, municipio, distrito municipalと zona	cuadro-16-volumen-ii.xlsx
+29	Número de hogares por principal tipo de alumbrado utilizado, según región, provincia, municipio, distrito municipalと zona	cuadro-17-volumen-ii.xlsx
+30	Número de hogares por la forma principal de eliminar la basura, según región, provincia, municipio, distrito municipalと zona	cuadro-18-volumen-ii.xlsx
+31	Población por zona de residencia, sexo e índice de masculinidad, según región, provincia, municipio, distrito municipalと grupos de edades	cuadro-2-volumen-iii.xlsx
+32	Población de 12 años y más, por zona de residencia y sexo, según región, provincia, municipio, distrito municipalと estado conyugal	cuadro-9-vol-lll.xlsx
+33	Población de 5 años y más, por grupos de edades, según región, provincia, municipio, zona de residenciaと uso de internet en los 3 meses anteriores al censo	cuadro-4-vol-4.xlsx
+34	Población de 5 años y más, por grupos de edades, según región, provincia, municipio, sexoと uso de internet en los 3 meses anteriores al censo	cuadro-5-vol-4.xlsx
+35	Población de 5 años y más, por uso de dispositivos de acceso a la información y la comunicación, según región, provincia, municipioと grupos de edades	cuadro-6-vol-4.xlsx
+36	Población de 3 años y más, por zona de residencia y sexo, según región, provincia, municipio, distrito municipalと nivel de instrucción	cuadro-1-del-volumen-iv.xlsx
+37	Población de 5 años y más, por grupos de edades, según región, provincia, municipio, zona de residenciaと uso de internet en los 3 meses anteriores al censo	cuadro-11-del-volumen-iv.xlsx
+38	Población de 5 añosと más, por grupos de edades, según región, provincia, municipio, sexoと uso de internet en los 3 meses anteriores al censo	cuadro-12-del-volumen-iv.xlsx
+39	Población de 5 añosと más, por uso de dispositivos de acceso a la informaciónと la comunicación, según región, provincia, municipioと grupos de edades	cuadro-13-del-volumen-iv.xlsx
+40	Población de 3 añosと más que asiste o asistió a la escuela, por nivel de instrucción, según región, provincia, zona de residenciaと asistencia	cuadro-8-del-volumen-iv.xlsx
+41	Población de 3 añosと más, por sexo y asistencia escolar, según región, provincia, zona de residenciaと grupos de edades	cuadro-9-del-volumen-iv.xlsx
+42	Población de 15 añosと más, por zona de residencia y sexo, según región, provinciaと años de escolaridad alcanzados	cuadro-10-del-volumen-iv.xlsx
+

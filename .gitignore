@@ -126,4 +126,3 @@ dist-ssr/
 bkup/
 
 # Original data sources (Excel, CSV, GeoJSON)
-data_sources/
