@@ -55,7 +55,7 @@ Los datos se almacenan en una tabla SQL con columnas de gestión:
 | Entorno | Backend | Base de datos | Estado |
 |---------|---------|---------------|--------|
 | **CoreServer (pruebas)** | PHP (`data.php`) | MariaDB | ✅ Operativo |
-| **ONE (producción)** | ASP.NET Core (`server/`) | SQL Server | 📋 Planificado |
+| **Entorno ASP.NET (producción)** | ASP.NET Core (`server/`) | SQL Server | 📋 Planificado |
 
 ## Instalación (desarrollo local)
 
@@ -124,7 +124,7 @@ VITE_API_BASE=https://prodecare.net/dbt
 │       ├── .env.local                   # Credenciales DB (no en Git)
 │       └── .htaccess                    # Protección de archivos sensibles
 │
-├── server/                              # Backend ASP.NET Core (ONE producción)
+├── server/                              # Backend ASP.NET Core (entorno producción)
 │   ├── Program.cs
 │   ├── server.csproj
 │   ├── Controllers/DataController.cs
@@ -181,7 +181,7 @@ https://prodecare.net/dbt/api/import_data.php
 
 > ⚠️ **Eliminar `import_data.php` del servidor después de la importación.**
 
-### ONE (producción futura)
+### Entorno ASP.NET Core (producción futura)
 
 ```bash
 cd server
@@ -196,7 +196,7 @@ dotnet run
 | Estilos | Tailwind CSS |
 | API (pruebas) | PHP + PDO (MariaDB) |
 | API (producción) | ASP.NET Core 8 + ADO.NET |
-| Base de datos | MariaDB (CoreServer) / SQL Server (ONE) |
+| Base de datos | MariaDB (CoreServer) / SQL Server (Producción) |
 | IA | OpenAI API (ChatGPT) vía backend PHP |
 
 ## Licencia
@@ -216,7 +216,7 @@ MIT
 
 - **フロントエンド**: React 18 + Vite SPA
 - **データ格納**: MariaDB `dataset_assets` テーブル（JSONカラム方式）
-- **API**: PHP（CoreServer試験環境）/ ASP.NET Core（ONE本番環境）
+- **API**: PHP（CoreServer試験環境）/ ASP.NET Core（ASP.NET本番環境）
 - **GeoJSON**: 静的ファイルとして配信（15MB超のためSQLに格納しない）
 
 ## データ切り替え
