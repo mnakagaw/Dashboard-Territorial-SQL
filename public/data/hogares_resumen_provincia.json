@@ -1,0 +1,194 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "hogares_total": 365548,
+    "poblacion_en_hogares": 1027348,
+    "personas_por_hogar": 2.81
+  },
+  {
+    "provincia": "Azua",
+    "hogares_total": 77295,
+    "poblacion_en_hogares": 239392,
+    "personas_por_hogar": 3.1
+  },
+  {
+    "provincia": "Baoruco",
+    "hogares_total": 33875,
+    "poblacion_en_hogares": 108409,
+    "personas_por_hogar": 3.2
+  },
+  {
+    "provincia": "Barahona",
+    "hogares_total": 62611,
+    "poblacion_en_hogares": 200137,
+    "personas_por_hogar": 3.2
+  },
+  {
+    "provincia": "Dajabón",
+    "hogares_total": 25502,
+    "poblacion_en_hogares": 74256,
+    "personas_por_hogar": 2.91
+  },
+  {
+    "provincia": "Duarte",
+    "hogares_total": 110673,
+    "poblacion_en_hogares": 308074,
+    "personas_por_hogar": 2.78
+  },
+  {
+    "provincia": "Elías Piña",
+    "hogares_total": 19208,
+    "poblacion_en_hogares": 64424,
+    "personas_por_hogar": 3.35
+  },
+  {
+    "provincia": "El Seibo",
+    "hogares_total": 35268,
+    "poblacion_en_hogares": 98165,
+    "personas_por_hogar": 2.78
+  },
+  {
+    "provincia": "Espaillat",
+    "hogares_total": 82470,
+    "poblacion_en_hogares": 239661,
+    "personas_por_hogar": 2.91
+  },
+  {
+    "provincia": "Independencia",
+    "hogares_total": 18743,
+    "poblacion_en_hogares": 60625,
+    "personas_por_hogar": 3.23
+  },
+  {
+    "provincia": "La Altagracia",
+    "hogares_total": 172419,
+    "poblacion_en_hogares": 445162,
+    "personas_por_hogar": 2.58
+  },
+  {
+    "provincia": "La Romana",
+    "hogares_total": 96383,
+    "poblacion_en_hogares": 286633,
+    "personas_por_hogar": 2.97
+  },
+  {
+    "provincia": "La Vega",
+    "hogares_total": 153581,
+    "poblacion_en_hogares": 438378,
+    "personas_por_hogar": 2.85
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "hogares_total": 57421,
+    "poblacion_en_hogares": 156228,
+    "personas_por_hogar": 2.72
+  },
+  {
+    "provincia": "Monte Cristi",
+    "hogares_total": 46156,
+    "poblacion_en_hogares": 120799,
+    "personas_por_hogar": 2.62
+  },
+  {
+    "provincia": "Pedernales",
+    "hogares_total": 10490,
+    "poblacion_en_hogares": 34248,
+    "personas_por_hogar": 3.26
+  },
+  {
+    "provincia": "Peravia",
+    "hogares_total": 70097,
+    "poblacion_en_hogares": 208363,
+    "personas_por_hogar": 2.97
+  },
+  {
+    "provincia": "Puerto Plata",
+    "hogares_total": 125047,
+    "poblacion_en_hogares": 337133,
+    "personas_por_hogar": 2.7
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "hogares_total": 34130,
+    "poblacion_en_hogares": 96210,
+    "personas_por_hogar": 2.82
+  },
+  {
+    "provincia": "Samaná",
+    "hogares_total": 41048,
+    "poblacion_en_hogares": 111536,
+    "personas_por_hogar": 2.72
+  },
+  {
+    "provincia": "San Cristóbal",
+    "hogares_total": 223003,
+    "poblacion_en_hogares": 685037,
+    "personas_por_hogar": 3.07
+  },
+  {
+    "provincia": "San Juan",
+    "hogares_total": 82816,
+    "poblacion_en_hogares": 243533,
+    "personas_por_hogar": 2.94
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "hogares_total": 116899,
+    "poblacion_en_hogares": 335804,
+    "personas_por_hogar": 2.87
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "hogares_total": 57499,
+    "poblacion_en_hogares": 162137,
+    "personas_por_hogar": 2.82
+  },
+  {
+    "provincia": "Santiago",
+    "hogares_total": 376703,
+    "poblacion_en_hogares": 1066319,
+    "personas_por_hogar": 2.83
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "hogares_total": 22894,
+    "poblacion_en_hogares": 64410,
+    "personas_por_hogar": 2.81
+  },
+  {
+    "provincia": "Valverde",
+    "hogares_total": 65601,
+    "poblacion_en_hogares": 181556,
+    "personas_por_hogar": 2.77
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "hogares_total": 68150,
+    "poblacion_en_hogares": 195037,
+    "personas_por_hogar": 2.86
+  },
+  {
+    "provincia": "Monte Plata",
+    "hogares_total": 72459,
+    "poblacion_en_hogares": 205020,
+    "personas_por_hogar": 2.83
+  },
+  {
+    "provincia": "Hato Mayor",
+    "hogares_total": 36216,
+    "poblacion_en_hogares": 99967,
+    "personas_por_hogar": 2.76
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "hogares_total": 26030,
+    "poblacion_en_hogares": 69058,
+    "personas_por_hogar": 2.65
+  },
+  {
+    "provincia": "Santo Domingo",
+    "hogares_total": 939813,
+    "poblacion_en_hogares": 2760392,
+    "personas_por_hogar": 2.94
+  }
+]

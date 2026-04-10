@@ -77,7 +77,6 @@ typings/
 
 # gatsby files
 .cache/
-public/
 
 # vuepress build output
 .vuepress/dist
@@ -107,6 +106,7 @@ public/
 # Vite
 dist/
 dist-ssr/
+dist-offline/
 *.local
 
 # Editor directories and files
@@ -126,3 +126,15 @@ dist-ssr/
 bkup/
 
 # Original data sources (Excel, CSV, GeoJSON)
+data_sources/
+
+# .NET build artifacts (server/)
+server/bin/
+server/obj/
+server/.vs/
+
+# Sensitive config
+.env
+.env.local
+*.env.local
+

@@ -1,0 +1,3400 @@
+[
+  {
+    "adm2_code": "02001",
+    "municipio": "Azua",
+    "provincia": "Azua",
+    "distrito_educativo": "0301",
+    "distrito_nombre": "AZUA",
+    "centros_total": 93,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 44,
+        "matricula": 10003
+      },
+      "secundario": {
+        "centros": 36,
+        "matricula": 16376
+      },
+      "adultos": {
+        "centros": 13,
+        "matricula": 1924
+      }
+    }
+  },
+  {
+    "adm2_code": "02010",
+    "municipio": "Estebanía",
+    "provincia": "Azua",
+    "distrito_educativo": "0301",
+    "distrito_nombre": "AZUA",
+    "centros_total": 11,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 8,
+        "matricula": 960
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 492
+      },
+      "adultos": {
+        "centros": 0,
+        "matricula": 0
+      }
+    }
+  },
+  {
+    "adm2_code": "02009",
+    "municipio": "Guayabal",
+    "provincia": "Azua",
+    "distrito_educativo": "0302",
+    "distrito_nombre": "PADRE DE LAS CASAS",
+    "centros_total": 11,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 6,
+        "matricula": 655
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 454
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 116
+      }
+    }
+  },
+  {
+    "adm2_code": "02002",
+    "municipio": "Las Charcas",
+    "provincia": "Azua",
+    "distrito_educativo": "0301",
+    "distrito_nombre": "AZUA",
+    "centros_total": 8,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 4,
+        "matricula": 1156
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1733
+      },
+      "adultos": {
+        "centros": 0,
+        "matricula": 0
+      }
+    }
+  },
+  {
+    "adm2_code": "02003",
+    "municipio": "Las Yayas de Viajama",
+    "provincia": "Azua",
+    "distrito_educativo": "0302",
+    "distrito_nombre": "PADRE DE LAS CASAS",
+    "centros_total": 26,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 14,
+        "matricula": 1506
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 2789
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 292
+      }
+    }
+  },
+  {
+    "adm2_code": "02004",
+    "municipio": "Padre Las Casas",
+    "provincia": "Azua",
+    "distrito_educativo": "0302",
+    "distrito_nombre": "PADRE DE LAS CASAS",
+    "centros_total": 49,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 30,
+        "matricula": 2474
+      },
+      "secundario": {
+        "centros": 17,
+        "matricula": 2661
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 201
+      }
+    }
+  },
+  {
+    "adm2_code": "02005",
+    "municipio": "Peralta",
+    "provincia": "Azua",
+    "distrito_educativo": "0301",
+    "distrito_nombre": "AZUA",
+    "centros_total": 12,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 7,
+        "matricula": 842
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 1283
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 234
+      }
+    }
+  },
+  {
+    "adm2_code": "02007",
+    "municipio": "Pueblo Viejo",
+    "provincia": "Azua",
+    "distrito_educativo": "0301",
+    "distrito_nombre": "AZUA",
+    "centros_total": 11,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 5,
+        "matricula": 981
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1812
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 50
+      }
+    }
+  },
+  {
+    "adm2_code": "02006",
+    "municipio": "Sabana Yegua",
+    "provincia": "Azua",
+    "distrito_educativo": "0301",
+    "distrito_nombre": "AZUA",
+    "centros_total": 19,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 12,
+        "matricula": 3021
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 2296
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 435
+      }
+    }
+  },
+  {
+    "adm2_code": "02008",
+    "municipio": "Tábara Arriba",
+    "provincia": "Azua",
+    "distrito_educativo": "0301",
+    "distrito_nombre": "AZUA",
+    "centros_total": 17,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 2,
+        "matricula": 390
+      },
+      "secundario": {
+        "centros": 13,
+        "matricula": 3865
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 175
+      }
+    }
+  },
+  {
+    "adm2_code": "03002",
+    "municipio": "Galván",
+    "provincia": "Baoruco",
+    "distrito_educativo": "1801",
+    "distrito_nombre": "NEIBA",
+    "centros_total": 28,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 18,
+        "matricula": 2323
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 2055
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 450
+      }
+    }
+  },
+  {
+    "adm2_code": "03005",
+    "municipio": "Los Ríos",
+    "provincia": "Baoruco",
+    "distrito_educativo": "1803",
+    "distrito_nombre": "VILLA JARAGUA",
+    "centros_total": 14,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 11,
+        "matricula": 1664
+      },
+      "secundario": {
+        "centros": 2,
+        "matricula": 745
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 173
+      }
+    }
+  },
+  {
+    "adm2_code": "03001",
+    "municipio": "Neiba",
+    "provincia": "Baoruco",
+    "distrito_educativo": "1801",
+    "distrito_nombre": "NEIBA",
+    "centros_total": 56,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 32,
+        "matricula": 6050
+      },
+      "secundario": {
+        "centros": 12,
+        "matricula": 4143
+      },
+      "adultos": {
+        "centros": 12,
+        "matricula": 1328
+      }
+    }
+  },
+  {
+    "adm2_code": "03003",
+    "municipio": "Tamayo",
+    "provincia": "Baoruco",
+    "distrito_educativo": "1802",
+    "distrito_nombre": "TAMAYO",
+    "centros_total": 43,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 27,
+        "matricula": 4383
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 2625
+      },
+      "adultos": {
+        "centros": 7,
+        "matricula": 929
+      }
+    }
+  },
+  {
+    "adm2_code": "03004",
+    "municipio": "Villa Jaragua",
+    "provincia": "Baoruco",
+    "distrito_educativo": "1803",
+    "distrito_nombre": "VILLA JARAGUA",
+    "centros_total": 24,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 19,
+        "matricula": 1921
+      },
+      "secundario": {
+        "centros": 2,
+        "matricula": 1279
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 645
+      }
+    }
+  },
+  {
+    "adm2_code": "04001",
+    "municipio": "Barahona",
+    "provincia": "Barahona",
+    "distrito_educativo": "0103",
+    "distrito_nombre": "BARAHONA",
+    "centros_total": 94,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 47,
+        "matricula": 11711
+      },
+      "secundario": {
+        "centros": 31,
+        "matricula": 13265
+      },
+      "adultos": {
+        "centros": 16,
+        "matricula": 2770
+      }
+    }
+  },
+  {
+    "adm2_code": "04002",
+    "municipio": "Cabral",
+    "provincia": "Barahona",
+    "distrito_educativo": "0104",
+    "distrito_nombre": "CABRAL",
+    "centros_total": 15,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 7,
+        "matricula": 1873
+      },
+      "secundario": {
+        "centros": 6,
+        "matricula": 2597
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 431
+      }
+    }
+  },
+  {
+    "adm2_code": "04006",
+    "municipio": "El Peñón",
+    "provincia": "Barahona",
+    "distrito_educativo": "0103",
+    "distrito_nombre": "BARAHONA",
+    "centros_total": 3,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 2,
+        "matricula": 617
+      },
+      "secundario": {
+        "centros": 1,
+        "matricula": 366
+      },
+      "adultos": {
+        "centros": 0,
+        "matricula": 0
+      }
+    }
+  },
+  {
+    "adm2_code": "04003",
+    "municipio": "Enriquillo",
+    "provincia": "Barahona",
+    "distrito_educativo": "0102",
+    "distrito_nombre": "ENRIQUILLO",
+    "centros_total": 25,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 18,
+        "matricula": 2276
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 1422
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 213
+      }
+    }
+  },
+  {
+    "adm2_code": "04008",
+    "municipio": "Fundación",
+    "provincia": "Barahona",
+    "distrito_educativo": "0103",
+    "distrito_nombre": "BARAHONA",
+    "centros_total": 11,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 7,
+        "matricula": 1523
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1040
+      },
+      "adultos": {
+        "centros": 0,
+        "matricula": 0
+      }
+    }
+  },
+  {
+    "adm2_code": "04011",
+    "municipio": "Jaquimeyes",
+    "provincia": "Barahona",
+    "distrito_educativo": "0103",
+    "distrito_nombre": "BARAHONA",
+    "centros_total": 5,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 2,
+        "matricula": 701
+      },
+      "secundario": {
+        "centros": 2,
+        "matricula": 568
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 111
+      }
+    }
+  },
+  {
+    "adm2_code": "04007",
+    "municipio": "La Ciénaga",
+    "provincia": "Barahona",
+    "distrito_educativo": "0103",
+    "distrito_nombre": "BARAHONA",
+    "centros_total": 18,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 13,
+        "matricula": 1983
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 882
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 234
+      }
+    }
+  },
+  {
+    "adm2_code": "04009",
+    "municipio": "Las Salinas",
+    "provincia": "Barahona",
+    "distrito_educativo": "0104",
+    "distrito_nombre": "CABRAL",
+    "centros_total": 8,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 5,
+        "matricula": 869
+      },
+      "secundario": {
+        "centros": 1,
+        "matricula": 439
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 103
+      }
+    }
+  },
+  {
+    "adm2_code": "04004",
+    "municipio": "Paraíso",
+    "provincia": "Barahona",
+    "distrito_educativo": "0102",
+    "distrito_nombre": "ENRIQUILLO",
+    "centros_total": 30,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 22,
+        "matricula": 1826
+      },
+      "secundario": {
+        "centros": 6,
+        "matricula": 2123
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 362
+      }
+    }
+  },
+  {
+    "adm2_code": "04010",
+    "municipio": "Polo",
+    "provincia": "Barahona",
+    "distrito_educativo": "0104",
+    "distrito_nombre": "CABRAL",
+    "centros_total": 16,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 13,
+        "matricula": 997
+      },
+      "secundario": {
+        "centros": 1,
+        "matricula": 496
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 120
+      }
+    }
+  },
+  {
+    "adm2_code": "04005",
+    "municipio": "Vicente Noble",
+    "provincia": "Barahona",
+    "distrito_educativo": "0105",
+    "distrito_nombre": "VICENTE NOBLE",
+    "centros_total": 26,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 14,
+        "matricula": 4422
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 2470
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 609
+      }
+    }
+  },
+  {
+    "adm2_code": "05001",
+    "municipio": "Dajabón",
+    "provincia": "Dajabón",
+    "distrito_educativo": "1304",
+    "distrito_nombre": "DAJABON",
+    "centros_total": 39,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 25,
+        "matricula": 4895
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 3362
+      },
+      "adultos": {
+        "centros": 7,
+        "matricula": 642
+      }
+    }
+  },
+  {
+    "adm2_code": "05005",
+    "municipio": "El Pino",
+    "provincia": "Dajabón",
+    "distrito_educativo": "1305",
+    "distrito_nombre": "LOMA DE CABRERA",
+    "centros_total": 15,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 10,
+        "matricula": 635
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 880
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 70
+      }
+    }
+  },
+  {
+    "adm2_code": "05002",
+    "municipio": "Loma de Cabrera",
+    "provincia": "Dajabón",
+    "distrito_educativo": "1305",
+    "distrito_nombre": "LOMA DE CABRERA",
+    "centros_total": 33,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 25,
+        "matricula": 2571
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1238
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 121
+      }
+    }
+  },
+  {
+    "adm2_code": "05003",
+    "municipio": "Partido",
+    "provincia": "Dajabón",
+    "distrito_educativo": "1304",
+    "distrito_nombre": "DAJABON",
+    "centros_total": 12,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 9,
+        "matricula": 794
+      },
+      "secundario": {
+        "centros": 2,
+        "matricula": 590
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 59
+      }
+    }
+  },
+  {
+    "adm2_code": "05004",
+    "municipio": "Restauración",
+    "provincia": "Dajabón",
+    "distrito_educativo": "1306",
+    "distrito_nombre": "RESTAURACION",
+    "centros_total": 28,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 14,
+        "matricula": 312
+      },
+      "secundario": {
+        "centros": 10,
+        "matricula": 1835
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 94
+      }
+    }
+  },
+  {
+    "adm2_code": "01001",
+    "municipio": "Santo Domingo de Guzmán",
+    "provincia": "Distrito Nacional",
+    "distrito_educativo": "1503",
+    "distrito_nombre": "SANTO DOMINGO SURCENTRAL",
+    "centros_total": 817,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 424,
+        "matricula": 78437
+      },
+      "secundario": {
+        "centros": 315,
+        "matricula": 136499
+      },
+      "adultos": {
+        "centros": 78,
+        "matricula": 14503
+      }
+    }
+  },
+  {
+    "adm2_code": "06002",
+    "municipio": "Arenoso",
+    "provincia": "Duarte",
+    "distrito_educativo": "0704",
+    "distrito_nombre": "VILLA RIVA",
+    "centros_total": 23,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 16,
+        "matricula": 1734
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1157
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 387
+      }
+    }
+  },
+  {
+    "adm2_code": "06003",
+    "municipio": "Castillo",
+    "provincia": "Duarte",
+    "distrito_educativo": "0703",
+    "distrito_nombre": "CASTILLO",
+    "centros_total": 28,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 15,
+        "matricula": 570
+      },
+      "secundario": {
+        "centros": 11,
+        "matricula": 2505
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 185
+      }
+    }
+  },
+  {
+    "adm2_code": "06007",
+    "municipio": "Eugenio María de Hostos",
+    "provincia": "Duarte",
+    "distrito_educativo": "0703",
+    "distrito_nombre": "CASTILLO",
+    "centros_total": 9,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 1,
+        "matricula": 69
+      },
+      "secundario": {
+        "centros": 6,
+        "matricula": 920
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 36
+      }
+    }
+  },
+  {
+    "adm2_code": "06006",
+    "municipio": "Las Guáranas",
+    "provincia": "Duarte",
+    "distrito_educativo": "0705",
+    "distrito_nombre": "SAN FRANCISCO DE MACORIS SUR-E",
+    "centros_total": 11,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 6,
+        "matricula": 1183
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1326
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 40
+      }
+    }
+  },
+  {
+    "adm2_code": "06004",
+    "municipio": "Pimentel",
+    "provincia": "Duarte",
+    "distrito_educativo": "0703",
+    "distrito_nombre": "CASTILLO",
+    "centros_total": 23,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 7,
+        "matricula": 941
+      },
+      "secundario": {
+        "centros": 15,
+        "matricula": 2796
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 55
+      }
+    }
+  },
+  {
+    "adm2_code": "06001",
+    "municipio": "San Francisco de Macorís",
+    "provincia": "Duarte",
+    "distrito_educativo": "0705",
+    "distrito_nombre": "SAN FRANCISCO DE MACORIS SUR-E",
+    "centros_total": 233,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 126,
+        "matricula": 12855
+      },
+      "secundario": {
+        "centros": 88,
+        "matricula": 28957
+      },
+      "adultos": {
+        "centros": 19,
+        "matricula": 2127
+      }
+    }
+  },
+  {
+    "adm2_code": "06005",
+    "municipio": "Villa Riva",
+    "provincia": "Duarte",
+    "distrito_educativo": "0704",
+    "distrito_nombre": "VILLA RIVA",
+    "centros_total": 46,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 28,
+        "matricula": 3561
+      },
+      "secundario": {
+        "centros": 12,
+        "matricula": 3108
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 314
+      }
+    }
+  },
+  {
+    "adm2_code": "08001",
+    "municipio": "El Seibo",
+    "provincia": "El Seibo",
+    "distrito_educativo": "1203",
+    "distrito_nombre": "EL SEIBO",
+    "centros_total": 129,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 86,
+        "matricula": 6432
+      },
+      "secundario": {
+        "centros": 36,
+        "matricula": 10278
+      },
+      "adultos": {
+        "centros": 7,
+        "matricula": 762
+      }
+    }
+  },
+  {
+    "adm2_code": "08002",
+    "municipio": "Miches",
+    "provincia": "El Seibo",
+    "distrito_educativo": "1204",
+    "distrito_nombre": "MICHES",
+    "centros_total": 40,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 30,
+        "matricula": 3716
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 2334
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 265
+      }
+    }
+  },
+  {
+    "adm2_code": "07002",
+    "municipio": "Bánica",
+    "provincia": "Elías Piña",
+    "distrito_educativo": "0202",
+    "distrito_nombre": "PEDRO SANTANA",
+    "centros_total": 23,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 16,
+        "matricula": 1030
+      },
+      "secundario": {
+        "centros": 6,
+        "matricula": 1102
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 66
+      }
+    }
+  },
+  {
+    "adm2_code": "07001",
+    "municipio": "Comendador",
+    "provincia": "Elías Piña",
+    "distrito_educativo": "0201",
+    "distrito_nombre": "COMENDADOR",
+    "centros_total": 46,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 31,
+        "matricula": 6103
+      },
+      "secundario": {
+        "centros": 10,
+        "matricula": 4198
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 596
+      }
+    }
+  },
+  {
+    "adm2_code": "07003",
+    "municipio": "El Llano",
+    "provincia": "Elías Piña",
+    "distrito_educativo": "0201",
+    "distrito_nombre": "COMENDADOR",
+    "centros_total": 15,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 11,
+        "matricula": 2097
+      },
+      "secundario": {
+        "centros": 2,
+        "matricula": 714
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 110
+      }
+    }
+  },
+  {
+    "adm2_code": "07004",
+    "municipio": "Hondo Valle",
+    "provincia": "Elías Piña",
+    "distrito_educativo": "0207",
+    "distrito_nombre": "HONDO VALLE",
+    "centros_total": 18,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 11,
+        "matricula": 1290
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 1520
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 207
+      }
+    }
+  },
+  {
+    "adm2_code": "07006",
+    "municipio": "Juan Santiago",
+    "provincia": "Elías Piña",
+    "distrito_educativo": "0207",
+    "distrito_nombre": "HONDO VALLE",
+    "centros_total": 10,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 8,
+        "matricula": 267
+      },
+      "secundario": {
+        "centros": 2,
+        "matricula": 457
+      },
+      "adultos": {
+        "centros": 0,
+        "matricula": 0
+      }
+    }
+  },
+  {
+    "adm2_code": "07005",
+    "municipio": "Pedro Santana",
+    "provincia": "Elías Piña",
+    "distrito_educativo": "0202",
+    "distrito_nombre": "PEDRO SANTANA",
+    "centros_total": 33,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 25,
+        "matricula": 1061
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 761
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 68
+      }
+    }
+  },
+  {
+    "adm2_code": "09002",
+    "municipio": "Cayetano Germosén",
+    "provincia": "Espaillat",
+    "distrito_educativo": "0606",
+    "distrito_nombre": "MOCA",
+    "centros_total": 9,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 4,
+        "matricula": 541
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 1070
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 180
+      }
+    }
+  },
+  {
+    "adm2_code": "09003",
+    "municipio": "Gaspar Hernández",
+    "provincia": "Espaillat",
+    "distrito_educativo": "0607",
+    "distrito_nombre": "GASPAR HERNANDEZ",
+    "centros_total": 72,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 50,
+        "matricula": 4307
+      },
+      "secundario": {
+        "centros": 13,
+        "matricula": 3457
+      },
+      "adultos": {
+        "centros": 9,
+        "matricula": 708
+      }
+    }
+  },
+  {
+    "adm2_code": "09004",
+    "municipio": "Jamao Al Norte",
+    "provincia": "Espaillat",
+    "distrito_educativo": "0608",
+    "distrito_nombre": "JAMAO AL NORTE",
+    "centros_total": 24,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 15,
+        "matricula": 740
+      },
+      "secundario": {
+        "centros": 6,
+        "matricula": 753
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 177
+      }
+    }
+  },
+  {
+    "adm2_code": "09001",
+    "municipio": "Moca",
+    "provincia": "Espaillat",
+    "distrito_educativo": "0606",
+    "distrito_nombre": "MOCA",
+    "centros_total": 173,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 94,
+        "matricula": 16261
+      },
+      "secundario": {
+        "centros": 61,
+        "matricula": 20573
+      },
+      "adultos": {
+        "centros": 18,
+        "matricula": 2852
+      }
+    }
+  },
+  {
+    "adm2_code": "09005",
+    "municipio": "San Víctor",
+    "provincia": "Espaillat",
+    "distrito_educativo": null,
+    "distrito_nombre": null,
+    "centros_total": null,
+    "niveles": null
+  },
+  {
+    "adm2_code": "30003",
+    "municipio": "El Valle",
+    "provincia": "Hato Mayor",
+    "distrito_educativo": "0509",
+    "distrito_nombre": "EL VALLE",
+    "centros_total": 22,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 10,
+        "matricula": 576
+      },
+      "secundario": {
+        "centros": 10,
+        "matricula": 1611
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 208
+      }
+    }
+  },
+  {
+    "adm2_code": "30001",
+    "municipio": "Hato Mayor",
+    "provincia": "Hato Mayor",
+    "distrito_educativo": "0504",
+    "distrito_nombre": "HATO MAYOR",
+    "centros_total": 91,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 50,
+        "matricula": 4711
+      },
+      "secundario": {
+        "centros": 33,
+        "matricula": 12187
+      },
+      "adultos": {
+        "centros": 8,
+        "matricula": 1507
+      }
+    }
+  },
+  {
+    "adm2_code": "30002",
+    "municipio": "Sabana de La Mar",
+    "provincia": "Hato Mayor",
+    "distrito_educativo": "0505",
+    "distrito_nombre": "SABANA DE LA MAR",
+    "centros_total": 27,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 14,
+        "matricula": 1303
+      },
+      "secundario": {
+        "centros": 11,
+        "matricula": 2717
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 226
+      }
+    }
+  },
+  {
+    "adm2_code": "19001",
+    "municipio": "Salcedo",
+    "provincia": "Hermanas Mirabal",
+    "distrito_educativo": "0702",
+    "distrito_nombre": "SALCEDO",
+    "centros_total": 64,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 36,
+        "matricula": 4389
+      },
+      "secundario": {
+        "centros": 22,
+        "matricula": 3702
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 399
+      }
+    }
+  },
+  {
+    "adm2_code": "19002",
+    "municipio": "Tenares",
+    "provincia": "Hermanas Mirabal",
+    "distrito_educativo": "0701",
+    "distrito_nombre": "TENARES",
+    "centros_total": 42,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 23,
+        "matricula": 1500
+      },
+      "secundario": {
+        "centros": 16,
+        "matricula": 3276
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 408
+      }
+    }
+  },
+  {
+    "adm2_code": "19003",
+    "municipio": "Villa Tapia",
+    "provincia": "Hermanas Mirabal",
+    "distrito_educativo": "0707",
+    "distrito_nombre": "VILLA TAPIA",
+    "centros_total": 40,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 27,
+        "matricula": 3094
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 2401
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 272
+      }
+    }
+  },
+  {
+    "adm2_code": "10005",
+    "municipio": "Cristóbal",
+    "provincia": "Independencia",
+    "distrito_educativo": "1805",
+    "distrito_nombre": "DUVERGE",
+    "centros_total": 10,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 2,
+        "matricula": 515
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 1439
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 461
+      }
+    }
+  },
+  {
+    "adm2_code": "10002",
+    "municipio": "Duvergé",
+    "provincia": "Independencia",
+    "distrito_educativo": "1805",
+    "distrito_nombre": "DUVERGE",
+    "centros_total": 17,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 2,
+        "matricula": 664
+      },
+      "secundario": {
+        "centros": 10,
+        "matricula": 2906
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 618
+      }
+    }
+  },
+  {
+    "adm2_code": "10001",
+    "municipio": "Jimaní",
+    "provincia": "Independencia",
+    "distrito_educativo": "1804",
+    "distrito_nombre": "JIMANI",
+    "centros_total": 20,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 12,
+        "matricula": 4483
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1752
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 763
+      }
+    }
+  },
+  {
+    "adm2_code": "10003",
+    "municipio": "La Descubierta",
+    "provincia": "Independencia",
+    "distrito_educativo": "1804",
+    "distrito_nombre": "JIMANI",
+    "centros_total": 10,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 7,
+        "matricula": 1439
+      },
+      "secundario": {
+        "centros": 1,
+        "matricula": 851
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 303
+      }
+    }
+  },
+  {
+    "adm2_code": "10006",
+    "municipio": "Mella",
+    "provincia": "Independencia",
+    "distrito_educativo": "1805",
+    "distrito_nombre": "DUVERGE",
+    "centros_total": 9,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 3,
+        "matricula": 451
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 542
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 281
+      }
+    }
+  },
+  {
+    "adm2_code": "10004",
+    "municipio": "Postrer Río",
+    "provincia": "Independencia",
+    "distrito_educativo": "1804",
+    "distrito_nombre": "JIMANI",
+    "centros_total": 10,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 7,
+        "matricula": 1010
+      },
+      "secundario": {
+        "centros": 2,
+        "matricula": 470
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 186
+      }
+    }
+  },
+  {
+    "adm2_code": "11001",
+    "municipio": "Higüey",
+    "provincia": "La Altagracia",
+    "distrito_educativo": "1201",
+    "distrito_nombre": "HIGUEY",
+    "centros_total": 290,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 181,
+        "matricula": 43367
+      },
+      "secundario": {
+        "centros": 83,
+        "matricula": 50842
+      },
+      "adultos": {
+        "centros": 26,
+        "matricula": 7871
+      }
+    }
+  },
+  {
+    "adm2_code": "11002",
+    "municipio": "San Rafael del Yuma",
+    "provincia": "La Altagracia",
+    "distrito_educativo": "1202",
+    "distrito_nombre": "SAN RAFAEL DEL YUMA",
+    "centros_total": 33,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 20,
+        "matricula": 2709
+      },
+      "secundario": {
+        "centros": 10,
+        "matricula": 4249
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 503
+      }
+    }
+  },
+  {
+    "adm2_code": "12002",
+    "municipio": "Guaymate",
+    "provincia": "La Romana",
+    "distrito_educativo": "0510",
+    "distrito_nombre": "GUAYMATE",
+    "centros_total": 31,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 21,
+        "matricula": 2554
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 1658
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 876
+      }
+    }
+  },
+  {
+    "adm2_code": "12001",
+    "municipio": "La Romana",
+    "provincia": "La Romana",
+    "distrito_educativo": "0503",
+    "distrito_nombre": "LA ROMANA",
+    "centros_total": 111,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 46,
+        "matricula": 11194
+      },
+      "secundario": {
+        "centros": 58,
+        "matricula": 29555
+      },
+      "adultos": {
+        "centros": 7,
+        "matricula": 2109
+      }
+    }
+  },
+  {
+    "adm2_code": "12003",
+    "municipio": "Villa Hermosa",
+    "provincia": "La Romana",
+    "distrito_educativo": "0511",
+    "distrito_nombre": "VILLA HERMOSA",
+    "centros_total": 69,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 36,
+        "matricula": 11531
+      },
+      "secundario": {
+        "centros": 21,
+        "matricula": 12151
+      },
+      "adultos": {
+        "centros": 12,
+        "matricula": 3559
+      }
+    }
+  },
+  {
+    "adm2_code": "13002",
+    "municipio": "Constanza",
+    "provincia": "La Vega",
+    "distrito_educativo": "0602",
+    "distrito_nombre": "CONSTANZA",
+    "centros_total": 71,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 40,
+        "matricula": 6921
+      },
+      "secundario": {
+        "centros": 20,
+        "matricula": 6981
+      },
+      "adultos": {
+        "centros": 11,
+        "matricula": 1603
+      }
+    }
+  },
+  {
+    "adm2_code": "13003",
+    "municipio": "Jarabacoa",
+    "provincia": "La Vega",
+    "distrito_educativo": "0603",
+    "distrito_nombre": "JARABACOA",
+    "centros_total": 80,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 43,
+        "matricula": 4848
+      },
+      "secundario": {
+        "centros": 33,
+        "matricula": 8106
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 1087
+      }
+    }
+  },
+  {
+    "adm2_code": "13004",
+    "municipio": "Jima Abajo",
+    "provincia": "La Vega",
+    "distrito_educativo": "0610",
+    "distrito_nombre": "JIMA ABAJO",
+    "centros_total": 28,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 12,
+        "matricula": 2174
+      },
+      "secundario": {
+        "centros": 12,
+        "matricula": 3732
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 428
+      }
+    }
+  },
+  {
+    "adm2_code": "13001",
+    "municipio": "La Vega",
+    "provincia": "La Vega",
+    "distrito_educativo": "0605",
+    "distrito_nombre": "LA VEGA ESTE",
+    "centros_total": 269,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 169,
+        "matricula": 30319
+      },
+      "secundario": {
+        "centros": 65,
+        "matricula": 26085
+      },
+      "adultos": {
+        "centros": 35,
+        "matricula": 4998
+      }
+    }
+  },
+  {
+    "adm2_code": "14002",
+    "municipio": "Cabrera",
+    "provincia": "María Trinidad Sánchez",
+    "distrito_educativo": "1402",
+    "distrito_nombre": "CABRERA",
+    "centros_total": 62,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 47,
+        "matricula": 3258
+      },
+      "secundario": {
+        "centros": 11,
+        "matricula": 3126
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 275
+      }
+    }
+  },
+  {
+    "adm2_code": "14003",
+    "municipio": "El Factor",
+    "provincia": "María Trinidad Sánchez",
+    "distrito_educativo": "1406",
+    "distrito_nombre": "EL FACTOR",
+    "centros_total": 40,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 28,
+        "matricula": 3041
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 2571
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 372
+      }
+    }
+  },
+  {
+    "adm2_code": "14001",
+    "municipio": "Nagua",
+    "provincia": "María Trinidad Sánchez",
+    "distrito_educativo": "1401",
+    "distrito_nombre": "NAGUA",
+    "centros_total": 115,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 73,
+        "matricula": 6745
+      },
+      "secundario": {
+        "centros": 36,
+        "matricula": 9941
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 803
+      }
+    }
+  },
+  {
+    "adm2_code": "14004",
+    "municipio": "Río San Juan",
+    "provincia": "María Trinidad Sánchez",
+    "distrito_educativo": "1403",
+    "distrito_nombre": "RIO SAN JUAN",
+    "centros_total": 30,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 22,
+        "matricula": 2183
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 1474
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 260
+      }
+    }
+  },
+  {
+    "adm2_code": "28001",
+    "municipio": "Bonao",
+    "provincia": "Monseñor Nouel",
+    "distrito_educativo": "1606",
+    "distrito_nombre": "BONAO NORDESTE",
+    "centros_total": 141,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 87,
+        "matricula": 13852
+      },
+      "secundario": {
+        "centros": 34,
+        "matricula": 14856
+      },
+      "adultos": {
+        "centros": 20,
+        "matricula": 2893
+      }
+    }
+  },
+  {
+    "adm2_code": "28002",
+    "municipio": "Maimón",
+    "provincia": "Monseñor Nouel",
+    "distrito_educativo": "1605",
+    "distrito_nombre": "PIEDRA BLANCA",
+    "centros_total": 32,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 18,
+        "matricula": 2700
+      },
+      "secundario": {
+        "centros": 8,
+        "matricula": 3436
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 871
+      }
+    }
+  },
+  {
+    "adm2_code": "28003",
+    "municipio": "Piedra Blanca",
+    "provincia": "Monseñor Nouel",
+    "distrito_educativo": "1605",
+    "distrito_nombre": "PIEDRA BLANCA",
+    "centros_total": 42,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 24,
+        "matricula": 1810
+      },
+      "secundario": {
+        "centros": 12,
+        "matricula": 3702
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 649
+      }
+    }
+  },
+  {
+    "adm2_code": "15002",
+    "municipio": "Castañuelas",
+    "provincia": "Monte Cristi",
+    "distrito_educativo": "1303",
+    "distrito_nombre": "VILLA VASQUEZ",
+    "centros_total": 14,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 9,
+        "matricula": 1479
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 1367
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 196
+      }
+    }
+  },
+  {
+    "adm2_code": "15003",
+    "municipio": "Guayubín",
+    "provincia": "Monte Cristi",
+    "distrito_educativo": "1302",
+    "distrito_nombre": "GUAYUBIN",
+    "centros_total": 56,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 33,
+        "matricula": 3093
+      },
+      "secundario": {
+        "centros": 19,
+        "matricula": 4483
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 340
+      }
+    }
+  },
+  {
+    "adm2_code": "15004",
+    "municipio": "Las Matas de Santa Cruz",
+    "provincia": "Monte Cristi",
+    "distrito_educativo": "1302",
+    "distrito_nombre": "GUAYUBIN",
+    "centros_total": 13,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 7,
+        "matricula": 1088
+      },
+      "secundario": {
+        "centros": 4,
+        "matricula": 1335
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 197
+      }
+    }
+  },
+  {
+    "adm2_code": "15001",
+    "municipio": "Monte Cristi",
+    "provincia": "Monte Cristi",
+    "distrito_educativo": "1301",
+    "distrito_nombre": "MONTE CRISTI",
+    "centros_total": 34,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 24,
+        "matricula": 3207
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 2709
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 613
+      }
+    }
+  },
+  {
+    "adm2_code": "15005",
+    "municipio": "Pepillo Salcedo",
+    "provincia": "Monte Cristi",
+    "distrito_educativo": "1301",
+    "distrito_nombre": "MONTE CRISTI",
+    "centros_total": 9,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 3,
+        "matricula": 458
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 1514
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 36
+      }
+    }
+  },
+  {
+    "adm2_code": "15006",
+    "municipio": "Villa Vásquez",
+    "provincia": "Monte Cristi",
+    "distrito_educativo": null,
+    "distrito_nombre": null,
+    "centros_total": null,
+    "niveles": null
+  },
+  {
+    "adm2_code": "29002",
+    "municipio": "Bayaguana",
+    "provincia": "Monte Plata",
+    "distrito_educativo": "1703",
+    "distrito_nombre": "BAYAGUANA",
+    "centros_total": 57,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 34,
+        "matricula": 2435
+      },
+      "secundario": {
+        "centros": 18,
+        "matricula": 5454
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 568
+      }
+    }
+  },
+  {
+    "adm2_code": "29001",
+    "municipio": "Monte Plata",
+    "provincia": "Monte Plata",
+    "distrito_educativo": "1702",
+    "distrito_nombre": "MONTE PLATA",
+    "centros_total": 88,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 51,
+        "matricula": 6500
+      },
+      "secundario": {
+        "centros": 27,
+        "matricula": 6907
+      },
+      "adultos": {
+        "centros": 10,
+        "matricula": 1576
+      }
+    }
+  },
+  {
+    "adm2_code": "29005",
+    "municipio": "Peralvillo",
+    "provincia": "Monte Plata",
+    "distrito_educativo": "1705",
+    "distrito_nombre": "PERALVILLO",
+    "centros_total": 40,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 21,
+        "matricula": 1116
+      },
+      "secundario": {
+        "centros": 16,
+        "matricula": 3273
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 259
+      }
+    }
+  },
+  {
+    "adm2_code": "29003",
+    "municipio": "Sabana Grande de Boyá",
+    "provincia": "Monte Plata",
+    "distrito_educativo": "1704",
+    "distrito_nombre": "SABANA GRANDE DE BOYA",
+    "centros_total": 52,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 32,
+        "matricula": 4450
+      },
+      "secundario": {
+        "centros": 17,
+        "matricula": 4111
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 768
+      }
+    }
+  },
+  {
+    "adm2_code": "29004",
+    "municipio": "Yamasá",
+    "provincia": "Monte Plata",
+    "distrito_educativo": "1701",
+    "distrito_nombre": "YAMASA",
+    "centros_total": 97,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 57,
+        "matricula": 6800
+      },
+      "secundario": {
+        "centros": 35,
+        "matricula": 8870
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 1110
+      }
+    }
+  },
+  {
+    "adm2_code": "16002",
+    "municipio": "Oviedo",
+    "provincia": "Pedernales",
+    "distrito_educativo": "0101",
+    "distrito_nombre": "PEDERNALES",
+    "centros_total": 10,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 5,
+        "matricula": 1328
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 1211
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 127
+      }
+    }
+  },
+  {
+    "adm2_code": "16001",
+    "municipio": "Pedernales",
+    "provincia": "Pedernales",
+    "distrito_educativo": "0101",
+    "distrito_nombre": "PEDERNALES",
+    "centros_total": 20,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 11,
+        "matricula": 1815
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 3995
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 570
+      }
+    }
+  },
+  {
+    "adm2_code": "17001",
+    "municipio": "Baní",
+    "provincia": "Peravia",
+    "distrito_educativo": "0304",
+    "distrito_nombre": "BANI",
+    "centros_total": 139,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 55,
+        "matricula": 9561
+      },
+      "secundario": {
+        "centros": 62,
+        "matricula": 28377
+      },
+      "adultos": {
+        "centros": 22,
+        "matricula": 4487
+      }
+    }
+  },
+  {
+    "adm2_code": "17003",
+    "municipio": "Matanzas",
+    "provincia": "Peravia",
+    "distrito_educativo": null,
+    "distrito_nombre": null,
+    "centros_total": null,
+    "niveles": null
+  },
+  {
+    "adm2_code": "17002",
+    "municipio": "Nizao",
+    "provincia": "Peravia",
+    "distrito_educativo": "0305",
+    "distrito_nombre": "NIZAO",
+    "centros_total": 24,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 5,
+        "matricula": 1293
+      },
+      "secundario": {
+        "centros": 13,
+        "matricula": 5799
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 746
+      }
+    }
+  },
+  {
+    "adm2_code": "18002",
+    "municipio": "Altamira",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1105",
+    "distrito_nombre": "ALTAMIRA",
+    "centros_total": 54,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 37,
+        "matricula": 1433
+      },
+      "secundario": {
+        "centros": 15,
+        "matricula": 1792
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 271
+      }
+    }
+  },
+  {
+    "adm2_code": "18003",
+    "municipio": "Guananico",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1106",
+    "distrito_nombre": "EL MAMEY",
+    "centros_total": 14,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 10,
+        "matricula": 669
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 621
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 34
+      }
+    }
+  },
+  {
+    "adm2_code": "18004",
+    "municipio": "Imbert",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1103",
+    "distrito_nombre": "IMBERT",
+    "centros_total": 35,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 13,
+        "matricula": 780
+      },
+      "secundario": {
+        "centros": 20,
+        "matricula": 4056
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 366
+      }
+    }
+  },
+  {
+    "adm2_code": "18005",
+    "municipio": "Los Hidalgos",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1106",
+    "distrito_nombre": "EL MAMEY",
+    "centros_total": 25,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 16,
+        "matricula": 1011
+      },
+      "secundario": {
+        "centros": 6,
+        "matricula": 1213
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 194
+      }
+    }
+  },
+  {
+    "adm2_code": "18006",
+    "municipio": "Luperón",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1104",
+    "distrito_nombre": "LUPERON",
+    "centros_total": 43,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 32,
+        "matricula": 2373
+      },
+      "secundario": {
+        "centros": 8,
+        "matricula": 1418
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 380
+      }
+    }
+  },
+  {
+    "adm2_code": "18001",
+    "municipio": "Puerto Plata",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1102",
+    "distrito_nombre": "PUERTO PLATA",
+    "centros_total": 148,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 76,
+        "matricula": 10284
+      },
+      "secundario": {
+        "centros": 55,
+        "matricula": 25209
+      },
+      "adultos": {
+        "centros": 17,
+        "matricula": 2860
+      }
+    }
+  },
+  {
+    "adm2_code": "18007",
+    "municipio": "Sosúa",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1101",
+    "distrito_nombre": "SOSUA",
+    "centros_total": 70,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 33,
+        "matricula": 5487
+      },
+      "secundario": {
+        "centros": 27,
+        "matricula": 9588
+      },
+      "adultos": {
+        "centros": 10,
+        "matricula": 1331
+      }
+    }
+  },
+  {
+    "adm2_code": "18008",
+    "municipio": "Villa Isabela",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1107",
+    "distrito_nombre": "VILLA ISABELA",
+    "centros_total": 29,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 20,
+        "matricula": 1641
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 1838
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 257
+      }
+    }
+  },
+  {
+    "adm2_code": "18009",
+    "municipio": "Villa Montellano",
+    "provincia": "Puerto Plata",
+    "distrito_educativo": "1101",
+    "distrito_nombre": "SOSUA",
+    "centros_total": 23,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 11,
+        "matricula": 2146
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 2443
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 668
+      }
+    }
+  },
+  {
+    "adm2_code": "20003",
+    "municipio": "Las Terrenas",
+    "provincia": "Samaná",
+    "distrito_educativo": "1407",
+    "distrito_nombre": "LAS TERRENAS",
+    "centros_total": 26,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 14,
+        "matricula": 2890
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 3343
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 279
+      }
+    }
+  },
+  {
+    "adm2_code": "20001",
+    "municipio": "Samaná",
+    "provincia": "Samaná",
+    "distrito_educativo": "1404",
+    "distrito_nombre": "SAMANA",
+    "centros_total": 91,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 51,
+        "matricula": 5651
+      },
+      "secundario": {
+        "centros": 26,
+        "matricula": 9074
+      },
+      "adultos": {
+        "centros": 14,
+        "matricula": 1244
+      }
+    }
+  },
+  {
+    "adm2_code": "20002",
+    "municipio": "Sánchez",
+    "provincia": "Samaná",
+    "distrito_educativo": "1405",
+    "distrito_nombre": "SANCHEZ",
+    "centros_total": 34,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 23,
+        "matricula": 3497
+      },
+      "secundario": {
+        "centros": 8,
+        "matricula": 3127
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 431
+      }
+    }
+  },
+  {
+    "adm2_code": "21003",
+    "municipio": "Bajos de Haina",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0406",
+    "distrito_nombre": "HAINA",
+    "centros_total": 145,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 78,
+        "matricula": 11873
+      },
+      "secundario": {
+        "centros": 46,
+        "matricula": 26314
+      },
+      "adultos": {
+        "centros": 21,
+        "matricula": 4718
+      }
+    }
+  },
+  {
+    "adm2_code": "21004",
+    "municipio": "Cambita Garabitos",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0401",
+    "distrito_nombre": "CAMBITA GARABITOS",
+    "centros_total": 45,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 25,
+        "matricula": 3213
+      },
+      "secundario": {
+        "centros": 16,
+        "matricula": 4291
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 742
+      }
+    }
+  },
+  {
+    "adm2_code": "21008",
+    "municipio": "Los Cacaos",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0401",
+    "distrito_nombre": "CAMBITA GARABITOS",
+    "centros_total": 22,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 17,
+        "matricula": 843
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 531
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 133
+      }
+    }
+  },
+  {
+    "adm2_code": "21002",
+    "municipio": "Sabana Grande de Palenque",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0407",
+    "distrito_nombre": "SAN GREGORIO DE NIGUA",
+    "centros_total": 19,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 9,
+        "matricula": 2107
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 2029
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 448
+      }
+    }
+  },
+  {
+    "adm2_code": "21001",
+    "municipio": "San Cristóbal",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0402",
+    "distrito_nombre": "SAN CRISTOBAL NORTE",
+    "centros_total": 215,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 123,
+        "matricula": 30761
+      },
+      "secundario": {
+        "centros": 63,
+        "matricula": 35926
+      },
+      "adultos": {
+        "centros": 29,
+        "matricula": 6899
+      }
+    }
+  },
+  {
+    "adm2_code": "21007",
+    "municipio": "San Gregorio de Nigua",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0407",
+    "distrito_nombre": "SAN GREGORIO DE NIGUA",
+    "centros_total": 36,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 16,
+        "matricula": 2707
+      },
+      "secundario": {
+        "centros": 15,
+        "matricula": 6069
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 1287
+      }
+    }
+  },
+  {
+    "adm2_code": "21005",
+    "municipio": "Villa Altagracia",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0404",
+    "distrito_nombre": "VILLA  ALTAGRACIA",
+    "centros_total": 107,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 61,
+        "matricula": 11688
+      },
+      "secundario": {
+        "centros": 30,
+        "matricula": 11331
+      },
+      "adultos": {
+        "centros": 16,
+        "matricula": 2306
+      }
+    }
+  },
+  {
+    "adm2_code": "21006",
+    "municipio": "Yaguate",
+    "provincia": "San Cristóbal",
+    "distrito_educativo": "0405",
+    "distrito_nombre": "YAGUATE",
+    "centros_total": 65,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 42,
+        "matricula": 6447
+      },
+      "secundario": {
+        "centros": 15,
+        "matricula": 6887
+      },
+      "adultos": {
+        "centros": 8,
+        "matricula": 1783
+      }
+    }
+  },
+  {
+    "adm2_code": "31003",
+    "municipio": "Rancho Arriba",
+    "provincia": "San José de Ocoa",
+    "distrito_educativo": "0303",
+    "distrito_nombre": "SAN JOSE DE OCOA",
+    "centros_total": 22,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 11,
+        "matricula": 369
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 1830
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 172
+      }
+    }
+  },
+  {
+    "adm2_code": "31002",
+    "municipio": "Sabana Larga",
+    "provincia": "San José de Ocoa",
+    "distrito_educativo": "0303",
+    "distrito_nombre": "SAN JOSE DE OCOA",
+    "centros_total": 18,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 13,
+        "matricula": 1029
+      },
+      "secundario": {
+        "centros": 3,
+        "matricula": 830
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 172
+      }
+    }
+  },
+  {
+    "adm2_code": "31001",
+    "municipio": "San José de Ocoa",
+    "provincia": "San José de Ocoa",
+    "distrito_educativo": "0303",
+    "distrito_nombre": "SAN JOSE DE OCOA",
+    "centros_total": 69,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 47,
+        "matricula": 3648
+      },
+      "secundario": {
+        "centros": 20,
+        "matricula": 4625
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 481
+      }
+    }
+  },
+  {
+    "adm2_code": "22002",
+    "municipio": "Bohechío",
+    "provincia": "San Juan",
+    "distrito_educativo": "0205",
+    "distrito_nombre": "SAN JUAN ESTE",
+    "centros_total": 21,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 13,
+        "matricula": 1244
+      },
+      "secundario": {
+        "centros": 5,
+        "matricula": 1069
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 359
+      }
+    }
+  },
+  {
+    "adm2_code": "22003",
+    "municipio": "El Cercado",
+    "provincia": "San Juan",
+    "distrito_educativo": "0204",
+    "distrito_nombre": "EL CERCADO",
+    "centros_total": 52,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 37,
+        "matricula": 2515
+      },
+      "secundario": {
+        "centros": 10,
+        "matricula": 2611
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 257
+      }
+    }
+  },
+  {
+    "adm2_code": "22004",
+    "municipio": "Juan de Herrera",
+    "provincia": "San Juan",
+    "distrito_educativo": "0206",
+    "distrito_nombre": "SAN JUAN OESTE",
+    "centros_total": 18,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 5,
+        "matricula": 473
+      },
+      "secundario": {
+        "centros": 11,
+        "matricula": 2832
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 142
+      }
+    }
+  },
+  {
+    "adm2_code": "22005",
+    "municipio": "Las Matas de Farfán",
+    "provincia": "San Juan",
+    "distrito_educativo": "0203",
+    "distrito_nombre": "LAS MATAS DE FARFAN",
+    "centros_total": 88,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 55,
+        "matricula": 5117
+      },
+      "secundario": {
+        "centros": 26,
+        "matricula": 6023
+      },
+      "adultos": {
+        "centros": 7,
+        "matricula": 788
+      }
+    }
+  },
+  {
+    "adm2_code": "22001",
+    "municipio": "San Juan",
+    "provincia": "San Juan",
+    "distrito_educativo": "0206",
+    "distrito_nombre": "SAN JUAN OESTE",
+    "centros_total": 186,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 92,
+        "matricula": 9012
+      },
+      "secundario": {
+        "centros": 78,
+        "matricula": 24931
+      },
+      "adultos": {
+        "centros": 16,
+        "matricula": 2318
+      }
+    }
+  },
+  {
+    "adm2_code": "22006",
+    "municipio": "Vallejuelo",
+    "provincia": "San Juan",
+    "distrito_educativo": "0205",
+    "distrito_nombre": "SAN JUAN ESTE",
+    "centros_total": 17,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 8,
+        "matricula": 1202
+      },
+      "secundario": {
+        "centros": 6,
+        "matricula": 1673
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 151
+      }
+    }
+  },
+  {
+    "adm2_code": "23004",
+    "municipio": "Consuelo",
+    "provincia": "San Pedro de Macorís",
+    "distrito_educativo": "0506",
+    "distrito_nombre": "CONSUELO",
+    "centros_total": 30,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 14,
+        "matricula": 2185
+      },
+      "secundario": {
+        "centros": 14,
+        "matricula": 5991
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 829
+      }
+    }
+  },
+  {
+    "adm2_code": "23006",
+    "municipio": "Guayacanes",
+    "provincia": "San Pedro de Macorís",
+    "distrito_educativo": "0502",
+    "distrito_nombre": "SAN PEDRO DE MACORIS OESTE",
+    "centros_total": 12,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 4,
+        "matricula": 470
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 3053
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 250
+      }
+    }
+  },
+  {
+    "adm2_code": "23002",
+    "municipio": "Los Llanos",
+    "provincia": "San Pedro de Macorís",
+    "distrito_educativo": "0507",
+    "distrito_nombre": "SAN JOSE DE LOS LLANOS",
+    "centros_total": 44,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 30,
+        "matricula": 3296
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 3325
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 658
+      }
+    }
+  },
+  {
+    "adm2_code": "23005",
+    "municipio": "Quisqueya",
+    "provincia": "San Pedro de Macorís",
+    "distrito_educativo": "0508",
+    "distrito_nombre": "QUISQUEYA",
+    "centros_total": 22,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 9,
+        "matricula": 2237
+      },
+      "secundario": {
+        "centros": 11,
+        "matricula": 3099
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 373
+      }
+    }
+  },
+  {
+    "adm2_code": "23003",
+    "municipio": "Ramón Santana",
+    "provincia": "San Pedro de Macorís",
+    "distrito_educativo": "0501",
+    "distrito_nombre": "SAN PEDRO DE MACORIS ESTE",
+    "centros_total": 23,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 13,
+        "matricula": 438
+      },
+      "secundario": {
+        "centros": 9,
+        "matricula": 2221
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 147
+      }
+    }
+  },
+  {
+    "adm2_code": "23001",
+    "municipio": "San Pedro de Macorís",
+    "provincia": "San Pedro de Macorís",
+    "distrito_educativo": "0502",
+    "distrito_nombre": "SAN PEDRO DE MACORIS OESTE",
+    "centros_total": 159,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 62,
+        "matricula": 15212
+      },
+      "secundario": {
+        "centros": 75,
+        "matricula": 38013
+      },
+      "adultos": {
+        "centros": 22,
+        "matricula": 5668
+      }
+    }
+  },
+  {
+    "adm2_code": "24002",
+    "municipio": "Cevicos",
+    "provincia": "Sanchez Ramírez",
+    "distrito_educativo": "1603",
+    "distrito_nombre": "CEVICOS",
+    "centros_total": 32,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 18,
+        "matricula": 1497
+      },
+      "secundario": {
+        "centros": 8,
+        "matricula": 2007
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 466
+      }
+    }
+  },
+  {
+    "adm2_code": "24001",
+    "municipio": "Cotuí",
+    "provincia": "Sanchez Ramírez",
+    "distrito_educativo": "1601",
+    "distrito_nombre": "COTUI",
+    "centros_total": 136,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 80,
+        "matricula": 7923
+      },
+      "secundario": {
+        "centros": 34,
+        "matricula": 9844
+      },
+      "adultos": {
+        "centros": 22,
+        "matricula": 1712
+      }
+    }
+  },
+  {
+    "adm2_code": "24003",
+    "municipio": "Fantino",
+    "provincia": "Sanchez Ramírez",
+    "distrito_educativo": "1602",
+    "distrito_nombre": "FANTINO",
+    "centros_total": 31,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 12,
+        "matricula": 838
+      },
+      "secundario": {
+        "centros": 12,
+        "matricula": 3152
+      },
+      "adultos": {
+        "centros": 7,
+        "matricula": 613
+      }
+    }
+  },
+  {
+    "adm2_code": "24004",
+    "municipio": "Villa La Mata",
+    "provincia": "Sanchez Ramírez",
+    "distrito_educativo": null,
+    "distrito_nombre": null,
+    "centros_total": null,
+    "niveles": null
+  },
+  {
+    "adm2_code": "25010",
+    "municipio": "Baitoa",
+    "provincia": "Santiago",
+    "distrito_educativo": null,
+    "distrito_nombre": null,
+    "centros_total": null,
+    "niveles": null
+  },
+  {
+    "adm2_code": "25002",
+    "municipio": "Bisonó",
+    "provincia": "Santiago",
+    "distrito_educativo": "0807",
+    "distrito_nombre": "VILLA BISONO (NAVARRETE)",
+    "centros_total": 43,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 26,
+        "matricula": 4858
+      },
+      "secundario": {
+        "centros": 13,
+        "matricula": 5354
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 545
+      }
+    }
+  },
+  {
+    "adm2_code": "25003",
+    "municipio": "Jánico",
+    "provincia": "Santiago",
+    "distrito_educativo": "0802",
+    "distrito_nombre": "JANICO",
+    "centros_total": 43,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 28,
+        "matricula": 1102
+      },
+      "secundario": {
+        "centros": 14,
+        "matricula": 1056
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 26
+      }
+    }
+  },
+  {
+    "adm2_code": "25004",
+    "municipio": "Licey al Medio",
+    "provincia": "Santiago",
+    "distrito_educativo": "0808",
+    "distrito_nombre": "LICEY AL MEDIO",
+    "centros_total": 34,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 17,
+        "matricula": 2348
+      },
+      "secundario": {
+        "centros": 14,
+        "matricula": 4967
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 544
+      }
+    }
+  },
+  {
+    "adm2_code": "25008",
+    "municipio": "Puñal",
+    "provincia": "Santiago",
+    "distrito_educativo": "0803",
+    "distrito_nombre": "SANTIAGO SUR-ESTE",
+    "centros_total": 39,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 18,
+        "matricula": 3006
+      },
+      "secundario": {
+        "centros": 19,
+        "matricula": 6656
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 294
+      }
+    }
+  },
+  {
+    "adm2_code": "25009",
+    "municipio": "Sabana Iglesia",
+    "provincia": "Santiago",
+    "distrito_educativo": null,
+    "distrito_nombre": null,
+    "centros_total": null,
+    "niveles": null
+  },
+  {
+    "adm2_code": "25005",
+    "municipio": "San José de Las Matas",
+    "provincia": "Santiago",
+    "distrito_educativo": "0801",
+    "distrito_nombre": "SAN JOSE DE LAS MATAS",
+    "centros_total": 60,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 31,
+        "matricula": 2555
+      },
+      "secundario": {
+        "centros": 27,
+        "matricula": 3852
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 291
+      }
+    }
+  },
+  {
+    "adm2_code": "25001",
+    "municipio": "Santiago",
+    "provincia": "Santiago",
+    "distrito_educativo": "0805",
+    "distrito_nombre": "SANTIAGO CENTRO-OESTE",
+    "centros_total": 534,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 287,
+        "matricula": 60078
+      },
+      "secundario": {
+        "centros": 190,
+        "matricula": 100230
+      },
+      "adultos": {
+        "centros": 57,
+        "matricula": 12876
+      }
+    }
+  },
+  {
+    "adm2_code": "25006",
+    "municipio": "Tamboril",
+    "provincia": "Santiago",
+    "distrito_educativo": "0809",
+    "distrito_nombre": "TAMBORIL",
+    "centros_total": 53,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 27,
+        "matricula": 3382
+      },
+      "secundario": {
+        "centros": 22,
+        "matricula": 8517
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 977
+      }
+    }
+  },
+  {
+    "adm2_code": "25007",
+    "municipio": "Villa González",
+    "provincia": "Santiago",
+    "distrito_educativo": "0810",
+    "distrito_nombre": "VILLA GONZALEZ",
+    "centros_total": 37,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 20,
+        "matricula": 5018
+      },
+      "secundario": {
+        "centros": 12,
+        "matricula": 3975
+      },
+      "adultos": {
+        "centros": 5,
+        "matricula": 723
+      }
+    }
+  },
+  {
+    "adm2_code": "26003",
+    "municipio": "Monción",
+    "provincia": "Santiago Rodríguez",
+    "distrito_educativo": "0904",
+    "distrito_nombre": "MONCION",
+    "centros_total": 18,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 9,
+        "matricula": 582
+      },
+      "secundario": {
+        "centros": 7,
+        "matricula": 2028
+      },
+      "adultos": {
+        "centros": 2,
+        "matricula": 189
+      }
+    }
+  },
+  {
+    "adm2_code": "26001",
+    "municipio": "San Ignacio de Sabaneta",
+    "provincia": "Santiago Rodríguez",
+    "distrito_educativo": "0903",
+    "distrito_nombre": "SAN IGNACIO DE SABANETA",
+    "centros_total": 61,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 28,
+        "matricula": 2623
+      },
+      "secundario": {
+        "centros": 30,
+        "matricula": 5309
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 347
+      }
+    }
+  },
+  {
+    "adm2_code": "26002",
+    "municipio": "Villa Los Almácigos",
+    "provincia": "Santiago Rodríguez",
+    "distrito_educativo": "0906",
+    "distrito_nombre": "VILLA LOS ALMACIGOS",
+    "centros_total": 22,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 8,
+        "matricula": 183
+      },
+      "secundario": {
+        "centros": 13,
+        "matricula": 2164
+      },
+      "adultos": {
+        "centros": 1,
+        "matricula": 99
+      }
+    }
+  },
+  {
+    "adm2_code": "32004",
+    "municipio": "Boca Chica",
+    "provincia": "Santo Domingo",
+    "distrito_educativo": "1005",
+    "distrito_nombre": "BOCA CHICA",
+    "centros_total": 115,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 60,
+        "matricula": 18090
+      },
+      "secundario": {
+        "centros": 39,
+        "matricula": 26821
+      },
+      "adultos": {
+        "centros": 16,
+        "matricula": 4906
+      }
+    }
+  },
+  {
+    "adm2_code": "32006",
+    "municipio": "Los Alcarrizos",
+    "provincia": "Santo Domingo",
+    "distrito_educativo": "1501",
+    "distrito_nombre": "LOS ALCARRIZOS",
+    "centros_total": 239,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 115,
+        "matricula": 23552
+      },
+      "secundario": {
+        "centros": 88,
+        "matricula": 48888
+      },
+      "adultos": {
+        "centros": 36,
+        "matricula": 7507
+      }
+    }
+  },
+  {
+    "adm2_code": "32007",
+    "municipio": "Pedro Brand",
+    "provincia": "Santo Domingo",
+    "distrito_educativo": "1506",
+    "distrito_nombre": "PEDRO BRAND",
+    "centros_total": 69,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 30,
+        "matricula": 6051
+      },
+      "secundario": {
+        "centros": 27,
+        "matricula": 15782
+      },
+      "adultos": {
+        "centros": 12,
+        "matricula": 2432
+      }
+    }
+  },
+  {
+    "adm2_code": "32005",
+    "municipio": "San Antonio de Guerra",
+    "provincia": "Santo Domingo",
+    "distrito_educativo": "1007",
+    "distrito_nombre": "SAN ANTONIO DE GUERRA",
+    "centros_total": 59,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 33,
+        "matricula": 4524
+      },
+      "secundario": {
+        "centros": 20,
+        "matricula": 8297
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 956
+      }
+    }
+  },
+  {
+    "adm2_code": "32001",
+    "municipio": "Santo Domingo Este",
+    "provincia": "Santo Domingo",
+    "distrito_educativo": "1006",
+    "distrito_nombre": "MENDOZA",
+    "centros_total": 845,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 446,
+        "matricula": 89023
+      },
+      "secundario": {
+        "centros": 320,
+        "matricula": 165154
+      },
+      "adultos": {
+        "centros": 79,
+        "matricula": 20225
+      }
+    }
+  },
+  {
+    "adm2_code": "32003",
+    "municipio": "Santo Domingo Norte",
+    "provincia": "Santo Domingo",
+    "distrito_educativo": "1001",
+    "distrito_nombre": "VILLA MELLA",
+    "centros_total": 485,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 251,
+        "matricula": 66020
+      },
+      "secundario": {
+        "centros": 163,
+        "matricula": 87921
+      },
+      "adultos": {
+        "centros": 71,
+        "matricula": 15763
+      }
+    }
+  },
+  {
+    "adm2_code": "32002",
+    "municipio": "Santo Domingo Oeste",
+    "provincia": "Santo Domingo",
+    "distrito_educativo": "1505",
+    "distrito_nombre": "HERRERA",
+    "centros_total": 341,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 214,
+        "matricula": 51099
+      },
+      "secundario": {
+        "centros": 95,
+        "matricula": 48575
+      },
+      "adultos": {
+        "centros": 32,
+        "matricula": 7388
+      }
+    }
+  },
+  {
+    "adm2_code": "27002",
+    "municipio": "Esperanza",
+    "provincia": "Valverde",
+    "distrito_educativo": "0902",
+    "distrito_nombre": "ESPERANZA",
+    "centros_total": 60,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 39,
+        "matricula": 7600
+      },
+      "secundario": {
+        "centros": 15,
+        "matricula": 5598
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 830
+      }
+    }
+  },
+  {
+    "adm2_code": "27003",
+    "municipio": "Laguna Salada",
+    "provincia": "Valverde",
+    "distrito_educativo": "0905",
+    "distrito_nombre": "LAGUNA SALADA",
+    "centros_total": 29,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 15,
+        "matricula": 1802
+      },
+      "secundario": {
+        "centros": 11,
+        "matricula": 2609
+      },
+      "adultos": {
+        "centros": 3,
+        "matricula": 317
+      }
+    }
+  },
+  {
+    "adm2_code": "27001",
+    "municipio": "Mao",
+    "provincia": "Valverde",
+    "distrito_educativo": "0901",
+    "distrito_nombre": "MAO",
+    "centros_total": 84,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 50,
+        "matricula": 8447
+      },
+      "secundario": {
+        "centros": 23,
+        "matricula": 8902
+      },
+      "adultos": {
+        "centros": 11,
+        "matricula": 1320
+      }
+    }
+  }
+]

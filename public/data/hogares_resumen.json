@@ -1,0 +1,1266 @@
+[
+  {
+    "adm2_code": "01001",
+    "provincia": "Distrito Nacional",
+    "municipio": "Santo Domingo de Guzmán",
+    "hogares_total": 365548,
+    "poblacion_en_hogares": 1027348,
+    "personas_por_hogar": 2.8104325560528305
+  },
+  {
+    "adm2_code": "02001",
+    "provincia": "Azua",
+    "municipio": "Azua",
+    "hogares_total": 32360,
+    "poblacion_en_hogares": 103044,
+    "personas_por_hogar": 3.184301606922126
+  },
+  {
+    "adm2_code": "02002",
+    "provincia": "Azua",
+    "municipio": "Las Charcas",
+    "hogares_total": 4913,
+    "poblacion_en_hogares": 14279,
+    "personas_por_hogar": 2.9063708528394057
+  },
+  {
+    "adm2_code": "02003",
+    "provincia": "Azua",
+    "municipio": "Las Yayas de Viajama",
+    "hogares_total": 6705,
+    "poblacion_en_hogares": 19187,
+    "personas_por_hogar": 2.8615958240119315
+  },
+  {
+    "adm2_code": "02004",
+    "provincia": "Azua",
+    "municipio": "Padre Las Casas",
+    "hogares_total": 7022,
+    "poblacion_en_hogares": 20605,
+    "personas_por_hogar": 2.9343491882654513
+  },
+  {
+    "adm2_code": "02005",
+    "provincia": "Azua",
+    "municipio": "Peralta",
+    "hogares_total": 4386,
+    "poblacion_en_hogares": 14667,
+    "personas_por_hogar": 3.3440492476060193
+  },
+  {
+    "adm2_code": "02006",
+    "provincia": "Azua",
+    "municipio": "Sabana Yegua",
+    "hogares_total": 6616,
+    "poblacion_en_hogares": 21288,
+    "personas_por_hogar": 3.217654171704958
+  },
+  {
+    "adm2_code": "02007",
+    "provincia": "Azua",
+    "municipio": "Pueblo Viejo",
+    "hogares_total": 3844,
+    "poblacion_en_hogares": 11997,
+    "personas_por_hogar": 3.120967741935484
+  },
+  {
+    "adm2_code": "02008",
+    "provincia": "Azua",
+    "municipio": "Tábara Arriba",
+    "hogares_total": 6710,
+    "poblacion_en_hogares": 20362,
+    "personas_por_hogar": 3.034575260804769
+  },
+  {
+    "adm2_code": "02009",
+    "provincia": "Azua",
+    "municipio": "Guayabal",
+    "hogares_total": 1949,
+    "poblacion_en_hogares": 5754,
+    "personas_por_hogar": 2.952283222165213
+  },
+  {
+    "adm2_code": "02010",
+    "provincia": "Azua",
+    "municipio": "Estebanía",
+    "hogares_total": 2790,
+    "poblacion_en_hogares": 8209,
+    "personas_por_hogar": 2.9422939068100358
+  },
+  {
+    "adm2_code": "03001",
+    "provincia": "Baoruco",
+    "municipio": "Neiba",
+    "hogares_total": 12152,
+    "poblacion_en_hogares": 40389,
+    "personas_por_hogar": 3.3236504279131007
+  },
+  {
+    "adm2_code": "03002",
+    "provincia": "Baoruco",
+    "municipio": "Galván",
+    "hogares_total": 5359,
+    "poblacion_en_hogares": 15673,
+    "personas_por_hogar": 2.9246128008956895
+  },
+  {
+    "adm2_code": "03003",
+    "provincia": "Baoruco",
+    "municipio": "Tamayo",
+    "hogares_total": 9962,
+    "poblacion_en_hogares": 30624,
+    "personas_por_hogar": 3.0740815097370007
+  },
+  {
+    "adm2_code": "03004",
+    "provincia": "Baoruco",
+    "municipio": "Villa Jaragua",
+    "hogares_total": 3693,
+    "poblacion_en_hogares": 12421,
+    "personas_por_hogar": 3.36339019767127
+  },
+  {
+    "adm2_code": "03005",
+    "provincia": "Baoruco",
+    "municipio": "Los Ríos",
+    "hogares_total": 2709,
+    "poblacion_en_hogares": 9302,
+    "personas_por_hogar": 3.4337393872277593
+  },
+  {
+    "adm2_code": "04001",
+    "provincia": "Barahona",
+    "municipio": "Barahona",
+    "hogares_total": 27560,
+    "poblacion_en_hogares": 89495,
+    "personas_por_hogar": 3.247278664731495
+  },
+  {
+    "adm2_code": "04002",
+    "provincia": "Barahona",
+    "municipio": "Cabral",
+    "hogares_total": 4871,
+    "poblacion_en_hogares": 15912,
+    "personas_por_hogar": 3.266680353110244
+  },
+  {
+    "adm2_code": "04003",
+    "provincia": "Barahona",
+    "municipio": "Enriquillo",
+    "hogares_total": 4468,
+    "poblacion_en_hogares": 12514,
+    "personas_por_hogar": 2.8008057296329456
+  },
+  {
+    "adm2_code": "04004",
+    "provincia": "Barahona",
+    "municipio": "Paraíso",
+    "hogares_total": 5114,
+    "poblacion_en_hogares": 16600,
+    "personas_por_hogar": 3.245991396167384
+  },
+  {
+    "adm2_code": "04005",
+    "provincia": "Barahona",
+    "municipio": "Vicente Noble",
+    "hogares_total": 8230,
+    "poblacion_en_hogares": 25671,
+    "personas_por_hogar": 3.119198055893074
+  },
+  {
+    "adm2_code": "04006",
+    "provincia": "Barahona",
+    "municipio": "El Peñón",
+    "hogares_total": 1370,
+    "poblacion_en_hogares": 4388,
+    "personas_por_hogar": 3.202919708029197
+  },
+  {
+    "adm2_code": "04007",
+    "provincia": "Barahona",
+    "municipio": "La Ciénaga",
+    "hogares_total": 2741,
+    "poblacion_en_hogares": 9154,
+    "personas_por_hogar": 3.339657059467348
+  },
+  {
+    "adm2_code": "04008",
+    "provincia": "Barahona",
+    "municipio": "Fundación",
+    "hogares_total": 2924,
+    "poblacion_en_hogares": 9220,
+    "personas_por_hogar": 3.153214774281806
+  },
+  {
+    "adm2_code": "04009",
+    "provincia": "Barahona",
+    "municipio": "Las Salinas",
+    "hogares_total": 1552,
+    "poblacion_en_hogares": 4810,
+    "personas_por_hogar": 3.0992268041237114
+  },
+  {
+    "adm2_code": "04010",
+    "provincia": "Barahona",
+    "municipio": "Polo",
+    "hogares_total": 2468,
+    "poblacion_en_hogares": 7626,
+    "personas_por_hogar": 3.0899513776337115
+  },
+  {
+    "adm2_code": "04011",
+    "provincia": "Barahona",
+    "municipio": "Jaquimeyes",
+    "hogares_total": 1313,
+    "poblacion_en_hogares": 4747,
+    "personas_por_hogar": 3.6153846153846154
+  },
+  {
+    "adm2_code": "05001",
+    "provincia": "Dajabón",
+    "municipio": "Dajabón",
+    "hogares_total": 12092,
+    "poblacion_en_hogares": 35330,
+    "personas_por_hogar": 2.92176645716176
+  },
+  {
+    "adm2_code": "05002",
+    "provincia": "Dajabón",
+    "municipio": "Loma de Cabrera",
+    "hogares_total": 5658,
+    "poblacion_en_hogares": 16800,
+    "personas_por_hogar": 2.9692470837751856
+  },
+  {
+    "adm2_code": "05003",
+    "provincia": "Dajabón",
+    "municipio": "Partido",
+    "hogares_total": 2859,
+    "poblacion_en_hogares": 7578,
+    "personas_por_hogar": 2.6505771248688355
+  },
+  {
+    "adm2_code": "05004",
+    "provincia": "Dajabón",
+    "municipio": "Restauración",
+    "hogares_total": 2646,
+    "poblacion_en_hogares": 8136,
+    "personas_por_hogar": 3.074829931972789
+  },
+  {
+    "adm2_code": "05005",
+    "provincia": "Dajabón",
+    "municipio": "El Pino",
+    "hogares_total": 2247,
+    "poblacion_en_hogares": 6412,
+    "personas_por_hogar": 2.853582554517134
+  },
+  {
+    "adm2_code": "06001",
+    "provincia": "Duarte",
+    "municipio": "San Francisco de Macorís",
+    "hogares_total": 73225,
+    "poblacion_en_hogares": 202560,
+    "personas_por_hogar": 2.766268350973028
+  },
+  {
+    "adm2_code": "06002",
+    "provincia": "Duarte",
+    "municipio": "Arenoso",
+    "hogares_total": 5225,
+    "poblacion_en_hogares": 13881,
+    "personas_por_hogar": 2.656650717703349
+  },
+  {
+    "adm2_code": "06003",
+    "provincia": "Duarte",
+    "municipio": "Castillo",
+    "hogares_total": 5995,
+    "poblacion_en_hogares": 16777,
+    "personas_por_hogar": 2.7984987489574644
+  },
+  {
+    "adm2_code": "06004",
+    "provincia": "Duarte",
+    "municipio": "Pimentel",
+    "hogares_total": 6303,
+    "poblacion_en_hogares": 19031,
+    "personas_por_hogar": 3.0193558622877994
+  },
+  {
+    "adm2_code": "06005",
+    "provincia": "Duarte",
+    "municipio": "Villa Riva",
+    "hogares_total": 12685,
+    "poblacion_en_hogares": 35999,
+    "personas_por_hogar": 2.837918801734332
+  },
+  {
+    "adm2_code": "06006",
+    "provincia": "Duarte",
+    "municipio": "Las Guáranas",
+    "hogares_total": 5101,
+    "poblacion_en_hogares": 14069,
+    "personas_por_hogar": 2.758086649676534
+  },
+  {
+    "adm2_code": "06007",
+    "provincia": "Duarte",
+    "municipio": "Eugenio María de Hostos",
+    "hogares_total": 2139,
+    "poblacion_en_hogares": 5757,
+    "personas_por_hogar": 2.691444600280505
+  },
+  {
+    "adm2_code": "07001",
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "hogares_total": 8275,
+    "poblacion_en_hogares": 28584,
+    "personas_por_hogar": 3.454259818731118
+  },
+  {
+    "adm2_code": "07002",
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "hogares_total": 2316,
+    "poblacion_en_hogares": 7526,
+    "personas_por_hogar": 3.249568221070812
+  },
+  {
+    "adm2_code": "07003",
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "hogares_total": 2629,
+    "poblacion_en_hogares": 8574,
+    "personas_por_hogar": 3.2613160897679725
+  },
+  {
+    "adm2_code": "07004",
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "hogares_total": 2926,
+    "poblacion_en_hogares": 9695,
+    "personas_por_hogar": 3.313397129186603
+  },
+  {
+    "adm2_code": "07005",
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "hogares_total": 1960,
+    "poblacion_en_hogares": 6581,
+    "personas_por_hogar": 3.35765306122449
+  },
+  {
+    "adm2_code": "07006",
+    "provincia": "Elías Piña",
+    "municipio": "Juan Santiago",
+    "hogares_total": 1102,
+    "poblacion_en_hogares": 3464,
+    "personas_por_hogar": 3.143375680580762
+  },
+  {
+    "adm2_code": "08001",
+    "provincia": "El Seibo",
+    "municipio": "El Seibo",
+    "hogares_total": 25696,
+    "poblacion_en_hogares": 71795,
+    "personas_por_hogar": 2.7940146326276465
+  },
+  {
+    "adm2_code": "08002",
+    "provincia": "El Seibo",
+    "municipio": "Miches",
+    "hogares_total": 9572,
+    "poblacion_en_hogares": 26370,
+    "personas_por_hogar": 2.754910154617635
+  },
+  {
+    "adm2_code": "09001",
+    "provincia": "Espaillat",
+    "municipio": "Moca",
+    "hogares_total": 54913,
+    "poblacion_en_hogares": 162694,
+    "personas_por_hogar": 2.962759273760312
+  },
+  {
+    "adm2_code": "09002",
+    "provincia": "Espaillat",
+    "municipio": "Cayetano Germosén",
+    "hogares_total": 2996,
+    "poblacion_en_hogares": 7958,
+    "personas_por_hogar": 2.656208277703605
+  },
+  {
+    "adm2_code": "09003",
+    "provincia": "Espaillat",
+    "municipio": "Gaspar Hernández",
+    "hogares_total": 15090,
+    "poblacion_en_hogares": 40732,
+    "personas_por_hogar": 2.699271040424122
+  },
+  {
+    "adm2_code": "09004",
+    "provincia": "Espaillat",
+    "municipio": "Jamao Al Norte",
+    "hogares_total": 2883,
+    "poblacion_en_hogares": 7976,
+    "personas_por_hogar": 2.766562608394034
+  },
+  {
+    "adm2_code": "09005",
+    "provincia": "Espaillat",
+    "municipio": "San Víctor",
+    "hogares_total": 6588,
+    "poblacion_en_hogares": 20301,
+    "personas_por_hogar": 3.0815118397085612
+  },
+  {
+    "adm2_code": "10001",
+    "provincia": "Independencia",
+    "municipio": "Jimaní",
+    "hogares_total": 5852,
+    "poblacion_en_hogares": 19123,
+    "personas_por_hogar": 3.267771701982228
+  },
+  {
+    "adm2_code": "10002",
+    "provincia": "Independencia",
+    "municipio": "Duvergé",
+    "hogares_total": 4445,
+    "poblacion_en_hogares": 14120,
+    "personas_por_hogar": 3.1766029246344205
+  },
+  {
+    "adm2_code": "10003",
+    "provincia": "Independencia",
+    "municipio": "La Descubierta",
+    "hogares_total": 2376,
+    "poblacion_en_hogares": 8070,
+    "personas_por_hogar": 3.3964646464646466
+  },
+  {
+    "adm2_code": "10004",
+    "provincia": "Independencia",
+    "municipio": "Postrer Río",
+    "hogares_total": 2173,
+    "poblacion_en_hogares": 7179,
+    "personas_por_hogar": 3.3037275655775424
+  },
+  {
+    "adm2_code": "10005",
+    "provincia": "Independencia",
+    "municipio": "Cristóbal",
+    "hogares_total": 2412,
+    "poblacion_en_hogares": 7617,
+    "personas_por_hogar": 3.1579601990049753
+  },
+  {
+    "adm2_code": "10006",
+    "provincia": "Independencia",
+    "municipio": "Mella",
+    "hogares_total": 1485,
+    "poblacion_en_hogares": 4516,
+    "personas_por_hogar": 3.0410774410774413
+  },
+  {
+    "adm2_code": "11001",
+    "provincia": "La Altagracia",
+    "municipio": "Higüey",
+    "hogares_total": 160056,
+    "poblacion_en_hogares": 414221,
+    "personas_por_hogar": 2.5879754585894936
+  },
+  {
+    "adm2_code": "11002",
+    "provincia": "La Altagracia",
+    "municipio": "San Rafael del Yuma",
+    "hogares_total": 12363,
+    "poblacion_en_hogares": 30941,
+    "personas_por_hogar": 2.5027096982932946
+  },
+  {
+    "adm2_code": "12001",
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "hogares_total": 53573,
+    "poblacion_en_hogares": 152687,
+    "personas_por_hogar": 2.850073731170552
+  },
+  {
+    "adm2_code": "12002",
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "hogares_total": 5432,
+    "poblacion_en_hogares": 17216,
+    "personas_por_hogar": 3.169366715758468
+  },
+  {
+    "adm2_code": "12003",
+    "provincia": "La Romana",
+    "municipio": "Villa Hermosa",
+    "hogares_total": 37378,
+    "poblacion_en_hogares": 116730,
+    "personas_por_hogar": 3.1229600299641502
+  },
+  {
+    "adm2_code": "13001",
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "hogares_total": 96210,
+    "poblacion_en_hogares": 278268,
+    "personas_por_hogar": 2.89229809791082
+  },
+  {
+    "adm2_code": "13002",
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "hogares_total": 23946,
+    "poblacion_en_hogares": 66220,
+    "personas_por_hogar": 2.7653887914474233
+  },
+  {
+    "adm2_code": "13003",
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "hogares_total": 23382,
+    "poblacion_en_hogares": 64672,
+    "personas_por_hogar": 2.765888290137713
+  },
+  {
+    "adm2_code": "13004",
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "hogares_total": 10043,
+    "poblacion_en_hogares": 29218,
+    "personas_por_hogar": 2.9092900527730756
+  },
+  {
+    "adm2_code": "14001",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "Nagua",
+    "hogares_total": 29198,
+    "poblacion_en_hogares": 81042,
+    "personas_por_hogar": 2.77560106856634
+  },
+  {
+    "adm2_code": "14002",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "Cabrera",
+    "hogares_total": 10890,
+    "poblacion_en_hogares": 28664,
+    "personas_por_hogar": 2.632139577594123
+  },
+  {
+    "adm2_code": "14003",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "El Factor",
+    "hogares_total": 10928,
+    "poblacion_en_hogares": 29730,
+    "personas_por_hogar": 2.7205344070278183
+  },
+  {
+    "adm2_code": "14004",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "Río San Juan",
+    "hogares_total": 6405,
+    "poblacion_en_hogares": 16792,
+    "personas_por_hogar": 2.6217017954722874
+  },
+  {
+    "adm2_code": "15001",
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "hogares_total": 10115,
+    "poblacion_en_hogares": 26494,
+    "personas_por_hogar": 2.6192782995551163
+  },
+  {
+    "adm2_code": "15002",
+    "provincia": "Monte Cristi",
+    "municipio": "Castañuelas",
+    "hogares_total": 7234,
+    "poblacion_en_hogares": 18083,
+    "personas_por_hogar": 2.4997235277854575
+  },
+  {
+    "adm2_code": "15003",
+    "provincia": "Monte Cristi",
+    "municipio": "Guayubín",
+    "hogares_total": 14598,
+    "poblacion_en_hogares": 38563,
+    "personas_por_hogar": 2.641663241539937
+  },
+  {
+    "adm2_code": "15004",
+    "provincia": "Monte Cristi",
+    "municipio": "Las Matas de Santa Cruz",
+    "hogares_total": 4123,
+    "poblacion_en_hogares": 10967,
+    "personas_por_hogar": 2.659956342469076
+  },
+  {
+    "adm2_code": "15005",
+    "provincia": "Monte Cristi",
+    "municipio": "Pepillo Salcedo",
+    "hogares_total": 3944,
+    "poblacion_en_hogares": 10507,
+    "personas_por_hogar": 2.664046653144016
+  },
+  {
+    "adm2_code": "15006",
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "hogares_total": 6142,
+    "poblacion_en_hogares": 16185,
+    "personas_por_hogar": 2.635135135135135
+  },
+  {
+    "adm2_code": "16001",
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "hogares_total": 7342,
+    "poblacion_en_hogares": 24312,
+    "personas_por_hogar": 3.3113593026423316
+  },
+  {
+    "adm2_code": "16002",
+    "provincia": "Pedernales",
+    "municipio": "Oviedo",
+    "hogares_total": 3148,
+    "poblacion_en_hogares": 9936,
+    "personas_por_hogar": 3.156289707750953
+  },
+  {
+    "adm2_code": "17001",
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "hogares_total": 53021,
+    "poblacion_en_hogares": 157033,
+    "personas_por_hogar": 2.961713283416005
+  },
+  {
+    "adm2_code": "17002",
+    "provincia": "Peravia",
+    "municipio": "Nizao",
+    "hogares_total": 10335,
+    "poblacion_en_hogares": 32178,
+    "personas_por_hogar": 3.113497822931785
+  },
+  {
+    "adm2_code": "17003",
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "hogares_total": 6741,
+    "poblacion_en_hogares": 19152,
+    "personas_por_hogar": 2.8411214953271027
+  },
+  {
+    "adm2_code": "18001",
+    "provincia": "Puerto Plata",
+    "municipio": "Puerto Plata",
+    "hogares_total": 59241,
+    "poblacion_en_hogares": 161369,
+    "personas_por_hogar": 2.7239411893789773
+  },
+  {
+    "adm2_code": "18002",
+    "provincia": "Puerto Plata",
+    "municipio": "Altamira",
+    "hogares_total": 7149,
+    "poblacion_en_hogares": 17664,
+    "personas_por_hogar": 2.4708350818296263
+  },
+  {
+    "adm2_code": "18003",
+    "provincia": "Puerto Plata",
+    "municipio": "Guananico",
+    "hogares_total": 2447,
+    "poblacion_en_hogares": 6451,
+    "personas_por_hogar": 2.636289333878218
+  },
+  {
+    "adm2_code": "18004",
+    "provincia": "Puerto Plata",
+    "municipio": "Imbert",
+    "hogares_total": 8905,
+    "poblacion_en_hogares": 22912,
+    "personas_por_hogar": 2.572936552498596
+  },
+  {
+    "adm2_code": "18005",
+    "provincia": "Puerto Plata",
+    "municipio": "Los Hidalgos",
+    "hogares_total": 4814,
+    "poblacion_en_hogares": 13572,
+    "personas_por_hogar": 2.819277108433735
+  },
+  {
+    "adm2_code": "18006",
+    "provincia": "Puerto Plata",
+    "municipio": "Luperón",
+    "hogares_total": 6575,
+    "poblacion_en_hogares": 17496,
+    "personas_por_hogar": 2.6609885931558934
+  },
+  {
+    "adm2_code": "18007",
+    "provincia": "Puerto Plata",
+    "municipio": "Sosúa",
+    "hogares_total": 21065,
+    "poblacion_en_hogares": 56810,
+    "personas_por_hogar": 2.696890576786138
+  },
+  {
+    "adm2_code": "18008",
+    "provincia": "Puerto Plata",
+    "municipio": "Villa Isabela",
+    "hogares_total": 7153,
+    "poblacion_en_hogares": 20148,
+    "personas_por_hogar": 2.8167202572347265
+  },
+  {
+    "adm2_code": "18009",
+    "provincia": "Puerto Plata",
+    "municipio": "Villa Montellano",
+    "hogares_total": 7698,
+    "poblacion_en_hogares": 20711,
+    "personas_por_hogar": 2.6904390750844374
+  },
+  {
+    "adm2_code": "19001",
+    "provincia": "Hermanas Mirabal",
+    "municipio": "Salcedo",
+    "hogares_total": 14698,
+    "poblacion_en_hogares": 41152,
+    "personas_por_hogar": 2.7998367124778882
+  },
+  {
+    "adm2_code": "19002",
+    "provincia": "Hermanas Mirabal",
+    "municipio": "Tenares",
+    "hogares_total": 10449,
+    "poblacion_en_hogares": 28917,
+    "personas_por_hogar": 2.7674418604651163
+  },
+  {
+    "adm2_code": "19003",
+    "provincia": "Hermanas Mirabal",
+    "municipio": "Villa Tapia",
+    "hogares_total": 8983,
+    "poblacion_en_hogares": 26141,
+    "personas_por_hogar": 2.9100523210508737
+  },
+  {
+    "adm2_code": "20001",
+    "provincia": "Samaná",
+    "municipio": "Samaná",
+    "hogares_total": 21952,
+    "poblacion_en_hogares": 60590,
+    "personas_por_hogar": 2.760112973760933
+  },
+  {
+    "adm2_code": "20002",
+    "provincia": "Samaná",
+    "municipio": "Sánchez",
+    "hogares_total": 9374,
+    "poblacion_en_hogares": 25367,
+    "personas_por_hogar": 2.7061019842116494
+  },
+  {
+    "adm2_code": "20003",
+    "provincia": "Samaná",
+    "municipio": "Las Terrenas",
+    "hogares_total": 9722,
+    "poblacion_en_hogares": 25579,
+    "personas_por_hogar": 2.631042995268463
+  },
+  {
+    "adm2_code": "21001",
+    "provincia": "San Cristóbal",
+    "municipio": "San Cristóbal",
+    "hogares_total": 88583,
+    "poblacion_en_hogares": 274538,
+    "personas_por_hogar": 3.0992176828511115
+  },
+  {
+    "adm2_code": "21002",
+    "provincia": "San Cristóbal",
+    "municipio": "Sabana Grande de Palenque",
+    "hogares_total": 5680,
+    "poblacion_en_hogares": 18298,
+    "personas_por_hogar": 3.2214788732394366
+  },
+  {
+    "adm2_code": "21003",
+    "provincia": "San Cristóbal",
+    "municipio": "Bajos de Haina",
+    "hogares_total": 53277,
+    "poblacion_en_hogares": 159567,
+    "personas_por_hogar": 2.9950447660341237
+  },
+  {
+    "adm2_code": "21004",
+    "provincia": "San Cristóbal",
+    "municipio": "Cambita Garabitos",
+    "hogares_total": 10423,
+    "poblacion_en_hogares": 31677,
+    "personas_por_hogar": 3.0391442003262017
+  },
+  {
+    "adm2_code": "21005",
+    "provincia": "San Cristóbal",
+    "municipio": "Villa Altagracia",
+    "hogares_total": 32108,
+    "poblacion_en_hogares": 97546,
+    "personas_por_hogar": 3.0380590507038745
+  },
+  {
+    "adm2_code": "21006",
+    "provincia": "San Cristóbal",
+    "municipio": "Yaguate",
+    "hogares_total": 16375,
+    "poblacion_en_hogares": 51448,
+    "personas_por_hogar": 3.1418625954198474
+  },
+  {
+    "adm2_code": "21007",
+    "provincia": "San Cristóbal",
+    "municipio": "San Gregorio de Nigua",
+    "hogares_total": 12565,
+    "poblacion_en_hogares": 38197,
+    "personas_por_hogar": 3.0399522483087944
+  },
+  {
+    "adm2_code": "21008",
+    "provincia": "San Cristóbal",
+    "municipio": "Los Cacaos",
+    "hogares_total": 3992,
+    "poblacion_en_hogares": 13766,
+    "personas_por_hogar": 3.4483967935871744
+  },
+  {
+    "adm2_code": "22001",
+    "provincia": "San Juan",
+    "municipio": "San Juan",
+    "hogares_total": 48501,
+    "poblacion_en_hogares": 142114,
+    "personas_por_hogar": 2.9301251520587206
+  },
+  {
+    "adm2_code": "22002",
+    "provincia": "San Juan",
+    "municipio": "Bohechío",
+    "hogares_total": 3476,
+    "poblacion_en_hogares": 9945,
+    "personas_por_hogar": 2.861047180667434
+  },
+  {
+    "adm2_code": "22003",
+    "provincia": "San Juan",
+    "municipio": "El Cercado",
+    "hogares_total": 5783,
+    "poblacion_en_hogares": 17983,
+    "personas_por_hogar": 3.1096316790593117
+  },
+  {
+    "adm2_code": "22004",
+    "provincia": "San Juan",
+    "municipio": "Juan de Herrera",
+    "hogares_total": 4381,
+    "poblacion_en_hogares": 12563,
+    "personas_por_hogar": 2.867610134672449
+  },
+  {
+    "adm2_code": "22005",
+    "provincia": "San Juan",
+    "municipio": "Las Matas de Farfán",
+    "hogares_total": 16421,
+    "poblacion_en_hogares": 48113,
+    "personas_por_hogar": 2.9299677242555267
+  },
+  {
+    "adm2_code": "22006",
+    "provincia": "San Juan",
+    "municipio": "Vallejuelo",
+    "hogares_total": 4254,
+    "poblacion_en_hogares": 12815,
+    "personas_por_hogar": 3.0124588622472968
+  },
+  {
+    "adm2_code": "23001",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "hogares_total": 75448,
+    "poblacion_en_hogares": 216325,
+    "personas_por_hogar": 2.8672065528575974
+  },
+  {
+    "adm2_code": "23002",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Los Llanos",
+    "hogares_total": 9124,
+    "poblacion_en_hogares": 26086,
+    "personas_por_hogar": 2.8590530469092506
+  },
+  {
+    "adm2_code": "23003",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Ramón Santana",
+    "hogares_total": 3997,
+    "poblacion_en_hogares": 11097,
+    "personas_por_hogar": 2.7763322491868903
+  },
+  {
+    "adm2_code": "23004",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Consuelo",
+    "hogares_total": 13797,
+    "poblacion_en_hogares": 40486,
+    "personas_por_hogar": 2.9344060302964414
+  },
+  {
+    "adm2_code": "23005",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Quisqueya",
+    "hogares_total": 7640,
+    "poblacion_en_hogares": 22681,
+    "personas_por_hogar": 2.968717277486911
+  },
+  {
+    "adm2_code": "23006",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Guayacanes",
+    "hogares_total": 6893,
+    "poblacion_en_hogares": 19129,
+    "personas_por_hogar": 2.7751341941099668
+  },
+  {
+    "adm2_code": "24001",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Cotuí",
+    "hogares_total": 29915,
+    "poblacion_en_hogares": 83770,
+    "personas_por_hogar": 2.8002674243690455
+  },
+  {
+    "adm2_code": "24002",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Cevicos",
+    "hogares_total": 5837,
+    "poblacion_en_hogares": 16311,
+    "personas_por_hogar": 2.794414939181086
+  },
+  {
+    "adm2_code": "24003",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Fantino",
+    "hogares_total": 8349,
+    "poblacion_en_hogares": 23772,
+    "personas_por_hogar": 2.847287100251527
+  },
+  {
+    "adm2_code": "24004",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Villa La Mata",
+    "hogares_total": 13398,
+    "poblacion_en_hogares": 38284,
+    "personas_por_hogar": 2.857441409165547
+  },
+  {
+    "adm2_code": "25001",
+    "provincia": "Santiago",
+    "municipio": "Santiago",
+    "hogares_total": 272180,
+    "poblacion_en_hogares": 766284,
+    "personas_por_hogar": 2.8153574840179294
+  },
+  {
+    "adm2_code": "25002",
+    "provincia": "Santiago",
+    "municipio": "Bisonó",
+    "hogares_total": 17181,
+    "poblacion_en_hogares": 48458,
+    "personas_por_hogar": 2.820441185029975
+  },
+  {
+    "adm2_code": "25003",
+    "provincia": "Santiago",
+    "municipio": "Jánico",
+    "hogares_total": 5252,
+    "poblacion_en_hogares": 14350,
+    "personas_por_hogar": 2.7322924600152323
+  },
+  {
+    "adm2_code": "25004",
+    "provincia": "Santiago",
+    "municipio": "Licey al Medio",
+    "hogares_total": 9956,
+    "poblacion_en_hogares": 29724,
+    "personas_por_hogar": 2.985536359983929
+  },
+  {
+    "adm2_code": "25005",
+    "provincia": "Santiago",
+    "municipio": "San José de Las Matas",
+    "hogares_total": 13028,
+    "poblacion_en_hogares": 37273,
+    "personas_por_hogar": 2.8609917101627262
+  },
+  {
+    "adm2_code": "25006",
+    "provincia": "Santiago",
+    "municipio": "Tamboril",
+    "hogares_total": 19888,
+    "poblacion_en_hogares": 56995,
+    "personas_por_hogar": 2.865798471440064
+  },
+  {
+    "adm2_code": "25007",
+    "provincia": "Santiago",
+    "municipio": "Villa González",
+    "hogares_total": 14456,
+    "poblacion_en_hogares": 41816,
+    "personas_por_hogar": 2.892639734366353
+  },
+  {
+    "adm2_code": "25008",
+    "provincia": "Santiago",
+    "municipio": "Puñal",
+    "hogares_total": 15621,
+    "poblacion_en_hogares": 45773,
+    "personas_por_hogar": 2.930222136867038
+  },
+  {
+    "adm2_code": "25009",
+    "provincia": "Santiago",
+    "municipio": "Sabana Iglesia",
+    "hogares_total": 5222,
+    "poblacion_en_hogares": 13972,
+    "personas_por_hogar": 2.675603217158177
+  },
+  {
+    "adm2_code": "25010",
+    "provincia": "Santiago",
+    "municipio": "Baitoa",
+    "hogares_total": 3919,
+    "poblacion_en_hogares": 11674,
+    "personas_por_hogar": 2.978821127838734
+  },
+  {
+    "adm2_code": "26001",
+    "provincia": "Santiago Rodríguez",
+    "municipio": "San Ignacio de Sabaneta",
+    "hogares_total": 13948,
+    "poblacion_en_hogares": 38609,
+    "personas_por_hogar": 2.7680671063951823
+  },
+  {
+    "adm2_code": "26002",
+    "provincia": "Santiago Rodríguez",
+    "municipio": "Villa Los Almácigos",
+    "hogares_total": 4062,
+    "poblacion_en_hogares": 11808,
+    "personas_por_hogar": 2.9069423929098965
+  },
+  {
+    "adm2_code": "26003",
+    "provincia": "Santiago Rodríguez",
+    "municipio": "Monción",
+    "hogares_total": 4884,
+    "poblacion_en_hogares": 13993,
+    "personas_por_hogar": 2.865069615069615
+  },
+  {
+    "adm2_code": "27001",
+    "provincia": "Valverde",
+    "municipio": "Mao",
+    "hogares_total": 31178,
+    "poblacion_en_hogares": 85756,
+    "personas_por_hogar": 2.7505292193213164
+  },
+  {
+    "adm2_code": "27002",
+    "provincia": "Valverde",
+    "municipio": "Esperanza",
+    "hogares_total": 24105,
+    "poblacion_en_hogares": 68340,
+    "personas_por_hogar": 2.8350964530180462
+  },
+  {
+    "adm2_code": "27003",
+    "provincia": "Valverde",
+    "municipio": "Laguna Salada",
+    "hogares_total": 10318,
+    "poblacion_en_hogares": 27460,
+    "personas_por_hogar": 2.6613684822640047
+  },
+  {
+    "adm2_code": "28001",
+    "provincia": "Monseñor Nouel",
+    "municipio": "Bonao",
+    "hogares_total": 50536,
+    "poblacion_en_hogares": 144525,
+    "personas_por_hogar": 2.859842488523033
+  },
+  {
+    "adm2_code": "28002",
+    "provincia": "Monseñor Nouel",
+    "municipio": "Maimón",
+    "hogares_total": 8274,
+    "poblacion_en_hogares": 23866,
+    "personas_por_hogar": 2.884457336233986
+  },
+  {
+    "adm2_code": "28003",
+    "provincia": "Monseñor Nouel",
+    "municipio": "Piedra Blanca",
+    "hogares_total": 9340,
+    "poblacion_en_hogares": 26646,
+    "personas_por_hogar": 2.8528907922912206
+  },
+  {
+    "adm2_code": "29001",
+    "provincia": "Monte Plata",
+    "municipio": "Monte Plata",
+    "hogares_total": 19349,
+    "poblacion_en_hogares": 52686,
+    "personas_por_hogar": 2.7229314176443227
+  },
+  {
+    "adm2_code": "29002",
+    "provincia": "Monte Plata",
+    "municipio": "Bayaguana",
+    "hogares_total": 13005,
+    "poblacion_en_hogares": 35358,
+    "personas_por_hogar": 2.718800461361015
+  },
+  {
+    "adm2_code": "29003",
+    "provincia": "Monte Plata",
+    "municipio": "Sabana Grande de Boyá",
+    "hogares_total": 12146,
+    "poblacion_en_hogares": 34880,
+    "personas_por_hogar": 2.8717273176354357
+  },
+  {
+    "adm2_code": "29004",
+    "provincia": "Monte Plata",
+    "municipio": "Yamasá",
+    "hogares_total": 21557,
+    "poblacion_en_hogares": 63931,
+    "personas_por_hogar": 2.9656724033956485
+  },
+  {
+    "adm2_code": "29005",
+    "provincia": "Monte Plata",
+    "municipio": "Peralvillo",
+    "hogares_total": 6402,
+    "poblacion_en_hogares": 18165,
+    "personas_por_hogar": 2.837394564198688
+  },
+  {
+    "adm2_code": "30001",
+    "provincia": "Hato Mayor",
+    "municipio": "Hato Mayor",
+    "hogares_total": 25241,
+    "poblacion_en_hogares": 70509,
+    "personas_por_hogar": 2.793431322055386
+  },
+  {
+    "adm2_code": "30002",
+    "provincia": "Hato Mayor",
+    "municipio": "Sabana de La Mar",
+    "hogares_total": 7119,
+    "poblacion_en_hogares": 19607,
+    "personas_por_hogar": 2.7541789577187807
+  },
+  {
+    "adm2_code": "30003",
+    "provincia": "Hato Mayor",
+    "municipio": "El Valle",
+    "hogares_total": 3856,
+    "poblacion_en_hogares": 9851,
+    "personas_por_hogar": 2.554719917012448
+  },
+  {
+    "adm2_code": "31001",
+    "provincia": "San José de Ocoa",
+    "municipio": "San José de Ocoa",
+    "hogares_total": 16200,
+    "poblacion_en_hogares": 43378,
+    "personas_por_hogar": 2.677654320987654
+  },
+  {
+    "adm2_code": "31002",
+    "provincia": "San José de Ocoa",
+    "municipio": "Sabana Larga",
+    "hogares_total": 4379,
+    "poblacion_en_hogares": 11629,
+    "personas_por_hogar": 2.6556291390728477
+  },
+  {
+    "adm2_code": "31003",
+    "provincia": "San José de Ocoa",
+    "municipio": "Rancho Arriba",
+    "hogares_total": 5451,
+    "poblacion_en_hogares": 14051,
+    "personas_por_hogar": 2.5776921665749404
+  },
+  {
+    "adm2_code": "32001",
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "hogares_total": 351360,
+    "poblacion_en_hogares": 1028301,
+    "personas_por_hogar": 2.926630806010929
+  },
+  {
+    "adm2_code": "32002",
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Oeste",
+    "hogares_total": 143144,
+    "poblacion_en_hogares": 409919,
+    "personas_por_hogar": 2.8636827250880232
+  },
+  {
+    "adm2_code": "32003",
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "hogares_total": 224697,
+    "poblacion_en_hogares": 667500,
+    "personas_por_hogar": 2.9706671651156893
+  },
+  {
+    "adm2_code": "32004",
+    "provincia": "Santo Domingo",
+    "municipio": "Boca Chica",
+    "hogares_total": 56593,
+    "poblacion_en_hogares": 166700,
+    "personas_por_hogar": 2.945593978053823
+  },
+  {
+    "adm2_code": "32005",
+    "provincia": "Santo Domingo",
+    "municipio": "San Antonio de Guerra",
+    "hogares_total": 20885,
+    "poblacion_en_hogares": 59205,
+    "personas_por_hogar": 2.8348096720134066
+  },
+  {
+    "adm2_code": "32006",
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "hogares_total": 111928,
+    "poblacion_en_hogares": 336162,
+    "personas_por_hogar": 3.0033771710385246
+  },
+  {
+    "adm2_code": "32007",
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "hogares_total": 31206,
+    "poblacion_en_hogares": 92605,
+    "personas_por_hogar": 2.9675382939178365
+  }
+]

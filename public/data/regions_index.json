@@ -1,0 +1,94 @@
+[
+    {
+        "id": "ozama",
+        "name": "Ozama",
+        "provincias": [
+            "Distrito Nacional",
+            "Santo Domingo"
+        ]
+    },
+    {
+        "id": "cibao_norte",
+        "name": "Cibao Norte",
+        "provincias": [
+            "Santiago",
+            "Puerto Plata",
+            "Espaillat"
+        ]
+    },
+    {
+        "id": "cibao_sur",
+        "name": "Cibao Sur",
+        "provincias": [
+            "La Vega",
+            "Monseñor Nouel",
+            "Sánchez Ramírez"
+        ]
+    },
+    {
+        "id": "cibao_nordeste",
+        "name": "Cibao Nordeste",
+        "provincias": [
+            "Duarte",
+            "María Trinidad Sánchez",
+            "Hermanas Mirabal",
+            "Samaná"
+        ]
+    },
+    {
+        "id": "cibao_noroeste",
+        "name": "Cibao Noroeste",
+        "provincias": [
+            "Valverde",
+            "Monte Cristi",
+            "Santiago Rodríguez",
+            "Dajabón"
+        ]
+    },
+    {
+        "id": "valdesia",
+        "name": "Valdesia",
+        "provincias": [
+            "San Cristóbal",
+            "Peravia",
+            "San José de Ocoa"
+        ]
+    },
+    {
+        "id": "enriquillo",
+        "name": "Enriquillo",
+        "provincias": [
+            "Barahona",
+            "Baoruco",
+            "Independencia",
+            "Pedernales"
+        ]
+    },
+    {
+        "id": "el_valle",
+        "name": "El Valle",
+        "provincias": [
+            "San Juan",
+            "Azua",
+            "Elías Piña"
+        ]
+    },
+    {
+        "id": "yuma",
+        "name": "Yuma",
+        "provincias": [
+            "La Romana",
+            "La Altagracia",
+            "El Seibo"
+        ]
+    },
+    {
+        "id": "higuamo",
+        "name": "Higuamo",
+        "provincias": [
+            "San Pedro de Macorís",
+            "Hato Mayor",
+            "Monte Plata"
+        ]
+    }
+]

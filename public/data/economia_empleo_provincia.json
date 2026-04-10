@@ -1,0 +1,4383 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "dee_2024": {
+      "total_establishments": 39253,
+      "total_employees": 1244797.5,
+      "avg_employees_per_establishment": 31.71,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 30826,
+          "employees": 101580,
+          "employees_share": 0.0816
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 6615,
+          "employees": 140983,
+          "employees_share": 0.1133
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 1112,
+          "employees": 94283.6,
+          "employees_share": 0.0757
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 700,
+          "employees": 907950.9,
+          "employees_share": 0.7294
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 215,
+          "employees": 517649.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 11015,
+          "employees": 159375,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 1372,
+          "employees": 83252.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 1287,
+          "employees": 78257.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 2022,
+          "employees": 52843.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 5727,
+          "employees": 49693.8,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Azua",
+    "dee_2024": {
+      "total_establishments": 708,
+      "total_employees": 8411.800000000001,
+      "avg_employees_per_establishment": 11.88,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 538,
+          "employees": 1881.1,
+          "employees_share": 0.2236
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 148,
+          "employees": 3559.2999999999993,
+          "employees_share": 0.4231
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 18,
+          "employees": 1538.1,
+          "employees_share": 0.1829
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 4,
+          "employees": 1433.5,
+          "employees_share": 0.1704
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 302,
+          "employees": 2493.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 23,
+          "employees": 887.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 24,
+          "employees": 1590.8999999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 27,
+          "employees": 784.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 109,
+          "employees": 570.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 15,
+          "employees": 396.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 13,
+          "employees": 72.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 2,
+          "employees": 18.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 11,
+          "employees": 123.89999999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 1,
+          "employees": 4.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 2,
+          "employees": 24,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 1,
+          "employees": 5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 1,
+          "employees": 29.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "E",
+          "label": "Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",
+          "establishments": 1,
+          "employees": 8,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Baoruco",
+    "dee_2024": {
+      "total_establishments": 202,
+      "total_employees": 2340.3,
+      "avg_employees_per_establishment": 11.59,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 175,
+          "employees": 528.4,
+          "employees_share": 0.2258
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 21,
+          "employees": 402.3,
+          "employees_share": 0.1719
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 4,
+          "employees": 395.79999999999995,
+          "employees_share": 0.1691
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 2,
+          "employees": 1013.8,
+          "employees_share": 0.4332
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 7,
+          "employees": 1342.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 95,
+          "employees": 419.99999999999994,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 6,
+          "employees": 162.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 9,
+          "employees": 81.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 42,
+          "employees": 124.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 7,
+          "employees": 55.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 1,
+          "employees": 2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 3,
+          "employees": 11.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "E",
+          "label": "Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",
+          "establishments": 2,
+          "employees": 6.4,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Barahona",
+    "dee_2024": {
+      "total_establishments": 665,
+      "total_employees": 10699.000000000002,
+      "avg_employees_per_establishment": 16.09,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 526,
+          "employees": 1803.2999999999997,
+          "employees_share": 0.1685
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 109,
+          "employees": 2186.4,
+          "employees_share": 0.2044
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 19,
+          "employees": 1571.6,
+          "employees_share": 0.1469
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 11,
+          "employees": 5137.8,
+          "employees_share": 0.4802
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 38,
+          "employees": 3710.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 242,
+          "employees": 1713.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 40,
+          "employees": 559.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 15,
+          "employees": 406.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 104,
+          "employees": 555.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 41,
+          "employees": 540.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 11,
+          "employees": 1334.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 2,
+          "employees": 5.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 5,
+          "employees": 394.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 6,
+          "employees": 27.700000000000003,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 2,
+          "employees": 22.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 5,
+          "employees": 16.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "E",
+          "label": "Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",
+          "establishments": 2,
+          "employees": 3.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 1,
+          "employees": 1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 1,
+          "employees": 2,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Dajabón",
+    "dee_2024": {
+      "total_establishments": 357,
+      "total_employees": 3905.3999999999996,
+      "avg_employees_per_establishment": 10.94,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 296,
+          "employees": 1132.8,
+          "employees_share": 0.2901
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 52,
+          "employees": 1088.8999999999999,
+          "employees_share": 0.2788
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 4,
+          "employees": 469.7,
+          "employees_share": 0.1203
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 5,
+          "employees": 1214.1,
+          "employees_share": 0.3109
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 149,
+          "employees": 1452.8000000000002,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 31,
+          "employees": 462.09999999999997,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 30,
+          "employees": 303.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 19,
+          "employees": 159.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 4,
+          "employees": 148.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 8,
+          "employees": 311.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 4,
+          "employees": 391.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 4,
+          "employees": 64.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 3,
+          "employees": 5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "B",
+          "label": "Explotación de minas y canteras",
+          "establishments": 1,
+          "employees": 40.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 1,
+          "employees": 9.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 1,
+          "employees": 6.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 1,
+          "employees": 4,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Duarte",
+    "dee_2024": {
+      "total_establishments": 3221,
+      "total_employees": 31664.3,
+      "avg_employees_per_establishment": 9.83,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 2645,
+          "employees": 9717.400000000001,
+          "employees_share": 0.3069
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 503,
+          "employees": 10526.3,
+          "employees_share": 0.3324
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 53,
+          "employees": 4638.2,
+          "employees_share": 0.1465
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 20,
+          "employees": 6782.299999999999,
+          "employees_share": 0.2142
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 1124,
+          "employees": 9296.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 334,
+          "employees": 3043.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 201,
+          "employees": 2714,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 242,
+          "employees": 2451,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 179,
+          "employees": 2217.1000000000004,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 246,
+          "employees": 1963.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 13,
+          "employees": 1506.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 3,
+          "employees": 8.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 12,
+          "employees": 88.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 9,
+          "employees": 101.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 2,
+          "employees": 34.7,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Elías Piña",
+    "dee_2024": {
+      "total_establishments": 91,
+      "total_employees": 748.1999999999999,
+      "avg_employees_per_establishment": 8.22,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 68,
+          "employees": 232.2,
+          "employees_share": 0.3103
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 22,
+          "employees": 426.3,
+          "employees_share": 0.5698
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 1,
+          "employees": 89.6,
+          "employees_share": 0.1198
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 0,
+          "employees": 0,
+          "employees_share": 0
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 36,
+          "employees": 190.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 2,
+          "employees": 58.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 2,
+          "employees": 48.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 12,
+          "employees": 243.09999999999997,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 17,
+          "employees": 77.00000000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 3,
+          "employees": 26.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 1,
+          "employees": 14.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 1,
+          "employees": 14.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 3,
+          "employees": 3.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 1,
+          "employees": 5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 1,
+          "employees": 4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 1,
+          "employees": 1,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "El Seibo",
+    "dee_2024": {
+      "total_establishments": 298,
+      "total_employees": 2125.5,
+      "avg_employees_per_establishment": 7.13,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 250,
+          "employees": 867.5,
+          "employees_share": 0.4081
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 43,
+          "employees": 784.8,
+          "employees_share": 0.3692
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 4,
+          "employees": 274.1,
+          "employees_share": 0.129
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 1,
+          "employees": 199.1,
+          "employees_share": 0.0937
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 115,
+          "employees": 818.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 5,
+          "employees": 260,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 19,
+          "employees": 183.60000000000002,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 37,
+          "employees": 192.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 7,
+          "employees": 90.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 13,
+          "employees": 77.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 8,
+          "employees": 52.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 4,
+          "employees": 16.7,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Espaillat",
+    "dee_2024": {
+      "total_establishments": 2337,
+      "total_employees": 33279.399999999994,
+      "avg_employees_per_establishment": 14.24,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 1749,
+          "employees": 6946,
+          "employees_share": 0.2087
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 520,
+          "employees": 10931.5,
+          "employees_share": 0.3285
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 47,
+          "employees": 3852.2000000000003,
+          "employees_share": 0.1158
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 21,
+          "employees": 11549.699999999999,
+          "employees_share": 0.3471
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 814,
+          "employees": 8716.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 205,
+          "employees": 6407.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 107,
+          "employees": 3879.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 138,
+          "employees": 2181.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 144,
+          "employees": 1503.3999999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 15,
+          "employees": 1847.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 22,
+          "employees": 185.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 21,
+          "employees": 198.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 6,
+          "employees": 90.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 4,
+          "employees": 48.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 1,
+          "employees": 4.5,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Independencia",
+    "dee_2024": {
+      "total_establishments": 94,
+      "total_employees": 769.7,
+      "avg_employees_per_establishment": 8.19,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 79,
+          "employees": 257.1,
+          "employees_share": 0.334
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 13,
+          "employees": 217.00000000000003,
+          "employees_share": 0.2819
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 1,
+          "employees": 53.2,
+          "employees_share": 0.0691
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 1,
+          "employees": 242.3,
+          "employees_share": 0.3148
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 3,
+          "employees": 312.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 41,
+          "employees": 176,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 15,
+          "employees": 61.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 5,
+          "employees": 18.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 5,
+          "employees": 55.099999999999994,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 3,
+          "employees": 21,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 2,
+          "employees": 27,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 2,
+          "employees": 18.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 1,
+          "employees": 4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 3,
+          "employees": 21.6,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "La Altagracia",
+    "dee_2024": {
+      "total_establishments": 5440,
+      "total_employees": 118438.8,
+      "avg_employees_per_establishment": 21.77,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 4300,
+          "employees": 15239.8,
+          "employees_share": 0.1287
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 938,
+          "employees": 18962.399999999998,
+          "employees_share": 0.1601
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 114,
+          "employees": 8643,
+          "employees_share": 0.073
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 88,
+          "employees": 75593.5,
+          "employees_share": 0.6382
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 470,
+          "employees": 59494.299999999996,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 1507,
+          "employees": 11810.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 391,
+          "employees": 7781.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 326,
+          "employees": 7595.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 517,
+          "employees": 6234.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 496,
+          "employees": 4705.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 27,
+          "employees": 172.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 3,
+          "employees": 125.7,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "La Romana",
+    "dee_2024": {
+      "total_establishments": 2441,
+      "total_employees": 44786.100000000006,
+      "avg_employees_per_establishment": 18.35,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 1920,
+          "employees": 6711.099999999999,
+          "employees_share": 0.1498
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 448,
+          "employees": 9109.5,
+          "employees_share": 0.2034
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 49,
+          "employees": 4067.4,
+          "employees_share": 0.0908
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 24,
+          "employees": 24897.9,
+          "employees_share": 0.5559
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 131,
+          "employees": 17858.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 676,
+          "employees": 6420.599999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 184,
+          "employees": 4530,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 86,
+          "employees": 2076.2000000000003,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 93,
+          "employees": 1515.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 236,
+          "employees": 1502.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 3,
+          "employees": 513.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 2,
+          "employees": 15.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 3,
+          "employees": 578.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 16,
+          "employees": 426.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 22,
+          "employees": 155.5,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "La Vega",
+    "dee_2024": {
+      "total_establishments": 4692,
+      "total_employees": 52250.9,
+      "avg_employees_per_establishment": 11.14,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 3751,
+          "employees": 13903.2,
+          "employees_share": 0.2661
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 811,
+          "employees": 16553.5,
+          "employees_share": 0.3168
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 94,
+          "employees": 7905.700000000001,
+          "employees_share": 0.1513
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 36,
+          "employees": 13888.5,
+          "employees_share": 0.2658
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 1831,
+          "employees": 15295.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 351,
+          "employees": 10886.800000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 370,
+          "employees": 3623,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 346,
+          "employees": 3577.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 149,
+          "employees": 2109.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 210,
+          "employees": 3096.3999999999996,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 7,
+          "employees": 285.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 4,
+          "employees": 330.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 92,
+          "employees": 772.9,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "dee_2024": {
+      "total_establishments": 1289,
+      "total_employees": 9818,
+      "avg_employees_per_establishment": 7.62,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 1064,
+          "employees": 4025.6,
+          "employees_share": 0.41
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 208,
+          "employees": 3796.1999999999994,
+          "employees_share": 0.3867
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 13,
+          "employees": 1182.8,
+          "employees_share": 0.1205
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 4,
+          "employees": 813.3,
+          "employees_share": 0.0828
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 490,
+          "employees": 3175.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 133,
+          "employees": 1350,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 47,
+          "employees": 556.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 7,
+          "employees": 602.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 91,
+          "employees": 554.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 72,
+          "employees": 507,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 20,
+          "employees": 304.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 34,
+          "employees": 174.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 21,
+          "employees": 214.6,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "dee_2024": {
+      "total_establishments": 782,
+      "total_employees": 9789.699999999999,
+      "avg_employees_per_establishment": 12.52,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 616,
+          "employees": 2070.7999999999997,
+          "employees_share": 0.2115
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 133,
+          "employees": 2713.2000000000003,
+          "employees_share": 0.2771
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 23,
+          "employees": 1997.6999999999998,
+          "employees_share": 0.2041
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 10,
+          "employees": 3008.1,
+          "employees_share": 0.3073
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 250,
+          "employees": 1751.1000000000004,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 173,
+          "employees": 3225.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 39,
+          "employees": 1061.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 11,
+          "employees": 905.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 77,
+          "employees": 1049.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 8,
+          "employees": 135,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 27,
+          "employees": 144.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 3,
+          "employees": 45.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 7,
+          "employees": 168.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 1,
+          "employees": 12.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 4,
+          "employees": 107.2,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Pedernales",
+    "dee_2024": {
+      "total_establishments": 87,
+      "total_employees": 1144.5,
+      "avg_employees_per_establishment": 13.16,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 77,
+          "employees": 223.89999999999998,
+          "employees_share": 0.1956
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 9,
+          "employees": 185.3,
+          "employees_share": 0.1619
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 0,
+          "employees": 0,
+          "employees_share": 0
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 1,
+          "employees": 735.2,
+          "employees_share": 0.6424
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 5,
+          "employees": 768.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 24,
+          "employees": 104.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 4,
+          "employees": 52.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 17,
+          "employees": 52.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 6,
+          "employees": 37.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 5,
+          "employees": 35.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 1,
+          "employees": 9.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 1,
+          "employees": 2.8,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Peravia",
+    "dee_2024": {
+      "total_establishments": 1152,
+      "total_employees": 13282,
+      "avg_employees_per_establishment": 11.53,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 909,
+          "employees": 3348.6,
+          "employees_share": 0.2521
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 212,
+          "employees": 4026.8,
+          "employees_share": 0.3032
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 22,
+          "employees": 1806.5000000000002,
+          "employees_share": 0.136
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 9,
+          "employees": 4099.9,
+          "employees_share": 0.3087
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 474,
+          "employees": 3615.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 72,
+          "employees": 2183.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 13,
+          "employees": 1894.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 108,
+          "employees": 1055.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 52,
+          "employees": 899.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 77,
+          "employees": 568.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 2,
+          "employees": 47.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 2,
+          "employees": 27.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 2,
+          "employees": 30,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 5,
+          "employees": 28.1,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Puerto Plata",
+    "dee_2024": {
+      "total_establishments": 4377,
+      "total_employees": 48562.40000000001,
+      "avg_employees_per_establishment": 11.09,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 3496,
+          "employees": 12982.199999999997,
+          "employees_share": 0.2673
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 758,
+          "employees": 14887.499999999998,
+          "employees_share": 0.3066
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 87,
+          "employees": 7244.499999999999,
+          "employees_share": 0.1492
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 36,
+          "employees": 13448.299999999997,
+          "employees_share": 0.2769
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 1242,
+          "employees": 10171.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 493,
+          "employees": 7301,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 172,
+          "employees": 4072.6000000000004,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 194,
+          "employees": 3320.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 195,
+          "employees": 1844.1999999999998,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 371,
+          "employees": 3476.3999999999996,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 10,
+          "employees": 1662.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 5,
+          "employees": 163.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 9,
+          "employees": 74.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 75,
+          "employees": 682.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 6,
+          "employees": 46.400000000000006,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 23,
+          "employees": 449.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 36,
+          "employees": 661.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 4,
+          "employees": 56.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 7,
+          "employees": 40.8,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "dee_2024": {
+      "total_establishments": 860,
+      "total_employees": 11349.800000000001,
+      "avg_employees_per_establishment": 13.2,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 600,
+          "employees": 2184.3,
+          "employees_share": 0.1925
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 246,
+          "employees": 7880.9,
+          "employees_share": 0.6944
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 13,
+          "employees": 1121.7,
+          "employees_share": 0.0988
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 1,
+          "employees": 162.8,
+          "employees_share": 0.0143
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 334,
+          "employees": 3589.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 44,
+          "employees": 844.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 21,
+          "employees": 804.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 32,
+          "employees": 679.8000000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 41,
+          "employees": 625.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 75,
+          "employees": 1058.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 14,
+          "employees": 263.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 7,
+          "employees": 121.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 16,
+          "employees": 119.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 2,
+          "employees": 151.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 10,
+          "employees": 63.2,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Samaná",
+    "dee_2024": {
+      "total_establishments": 949,
+      "total_employees": 7586.700000000001,
+      "avg_employees_per_establishment": 7.99,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 783,
+          "employees": 2751.2,
+          "employees_share": 0.3626
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 148,
+          "employees": 2994,
+          "employees_share": 0.3946
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 15,
+          "employees": 1190.5,
+          "employees_share": 0.1569
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 3,
+          "employees": 651.3,
+          "employees_share": 0.0858
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 240,
+          "employees": 1893.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 177,
+          "employees": 1430.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 131,
+          "employees": 828,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 34,
+          "employees": 298.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 11,
+          "employees": 197.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 5,
+          "employees": 632.9000000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 4,
+          "employees": 139.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "B",
+          "label": "Explotación de minas y canteras",
+          "establishments": 1,
+          "employees": 82.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 4,
+          "employees": 42.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 36,
+          "employees": 223.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 10,
+          "employees": 132.8,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "San Cristóbal",
+    "dee_2024": {
+      "total_establishments": 3121,
+      "total_employees": 63042.799999999996,
+      "avg_employees_per_establishment": 20.2,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 2499,
+          "employees": 8164.500000000001,
+          "employees_share": 0.1295
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 474,
+          "employees": 9935.5,
+          "employees_share": 0.1576
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 88,
+          "employees": 7591.1,
+          "employees_share": 0.1204
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 60,
+          "employees": 37351.700000000004,
+          "employees_share": 0.5925
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 1177,
+          "employees": 9956.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 340,
+          "employees": 33685.100000000006,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 74,
+          "employees": 1657.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 156,
+          "employees": 1726.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 47,
+          "employees": 1235,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 210,
+          "employees": 2031.8000000000002,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 7,
+          "employees": 844.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 1,
+          "employees": 5.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 108,
+          "employees": 1712.8000000000002,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 18,
+          "employees": 719.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 47,
+          "employees": 548.8000000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 16,
+          "employees": 157.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 5,
+          "employees": 60.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 3,
+          "employees": 34.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 1,
+          "employees": 5.2,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "San Juan",
+    "dee_2024": {
+      "total_establishments": 831,
+      "total_employees": 8342.099999999999,
+      "avg_employees_per_establishment": 10.04,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 646,
+          "employees": 2288.7,
+          "employees_share": 0.2744
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 157,
+          "employees": 3239.2999999999997,
+          "employees_share": 0.3883
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 25,
+          "employees": 1965.3,
+          "employees_share": 0.2356
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 3,
+          "employees": 848.6,
+          "employees_share": 0.1017
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 368,
+          "employees": 3160.7000000000003,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 39,
+          "employees": 860.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 21,
+          "employees": 730.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 72,
+          "employees": 681.7999999999998,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 45,
+          "employees": 466.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 81,
+          "employees": 470.29999999999995,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 9,
+          "employees": 283.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 1,
+          "employees": 1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 3,
+          "employees": 27,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 1,
+          "employees": 9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 4,
+          "employees": 21.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 2,
+          "employees": 10.1,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "dee_2024": {
+      "total_establishments": 2205,
+      "total_employees": 40162.00000000001,
+      "avg_employees_per_establishment": 18.21,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 1668,
+          "employees": 5968.599999999999,
+          "employees_share": 0.1486
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 446,
+          "employees": 9509.6,
+          "employees_share": 0.2368
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 58,
+          "employees": 4809.400000000001,
+          "employees_share": 0.1198
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 33,
+          "employees": 19874.799999999996,
+          "employees_share": 0.4949
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 174,
+          "employees": 13251.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 646,
+          "employees": 7484.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 68,
+          "employees": 3187.5999999999995,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 104,
+          "employees": 1571.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 193,
+          "employees": 2348.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 126,
+          "employees": 1296.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 17,
+          "employees": 296.59999999999997,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 6,
+          "employees": 1252.8999999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 6,
+          "employees": 430.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 37,
+          "employees": 351.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 8,
+          "employees": 16.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "E",
+          "label": "Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",
+          "establishments": 2,
+          "employees": 140,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 2,
+          "employees": 826.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 4,
+          "employees": 198.1,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "dee_2024": {
+      "total_establishments": 1173,
+      "total_employees": 14226.7,
+      "avg_employees_per_establishment": 12.13,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 965,
+          "employees": 3294.6,
+          "employees_share": 0.2316
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 176,
+          "employees": 3643.9,
+          "employees_share": 0.2561
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 23,
+          "employees": 2156.2000000000003,
+          "employees_share": 0.1516
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 9,
+          "employees": 5132.1,
+          "employees_share": 0.3607
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "B",
+          "label": "Explotación de minas y canteras",
+          "establishments": 4,
+          "employees": 3201.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 427,
+          "employees": 2917.5000000000005,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 74,
+          "employees": 639.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "N",
+          "label": "Actividades de servicios administrativos y de apoyo",
+          "establishments": 19,
+          "employees": 588,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 84,
+          "employees": 696.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 52,
+          "employees": 619.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 7,
+          "employees": 1007.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 2,
+          "employees": 5.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 3,
+          "employees": 4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 13,
+          "employees": 59.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 20,
+          "employees": 725.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 1,
+          "employees": 38.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 11,
+          "employees": 52.3,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Santiago",
+    "dee_2024": {
+      "total_establishments": 18430,
+      "total_employees": 274041.89999999997,
+      "avg_employees_per_establishment": 14.87,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 14714,
+          "employees": 52984.79999999999,
+          "employees_share": 0.1933
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 3091,
+          "employees": 64331.399999999994,
+          "employees_share": 0.2348
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 422,
+          "employees": 34311.8,
+          "employees_share": 0.1252
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 203,
+          "employees": 122413.9,
+          "employees_share": 0.4467
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 1571,
+          "employees": 76128.09999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 5727,
+          "employees": 52801.19999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 366,
+          "employees": 17609.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 1621,
+          "employees": 14595.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 1562,
+          "employees": 13403.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 1169,
+          "employees": 14398.700000000003,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 69,
+          "employees": 2362.2000000000003,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 19,
+          "employees": 616.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 94,
+          "employees": 1274.8999999999999,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 19,
+          "employees": 2238.7999999999997,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 30,
+          "employees": 1244.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 26,
+          "employees": 884,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "J",
+          "label": "Información y comunicaciones",
+          "establishments": 3,
+          "employees": 24.2,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "dee_2024": {
+      "total_establishments": 445,
+      "total_employees": 4798.4,
+      "avg_employees_per_establishment": 10.78,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 365,
+          "employees": 1411.1000000000001,
+          "employees_share": 0.2941
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 68,
+          "employees": 1399.5,
+          "employees_share": 0.2917
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 6,
+          "employees": 529.6,
+          "employees_share": 0.1104
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 6,
+          "employees": 1458.1,
+          "employees_share": 0.3039
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 179,
+          "employees": 1184.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 42,
+          "employees": 849.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 19,
+          "employees": 591.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 35,
+          "employees": 692.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 3,
+          "employees": 504.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 28,
+          "employees": 217.89999999999998,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 2,
+          "employees": 18.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 2,
+          "employees": 13.8,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Valverde",
+    "dee_2024": {
+      "total_establishments": 1588,
+      "total_employees": 19143,
+      "avg_employees_per_establishment": 12.05,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 1214,
+          "employees": 4752.200000000001,
+          "employees_share": 0.2482
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 310,
+          "employees": 7059.5,
+          "employees_share": 0.3688
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 55,
+          "employees": 4564.200000000001,
+          "employees_share": 0.2384
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 9,
+          "employees": 2766.8999999999996,
+          "employees_share": 0.1445
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 512,
+          "employees": 4693.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 235,
+          "employees": 2234.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 149,
+          "employees": 2116.7999999999997,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 115,
+          "employees": 1169.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 15,
+          "employees": 1530.6999999999998,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 80,
+          "employees": 1004.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 48,
+          "employees": 2040.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 20,
+          "employees": 891.6,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "dee_2024": {
+      "total_establishments": 1685,
+      "total_employees": 24558.5,
+      "avg_employees_per_establishment": 14.57,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 1268,
+          "employees": 4902.7,
+          "employees_share": 0.1996
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 358,
+          "employees": 7464.5,
+          "employees_share": 0.3039
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 43,
+          "employees": 3628.0000000000005,
+          "employees_share": 0.1477
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 16,
+          "employees": 8563.4,
+          "employees_share": 0.3487
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 42,
+          "employees": 4141.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 594,
+          "employees": 4631.400000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 136,
+          "employees": 4050.7999999999997,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 132,
+          "employees": 2136.6000000000004,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 96,
+          "employees": 1336.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 108,
+          "employees": 1044.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 10,
+          "employees": 367.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 5,
+          "employees": 124.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 4,
+          "employees": 379.70000000000005,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 10,
+          "employees": 249.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 2,
+          "employees": 222.5,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Monte Plata",
+    "dee_2024": {
+      "total_establishments": 434,
+      "total_employees": 3555.4,
+      "avg_employees_per_establishment": 8.19,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 371,
+          "employees": 1236.9,
+          "employees_share": 0.3479
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 55,
+          "employees": 1164.3999999999999,
+          "employees_share": 0.3275
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 7,
+          "employees": 590.3,
+          "employees_share": 0.166
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 1,
+          "employees": 563.8,
+          "employees_share": 0.1586
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 23,
+          "employees": 726.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 194,
+          "employees": 1109.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 10,
+          "employees": 389.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 22,
+          "employees": 163.90000000000003,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 16,
+          "employees": 357.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 21,
+          "employees": 147.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 8,
+          "employees": 101.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 24,
+          "employees": 103,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 1,
+          "employees": 9.2,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Hato Mayor",
+    "dee_2024": {
+      "total_establishments": 439,
+      "total_employees": 4415.7,
+      "avg_employees_per_establishment": 10.06,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 334,
+          "employees": 1147.4,
+          "employees_share": 0.2598
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 93,
+          "employees": 1943.7,
+          "employees_share": 0.4402
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 10,
+          "employees": 838.1,
+          "employees_share": 0.1898
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 2,
+          "employees": 486.6,
+          "employees_share": 0.1102
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 194,
+          "employees": 1418.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 26,
+          "employees": 673.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 20,
+          "employees": 399,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 55,
+          "employees": 387.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 8,
+          "employees": 466.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 32,
+          "employees": 220.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 2,
+          "employees": 41.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 1,
+          "employees": 12.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 1,
+          "employees": 8.7,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "dee_2024": {
+      "total_establishments": 239,
+      "total_employees": 1792.9999999999998,
+      "avg_employees_per_establishment": 7.5,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 187,
+          "employees": 658.9,
+          "employees_share": 0.3675
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 48,
+          "employees": 880,
+          "employees_share": 0.4908
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 4,
+          "employees": 254.1,
+          "employees_share": 0.1417
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 0,
+          "employees": 0,
+          "employees_share": 0
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 117,
+          "employees": 624.8000000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 13,
+          "employees": 137.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 23,
+          "employees": 156.79999999999998,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 7,
+          "employees": 200.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 12,
+          "employees": 142.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 13,
+          "employees": 80.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 6,
+          "employees": 53.900000000000006,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 2,
+          "employees": 17.8,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "E",
+          "label": "Suministro de agua; evacuación de aguas residuales, gestión de desechos y descontaminación",
+          "establishments": 1,
+          "employees": 3.8,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  },
+  {
+    "provincia": "Santo Domingo",
+    "dee_2024": {
+      "total_establishments": 20395,
+      "total_employees": 374802.39999999997,
+      "avg_employees_per_establishment": 18.38,
+      "employment_size_bands": [
+        {
+          "size_band": "micro_1_10",
+          "label": "Micro (1-10)",
+          "establishments": 16780,
+          "employees": 53603.9,
+          "employees_share": 0.143
+        },
+        {
+          "size_band": "small_11_50",
+          "label": "Pequeña (11-50)",
+          "establishments": 2901,
+          "employees": 60559.4,
+          "employees_share": 0.1616
+        },
+        {
+          "size_band": "medium_51_150",
+          "label": "Mediana (51-150)",
+          "establishments": 451,
+          "employees": 36664,
+          "employees_share": 0.0978
+        },
+        {
+          "size_band": "large_151_plus",
+          "label": "Grande (151 o más)",
+          "establishments": 263,
+          "employees": 223975.09999999998,
+          "employees_share": 0.5976
+        }
+      ],
+      "sectors": [
+        {
+          "ciiu_section": "C",
+          "label": "Industrias manufactureras",
+          "establishments": 1808,
+          "employees": 81110.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "O",
+          "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+          "establishments": 63,
+          "employees": 86586.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "G",
+          "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+          "establishments": 7432,
+          "employees": 67357.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "M",
+          "label": "Actividades profesionales, científicas y técnicas",
+          "establishments": 1190,
+          "employees": 11044.800000000001,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "P",
+          "label": "Enseñanza",
+          "establishments": 450,
+          "employees": 10374.9,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "Q",
+          "label": "Actividades de atención de la salud humana y de asistencia social",
+          "establishments": 496,
+          "employees": 11249.5,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "H",
+          "label": "Transporte y almacenamiento",
+          "establishments": 400,
+          "employees": 16236.000000000002,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "F",
+          "label": "Construcción",
+          "establishments": 577,
+          "employees": 8834.1,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "A",
+          "label": "Agricultura, ganadería, silvicultura y pesca",
+          "establishments": 52,
+          "employees": 2706.6,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "S",
+          "label": "Otras actividades de servicios",
+          "establishments": 141,
+          "employees": 1996.2,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "L",
+          "label": "Actividades inmobiliarias",
+          "establishments": 41,
+          "employees": 2264.4,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "I",
+          "label": "Actividades de alojamiento y de servicio de comidas",
+          "establishments": 95,
+          "employees": 1464.7,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "R",
+          "label": "Actividades artísticas, de entretenimiento y recreativas",
+          "establishments": 2,
+          "employees": 56.3,
+          "lq": 0
+        },
+        {
+          "ciiu_section": "K",
+          "label": "Actividades financieras y de seguros",
+          "establishments": 11,
+          "employees": 250.6,
+          "lq": 0
+        }
+      ],
+      "top_specialization": null
+    },
+    "labor_market_2022": {
+      "pet_total": 0,
+      "pet_male": 0,
+      "pet_female": 0,
+      "pea_total": 0,
+      "pea_male": 0,
+      "pea_female": 0,
+      "occupied_total": 0,
+      "occupied_male": 0,
+      "occupied_female": 0,
+      "unemployed_total": 0,
+      "unemployed_male": 0,
+      "unemployed_female": 0,
+      "participation_rate_total": 0,
+      "participation_rate_male": 0,
+      "participation_rate_female": 0,
+      "unemployment_rate_total": 0,
+      "unemployment_rate_male": 0,
+      "unemployment_rate_female": 0
+    }
+  }
+]

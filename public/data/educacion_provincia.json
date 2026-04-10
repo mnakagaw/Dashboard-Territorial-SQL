@@ -1,0 +1,1193 @@
+[
+  {
+    "provincia": "Azua",
+    "censo": {
+      "poblacion_3ymas_total": 137377,
+      "poblacion_3ymas_urbana": 120593,
+      "poblacion_3ymas_rural": 16784
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.2,
+          "promocion": 98.8,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.9,
+          "promocion": 90.1,
+          "reprobacion": 7
+        },
+        "secundario": {
+          "abandono": 6.4,
+          "promocion": 84.7,
+          "reprobacion": 8.8
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 10.8,
+        "secciones_por_centro": 11.2,
+        "secciones_por_aula": 1.2,
+        "docentes_por_centro": 22.7,
+        "alumnos_por_centro": 278.2,
+        "alumnos_por_aula": 30.5,
+        "alumnos_por_seccion": 24.8,
+        "alumnos_por_docente": 12.3
+      }
+    }
+  },
+  {
+    "provincia": "Baoruco",
+    "censo": {
+      "poblacion_3ymas_total": 67571,
+      "poblacion_3ymas_urbana": 52066,
+      "poblacion_3ymas_rural": 15505
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.1,
+          "promocion": 98.9,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 3.71,
+          "promocion": 87.69,
+          "reprobacion": 8.6
+        },
+        "secundario": {
+          "abandono": 5.88,
+          "promocion": 84.04,
+          "reprobacion": 10.08
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.59,
+        "secciones_por_centro": 9.53,
+        "secciones_por_aula": 1.36,
+        "docentes_por_centro": 22.13,
+        "alumnos_por_centro": 184.76,
+        "alumnos_por_aula": 26.25,
+        "alumnos_por_seccion": 19.38,
+        "alumnos_por_docente": 8.56
+      }
+    }
+  },
+  {
+    "provincia": "Barahona",
+    "censo": {
+      "poblacion_3ymas_total": 139532,
+      "poblacion_3ymas_urbana": 121472,
+      "poblacion_3ymas_rural": 18060
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.2,
+          "promocion": 98.8,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 3.99,
+          "promocion": 88.12,
+          "reprobacion": 7.88
+        },
+        "secundario": {
+          "abandono": 6.47,
+          "promocion": 86.84,
+          "reprobacion": 6.7
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 10,
+        "secciones_por_centro": 9.92,
+        "secciones_por_aula": 1.25,
+        "docentes_por_centro": 19.92,
+        "alumnos_por_centro": 224.41,
+        "alumnos_por_aula": 28.82,
+        "alumnos_por_seccion": 22.33,
+        "alumnos_por_docente": 12.44
+      }
+    }
+  },
+  {
+    "provincia": "Dajabón",
+    "censo": {
+      "poblacion_3ymas_total": 59702,
+      "poblacion_3ymas_urbana": 36035,
+      "poblacion_3ymas_rural": 23667
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.59,
+          "promocion": 78.9,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.79,
+          "promocion": 74.42,
+          "reprobacion": 4.24
+        },
+        "secundario": {
+          "abandono": 4.48,
+          "promocion": 71.47,
+          "reprobacion": 4.56
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 6.55,
+        "secciones_por_centro": 6.8,
+        "secciones_por_aula": 1.03,
+        "docentes_por_centro": 9.17,
+        "alumnos_por_centro": 132.32,
+        "alumnos_por_aula": 18.98,
+        "alumnos_por_seccion": 15.2,
+        "alumnos_por_docente": 11.22
+      }
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "censo": {
+      "poblacion_3ymas_total": 0,
+      "poblacion_3ymas_urbana": 0,
+      "poblacion_3ymas_rural": 0
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {},
+      "infraestructura": {}
+    }
+  },
+  {
+    "provincia": "Duarte",
+    "censo": {
+      "poblacion_3ymas_total": 219592,
+      "poblacion_3ymas_urbana": 175935,
+      "poblacion_3ymas_rural": 43657
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.91,
+          "promocion": 98.09,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.99,
+          "promocion": 94.26,
+          "reprobacion": 3.75
+        },
+        "secundario": {
+          "abandono": 5.46,
+          "promocion": 86.8,
+          "reprobacion": 7.73
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.86,
+        "secciones_por_centro": 9.27,
+        "secciones_por_aula": 1.2,
+        "docentes_por_centro": 20.04,
+        "alumnos_por_centro": 135.3,
+        "alumnos_por_aula": 17.41,
+        "alumnos_por_seccion": 14.63,
+        "alumnos_por_docente": 6.93
+      }
+    }
+  },
+  {
+    "provincia": "El Seibo",
+    "censo": {
+      "poblacion_3ymas_total": 55574,
+      "poblacion_3ymas_urbana": 38420,
+      "poblacion_3ymas_rural": 17154
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.5,
+          "promocion": 98.5,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 3.21,
+          "promocion": 87.51,
+          "reprobacion": 9.28
+        },
+        "secundario": {
+          "abandono": 5.8,
+          "promocion": 86.94,
+          "reprobacion": 7.26
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 6.8,
+        "secciones_por_centro": 8.88,
+        "secciones_por_aula": 1.46,
+        "docentes_por_centro": 9.64,
+        "alumnos_por_centro": 153.22,
+        "alumnos_por_aula": 24.76,
+        "alumnos_por_seccion": 17.29,
+        "alumnos_por_docente": 16.29
+      }
+    }
+  },
+  {
+    "provincia": "Elías Piña",
+    "censo": {
+      "poblacion_3ymas_total": 38925,
+      "poblacion_3ymas_urbana": 24410,
+      "poblacion_3ymas_rural": 14515
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 3.42,
+          "promocion": 96.58,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 6.8,
+          "promocion": 85.11,
+          "reprobacion": 8.1
+        },
+        "secundario": {
+          "abandono": 9.4,
+          "promocion": 80.13,
+          "reprobacion": 10.4
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 7.36,
+        "secciones_por_centro": 8.46,
+        "secciones_por_aula": 1.32,
+        "docentes_por_centro": 13.32,
+        "alumnos_por_centro": 198.57,
+        "alumnos_por_aula": 30,
+        "alumnos_por_seccion": 23.08,
+        "alumnos_por_docente": 14.47
+      }
+    }
+  },
+  {
+    "provincia": "Espaillat",
+    "censo": {
+      "poblacion_3ymas_total": 142181,
+      "poblacion_3ymas_urbana": 80697,
+      "poblacion_3ymas_rural": 61484
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.76,
+          "promocion": 99.24,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.02,
+          "promocion": 95.9,
+          "reprobacion": 3.09
+        },
+        "secundario": {
+          "abandono": 4.09,
+          "promocion": 89.95,
+          "reprobacion": 5.9
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 10.66,
+        "secciones_por_centro": 10.98,
+        "secciones_por_aula": 1.18,
+        "docentes_por_centro": 17.83,
+        "alumnos_por_centro": 221.5,
+        "alumnos_por_aula": 23.29,
+        "alumnos_por_seccion": 19.72,
+        "alumnos_por_docente": 11.95
+      }
+    }
+  },
+  {
+    "provincia": "Hato Mayor",
+    "censo": {
+      "poblacion_3ymas_total": 74553,
+      "poblacion_3ymas_urbana": 65474,
+      "poblacion_3ymas_rural": 9079
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 2.1,
+          "promocion": 97.9,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.09,
+          "promocion": 93.08,
+          "reprobacion": 4.83
+        },
+        "secundario": {
+          "abandono": 6.42,
+          "promocion": 87.31,
+          "reprobacion": 6.27
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 7.28,
+        "secciones_por_centro": 8.27,
+        "secciones_por_aula": 1.25,
+        "docentes_por_centro": 13.17,
+        "alumnos_por_centro": 162.05,
+        "alumnos_por_aula": 24.39,
+        "alumnos_por_seccion": 19.59,
+        "alumnos_por_docente": 12.24
+      }
+    }
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "censo": {
+      "poblacion_3ymas_total": 84511,
+      "poblacion_3ymas_urbana": 27187,
+      "poblacion_3ymas_rural": 57324
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.43,
+          "promocion": 99.57,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.1,
+          "promocion": 96.01,
+          "reprobacion": 2.89
+        },
+        "secundario": {
+          "abandono": 3.85,
+          "promocion": 87.84,
+          "reprobacion": 8.28
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.92,
+        "secciones_por_centro": 8.94,
+        "secciones_por_aula": 1.13,
+        "docentes_por_centro": 18.09,
+        "alumnos_por_centro": 133.52,
+        "alumnos_por_aula": 16.42,
+        "alumnos_por_seccion": 14.98,
+        "alumnos_por_docente": 7.17
+      }
+    }
+  },
+  {
+    "provincia": "Independencia",
+    "censo": {
+      "poblacion_3ymas_total": 38781,
+      "poblacion_3ymas_urbana": 34022,
+      "poblacion_3ymas_rural": 4759
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.2,
+          "promocion": 98.8,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 3.92,
+          "promocion": 88.27,
+          "reprobacion": 7.88
+        },
+        "secundario": {
+          "abandono": 5.15,
+          "promocion": 90.26,
+          "reprobacion": 4.49
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 10.39,
+        "secciones_por_centro": 10.44,
+        "secciones_por_aula": 1.3,
+        "docentes_por_centro": 19.8,
+        "alumnos_por_centro": 265.21,
+        "alumnos_por_aula": 33.1,
+        "alumnos_por_seccion": 25.31,
+        "alumnos_por_docente": 14.18
+      }
+    }
+  },
+  {
+    "provincia": "La Altagracia",
+    "censo": {
+      "poblacion_3ymas_total": 243999,
+      "poblacion_3ymas_urbana": 208796,
+      "poblacion_3ymas_rural": 35203
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 2.79,
+          "promocion": 97.21,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 3.11,
+          "promocion": 92.52,
+          "reprobacion": 4.37
+        },
+        "secundario": {
+          "abandono": 5.15,
+          "promocion": 86.54,
+          "reprobacion": 8.4
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 9.77,
+        "secciones_por_centro": 12.72,
+        "secciones_por_aula": 1.59,
+        "docentes_por_centro": 13.51,
+        "alumnos_por_centro": 346.64,
+        "alumnos_por_aula": 47.59,
+        "alumnos_por_seccion": 27.11,
+        "alumnos_por_docente": 28.52
+      }
+    }
+  },
+  {
+    "provincia": "La Romana",
+    "censo": {
+      "poblacion_3ymas_total": 245548,
+      "poblacion_3ymas_urbana": 233464,
+      "poblacion_3ymas_rural": 12084
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.56,
+          "promocion": 98.44,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.26,
+          "promocion": 93.68,
+          "reprobacion": 4.06
+        },
+        "secundario": {
+          "abandono": 4.49,
+          "promocion": 90.01,
+          "reprobacion": 5.49
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 17.37,
+        "secciones_por_centro": 15.35,
+        "secciones_por_aula": 1.33,
+        "docentes_por_centro": 23.68,
+        "alumnos_por_centro": 374.95,
+        "alumnos_por_aula": 35.75,
+        "alumnos_por_seccion": 24.35,
+        "alumnos_por_docente": 19.36
+      }
+    }
+  },
+  {
+    "provincia": "La Vega",
+    "censo": {
+      "poblacion_3ymas_total": 314206,
+      "poblacion_3ymas_urbana": 183878,
+      "poblacion_3ymas_rural": 130328
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.65,
+          "promocion": 99.35,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.1,
+          "promocion": 95.27,
+          "reprobacion": 3.63
+        },
+        "secundario": {
+          "abandono": 3.81,
+          "promocion": 90.62,
+          "reprobacion": 5.49
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.63,
+        "secciones_por_centro": 10.44,
+        "secciones_por_aula": 1.38,
+        "docentes_por_centro": 14.32,
+        "alumnos_por_centro": 213.22,
+        "alumnos_por_aula": 28.27,
+        "alumnos_por_seccion": 20.41,
+        "alumnos_por_docente": 14.62
+      }
+    }
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "censo": {
+      "poblacion_3ymas_total": 88107,
+      "poblacion_3ymas_urbana": 64091,
+      "poblacion_3ymas_rural": 24016
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.57,
+          "promocion": 99.43,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.32,
+          "promocion": 95.63,
+          "reprobacion": 3.09
+        },
+        "secundario": {
+          "abandono": 5.92,
+          "promocion": 87.02,
+          "reprobacion": 7.05
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 6.82,
+        "secciones_por_centro": 8.51,
+        "secciones_por_aula": 1.32,
+        "docentes_por_centro": 13.09,
+        "alumnos_por_centro": 141.12,
+        "alumnos_por_aula": 21.87,
+        "alumnos_por_seccion": 16.48,
+        "alumnos_por_docente": 10.48
+      }
+    }
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "censo": {
+      "poblacion_3ymas_total": 114507,
+      "poblacion_3ymas_urbana": 95875,
+      "poblacion_3ymas_rural": 18632
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.77,
+          "promocion": 99.23,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.12,
+          "promocion": 96.26,
+          "reprobacion": 2.62
+        },
+        "secundario": {
+          "abandono": 2.93,
+          "promocion": 92.46,
+          "reprobacion": 4.61
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 11.8,
+        "secciones_por_centro": 11.9,
+        "secciones_por_aula": 1.11,
+        "docentes_por_centro": 23.96,
+        "alumnos_por_centro": 264.32,
+        "alumnos_por_aula": 27.01,
+        "alumnos_por_seccion": 22.17,
+        "alumnos_por_docente": 10.92
+      }
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "censo": {
+      "poblacion_3ymas_total": 84980,
+      "poblacion_3ymas_urbana": 49480,
+      "poblacion_3ymas_rural": 35500
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 2.69,
+          "promocion": 97.31,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.78,
+          "promocion": 94.77,
+          "reprobacion": 2.44
+        },
+        "secundario": {
+          "abandono": 5.5,
+          "promocion": 87.89,
+          "reprobacion": 6.54
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 7.95,
+        "secciones_por_centro": 8.57,
+        "secciones_por_aula": 1.21,
+        "docentes_por_centro": 13.74,
+        "alumnos_por_centro": 186.86,
+        "alumnos_por_aula": 26.79,
+        "alumnos_por_seccion": 21.75,
+        "alumnos_por_docente": 13.88
+      }
+    }
+  },
+  {
+    "provincia": "Monte Plata",
+    "censo": {
+      "poblacion_3ymas_total": 134071,
+      "poblacion_3ymas_urbana": 79135,
+      "poblacion_3ymas_rural": 54936
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.27,
+          "promocion": 98.73,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.51,
+          "promocion": 93.89,
+          "reprobacion": 4.6
+        },
+        "secundario": {
+          "abandono": 4.24,
+          "promocion": 89.64,
+          "reprobacion": 6.12
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.32,
+        "secciones_por_centro": 9.4,
+        "secciones_por_aula": 1.3,
+        "docentes_por_centro": 14.3,
+        "alumnos_por_centro": 177.76,
+        "alumnos_por_aula": 24.44,
+        "alumnos_por_seccion": 18.85,
+        "alumnos_por_docente": 12.73
+      }
+    }
+  },
+  {
+    "provincia": "Pedernales",
+    "censo": {
+      "poblacion_3ymas_total": 23960,
+      "poblacion_3ymas_urbana": 22649,
+      "poblacion_3ymas_rural": 1311
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1,
+          "promocion": 99,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 4.6,
+          "promocion": 89.6,
+          "reprobacion": 5.8
+        },
+        "secundario": {
+          "abandono": 6.9,
+          "promocion": 85.2,
+          "reprobacion": 7.9
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.8,
+        "secciones_por_centro": 10.8,
+        "secciones_por_aula": 1.4,
+        "docentes_por_centro": 13.6,
+        "alumnos_por_centro": 301.5,
+        "alumnos_por_aula": 40.2,
+        "alumnos_por_seccion": 27.9,
+        "alumnos_por_docente": 22.5
+      }
+    }
+  },
+  {
+    "provincia": "Peravia",
+    "censo": {
+      "poblacion_3ymas_total": 129759,
+      "poblacion_3ymas_urbana": 86236,
+      "poblacion_3ymas_rural": 43523
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.6,
+          "promocion": 98.4,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.89,
+          "promocion": 90.84,
+          "reprobacion": 6.27
+        },
+        "secundario": {
+          "abandono": 5.68,
+          "promocion": 89.21,
+          "reprobacion": 5.12
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 11.01,
+        "secciones_por_centro": 12.56,
+        "secciones_por_aula": 1.38,
+        "docentes_por_centro": 20.91,
+        "alumnos_por_centro": 309.13,
+        "alumnos_por_aula": 36.68,
+        "alumnos_por_seccion": 24.67,
+        "alumnos_por_docente": 15.58
+      }
+    }
+  },
+  {
+    "provincia": "Puerto Plata",
+    "censo": {
+      "poblacion_3ymas_total": 266553,
+      "poblacion_3ymas_urbana": 168155,
+      "poblacion_3ymas_rural": 98398
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.75,
+          "promocion": 98.25,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.4,
+          "promocion": 95.37,
+          "reprobacion": 3.23
+        },
+        "secundario": {
+          "abandono": 4.14,
+          "promocion": 90.23,
+          "reprobacion": 5.62
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 9.76,
+        "secciones_por_centro": 11.26,
+        "secciones_por_aula": 1.43,
+        "docentes_por_centro": 16.73,
+        "alumnos_por_centro": 233.84,
+        "alumnos_por_aula": 30.43,
+        "alumnos_por_seccion": 20.13,
+        "alumnos_por_docente": 14.58
+      }
+    }
+  },
+  {
+    "provincia": "Samaná",
+    "censo": {
+      "poblacion_3ymas_total": 85001,
+      "poblacion_3ymas_urbana": 38046,
+      "poblacion_3ymas_rural": 46955
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.34,
+          "promocion": 99.66,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.31,
+          "promocion": 96.9,
+          "reprobacion": 1.78
+        },
+        "secundario": {
+          "abandono": 5.34,
+          "promocion": 88.56,
+          "reprobacion": 6.06
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.26,
+        "secciones_por_centro": 9.72,
+        "secciones_por_aula": 1.43,
+        "docentes_por_centro": 13.96,
+        "alumnos_por_centro": 206.18,
+        "alumnos_por_aula": 30.2,
+        "alumnos_por_seccion": 21.14,
+        "alumnos_por_docente": 14.89
+      }
+    }
+  },
+  {
+    "provincia": "San Cristóbal",
+    "censo": {
+      "poblacion_3ymas_total": 471476,
+      "poblacion_3ymas_urbana": 302865,
+      "poblacion_3ymas_rural": 168611
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.84,
+          "promocion": 99.16,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.07,
+          "promocion": 93.38,
+          "reprobacion": 4.54
+        },
+        "secundario": {
+          "abandono": 3.61,
+          "promocion": 92.49,
+          "reprobacion": 3.9
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 7.27,
+        "secciones_por_centro": 9.47,
+        "secciones_por_aula": 1.55,
+        "docentes_por_centro": 17.61,
+        "alumnos_por_centro": 170.04,
+        "alumnos_por_aula": 26.95,
+        "alumnos_por_seccion": 17.73,
+        "alumnos_por_docente": 9.71
+      }
+    }
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "censo": {
+      "poblacion_3ymas_total": 52361,
+      "poblacion_3ymas_urbana": 35699,
+      "poblacion_3ymas_rural": 16662
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.5,
+          "promocion": 98.5,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.9,
+          "promocion": 94.6,
+          "reprobacion": 3.5
+        },
+        "secundario": {
+          "abandono": 3.6,
+          "promocion": 91.3,
+          "reprobacion": 5.1
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 5.7,
+        "secciones_por_centro": 7.8,
+        "secciones_por_aula": 1.5,
+        "docentes_por_centro": 13.2,
+        "alumnos_por_centro": 118,
+        "alumnos_por_aula": 21.5,
+        "alumnos_por_seccion": 15.1,
+        "alumnos_por_docente": 8.3
+      }
+    }
+  },
+  {
+    "provincia": "San Juan",
+    "censo": {
+      "poblacion_3ymas_total": 151005,
+      "poblacion_3ymas_urbana": 116116,
+      "poblacion_3ymas_rural": 34889
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.98,
+          "promocion": 98.02,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.42,
+          "promocion": 93.13,
+          "reprobacion": 4.43
+        },
+        "secundario": {
+          "abandono": 6.92,
+          "promocion": 85.91,
+          "reprobacion": 7.19
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.03,
+        "secciones_por_centro": 9.57,
+        "secciones_por_aula": 1.32,
+        "docentes_por_centro": 22.21,
+        "alumnos_por_centro": 184.97,
+        "alumnos_por_aula": 24.39,
+        "alumnos_por_seccion": 19.07,
+        "alumnos_por_docente": 7.8
+      }
+    }
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "censo": {
+      "poblacion_3ymas_total": 313282,
+      "poblacion_3ymas_urbana": 261242,
+      "poblacion_3ymas_rural": 52040
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.2,
+          "promocion": 98.8,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 1.84,
+          "promocion": 94.33,
+          "reprobacion": 3.75
+        },
+        "secundario": {
+          "abandono": 3.08,
+          "promocion": 88.87,
+          "reprobacion": 7.97
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 11.09,
+        "secciones_por_centro": 13.39,
+        "secciones_por_aula": 1.37,
+        "docentes_por_centro": 20.9,
+        "alumnos_por_centro": 313.22,
+        "alumnos_por_aula": 33.12,
+        "alumnos_por_seccion": 23.45,
+        "alumnos_por_docente": 15.15
+      }
+    }
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "censo": {
+      "poblacion_3ymas_total": 99875,
+      "poblacion_3ymas_urbana": 72127,
+      "poblacion_3ymas_rural": 27748
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 0.49,
+          "promocion": 99.51,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 0.64,
+          "promocion": 95.86,
+          "reprobacion": 3.47
+        },
+        "secundario": {
+          "abandono": 3.05,
+          "promocion": 92,
+          "reprobacion": 4.96
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 8.55,
+        "secciones_por_centro": 8.96,
+        "secciones_por_aula": 1.31,
+        "docentes_por_centro": 21.4,
+        "alumnos_por_centro": 146.02,
+        "alumnos_por_aula": 21.83,
+        "alumnos_por_seccion": 16.26,
+        "alumnos_por_docente": 7.03
+      }
+    }
+  },
+  {
+    "provincia": "Santiago",
+    "censo": {
+      "poblacion_3ymas_total": 749097,
+      "poblacion_3ymas_urbana": 583171,
+      "poblacion_3ymas_rural": 165926
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.21,
+          "promocion": 98.79,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.27,
+          "promocion": 94.08,
+          "reprobacion": 3.64
+        },
+        "secundario": {
+          "abandono": 4.41,
+          "promocion": 89.46,
+          "reprobacion": 6.13
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 6.65,
+        "secciones_por_centro": 8.58,
+        "secciones_por_aula": 1.37,
+        "docentes_por_centro": 10.23,
+        "alumnos_por_centro": 128.76,
+        "alumnos_por_aula": 20.39,
+        "alumnos_por_seccion": 14.67,
+        "alumnos_por_docente": 12.51
+      }
+    }
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "censo": {
+      "poblacion_3ymas_total": 61508,
+      "poblacion_3ymas_urbana": 31158,
+      "poblacion_3ymas_rural": 30350
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.09,
+          "promocion": 98.91,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.18,
+          "promocion": 93.98,
+          "reprobacion": 3.82
+        },
+        "secundario": {
+          "abandono": 4.44,
+          "promocion": 90.78,
+          "reprobacion": 4.78
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 7.11,
+        "secciones_por_centro": 9.13,
+        "secciones_por_aula": 1.44,
+        "docentes_por_centro": 15.29,
+        "alumnos_por_centro": 136.88,
+        "alumnos_por_aula": 21.2,
+        "alumnos_por_seccion": 14.95,
+        "alumnos_por_docente": 9.09
+      }
+    }
+  },
+  {
+    "provincia": "Santo Domingo",
+    "censo": {
+      "poblacion_3ymas_total": 2278398,
+      "poblacion_3ymas_urbana": 1967180,
+      "poblacion_3ymas_rural": 311218
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.94,
+          "promocion": 98.06,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 2.05,
+          "promocion": 94.38,
+          "reprobacion": 3.48
+        },
+        "secundario": {
+          "abandono": 3.79,
+          "promocion": 89.3,
+          "reprobacion": 6.91
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 16.26,
+        "secciones_por_centro": 14.16,
+        "secciones_por_aula": 1.4,
+        "docentes_por_centro": 21.95,
+        "alumnos_por_centro": 371.41,
+        "alumnos_por_aula": 42.35,
+        "alumnos_por_seccion": 26.24,
+        "alumnos_por_docente": 23.11
+      }
+    }
+  },
+  {
+    "provincia": "Valverde",
+    "censo": {
+      "poblacion_3ymas_total": 114027,
+      "poblacion_3ymas_urbana": 106585,
+      "poblacion_3ymas_rural": 7442
+    },
+    "anuario": {
+      "distrito_educativo": "Multiple",
+      "eficiencia": {
+        "inicial": {
+          "abandono": 1.91,
+          "promocion": 98.09,
+          "reprobacion": 0
+        },
+        "primario": {
+          "abandono": 3.25,
+          "promocion": 91.41,
+          "reprobacion": 5.33
+        },
+        "secundario": {
+          "abandono": 5.17,
+          "promocion": 87.24,
+          "reprobacion": 7.64
+        }
+      },
+      "infraestructura": {
+        "aulas_por_plantel": 10.36,
+        "secciones_por_centro": 10.03,
+        "secciones_por_aula": 1.16,
+        "docentes_por_centro": 17.65,
+        "alumnos_por_centro": 221.56,
+        "alumnos_por_aula": 24.84,
+        "alumnos_por_seccion": 22.07,
+        "alumnos_por_docente": 12.74
+      }
+    }
+  }
+]

@@ -1,0 +1,109 @@
+{
+  "dee_2024": {
+    "total_establishments": 120280,
+    "total_employees": 2488632.2,
+    "avg_employees_per_establishment": 20.69,
+    "employment_size_bands": [
+      {
+        "size_band": "micro_1_10",
+        "label": "Micro (1-10)",
+        "establishments": 95679,
+        "employees": 328800.8,
+        "employees_share": 0.1321
+      },
+      {
+        "size_band": "small_11_50",
+        "label": "Pequeña (11-50)",
+        "establishments": 20134,
+        "employees": 423346.0,
+        "employees_share": 0.1701
+      },
+      {
+        "size_band": "medium_51_150",
+        "label": "Mediana (51-150)",
+        "establishments": 2885,
+        "employees": 240227.8,
+        "employees_share": 0.0965
+      },
+      {
+        "size_band": "large_151_plus",
+        "label": "Grande (151 o más)",
+        "establishments": 1582,
+        "employees": 1496257.7,
+        "employees_share": 0.6012
+      }
+    ],
+    "sectors": [
+      {
+        "ciiu_section": "O",
+        "label": "Administración pública y defensa; planes de seguridad social de afiliación obligatoria",
+        "establishments": 628,
+        "employees": 640218.7,
+        "employees_share": 0.2573
+      },
+      {
+        "ciiu_section": "G",
+        "label": "Comercio al por mayor y al por menor; reparación de vehículos automotores y motocicletas",
+        "establishments": 38589,
+        "employees": 399908.0,
+        "employees_share": 0.1607
+      },
+      {
+        "ciiu_section": "C",
+        "label": "Industrias manufactureras",
+        "establishments": 8189,
+        "employees": 321848.5,
+        "employees_share": 0.1293
+      },
+      {
+        "ciiu_section": "I",
+        "label": "Actividades de alojamiento y de servicio de comidas",
+        "establishments": 7864,
+        "employees": 163208.0,
+        "employees_share": 0.0656
+      },
+      {
+        "ciiu_section": "N",
+        "label": "Actividades de servicios administrativos y de apoyo",
+        "establishments": 3683,
+        "employees": 123745.4,
+        "employees_share": 0.0497
+      },
+      {
+        "ciiu_section": "K",
+        "label": "Actividades financieras y de seguros",
+        "establishments": 4387,
+        "employees": 118612.3,
+        "employees_share": 0.0477
+      },
+      {
+        "ciiu_section": "M",
+        "label": "Actividades profesionales, científicas y técnicas",
+        "establishments": 12273,
+        "employees": 97299.1,
+        "employees_share": 0.0391
+      },
+      {
+        "ciiu_section": "Q",
+        "label": "Actividades de atención de la salud humana y de asistencia social",
+        "establishments": 6410,
+        "employees": 96861.7,
+        "employees_share": 0.0389
+      },
+      {
+        "ciiu_section": "S",
+        "label": "Otras actividades de servicios",
+        "establishments": 7827,
+        "employees": 89650.5,
+        "employees_share": 0.036
+      },
+      {
+        "ciiu_section": "F",
+        "label": "Construcción",
+        "establishments": 8496,
+        "employees": 85413.7,
+        "employees_share": 0.0343
+      }
+    ]
+  }
+}

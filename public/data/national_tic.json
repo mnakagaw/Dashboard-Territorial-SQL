@@ -1,0 +1,17 @@
+{
+  "internet": {
+    "total": 8999631,
+    "used": 7120579,
+    "rate_used": 0.79
+  },
+  "cellular": {
+    "total": 8999631,
+    "used": 8208848,
+    "rate_used": 0.91
+  },
+  "computer": {
+    "total": 8999631,
+    "used": 3195605,
+    "rate_used": 0.36
+  }
+}

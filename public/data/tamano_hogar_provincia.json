@@ -1,0 +1,1602 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "1",
+    "hogares": 67780
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "2",
+    "hogares": 113134
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "3",
+    "hogares": 75900
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "4",
+    "hogares": 61855
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "5",
+    "hogares": 31304
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "6",
+    "hogares": 10505
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "7",
+    "hogares": 3181
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "8",
+    "hogares": 1163
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "9",
+    "hogares": 726
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "1",
+    "hogares": 203835
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "2",
+    "hogares": 212261
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "3",
+    "hogares": 201350
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "4",
+    "hogares": 168839
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "5",
+    "hogares": 98825
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "6",
+    "hogares": 35598
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "7",
+    "hogares": 12239
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "8",
+    "hogares": 4320
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "9",
+    "hogares": 2546
+  },
+  {
+    "provincia": "Santo Domingo",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "1",
+    "hogares": 16485
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "2",
+    "hogares": 21205
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "3",
+    "hogares": 18062
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "4",
+    "hogares": 14543
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "5",
+    "hogares": 7711
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "6",
+    "hogares": 2657
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "7",
+    "hogares": 1075
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "8",
+    "hogares": 417
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "9",
+    "hogares": 315
+  },
+  {
+    "provincia": "Espaillat",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "1",
+    "hogares": 31600
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "2",
+    "hogares": 33296
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "3",
+    "hogares": 25971
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "4",
+    "hogares": 19113
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "5",
+    "hogares": 9534
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "6",
+    "hogares": 3481
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "7",
+    "hogares": 1238
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "8",
+    "hogares": 435
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "9",
+    "hogares": 379
+  },
+  {
+    "provincia": "Puerto Plata",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "1",
+    "hogares": 83635
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "2",
+    "hogares": 95774
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "3",
+    "hogares": 81030
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "4",
+    "hogares": 63857
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "5",
+    "hogares": 33791
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "6",
+    "hogares": 11681
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "7",
+    "hogares": 4208
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "8",
+    "hogares": 1544
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "9",
+    "hogares": 1183
+  },
+  {
+    "provincia": "Santiago",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "1",
+    "hogares": 34014
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "2",
+    "hogares": 38194
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "3",
+    "hogares": 32678
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "4",
+    "hogares": 26421
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "5",
+    "hogares": 14240
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "6",
+    "hogares": 5162
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "7",
+    "hogares": 1743
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "8",
+    "hogares": 682
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "9",
+    "hogares": 447
+  },
+  {
+    "provincia": "La Vega",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "1",
+    "hogares": 12966
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "2",
+    "hogares": 14399
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "3",
+    "hogares": 12414
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "4",
+    "hogares": 9634
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "5",
+    "hogares": 5432
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "6",
+    "hogares": 1679
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "7",
+    "hogares": 661
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "8",
+    "hogares": 179
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "9",
+    "hogares": 135
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "1",
+    "hogares": 15206
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "2",
+    "hogares": 16629
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "3",
+    "hogares": 14531
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "4",
+    "hogares": 11645
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "5",
+    "hogares": 6537
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "6",
+    "hogares": 2338
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "7",
+    "hogares": 769
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "8",
+    "hogares": 306
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "9",
+    "hogares": 189
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "1",
+    "hogares": 25284
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "2",
+    "hogares": 28628
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "3",
+    "hogares": 24096
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "4",
+    "hogares": 18103
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "5",
+    "hogares": 9420
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "6",
+    "hogares": 3337
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "7",
+    "hogares": 1165
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "8",
+    "hogares": 389
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "9",
+    "hogares": 251
+  },
+  {
+    "provincia": "Duarte",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "1",
+    "hogares": 14747
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "2",
+    "hogares": 15033
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "3",
+    "hogares": 11677
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "4",
+    "hogares": 8386
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "5",
+    "hogares": 4758
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "6",
+    "hogares": 1651
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "7",
+    "hogares": 684
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "8",
+    "hogares": 262
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "9",
+    "hogares": 223
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "1",
+    "hogares": 7721
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "2",
+    "hogares": 8618
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "3",
+    "hogares": 7419
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "4",
+    "hogares": 5659
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "5",
+    "hogares": 3067
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "6",
+    "hogares": 1009
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "7",
+    "hogares": 374
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "8",
+    "hogares": 131
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "9",
+    "hogares": 132
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "1",
+    "hogares": 10586
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "2",
+    "hogares": 10577
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "3",
+    "hogares": 8945
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "4",
+    "hogares": 6560
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "5",
+    "hogares": 3485
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "6",
+    "hogares": 1126
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "7",
+    "hogares": 408
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "8",
+    "hogares": 152
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "9",
+    "hogares": 97
+  },
+  {
+    "provincia": "Samaná",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "1",
+    "hogares": 5862
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "2",
+    "hogares": 6338
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "3",
+    "hogares": 5133
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "4",
+    "hogares": 3982
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "5",
+    "hogares": 2358
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "6",
+    "hogares": 982
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "7",
+    "hogares": 476
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "8",
+    "hogares": 195
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "9",
+    "hogares": 176
+  },
+  {
+    "provincia": "Dajabón",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "1",
+    "hogares": 13187
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "2",
+    "hogares": 12335
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "3",
+    "hogares": 8741
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "4",
+    "hogares": 6355
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "5",
+    "hogares": 3407
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "6",
+    "hogares": 1297
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "7",
+    "hogares": 502
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "8",
+    "hogares": 203
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "9",
+    "hogares": 129
+  },
+  {
+    "provincia": "Monte Cristi",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "1",
+    "hogares": 5240
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "2",
+    "hogares": 5945
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "3",
+    "hogares": 4769
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "4",
+    "hogares": 3656
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "5",
+    "hogares": 2094
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "6",
+    "hogares": 770
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "7",
+    "hogares": 260
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "8",
+    "hogares": 97
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "9",
+    "hogares": 63
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "1",
+    "hogares": 16239
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "2",
+    "hogares": 16647
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "3",
+    "hogares": 13561
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "4",
+    "hogares": 10061
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "5",
+    "hogares": 5708
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "6",
+    "hogares": 2099
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "7",
+    "hogares": 767
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "8",
+    "hogares": 302
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "9",
+    "hogares": 217
+  },
+  {
+    "provincia": "Valverde",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "1",
+    "hogares": 14697
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "2",
+    "hogares": 16761
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "3",
+    "hogares": 14663
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "4",
+    "hogares": 11954
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "5",
+    "hogares": 7206
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "6",
+    "hogares": 2865
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "7",
+    "hogares": 1136
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "8",
+    "hogares": 481
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "9",
+    "hogares": 334
+  },
+  {
+    "provincia": "Peravia",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "1",
+    "hogares": 52130
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "2",
+    "hogares": 48514
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "3",
+    "hogares": 47560
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "4",
+    "hogares": 41090
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "5",
+    "hogares": 26493
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "6",
+    "hogares": 10912
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "7",
+    "hogares": 4061
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "8",
+    "hogares": 1609
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "9",
+    "hogares": 1007
+  },
+  {
+    "provincia": "San Cristóbal",
+    "miembros": "10",
+    "hogares": 50
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "1",
+    "hogares": 7001
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "2",
+    "hogares": 6808
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "3",
+    "hogares": 5452
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "4",
+    "hogares": 3683
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "5",
+    "hogares": 1958
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "6",
+    "hogares": 719
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "7",
+    "hogares": 242
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "8",
+    "hogares": 85
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "9",
+    "hogares": 82
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "1",
+    "hogares": 16892
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "2",
+    "hogares": 7263
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "3",
+    "hogares": 6372
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "4",
+    "hogares": 5773
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "5",
+    "hogares": 4372
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "6",
+    "hogares": 2721
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "7",
+    "hogares": 1388
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "8",
+    "hogares": 636
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "9",
+    "hogares": 454
+  },
+  {
+    "provincia": "Baoruco",
+    "miembros": "10",
+    "hogares": 156
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "1",
+    "hogares": 12294
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "2",
+    "hogares": 13740
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "3",
+    "hogares": 12083
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "4",
+    "hogares": 10584
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "5",
+    "hogares": 7289
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "6",
+    "hogares": 3667
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "7",
+    "hogares": 1627
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "8",
+    "hogares": 706
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "9",
+    "hogares": 621
+  },
+  {
+    "provincia": "Barahona",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "1",
+    "hogares": 4036
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "2",
+    "hogares": 3816
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "3",
+    "hogares": 3404
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "4",
+    "hogares": 3073
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "5",
+    "hogares": 2146
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "6",
+    "hogares": 1196
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "7",
+    "hogares": 559
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "8",
+    "hogares": 274
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "9",
+    "hogares": 239
+  },
+  {
+    "provincia": "Independencia",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "1",
+    "hogares": 2186
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "2",
+    "hogares": 2218
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "3",
+    "hogares": 1953
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "4",
+    "hogares": 1664
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "5",
+    "hogares": 1173
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "6",
+    "hogares": 608
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "7",
+    "hogares": 317
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "8",
+    "hogares": 188
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "9",
+    "hogares": 183
+  },
+  {
+    "provincia": "Pedernales",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "1",
+    "hogares": 15587
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "2",
+    "hogares": 17793
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "3",
+    "hogares": 15499
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "4",
+    "hogares": 12728
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "5",
+    "hogares": 8720
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "6",
+    "hogares": 4016
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "7",
+    "hogares": 1716
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "8",
+    "hogares": 654
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "9",
+    "hogares": 582
+  },
+  {
+    "provincia": "Azua",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "1",
+    "hogares": 3754
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "2",
+    "hogares": 4097
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "3",
+    "hogares": 3440
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "4",
+    "hogares": 2923
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "5",
+    "hogares": 2212
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "6",
+    "hogares": 1390
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "7",
+    "hogares": 719
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "8",
+    "hogares": 352
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "9",
+    "hogares": 321
+  },
+  {
+    "provincia": "Elías Piña",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "1",
+    "hogares": 19566
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "2",
+    "hogares": 19330
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "3",
+    "hogares": 16183
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "4",
+    "hogares": 12911
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "5",
+    "hogares": 8338
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "6",
+    "hogares": 3887
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "7",
+    "hogares": 1527
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "8",
+    "hogares": 623
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "9",
+    "hogares": 451
+  },
+  {
+    "provincia": "San Juan",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "1",
+    "hogares": 9741
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "2",
+    "hogares": 8226
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "3",
+    "hogares": 6792
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "4",
+    "hogares": 5116
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "5",
+    "hogares": 3089
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "6",
+    "hogares": 1291
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "7",
+    "hogares": 561
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "8",
+    "hogares": 241
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "9",
+    "hogares": 211
+  },
+  {
+    "provincia": "El Seibo",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "1",
+    "hogares": 52209
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "2",
+    "hogares": 43576
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "3",
+    "hogares": 32430
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "4",
+    "hogares": 24310
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "5",
+    "hogares": 12637
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "6",
+    "hogares": 4597
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "7",
+    "hogares": 1605
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "8",
+    "hogares": 585
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "9",
+    "hogares": 470
+  },
+  {
+    "provincia": "La Altagracia",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "1",
+    "hogares": 21263
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "2",
+    "hogares": 22116
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "3",
+    "hogares": 19916
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "4",
+    "hogares": 16513
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "5",
+    "hogares": 9679
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "6",
+    "hogares": 3883
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "7",
+    "hogares": 1641
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "8",
+    "hogares": 777
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "9",
+    "hogares": 595
+  },
+  {
+    "provincia": "La Romana",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "1",
+    "hogares": 28085
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "2",
+    "hogares": 26694
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "3",
+    "hogares": 24738
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "4",
+    "hogares": 19350
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "5",
+    "hogares": 10812
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "6",
+    "hogares": 4240
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "7",
+    "hogares": 1697
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "8",
+    "hogares": 696
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "9",
+    "hogares": 587
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "1",
+    "hogares": 18340
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "2",
+    "hogares": 16830
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "3",
+    "hogares": 14701
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "4",
+    "hogares": 11299
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "5",
+    "hogares": 6753
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "6",
+    "hogares": 2878
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "7",
+    "hogares": 1000
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "8",
+    "hogares": 395
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "9",
+    "hogares": 263
+  },
+  {
+    "provincia": "Monte Plata",
+    "miembros": "10",
+    "hogares": 0
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "1",
+    "hogares": 9730
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "2",
+    "hogares": 8425
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "3",
+    "hogares": 7317
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "4",
+    "hogares": 5582
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "5",
+    "hogares": 3149
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "6",
+    "hogares": 1257
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "7",
+    "hogares": 473
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "8",
+    "hogares": 145
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "9",
+    "hogares": 138
+  },
+  {
+    "provincia": "Hato Mayor",
+    "miembros": "10",
+    "hogares": 0
+  }
+]

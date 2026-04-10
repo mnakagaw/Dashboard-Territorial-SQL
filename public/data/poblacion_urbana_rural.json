@@ -1,0 +1,1266 @@
+[
+  {
+    "adm2_code": "01001",
+    "provincia": "Distrito Nacional",
+    "municipio": "Santo Domingo de Guzmán",
+    "poblacion_total": 1029110,
+    "urbana": 1029110,
+    "rural": 0
+  },
+  {
+    "adm2_code": "32001",
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "poblacion_total": 1029117,
+    "urbana": 873966,
+    "rural": 155151
+  },
+  {
+    "adm2_code": "32002",
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Oeste",
+    "poblacion_total": 410578,
+    "urbana": 322291,
+    "rural": 88287
+  },
+  {
+    "adm2_code": "32003",
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "poblacion_total": 674274,
+    "urbana": 582933,
+    "rural": 91341
+  },
+  {
+    "adm2_code": "32004",
+    "provincia": "Santo Domingo",
+    "municipio": "Boca Chica",
+    "poblacion_total": 167040,
+    "urbana": 104951,
+    "rural": 62089
+  },
+  {
+    "adm2_code": "32005",
+    "provincia": "Santo Domingo",
+    "municipio": "San Antonio de Guerra",
+    "poblacion_total": 59299,
+    "urbana": 17202,
+    "rural": 42097
+  },
+  {
+    "adm2_code": "32006",
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "poblacion_total": 336307,
+    "urbana": 282799,
+    "rural": 53508
+  },
+  {
+    "adm2_code": "32007",
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "poblacion_total": 92973,
+    "urbana": 76856,
+    "rural": 16117
+  },
+  {
+    "adm2_code": "09001",
+    "provincia": "Espaillat",
+    "municipio": "Moca",
+    "poblacion_total": 164022,
+    "urbana": 75964,
+    "rural": 88058
+  },
+  {
+    "adm2_code": "09002",
+    "provincia": "Espaillat",
+    "municipio": "Cayetano Germosén",
+    "poblacion_total": 7960,
+    "urbana": 2785,
+    "rural": 5175
+  },
+  {
+    "adm2_code": "09003",
+    "provincia": "Espaillat",
+    "municipio": "Gaspar Hernández",
+    "poblacion_total": 40781,
+    "urbana": 20082,
+    "rural": 20699
+  },
+  {
+    "adm2_code": "09004",
+    "provincia": "Espaillat",
+    "municipio": "Jamao Al Norte",
+    "poblacion_total": 7982,
+    "urbana": 3046,
+    "rural": 4936
+  },
+  {
+    "adm2_code": "09005",
+    "provincia": "Espaillat",
+    "municipio": "San Víctor",
+    "poblacion_total": 20313,
+    "urbana": 6227,
+    "rural": 14086
+  },
+  {
+    "adm2_code": "18001",
+    "provincia": "Puerto Plata",
+    "municipio": "Puerto Plata",
+    "poblacion_total": 162093,
+    "urbana": 135415,
+    "rural": 26678
+  },
+  {
+    "adm2_code": "18002",
+    "provincia": "Puerto Plata",
+    "municipio": "Altamira",
+    "poblacion_total": 17676,
+    "urbana": 4477,
+    "rural": 13199
+  },
+  {
+    "adm2_code": "18003",
+    "provincia": "Puerto Plata",
+    "municipio": "Guananico",
+    "poblacion_total": 6466,
+    "urbana": 2646,
+    "rural": 3820
+  },
+  {
+    "adm2_code": "18004",
+    "provincia": "Puerto Plata",
+    "municipio": "Imbert",
+    "poblacion_total": 22925,
+    "urbana": 7262,
+    "rural": 15663
+  },
+  {
+    "adm2_code": "18005",
+    "provincia": "Puerto Plata",
+    "municipio": "Los Hidalgos",
+    "poblacion_total": 13605,
+    "urbana": 3212,
+    "rural": 10393
+  },
+  {
+    "adm2_code": "18006",
+    "provincia": "Puerto Plata",
+    "municipio": "Luperón",
+    "poblacion_total": 17577,
+    "urbana": 6194,
+    "rural": 11383
+  },
+  {
+    "adm2_code": "18007",
+    "provincia": "Puerto Plata",
+    "municipio": "Sosúa",
+    "poblacion_total": 56982,
+    "urbana": 16597,
+    "rural": 40385
+  },
+  {
+    "adm2_code": "18008",
+    "provincia": "Puerto Plata",
+    "municipio": "Villa Isabela",
+    "poblacion_total": 20278,
+    "urbana": 8024,
+    "rural": 12254
+  },
+  {
+    "adm2_code": "18009",
+    "provincia": "Puerto Plata",
+    "municipio": "Villa Montellano",
+    "poblacion_total": 20753,
+    "urbana": 11588,
+    "rural": 9165
+  },
+  {
+    "adm2_code": "25001",
+    "provincia": "Santiago",
+    "municipio": "Santiago",
+    "poblacion_total": 771748,
+    "urbana": 645075,
+    "rural": 126673
+  },
+  {
+    "adm2_code": "25002",
+    "provincia": "Santiago",
+    "municipio": "Bisonó",
+    "poblacion_total": 49367,
+    "urbana": 37463,
+    "rural": 11904
+  },
+  {
+    "adm2_code": "25003",
+    "provincia": "Santiago",
+    "municipio": "Jánico",
+    "poblacion_total": 14385,
+    "urbana": 3524,
+    "rural": 10861
+  },
+  {
+    "adm2_code": "25004",
+    "provincia": "Santiago",
+    "municipio": "Licey al Medio",
+    "poblacion_total": 30103,
+    "urbana": 20669,
+    "rural": 9434
+  },
+  {
+    "adm2_code": "25005",
+    "provincia": "Santiago",
+    "municipio": "San José de Las Matas",
+    "poblacion_total": 37411,
+    "urbana": 10312,
+    "rural": 27099
+  },
+  {
+    "adm2_code": "25006",
+    "provincia": "Santiago",
+    "municipio": "Tamboril",
+    "poblacion_total": 57669,
+    "urbana": 31664,
+    "rural": 26005
+  },
+  {
+    "adm2_code": "25007",
+    "provincia": "Santiago",
+    "municipio": "Villa González",
+    "poblacion_total": 42198,
+    "urbana": 17677,
+    "rural": 24521
+  },
+  {
+    "adm2_code": "25008",
+    "provincia": "Santiago",
+    "municipio": "Puñal",
+    "poblacion_total": 46090,
+    "urbana": 10574,
+    "rural": 35516
+  },
+  {
+    "adm2_code": "25009",
+    "provincia": "Santiago",
+    "municipio": "Sabana Iglesia",
+    "poblacion_total": 14018,
+    "urbana": 4933,
+    "rural": 9085
+  },
+  {
+    "adm2_code": "25010",
+    "provincia": "Santiago",
+    "municipio": "Baitoa",
+    "poblacion_total": 11690,
+    "urbana": 1938,
+    "rural": 9752
+  },
+  {
+    "adm2_code": "13001",
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "poblacion_total": 282055,
+    "urbana": 132617,
+    "rural": 149438
+  },
+  {
+    "adm2_code": "13002",
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "poblacion_total": 66316,
+    "urbana": 35237,
+    "rural": 31079
+  },
+  {
+    "adm2_code": "13003",
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "poblacion_total": 65059,
+    "urbana": 32137,
+    "rural": 32922
+  },
+  {
+    "adm2_code": "13004",
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "poblacion_total": 29289,
+    "urbana": 13169,
+    "rural": 16120
+  },
+  {
+    "adm2_code": "24001",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Cotuí",
+    "poblacion_total": 84193,
+    "urbana": 54609,
+    "rural": 29584
+  },
+  {
+    "adm2_code": "24002",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Cevicos",
+    "poblacion_total": 16311,
+    "urbana": 8566,
+    "rural": 7745
+  },
+  {
+    "adm2_code": "24003",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Fantino",
+    "poblacion_total": 23780,
+    "urbana": 10274,
+    "rural": 13506
+  },
+  {
+    "adm2_code": "24004",
+    "provincia": "Sanchez Ramírez",
+    "municipio": "Villa La Mata",
+    "poblacion_total": 38358,
+    "urbana": 16954,
+    "rural": 21404
+  },
+  {
+    "adm2_code": "28001",
+    "provincia": "Monseñor Nouel",
+    "municipio": "Bonao",
+    "poblacion_total": 144923,
+    "urbana": 81657,
+    "rural": 63266
+  },
+  {
+    "adm2_code": "28002",
+    "provincia": "Monseñor Nouel",
+    "municipio": "Maimón",
+    "poblacion_total": 23885,
+    "urbana": 18267,
+    "rural": 5618
+  },
+  {
+    "adm2_code": "28003",
+    "provincia": "Monseñor Nouel",
+    "municipio": "Piedra Blanca",
+    "poblacion_total": 26739,
+    "urbana": 16420,
+    "rural": 10319
+  },
+  {
+    "adm2_code": "06001",
+    "provincia": "Duarte",
+    "municipio": "San Francisco de Macorís",
+    "poblacion_total": 202716,
+    "urbana": 151612,
+    "rural": 51104
+  },
+  {
+    "adm2_code": "06002",
+    "provincia": "Duarte",
+    "municipio": "Arenoso",
+    "poblacion_total": 13890,
+    "urbana": 5126,
+    "rural": 8764
+  },
+  {
+    "adm2_code": "06003",
+    "provincia": "Duarte",
+    "municipio": "Castillo",
+    "poblacion_total": 16786,
+    "urbana": 6499,
+    "rural": 10287
+  },
+  {
+    "adm2_code": "06004",
+    "provincia": "Duarte",
+    "municipio": "Pimentel",
+    "poblacion_total": 19033,
+    "urbana": 10325,
+    "rural": 8708
+  },
+  {
+    "adm2_code": "06005",
+    "provincia": "Duarte",
+    "municipio": "Villa Riva",
+    "poblacion_total": 36066,
+    "urbana": 17423,
+    "rural": 18643
+  },
+  {
+    "adm2_code": "06006",
+    "provincia": "Duarte",
+    "municipio": "Las Guáranas",
+    "poblacion_total": 14099,
+    "urbana": 10521,
+    "rural": 3578
+  },
+  {
+    "adm2_code": "06007",
+    "provincia": "Duarte",
+    "municipio": "Eugenio María de Hostos",
+    "poblacion_total": 5763,
+    "urbana": 2857,
+    "rural": 2906
+  },
+  {
+    "adm2_code": "14001",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "Nagua",
+    "poblacion_total": 81424,
+    "urbana": 49063,
+    "rural": 32361
+  },
+  {
+    "adm2_code": "14002",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "Cabrera",
+    "poblacion_total": 28677,
+    "urbana": 8957,
+    "rural": 19720
+  },
+  {
+    "adm2_code": "14003",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "El Factor",
+    "poblacion_total": 29736,
+    "urbana": 14996,
+    "rural": 14740
+  },
+  {
+    "adm2_code": "14004",
+    "provincia": "María Trinidad Sánchez",
+    "municipio": "Río San Juan",
+    "poblacion_total": 16796,
+    "urbana": 11157,
+    "rural": 5639
+  },
+  {
+    "adm2_code": "19001",
+    "provincia": "Hermanas Mirabal",
+    "municipio": "Salcedo",
+    "poblacion_total": 41340,
+    "urbana": 14102,
+    "rural": 27238
+  },
+  {
+    "adm2_code": "19002",
+    "provincia": "Hermanas Mirabal",
+    "municipio": "Tenares",
+    "poblacion_total": 28942,
+    "urbana": 8806,
+    "rural": 20136
+  },
+  {
+    "adm2_code": "19003",
+    "provincia": "Hermanas Mirabal",
+    "municipio": "Villa Tapia",
+    "poblacion_total": 26159,
+    "urbana": 6127,
+    "rural": 20032
+  },
+  {
+    "adm2_code": "20001",
+    "provincia": "Samaná",
+    "municipio": "Samaná",
+    "poblacion_total": 63359,
+    "urbana": 25715,
+    "rural": 37644
+  },
+  {
+    "adm2_code": "20002",
+    "provincia": "Samaná",
+    "municipio": "Sánchez",
+    "poblacion_total": 25413,
+    "urbana": 11241,
+    "rural": 14172
+  },
+  {
+    "adm2_code": "20003",
+    "provincia": "Samaná",
+    "municipio": "Las Terrenas",
+    "poblacion_total": 25696,
+    "urbana": 12818,
+    "rural": 12878
+  },
+  {
+    "adm2_code": "05001",
+    "provincia": "Dajabón",
+    "municipio": "Dajabón",
+    "poblacion_total": 35809,
+    "urbana": 26067,
+    "rural": 9742
+  },
+  {
+    "adm2_code": "05002",
+    "provincia": "Dajabón",
+    "municipio": "Loma de Cabrera",
+    "poblacion_total": 16827,
+    "urbana": 8604,
+    "rural": 8223
+  },
+  {
+    "adm2_code": "05003",
+    "provincia": "Dajabón",
+    "municipio": "Partido",
+    "poblacion_total": 7584,
+    "urbana": 2471,
+    "rural": 5113
+  },
+  {
+    "adm2_code": "05004",
+    "provincia": "Dajabón",
+    "municipio": "Restauración",
+    "poblacion_total": 8149,
+    "urbana": 2735,
+    "rural": 5414
+  },
+  {
+    "adm2_code": "05005",
+    "provincia": "Dajabón",
+    "municipio": "El Pino",
+    "poblacion_total": 6441,
+    "urbana": 2302,
+    "rural": 4139
+  },
+  {
+    "adm2_code": "15001",
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "poblacion_total": 27067,
+    "urbana": 18773,
+    "rural": 8294
+  },
+  {
+    "adm2_code": "15002",
+    "provincia": "Monte Cristi",
+    "municipio": "Castañuelas",
+    "poblacion_total": 18588,
+    "urbana": 6807,
+    "rural": 11781
+  },
+  {
+    "adm2_code": "15003",
+    "provincia": "Monte Cristi",
+    "municipio": "Guayubín",
+    "poblacion_total": 39653,
+    "urbana": 11748,
+    "rural": 27905
+  },
+  {
+    "adm2_code": "15004",
+    "provincia": "Monte Cristi",
+    "municipio": "Las Matas de Santa Cruz",
+    "poblacion_total": 11114,
+    "urbana": 9920,
+    "rural": 1194
+  },
+  {
+    "adm2_code": "15005",
+    "provincia": "Monte Cristi",
+    "municipio": "Pepillo Salcedo",
+    "poblacion_total": 10663,
+    "urbana": 5739,
+    "rural": 4924
+  },
+  {
+    "adm2_code": "15006",
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "poblacion_total": 16434,
+    "urbana": 12302,
+    "rural": 4132
+  },
+  {
+    "adm2_code": "26001",
+    "provincia": "Santiago Rodríguez",
+    "municipio": "San Ignacio de Sabaneta",
+    "poblacion_total": 38798,
+    "urbana": 19116,
+    "rural": 19682
+  },
+  {
+    "adm2_code": "26002",
+    "provincia": "Santiago Rodríguez",
+    "municipio": "Villa Los Almácigos",
+    "poblacion_total": 11816,
+    "urbana": 4686,
+    "rural": 7130
+  },
+  {
+    "adm2_code": "26003",
+    "provincia": "Santiago Rodríguez",
+    "municipio": "Monción",
+    "poblacion_total": 14021,
+    "urbana": 9017,
+    "rural": 5004
+  },
+  {
+    "adm2_code": "27001",
+    "provincia": "Valverde",
+    "municipio": "Mao",
+    "poblacion_total": 86659,
+    "urbana": 68900,
+    "rural": 17759
+  },
+  {
+    "adm2_code": "27002",
+    "provincia": "Valverde",
+    "municipio": "Esperanza",
+    "poblacion_total": 69803,
+    "urbana": 51947,
+    "rural": 17856
+  },
+  {
+    "adm2_code": "27003",
+    "provincia": "Valverde",
+    "municipio": "Laguna Salada",
+    "poblacion_total": 27607,
+    "urbana": 21082,
+    "rural": 6525
+  },
+  {
+    "adm2_code": "17001",
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "poblacion_total": 158019,
+    "urbana": 111658,
+    "rural": 46361
+  },
+  {
+    "adm2_code": "17002",
+    "provincia": "Peravia",
+    "municipio": "Nizao",
+    "poblacion_total": 32191,
+    "urbana": 18189,
+    "rural": 14002
+  },
+  {
+    "adm2_code": "17003",
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "poblacion_total": 19162,
+    "urbana": 6837,
+    "rural": 12325
+  },
+  {
+    "adm2_code": "21001",
+    "provincia": "San Cristóbal",
+    "municipio": "San Cristóbal",
+    "poblacion_total": 277793,
+    "urbana": 173570,
+    "rural": 104223
+  },
+  {
+    "adm2_code": "21002",
+    "provincia": "San Cristóbal",
+    "municipio": "Sabana Grande de Palenque",
+    "poblacion_total": 18304,
+    "urbana": 5827,
+    "rural": 12477
+  },
+  {
+    "adm2_code": "21003",
+    "provincia": "San Cristóbal",
+    "municipio": "Bajos de Haina",
+    "poblacion_total": 159888,
+    "urbana": 82691,
+    "rural": 77197
+  },
+  {
+    "adm2_code": "21004",
+    "provincia": "San Cristóbal",
+    "municipio": "Cambita Garavitos",
+    "poblacion_total": 31684,
+    "urbana": 16818,
+    "rural": 14866
+  },
+  {
+    "adm2_code": "21005",
+    "provincia": "San Cristóbal",
+    "municipio": "Villa Altagracia",
+    "poblacion_total": 97620,
+    "urbana": 51428,
+    "rural": 46192
+  },
+  {
+    "adm2_code": "21006",
+    "provincia": "San Cristóbal",
+    "municipio": "Yaguate",
+    "poblacion_total": 51489,
+    "urbana": 10057,
+    "rural": 41432
+  },
+  {
+    "adm2_code": "21007",
+    "provincia": "San Cristóbal",
+    "municipio": "San Gregorio de Nigua",
+    "poblacion_total": 38272,
+    "urbana": 17519,
+    "rural": 20753
+  },
+  {
+    "adm2_code": "21008",
+    "provincia": "San Cristóbal",
+    "municipio": "Los Cacaos",
+    "poblacion_total": 13778,
+    "urbana": 3267,
+    "rural": 10511
+  },
+  {
+    "adm2_code": "31001",
+    "provincia": "San José de Ocoa",
+    "municipio": "San José de Ocoa",
+    "poblacion_total": 43394,
+    "urbana": 31636,
+    "rural": 11758
+  },
+  {
+    "adm2_code": "31002",
+    "provincia": "San José de Ocoa",
+    "municipio": "Sabana Larga",
+    "poblacion_total": 11636,
+    "urbana": 7462,
+    "rural": 4174
+  },
+  {
+    "adm2_code": "31003",
+    "provincia": "San José de Ocoa",
+    "municipio": "Rancho Arriba",
+    "poblacion_total": 14052,
+    "urbana": 3680,
+    "rural": 10372
+  },
+  {
+    "adm2_code": "0300",
+    "provincia": "Baoruco",
+    "municipio": "Neiba",
+    "poblacion_total": 40644,
+    "urbana": 27058,
+    "rural": 13586
+  },
+  {
+    "adm2_code": "03002",
+    "provincia": "Baoruco",
+    "municipio": "Galván",
+    "poblacion_total": 15677,
+    "urbana": 7078,
+    "rural": 8599
+  },
+  {
+    "adm2_code": "03003",
+    "provincia": "Baoruco",
+    "municipio": "Tamayo",
+    "poblacion_total": 30666,
+    "urbana": 21554,
+    "rural": 9112
+  },
+  {
+    "adm2_code": "03004",
+    "provincia": "Baoruco",
+    "municipio": "Villa Jaragua",
+    "poblacion_total": 12425,
+    "urbana": 11329,
+    "rural": 1096
+  },
+  {
+    "adm2_code": "03005",
+    "provincia": "Baoruco",
+    "municipio": "Los Ríos",
+    "poblacion_total": 9305,
+    "urbana": 7654,
+    "rural": 1651
+  },
+  {
+    "adm2_code": "04001",
+    "provincia": "Barahona",
+    "municipio": "Barahona",
+    "poblacion_total": 90164,
+    "urbana": 89424,
+    "rural": 740
+  },
+  {
+    "adm2_code": "04002",
+    "provincia": "Barahona",
+    "municipio": "Cabral",
+    "poblacion_total": 15913,
+    "urbana": 13302,
+    "rural": 2611
+  },
+  {
+    "adm2_code": "04003",
+    "provincia": "Barahona",
+    "municipio": "Enriquillo",
+    "poblacion_total": 12523,
+    "urbana": 7489,
+    "rural": 5034
+  },
+  {
+    "adm2_code": "04004",
+    "provincia": "Barahona",
+    "municipio": "Paraíso",
+    "poblacion_total": 16606,
+    "urbana": 10263,
+    "rural": 6343
+  },
+  {
+    "adm2_code": "04005",
+    "provincia": "Barahona",
+    "municipio": "Vicente Noble",
+    "poblacion_total": 25678,
+    "urbana": 21551,
+    "rural": 4127
+  },
+  {
+    "adm2_code": "04006",
+    "provincia": "Barahona",
+    "municipio": "El Peñón",
+    "poblacion_total": 4388,
+    "urbana": 4158,
+    "rural": 230
+  },
+  {
+    "adm2_code": "04007",
+    "provincia": "Barahona",
+    "municipio": "La Ciénaga",
+    "poblacion_total": 9186,
+    "urbana": 6462,
+    "rural": 2724
+  },
+  {
+    "adm2_code": "04008",
+    "provincia": "Barahona",
+    "municipio": "Fundación",
+    "poblacion_total": 9223,
+    "urbana": 4855,
+    "rural": 4368
+  },
+  {
+    "adm2_code": "04009",
+    "provincia": "Barahona",
+    "municipio": "Las Salinas",
+    "poblacion_total": 4810,
+    "urbana": 3938,
+    "rural": 872
+  },
+  {
+    "adm2_code": "04010",
+    "provincia": "Barahona",
+    "municipio": "Polo",
+    "poblacion_total": 7646,
+    "urbana": 2837,
+    "rural": 4809
+  },
+  {
+    "adm2_code": "04011",
+    "provincia": "Barahona",
+    "municipio": "Jaquimeyes",
+    "poblacion_total": 4747,
+    "urbana": 4290,
+    "rural": 457
+  },
+  {
+    "adm2_code": "10001",
+    "provincia": "Independencia",
+    "municipio": "Jimaní",
+    "poblacion_total": 19153,
+    "urbana": 17196,
+    "rural": 1957
+  },
+  {
+    "adm2_code": "10002",
+    "provincia": "Independencia",
+    "municipio": "Duvergé",
+    "poblacion_total": 14125,
+    "urbana": 11419,
+    "rural": 2706
+  },
+  {
+    "adm2_code": "10003",
+    "provincia": "Independencia",
+    "municipio": "La Descubierta",
+    "poblacion_total": 8072,
+    "urbana": 6267,
+    "rural": 1805
+  },
+  {
+    "adm2_code": "10004",
+    "provincia": "Independencia",
+    "municipio": "Postrer Río",
+    "poblacion_total": 7178,
+    "urbana": 5190,
+    "rural": 1988
+  },
+  {
+    "adm2_code": "10005",
+    "provincia": "Independencia",
+    "municipio": "Cristóbal",
+    "poblacion_total": 7617,
+    "urbana": 4588,
+    "rural": 3029
+  },
+  {
+    "adm2_code": "10006",
+    "provincia": "Independencia",
+    "municipio": "Mella",
+    "poblacion_total": 4544,
+    "urbana": 3388,
+    "rural": 1156
+  },
+  {
+    "adm2_code": "16001",
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "poblacion_total": 24423,
+    "urbana": 20784,
+    "rural": 3639
+  },
+  {
+    "adm2_code": "16002",
+    "provincia": "Pedernales",
+    "municipio": "Oviedo",
+    "poblacion_total": 9952,
+    "urbana": 5731,
+    "rural": 4221
+  },
+  {
+    "adm2_code": "02001",
+    "provincia": "Azua",
+    "municipio": "Azua",
+    "poblacion_total": 103276,
+    "urbana": 87994,
+    "rural": 15282
+  },
+  {
+    "adm2_code": "02002",
+    "provincia": "Azua",
+    "municipio": "Las Charcas",
+    "poblacion_total": 14341,
+    "urbana": 9020,
+    "rural": 5321
+  },
+  {
+    "adm2_code": "02003",
+    "provincia": "Azua",
+    "municipio": "Las Yayas de Viajama",
+    "poblacion_total": 19195,
+    "urbana": 10508,
+    "rural": 8687
+  },
+  {
+    "adm2_code": "02004",
+    "provincia": "Azua",
+    "municipio": "Padre Las Casas",
+    "poblacion_total": 20672,
+    "urbana": 12201,
+    "rural": 8471
+  },
+  {
+    "adm2_code": "02005",
+    "provincia": "Azua",
+    "municipio": "Peralta",
+    "poblacion_total": 14670,
+    "urbana": 9321,
+    "rural": 5349
+  },
+  {
+    "adm2_code": "02006",
+    "provincia": "Azua",
+    "municipio": "Sabana Yegua",
+    "poblacion_total": 21306,
+    "urbana": 20177,
+    "rural": 1129
+  },
+  {
+    "adm2_code": "02007",
+    "provincia": "Azua",
+    "municipio": "Pueblo Viejo",
+    "poblacion_total": 11997,
+    "urbana": 6882,
+    "rural": 5115
+  },
+  {
+    "adm2_code": "02008",
+    "provincia": "Azua",
+    "municipio": "Tábara Arriba",
+    "poblacion_total": 20771,
+    "urbana": 14254,
+    "rural": 6517
+  },
+  {
+    "adm2_code": "02009",
+    "provincia": "Azua",
+    "municipio": "Guayabal",
+    "poblacion_total": 5754,
+    "urbana": 3985,
+    "rural": 1769
+  },
+  {
+    "adm2_code": "02010",
+    "provincia": "Azua",
+    "municipio": "Estebanía",
+    "poblacion_total": 8227,
+    "urbana": 7029,
+    "rural": 1198
+  },
+  {
+    "adm2_code": "07001",
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "poblacion_total": 28738,
+    "urbana": 17036,
+    "rural": 11702
+  },
+  {
+    "adm2_code": "07002",
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "poblacion_total": 7533,
+    "urbana": 2818,
+    "rural": 4715
+  },
+  {
+    "adm2_code": "07003",
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "poblacion_total": 8577,
+    "urbana": 3738,
+    "rural": 4839
+  },
+  {
+    "adm2_code": "07004",
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "poblacion_total": 9697,
+    "urbana": 5041,
+    "rural": 4656
+  },
+  {
+    "adm2_code": "07005",
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "poblacion_total": 6605,
+    "urbana": 3094,
+    "rural": 3511
+  },
+  {
+    "adm2_code": "07006",
+    "provincia": "Elías Piña",
+    "municipio": "Juan Santiago",
+    "poblacion_total": 3464,
+    "urbana": 1498,
+    "rural": 1966
+  },
+  {
+    "adm2_code": "22001",
+    "provincia": "San Juan",
+    "municipio": "San Juan",
+    "poblacion_total": 143009,
+    "urbana": 94183,
+    "rural": 48826
+  },
+  {
+    "adm2_code": "22002",
+    "provincia": "San Juan",
+    "municipio": "Bohechío",
+    "poblacion_total": 10051,
+    "urbana": 6053,
+    "rural": 3998
+  },
+  {
+    "adm2_code": "22003",
+    "provincia": "San Juan",
+    "municipio": "El Cercado",
+    "poblacion_total": 17987,
+    "urbana": 5331,
+    "rural": 12656
+  },
+  {
+    "adm2_code": "22004",
+    "provincia": "San Juan",
+    "municipio": "Juan de Herrera",
+    "poblacion_total": 12592,
+    "urbana": 5395,
+    "rural": 7197
+  },
+  {
+    "adm2_code": "22005",
+    "provincia": "San Juan",
+    "municipio": "Las Matas de Farfán",
+    "poblacion_total": 48179,
+    "urbana": 29101,
+    "rural": 19078
+  },
+  {
+    "adm2_code": "22006",
+    "provincia": "San Juan",
+    "municipio": "Vallejuelo",
+    "poblacion_total": 12849,
+    "urbana": 7371,
+    "rural": 5478
+  },
+  {
+    "adm2_code": "08001",
+    "provincia": "El Seibo",
+    "municipio": "El Seibo",
+    "poblacion_total": 72775,
+    "urbana": 34604,
+    "rural": 38171
+  },
+  {
+    "adm2_code": "08002",
+    "provincia": "El Seibo",
+    "municipio": "Miches",
+    "poblacion_total": 26394,
+    "urbana": 16673,
+    "rural": 9721
+  },
+  {
+    "adm2_code": "11001",
+    "provincia": "La Altagracia",
+    "municipio": "Higüey",
+    "poblacion_total": 415084,
+    "urbana": 327886,
+    "rural": 87198
+  },
+  {
+    "adm2_code": "11002",
+    "provincia": "La Altagracia",
+    "municipio": "San Rafael del Yuma",
+    "poblacion_total": 30976,
+    "urbana": 14840,
+    "rural": 16136
+  },
+  {
+    "adm2_code": "12001",
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "poblacion_total": 153241,
+    "urbana": 149840,
+    "rural": 3401
+  },
+  {
+    "adm2_code": "12002",
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "poblacion_total": 17228,
+    "urbana": 7729,
+    "rural": 9499
+  },
+  {
+    "adm2_code": "12003",
+    "provincia": "La Romana",
+    "municipio": "Villa Hermosa",
+    "poblacion_total": 117445,
+    "urbana": 115473,
+    "rural": 1972
+  },
+  {
+    "adm2_code": "23001",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "poblacion_total": 217523,
+    "urbana": 207378,
+    "rural": 10145
+  },
+  {
+    "adm2_code": "23002",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Los Llanos",
+    "poblacion_total": 26098,
+    "urbana": 12114,
+    "rural": 13984
+  },
+  {
+    "adm2_code": "23003",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Ramón Santana",
+    "poblacion_total": 11105,
+    "urbana": 2520,
+    "rural": 8585
+  },
+  {
+    "adm2_code": "23004",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Consuelo",
+    "poblacion_total": 40547,
+    "urbana": 30737,
+    "rural": 9810
+  },
+  {
+    "adm2_code": "23005",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Quisqueya",
+    "poblacion_total": 22720,
+    "urbana": 20034,
+    "rural": 2686
+  },
+  {
+    "adm2_code": "23006",
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Guayacanes",
+    "poblacion_total": 19153,
+    "urbana": 6761,
+    "rural": 12392
+  },
+  {
+    "adm2_code": "29001",
+    "provincia": "Monte Plata",
+    "municipio": "Monte Plata",
+    "poblacion_total": 52926,
+    "urbana": 20942,
+    "rural": 31984
+  },
+  {
+    "adm2_code": "29002",
+    "provincia": "Monte Plata",
+    "municipio": "Bayaguana",
+    "poblacion_total": 35435,
+    "urbana": 24878,
+    "rural": 10557
+  },
+  {
+    "adm2_code": "29003",
+    "provincia": "Monte Plata",
+    "municipio": "Sabana Grande de Boyá",
+    "poblacion_total": 34977,
+    "urbana": 25331,
+    "rural": 9646
+  },
+  {
+    "adm2_code": "29004",
+    "provincia": "Monte Plata",
+    "municipio": "Yamasá",
+    "poblacion_total": 63989,
+    "urbana": 25710,
+    "rural": 38279
+  },
+  {
+    "adm2_code": "29005",
+    "provincia": "Monte Plata",
+    "municipio": "Peralvillo",
+    "poblacion_total": 18171,
+    "urbana": 6980,
+    "rural": 11191
+  },
+  {
+    "adm2_code": "30001",
+    "provincia": "Hato Mayor",
+    "municipio": "Hato Mayor",
+    "poblacion_total": 70582,
+    "urbana": 51959,
+    "rural": 18623
+  },
+  {
+    "adm2_code": "30002",
+    "provincia": "Hato Mayor",
+    "municipio": "Sabana de La Mar",
+    "poblacion_total": 19661,
+    "urbana": 16886,
+    "rural": 2775
+  },
+  {
+    "adm2_code": "30003",
+    "provincia": "Hato Mayor",
+    "municipio": "El Valle",
+    "poblacion_total": 9890,
+    "urbana": 7858,
+    "rural": 2032
+  }
+]

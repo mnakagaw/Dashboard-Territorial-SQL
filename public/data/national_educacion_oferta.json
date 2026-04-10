@@ -1,0 +1,17 @@
+{
+  "centros_total": 7911,
+  "niveles": {
+    "inicial_primario": {
+      "centros": 5091,
+      "matricula": 1308423
+    },
+    "secundario": {
+      "centros": 1901,
+      "matricula": 768922
+    },
+    "adultos": {
+      "centros": 919,
+      "matricula": 169915
+    }
+  }
+}

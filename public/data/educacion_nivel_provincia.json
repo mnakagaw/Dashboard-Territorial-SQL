@@ -1,0 +1,1862 @@
+[
+  {
+    "provincia": "Santo Domingo",
+    "nivel": {
+      "ninguno": {
+        "total": 323472,
+        "h": 162721,
+        "m": 160751,
+        "urbano_total": 251193,
+        "urbano_h": 125208,
+        "urbano_m": 125985,
+        "rural_total": 72279,
+        "rural_h": 37513,
+        "rural_m": 34766
+      },
+      "preprimaria": {
+        "total": 274029,
+        "h": 138083,
+        "m": 135946,
+        "urbano_total": 225500,
+        "urbano_h": 113209,
+        "urbano_m": 112291,
+        "rural_total": 48529,
+        "rural_h": 24874,
+        "rural_m": 23655
+      },
+      "primaria": {
+        "total": 1579569,
+        "h": 811996,
+        "m": 767573,
+        "urbano_total": 1296027,
+        "urbano_h": 662714,
+        "urbano_m": 633313,
+        "rural_total": 283542,
+        "rural_h": 149282,
+        "rural_m": 134260
+      },
+      "secundaria": {
+        "total": 1702333,
+        "h": 858707,
+        "m": 843626,
+        "urbano_total": 1438640,
+        "urbano_h": 726356,
+        "urbano_m": 712284,
+        "rural_total": 263693,
+        "rural_h": 132351,
+        "rural_m": 131342
+      },
+      "superior": {
+        "total": 1035166,
+        "h": 394393,
+        "m": 640773,
+        "urbano_total": 911271,
+        "urbano_h": 349015,
+        "urbano_m": 562256,
+        "rural_total": 123895,
+        "rural_h": 45378,
+        "rural_m": 78517
+      }
+    }
+  },
+  {
+    "provincia": "Espaillat",
+    "nivel": {
+      "ninguno": {
+        "total": 32263,
+        "h": 17942,
+        "m": 14321,
+        "urbano_total": 13880,
+        "urbano_h": 7370,
+        "urbano_m": 6510,
+        "rural_total": 18383,
+        "rural_h": 10572,
+        "rural_m": 7811
+      },
+      "preprimaria": {
+        "total": 20625,
+        "h": 10618,
+        "m": 10007,
+        "urbano_total": 9828,
+        "urbano_h": 4820,
+        "urbano_m": 5008,
+        "rural_total": 10797,
+        "rural_h": 5798,
+        "rural_m": 4999
+      },
+      "primaria": {
+        "total": 140741,
+        "h": 74861,
+        "m": 65880,
+        "urbano_total": 64184,
+        "urbano_h": 33410,
+        "urbano_m": 30774,
+        "rural_total": 76557,
+        "rural_h": 41451,
+        "rural_m": 35106
+      },
+      "secundaria": {
+        "total": 118673,
+        "h": 61533,
+        "m": 57140,
+        "urbano_total": 59968,
+        "urbano_h": 30302,
+        "urbano_m": 29666,
+        "rural_total": 58705,
+        "rural_h": 31231,
+        "rural_m": 27474
+      },
+      "superior": {
+        "total": 60662,
+        "h": 23423,
+        "m": 37239,
+        "urbano_total": 36287,
+        "urbano_h": 14186,
+        "urbano_m": 22101,
+        "rural_total": 24375,
+        "rural_h": 9237,
+        "rural_m": 15138
+      }
+    }
+  },
+  {
+    "provincia": "Puerto Plata",
+    "nivel": {
+      "ninguno": {
+        "total": 79632,
+        "h": 43549,
+        "m": 36083,
+        "urbano_total": 35602,
+        "urbano_h": 18684,
+        "urbano_m": 16918,
+        "rural_total": 44030,
+        "rural_h": 24865,
+        "rural_m": 19165
+      },
+      "preprimaria": {
+        "total": 52251,
+        "h": 26928,
+        "m": 25323,
+        "urbano_total": 27477,
+        "urbano_h": 13815,
+        "urbano_m": 13662,
+        "rural_total": 24774,
+        "rural_h": 13113,
+        "rural_m": 11661
+      },
+      "primaria": {
+        "total": 333314,
+        "h": 173027,
+        "m": 160287,
+        "urbano_total": 186372,
+        "urbano_h": 94392,
+        "urbano_m": 91980,
+        "rural_total": 146942,
+        "rural_h": 78635,
+        "rural_m": 68307
+      },
+      "secundaria": {
+        "total": 326829,
+        "h": 164472,
+        "m": 162357,
+        "urbano_total": 205799,
+        "urbano_h": 101648,
+        "urbano_m": 104151,
+        "rural_total": 121030,
+        "rural_h": 62824,
+        "rural_m": 58206
+      },
+      "superior": {
+        "total": 123995,
+        "h": 47148,
+        "m": 76847,
+        "urbano_total": 88557,
+        "urbano_h": 34032,
+        "urbano_m": 54525,
+        "rural_total": 35438,
+        "rural_h": 13116,
+        "rural_m": 22322
+      }
+    }
+  },
+  {
+    "provincia": "Santiago",
+    "nivel": {
+      "ninguno": {
+        "total": 223454,
+        "h": 118153,
+        "m": 105301,
+        "urbano_total": 152838,
+        "urbano_h": 78914,
+        "urbano_m": 73924,
+        "rural_total": 70616,
+        "rural_h": 39239,
+        "rural_m": 31377
+      },
+      "preprimaria": {
+        "total": 160497,
+        "h": 81905,
+        "m": 78592,
+        "urbano_total": 115895,
+        "urbano_h": 58486,
+        "urbano_m": 57409,
+        "rural_total": 44602,
+        "rural_h": 23419,
+        "rural_m": 21183
+      },
+      "primaria": {
+        "total": 1001996,
+        "h": 523272,
+        "m": 478724,
+        "urbano_total": 702902,
+        "urbano_h": 362209,
+        "urbano_m": 340693,
+        "rural_total": 299094,
+        "rural_h": 161063,
+        "rural_m": 138031
+      },
+      "secundaria": {
+        "total": 899533,
+        "h": 450465,
+        "m": 449068,
+        "urbano_total": 684247,
+        "urbano_h": 340323,
+        "urbano_m": 343924,
+        "rural_total": 215286,
+        "rural_h": 110142,
+        "rural_m": 105144
+      },
+      "superior": {
+        "total": 517333,
+        "h": 203658,
+        "m": 313675,
+        "urbano_total": 426483,
+        "urbano_h": 168882,
+        "urbano_m": 257601,
+        "rural_total": 90850,
+        "rural_h": 34776,
+        "rural_m": 56074
+      }
+    }
+  },
+  {
+    "provincia": "La Vega",
+    "nivel": {
+      "ninguno": {
+        "total": 104705,
+        "h": 58632,
+        "m": 46073,
+        "urbano_total": 46841,
+        "urbano_h": 25168,
+        "urbano_m": 21673,
+        "rural_total": 57864,
+        "rural_h": 33464,
+        "rural_m": 24400
+      },
+      "preprimaria": {
+        "total": 67846,
+        "h": 36100,
+        "m": 31746,
+        "urbano_total": 32255,
+        "urbano_h": 16690,
+        "urbano_m": 15565,
+        "rural_total": 35591,
+        "rural_h": 19410,
+        "rural_m": 16181
+      },
+      "primaria": {
+        "total": 447104,
+        "h": 239675,
+        "m": 207429,
+        "urbano_total": 208905,
+        "urbano_h": 109621,
+        "urbano_m": 99284,
+        "rural_total": 238199,
+        "rural_h": 130054,
+        "rural_m": 108145
+      },
+      "secundaria": {
+        "total": 362636,
+        "h": 183988,
+        "m": 178648,
+        "urbano_total": 189517,
+        "urbano_h": 95312,
+        "urbano_m": 94205,
+        "rural_total": 173119,
+        "rural_h": 88676,
+        "rural_m": 84443
+      },
+      "superior": {
+        "total": 178505,
+        "h": 67267,
+        "m": 111238,
+        "urbano_total": 113830,
+        "urbano_h": 44251,
+        "urbano_m": 69579,
+        "rural_total": 64675,
+        "rural_h": 23016,
+        "rural_m": 41659
+      }
+    }
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "nivel": {
+      "ninguno": {
+        "total": 20958,
+        "h": 11906,
+        "m": 9052,
+        "urbano_total": 10507,
+        "urbano_h": 5663,
+        "urbano_m": 4844,
+        "rural_total": 10451,
+        "rural_h": 6243,
+        "rural_m": 4208
+      },
+      "preprimaria": {
+        "total": 14313,
+        "h": 7472,
+        "m": 6841,
+        "urbano_total": 8026,
+        "urbano_h": 3995,
+        "urbano_m": 4031,
+        "rural_total": 6287,
+        "rural_h": 3477,
+        "rural_m": 2810
+      },
+      "primaria": {
+        "total": 94466,
+        "h": 51282,
+        "m": 43184,
+        "urbano_total": 52919,
+        "urbano_h": 27846,
+        "urbano_m": 25073,
+        "rural_total": 41547,
+        "rural_h": 23436,
+        "rural_m": 18111
+      },
+      "secundaria": {
+        "total": 63132,
+        "h": 35016,
+        "m": 28116,
+        "urbano_total": 39581,
+        "urbano_h": 22172,
+        "urbano_m": 17409,
+        "rural_total": 23551,
+        "rural_h": 12844,
+        "rural_m": 10707
+      },
+      "superior": {
+        "total": 62466,
+        "h": 22610,
+        "m": 39856,
+        "urbano_total": 47506,
+        "urbano_h": 17485,
+        "urbano_m": 30021,
+        "rural_total": 14960,
+        "rural_h": 5125,
+        "rural_m": 9835
+      }
+    }
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "nivel": {
+      "ninguno": {
+        "total": 22792,
+        "h": 12190,
+        "m": 10602,
+        "urbano_total": 13514,
+        "urbano_h": 6918,
+        "urbano_m": 6596,
+        "rural_total": 9278,
+        "rural_h": 5272,
+        "rural_m": 4006
+      },
+      "preprimaria": {
+        "total": 17930,
+        "h": 9079,
+        "m": 8851,
+        "urbano_total": 11933,
+        "urbano_h": 5782,
+        "urbano_m": 6151,
+        "rural_total": 5997,
+        "rural_h": 3297,
+        "rural_m": 2700
+      },
+      "primaria": {
+        "total": 106239,
+        "h": 56125,
+        "m": 50114,
+        "urbano_total": 67926,
+        "urbano_h": 35169,
+        "urbano_m": 32757,
+        "rural_total": 38313,
+        "rural_h": 20956,
+        "rural_m": 17357
+      },
+      "secundaria": {
+        "total": 101610,
+        "h": 53874,
+        "m": 47736,
+        "urbano_total": 71270,
+        "urbano_h": 37653,
+        "urbano_m": 33617,
+        "rural_total": 30340,
+        "rural_h": 16221,
+        "rural_m": 14119
+      },
+      "superior": {
+        "total": 52429,
+        "h": 17820,
+        "m": 34609,
+        "urbano_total": 42439,
+        "urbano_h": 14728,
+        "urbano_m": 27711,
+        "rural_total": 9990,
+        "rural_h": 3092,
+        "rural_m": 6898
+      }
+    }
+  },
+  {
+    "provincia": "Duarte",
+    "nivel": {
+      "ninguno": {
+        "total": 43978,
+        "h": 25183,
+        "m": 18795,
+        "urbano_total": 27600,
+        "urbano_h": 15172,
+        "urbano_m": 12428,
+        "rural_total": 16378,
+        "rural_h": 10011,
+        "rural_m": 6367
+      },
+      "preprimaria": {
+        "total": 30148,
+        "h": 15847,
+        "m": 14301,
+        "urbano_total": 20988,
+        "urbano_h": 10933,
+        "urbano_m": 10055,
+        "rural_total": 9160,
+        "rural_h": 4914,
+        "rural_m": 4246
+      },
+      "primaria": {
+        "total": 195494,
+        "h": 106130,
+        "m": 89364,
+        "urbano_total": 131674,
+        "urbano_h": 70305,
+        "urbano_m": 61369,
+        "rural_total": 63820,
+        "rural_h": 35825,
+        "rural_m": 27995
+      },
+      "secundaria": {
+        "total": 140002,
+        "h": 71815,
+        "m": 68187,
+        "urbano_total": 104710,
+        "urbano_h": 52914,
+        "urbano_m": 51796,
+        "rural_total": 35292,
+        "rural_h": 18901,
+        "rural_m": 16391
+      },
+      "superior": {
+        "total": 105032,
+        "h": 36203,
+        "m": 68829,
+        "urbano_total": 86309,
+        "urbano_h": 30244,
+        "urbano_m": 56065,
+        "rural_total": 18723,
+        "rural_h": 5959,
+        "rural_m": 12764
+      }
+    }
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "nivel": {
+      "ninguno": {
+        "total": 21384,
+        "h": 12134,
+        "m": 9250,
+        "urbano_total": 10703,
+        "urbano_h": 5800,
+        "urbano_m": 4903,
+        "rural_total": 10681,
+        "rural_h": 6334,
+        "rural_m": 4347
+      },
+      "preprimaria": {
+        "total": 14518,
+        "h": 7702,
+        "m": 6816,
+        "urbano_total": 7229,
+        "urbano_h": 3792,
+        "urbano_m": 3437,
+        "rural_total": 7289,
+        "rural_h": 3910,
+        "rural_m": 3379
+      },
+      "primaria": {
+        "total": 93554,
+        "h": 50195,
+        "m": 43359,
+        "urbano_total": 52119,
+        "urbano_h": 27695,
+        "urbano_m": 24424,
+        "rural_total": 41435,
+        "rural_h": 22500,
+        "rural_m": 18935
+      },
+      "secundaria": {
+        "total": 71184,
+        "h": 37050,
+        "m": 34134,
+        "urbano_total": 46463,
+        "urbano_h": 24037,
+        "urbano_m": 22426,
+        "rural_total": 24721,
+        "rural_h": 13013,
+        "rural_m": 11708
+      },
+      "superior": {
+        "total": 37020,
+        "h": 12894,
+        "m": 24126,
+        "urbano_total": 27979,
+        "urbano_h": 9845,
+        "urbano_m": 18134,
+        "rural_total": 9041,
+        "rural_h": 3049,
+        "rural_m": 5992
+      }
+    }
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "nivel": {
+      "ninguno": {
+        "total": 14154,
+        "h": 8083,
+        "m": 6071,
+        "urbano_total": 3249,
+        "urbano_h": 1725,
+        "urbano_m": 1524,
+        "rural_total": 10905,
+        "rural_h": 6358,
+        "rural_m": 4547
+      },
+      "preprimaria": {
+        "total": 9783,
+        "h": 5102,
+        "m": 4681,
+        "urbano_total": 2809,
+        "urbano_h": 1373,
+        "urbano_m": 1436,
+        "rural_total": 6974,
+        "rural_h": 3729,
+        "rural_m": 3245
+      },
+      "primaria": {
+        "total": 65295,
+        "h": 35223,
+        "m": 30072,
+        "urbano_total": 16492,
+        "urbano_h": 8648,
+        "urbano_m": 7844,
+        "rural_total": 48803,
+        "rural_h": 26575,
+        "rural_m": 22228
+      },
+      "secundaria": {
+        "total": 51076,
+        "h": 27722,
+        "m": 23354,
+        "urbano_total": 16989,
+        "urbano_h": 9080,
+        "urbano_m": 7909,
+        "rural_total": 34087,
+        "rural_h": 18642,
+        "rural_m": 15445
+      },
+      "superior": {
+        "total": 36617,
+        "h": 13594,
+        "m": 23023,
+        "urbano_total": 15440,
+        "urbano_h": 5652,
+        "urbano_m": 9788,
+        "rural_total": 21177,
+        "rural_h": 7942,
+        "rural_m": 13235
+      }
+    }
+  },
+  {
+    "provincia": "Samaná",
+    "nivel": {
+      "ninguno": {
+        "total": 27833,
+        "h": 16140,
+        "m": 11693,
+        "urbano_total": 10377,
+        "urbano_h": 5858,
+        "urbano_m": 4519,
+        "rural_total": 17456,
+        "rural_h": 10282,
+        "rural_m": 7174
+      },
+      "preprimaria": {
+        "total": 17184,
+        "h": 9282,
+        "m": 7902,
+        "urbano_total": 7911,
+        "urbano_h": 4227,
+        "urbano_m": 3684,
+        "rural_total": 9273,
+        "rural_h": 5055,
+        "rural_m": 4218
+      },
+      "primaria": {
+        "total": 118948,
+        "h": 63321,
+        "m": 55627,
+        "urbano_total": 46549,
+        "urbano_h": 24466,
+        "urbano_m": 22083,
+        "rural_total": 72399,
+        "rural_h": 38855,
+        "rural_m": 33544
+      },
+      "secundaria": {
+        "total": 104096,
+        "h": 51013,
+        "m": 53083,
+        "urbano_total": 47508,
+        "urbano_h": 23337,
+        "urbano_m": 24171,
+        "rural_total": 56588,
+        "rural_h": 27676,
+        "rural_m": 28912
+      },
+      "superior": {
+        "total": 35198,
+        "h": 11424,
+        "m": 23774,
+        "urbano_total": 20783,
+        "urbano_h": 7168,
+        "urbano_m": 13615,
+        "rural_total": 14415,
+        "rural_h": 4256,
+        "rural_m": 10159
+      }
+    }
+  },
+  {
+    "provincia": "Dajabón",
+    "nivel": {
+      "ninguno": {
+        "total": 25139,
+        "h": 13603,
+        "m": 11536,
+        "urbano_total": 9564,
+        "urbano_h": 4784,
+        "urbano_m": 4780,
+        "rural_total": 15575,
+        "rural_h": 8819,
+        "rural_m": 6756
+      },
+      "preprimaria": {
+        "total": 11821,
+        "h": 6074,
+        "m": 5747,
+        "urbano_total": 6963,
+        "urbano_h": 3518,
+        "urbano_m": 3445,
+        "rural_total": 4858,
+        "rural_h": 2556,
+        "rural_m": 2302
+      },
+      "primaria": {
+        "total": 81363,
+        "h": 43425,
+        "m": 37938,
+        "urbano_total": 42779,
+        "urbano_h": 22339,
+        "urbano_m": 20440,
+        "rural_total": 38584,
+        "rural_h": 21086,
+        "rural_m": 17498
+      },
+      "secundaria": {
+        "total": 55652,
+        "h": 28887,
+        "m": 26765,
+        "urbano_total": 35826,
+        "urbano_h": 18369,
+        "urbano_m": 17457,
+        "rural_total": 19826,
+        "rural_h": 10518,
+        "rural_m": 9308
+      },
+      "superior": {
+        "total": 27069,
+        "h": 9406,
+        "m": 17663,
+        "urbano_total": 20487,
+        "urbano_h": 7345,
+        "urbano_m": 13142,
+        "rural_total": 6582,
+        "rural_h": 2061,
+        "rural_m": 4521
+      }
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "nivel": {
+      "ninguno": {
+        "total": 48627,
+        "h": 28395,
+        "m": 20232,
+        "urbano_total": 21196,
+        "urbano_h": 12047,
+        "urbano_m": 9149,
+        "rural_total": 27431,
+        "rural_h": 16348,
+        "rural_m": 11083
+      },
+      "preprimaria": {
+        "total": 21798,
+        "h": 11896,
+        "m": 9902,
+        "urbano_total": 10566,
+        "urbano_h": 5662,
+        "urbano_m": 4904,
+        "rural_total": 11232,
+        "rural_h": 6234,
+        "rural_m": 4998
+      },
+      "primaria": {
+        "total": 117415,
+        "h": 63392,
+        "m": 54023,
+        "urbano_total": 61969,
+        "urbano_h": 33302,
+        "urbano_m": 28667,
+        "rural_total": 55446,
+        "rural_h": 30090,
+        "rural_m": 25356
+      },
+      "secundaria": {
+        "total": 88570,
+        "h": 44981,
+        "m": 43589,
+        "urbano_total": 52719,
+        "urbano_h": 26667,
+        "urbano_m": 26052,
+        "rural_total": 35851,
+        "rural_h": 18314,
+        "rural_m": 17537
+      },
+      "superior": {
+        "total": 33335,
+        "h": 11292,
+        "m": 22043,
+        "urbano_total": 22150,
+        "urbano_h": 7766,
+        "urbano_m": 14384,
+        "rural_total": 11185,
+        "rural_h": 3526,
+        "rural_m": 7659
+      }
+    }
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "nivel": {
+      "ninguno": {
+        "total": 14076,
+        "h": 7964,
+        "m": 6112,
+        "urbano_total": 5314,
+        "urbano_h": 2830,
+        "urbano_m": 2484,
+        "rural_total": 8762,
+        "rural_h": 5134,
+        "rural_m": 3628
+      },
+      "preprimaria": {
+        "total": 9264,
+        "h": 4738,
+        "m": 4526,
+        "urbano_total": 4272,
+        "urbano_h": 2118,
+        "urbano_m": 2154,
+        "rural_total": 4992,
+        "rural_h": 2620,
+        "rural_m": 2372
+      },
+      "primaria": {
+        "total": 48308,
+        "h": 25608,
+        "m": 22700,
+        "urbano_total": 21918,
+        "urbano_h": 11174,
+        "urbano_m": 10744,
+        "rural_total": 26390,
+        "rural_h": 14434,
+        "rural_m": 11956
+      },
+      "secundaria": {
+        "total": 30626,
+        "h": 16726,
+        "m": 13900,
+        "urbano_total": 16942,
+        "urbano_h": 8988,
+        "urbano_m": 7954,
+        "rural_total": 13684,
+        "rural_h": 7738,
+        "rural_m": 5946
+      },
+      "superior": {
+        "total": 20742,
+        "h": 7702,
+        "m": 13040,
+        "urbano_total": 13870,
+        "urbano_h": 5240,
+        "urbano_m": 8630,
+        "rural_total": 6872,
+        "rural_h": 2462,
+        "rural_m": 4410
+      }
+    }
+  },
+  {
+    "provincia": "Valverde",
+    "nivel": {
+      "ninguno": {
+        "total": 33093,
+        "h": 18471,
+        "m": 14622,
+        "urbano_total": 24071,
+        "urbano_h": 13045,
+        "urbano_m": 11026,
+        "rural_total": 9022,
+        "rural_h": 5426,
+        "rural_m": 3596
+      },
+      "preprimaria": {
+        "total": 17887,
+        "h": 9275,
+        "m": 8612,
+        "urbano_total": 15134,
+        "urbano_h": 7799,
+        "urbano_m": 7335,
+        "rural_total": 2753,
+        "rural_h": 1476,
+        "rural_m": 1277
+      },
+      "primaria": {
+        "total": 110865,
+        "h": 58958,
+        "m": 51907,
+        "urbano_total": 90914,
+        "urbano_h": 48191,
+        "urbano_m": 42723,
+        "rural_total": 19951,
+        "rural_h": 10767,
+        "rural_m": 9184
+      },
+      "secundaria": {
+        "total": 75607,
+        "h": 38965,
+        "m": 36642,
+        "urbano_total": 64593,
+        "urbano_h": 33202,
+        "urbano_m": 31391,
+        "rural_total": 11014,
+        "rural_h": 5763,
+        "rural_m": 5251
+      },
+      "superior": {
+        "total": 51571,
+        "h": 19273,
+        "m": 32298,
+        "urbano_total": 47013,
+        "urbano_h": 17743,
+        "urbano_m": 29270,
+        "rural_total": 4558,
+        "rural_h": 1530,
+        "rural_m": 3028
+      }
+    }
+  },
+  {
+    "provincia": "Peravia",
+    "nivel": {
+      "ninguno": {
+        "total": 34922,
+        "h": 18733,
+        "m": 16189,
+        "urbano_total": 21365,
+        "urbano_h": 11262,
+        "urbano_m": 10103,
+        "rural_total": 13557,
+        "rural_h": 7471,
+        "rural_m": 6086
+      },
+      "preprimaria": {
+        "total": 18908,
+        "h": 9655,
+        "m": 9253,
+        "urbano_total": 12606,
+        "urbano_h": 6359,
+        "urbano_m": 6247,
+        "rural_total": 6302,
+        "rural_h": 3296,
+        "rural_m": 3006
+      },
+      "primaria": {
+        "total": 144901,
+        "h": 77235,
+        "m": 67666,
+        "urbano_total": 92743,
+        "urbano_h": 48594,
+        "urbano_m": 44149,
+        "rural_total": 52158,
+        "rural_h": 28641,
+        "rural_m": 23517
+      },
+      "secundaria": {
+        "total": 92605,
+        "h": 42472,
+        "m": 50133,
+        "urbano_total": 62154,
+        "urbano_h": 27972,
+        "urbano_m": 34182,
+        "rural_total": 30451,
+        "rural_h": 14500,
+        "rural_m": 15951
+      },
+      "superior": {
+        "total": 36476,
+        "h": 10415,
+        "m": 26061,
+        "urbano_total": 26807,
+        "urbano_h": 8027,
+        "urbano_m": 18780,
+        "rural_total": 9669,
+        "rural_h": 2388,
+        "rural_m": 7281
+      }
+    }
+  },
+  {
+    "provincia": "San Cristóbal",
+    "nivel": {
+      "ninguno": {
+        "total": 129699,
+        "h": 67888,
+        "m": 61811,
+        "urbano_total": 60825,
+        "urbano_h": 30651,
+        "urbano_m": 30174,
+        "rural_total": 68874,
+        "rural_h": 37237,
+        "rural_m": 31637
+      },
+      "preprimaria": {
+        "total": 94424,
+        "h": 48221,
+        "m": 46203,
+        "urbano_total": 49300,
+        "urbano_h": 25113,
+        "urbano_m": 24187,
+        "rural_total": 45124,
+        "rural_h": 23108,
+        "rural_m": 22016
+      },
+      "primaria": {
+        "total": 626980,
+        "h": 333686,
+        "m": 293294,
+        "urbano_total": 319714,
+        "urbano_h": 166605,
+        "urbano_m": 153109,
+        "rural_total": 307266,
+        "rural_h": 167081,
+        "rural_m": 140185
+      },
+      "secundaria": {
+        "total": 617297,
+        "h": 322699,
+        "m": 294598,
+        "urbano_total": 352438,
+        "urbano_h": 183003,
+        "urbano_m": 169435,
+        "rural_total": 264859,
+        "rural_h": 139696,
+        "rural_m": 125163
+      },
+      "superior": {
+        "total": 281567,
+        "h": 93828,
+        "m": 187739,
+        "urbano_total": 192274,
+        "urbano_h": 67499,
+        "urbano_m": 124775,
+        "rural_total": 89293,
+        "rural_h": 26329,
+        "rural_m": 62964
+      }
+    }
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "nivel": {
+      "ninguno": {
+        "total": 27317,
+        "h": 16719,
+        "m": 10598,
+        "urbano_total": 13839,
+        "urbano_h": 7914,
+        "urbano_m": 5925,
+        "rural_total": 13478,
+        "rural_h": 8805,
+        "rural_m": 4673
+      },
+      "preprimaria": {
+        "total": 12143,
+        "h": 6690,
+        "m": 5453,
+        "urbano_total": 7471,
+        "urbano_h": 3806,
+        "urbano_m": 3665,
+        "rural_total": 4672,
+        "rural_h": 2884,
+        "rural_m": 1788
+      },
+      "primaria": {
+        "total": 75139,
+        "h": 42192,
+        "m": 32947,
+        "urbano_total": 44150,
+        "urbano_h": 23839,
+        "urbano_m": 20311,
+        "rural_total": 30989,
+        "rural_h": 18353,
+        "rural_m": 12636
+      },
+      "secundaria": {
+        "total": 44788,
+        "h": 23881,
+        "m": 20907,
+        "urbano_total": 31451,
+        "urbano_h": 16583,
+        "urbano_m": 14868,
+        "rural_total": 13337,
+        "rural_h": 7298,
+        "rural_m": 6039
+      },
+      "superior": {
+        "total": 23954,
+        "h": 8984,
+        "m": 14970,
+        "urbano_total": 19976,
+        "urbano_h": 7469,
+        "urbano_m": 12507,
+        "rural_total": 3978,
+        "rural_h": 1515,
+        "rural_m": 2463
+      }
+    }
+  },
+  {
+    "provincia": "Baoruco",
+    "nivel": {
+      "ninguno": {
+        "total": 28306,
+        "h": 15463,
+        "m": 12843,
+        "urbano_total": 16167,
+        "urbano_h": 8474,
+        "urbano_m": 7693,
+        "rural_total": 12139,
+        "rural_h": 6989,
+        "rural_m": 5150
+      },
+      "preprimaria": {
+        "total": 11094,
+        "h": 5844,
+        "m": 5250,
+        "urbano_total": 7163,
+        "urbano_h": 3662,
+        "urbano_m": 3501,
+        "rural_total": 3931,
+        "rural_h": 2182,
+        "rural_m": 1749
+      },
+      "primaria": {
+        "total": 64254,
+        "h": 35059,
+        "m": 29195,
+        "urbano_total": 44176,
+        "urbano_h": 23899,
+        "urbano_m": 20277,
+        "rural_total": 20078,
+        "rural_h": 11160,
+        "rural_m": 8918
+      },
+      "secundaria": {
+        "total": 37776,
+        "h": 20291,
+        "m": 17485,
+        "urbano_total": 29759,
+        "urbano_h": 16007,
+        "urbano_m": 13752,
+        "rural_total": 8017,
+        "rural_h": 4284,
+        "rural_m": 3733
+      },
+      "superior": {
+        "total": 28787,
+        "h": 10198,
+        "m": 18589,
+        "urbano_total": 25491,
+        "urbano_h": 9193,
+        "urbano_m": 16298,
+        "rural_total": 3296,
+        "rural_h": 1005,
+        "rural_m": 2291
+      }
+    }
+  },
+  {
+    "provincia": "Barahona",
+    "nivel": {
+      "ninguno": {
+        "total": 61604,
+        "h": 34129,
+        "m": 27475,
+        "urbano_total": 42608,
+        "urbano_h": 22459,
+        "urbano_m": 20149,
+        "rural_total": 18996,
+        "rural_h": 11670,
+        "rural_m": 7326
+      },
+      "preprimaria": {
+        "total": 34137,
+        "h": 17873,
+        "m": 16264,
+        "urbano_total": 28495,
+        "urbano_h": 14754,
+        "urbano_m": 13741,
+        "rural_total": 5642,
+        "rural_h": 3119,
+        "rural_m": 2523
+      },
+      "primaria": {
+        "total": 200649,
+        "h": 107005,
+        "m": 93644,
+        "urbano_total": 167917,
+        "urbano_h": 88966,
+        "urbano_m": 78951,
+        "rural_total": 32732,
+        "rural_h": 18039,
+        "rural_m": 14693
+      },
+      "secundaria": {
+        "total": 125259,
+        "h": 67177,
+        "m": 58082,
+        "urbano_total": 110784,
+        "urbano_h": 59196,
+        "urbano_m": 51588,
+        "rural_total": 14475,
+        "rural_h": 7981,
+        "rural_m": 6494
+      },
+      "superior": {
+        "total": 97855,
+        "h": 36032,
+        "m": 61823,
+        "urbano_total": 91008,
+        "urbano_h": 33663,
+        "urbano_m": 57345,
+        "rural_total": 6847,
+        "rural_h": 2369,
+        "rural_m": 4478
+      }
+    }
+  },
+  {
+    "provincia": "Independencia",
+    "nivel": {
+      "ninguno": {
+        "total": 17796,
+        "h": 9511,
+        "m": 8285,
+        "urbano_total": 11484,
+        "urbano_h": 5980,
+        "urbano_m": 5504,
+        "rural_total": 6312,
+        "rural_h": 3531,
+        "rural_m": 2781
+      },
+      "preprimaria": {
+        "total": 5576,
+        "h": 2850,
+        "m": 2726,
+        "urbano_total": 4567,
+        "urbano_h": 2317,
+        "urbano_m": 2250,
+        "rural_total": 1009,
+        "rural_h": 533,
+        "rural_m": 476
+      },
+      "primaria": {
+        "total": 36649,
+        "h": 19778,
+        "m": 16871,
+        "urbano_total": 30890,
+        "urbano_h": 16605,
+        "urbano_m": 14285,
+        "rural_total": 5759,
+        "rural_h": 3173,
+        "rural_m": 2586
+      },
+      "secundaria": {
+        "total": 23171,
+        "h": 12058,
+        "m": 11113,
+        "urbano_total": 20590,
+        "urbano_h": 10696,
+        "urbano_m": 9894,
+        "rural_total": 2581,
+        "rural_h": 1362,
+        "rural_m": 1219
+      },
+      "superior": {
+        "total": 12673,
+        "h": 4127,
+        "m": 8546,
+        "urbano_total": 11793,
+        "urbano_h": 3868,
+        "urbano_m": 7925,
+        "rural_total": 880,
+        "rural_h": 259,
+        "rural_m": 621
+      }
+    }
+  },
+  {
+    "provincia": "Pedernales",
+    "nivel": {
+      "ninguno": {
+        "total": 17784,
+        "h": 9871,
+        "m": 7913,
+        "urbano_total": 10872,
+        "urbano_h": 5829,
+        "urbano_m": 5043,
+        "rural_total": 6912,
+        "rural_h": 4042,
+        "rural_m": 2870
+      },
+      "preprimaria": {
+        "total": 5193,
+        "h": 2669,
+        "m": 2524,
+        "urbano_total": 4486,
+        "urbano_h": 2265,
+        "urbano_m": 2221,
+        "rural_total": 707,
+        "rural_h": 404,
+        "rural_m": 303
+      },
+      "primaria": {
+        "total": 34704,
+        "h": 18533,
+        "m": 16171,
+        "urbano_total": 29166,
+        "urbano_h": 15397,
+        "urbano_m": 13769,
+        "rural_total": 5538,
+        "rural_h": 3136,
+        "rural_m": 2402
+      },
+      "secundaria": {
+        "total": 22451,
+        "h": 11392,
+        "m": 11059,
+        "urbano_total": 20189,
+        "urbano_h": 10190,
+        "urbano_m": 9999,
+        "rural_total": 2262,
+        "rural_h": 1202,
+        "rural_m": 1060
+      },
+      "superior": {
+        "total": 8138,
+        "h": 2983,
+        "m": 5155,
+        "urbano_total": 7554,
+        "urbano_h": 2781,
+        "urbano_m": 4773,
+        "rural_total": 584,
+        "rural_h": 202,
+        "rural_m": 382
+      }
+    }
+  },
+  {
+    "provincia": "Azua",
+    "nivel": {
+      "ninguno": {
+        "total": 82127,
+        "h": 49506,
+        "m": 32621,
+        "urbano_total": 56428,
+        "urbano_h": 32969,
+        "urbano_m": 23459,
+        "rural_total": 25699,
+        "rural_h": 16537,
+        "rural_m": 9162
+      },
+      "preprimaria": {
+        "total": 35077,
+        "h": 18578,
+        "m": 16499,
+        "urbano_total": 26611,
+        "urbano_h": 13849,
+        "urbano_m": 12762,
+        "rural_total": 8466,
+        "rural_h": 4729,
+        "rural_m": 3737
+      },
+      "primaria": {
+        "total": 243095,
+        "h": 131053,
+        "m": 112042,
+        "urbano_total": 184454,
+        "urbano_h": 98692,
+        "urbano_m": 85762,
+        "rural_total": 58641,
+        "rural_h": 32361,
+        "rural_m": 26280
+      },
+      "secundaria": {
+        "total": 154023,
+        "h": 79951,
+        "m": 74072,
+        "urbano_total": 126835,
+        "urbano_h": 66007,
+        "urbano_m": 60828,
+        "rural_total": 27188,
+        "rural_h": 13944,
+        "rural_m": 13244
+      },
+      "superior": {
+        "total": 79375,
+        "h": 26099,
+        "m": 53276,
+        "urbano_total": 71353,
+        "urbano_h": 23656,
+        "urbano_m": 47697,
+        "rural_total": 8022,
+        "rural_h": 2443,
+        "rural_m": 5579
+      }
+    }
+  },
+  {
+    "provincia": "Elías Piña",
+    "nivel": {
+      "ninguno": {
+        "total": 23789,
+        "h": 11810,
+        "m": 11979,
+        "urbano_total": 10050,
+        "urbano_h": 4723,
+        "urbano_m": 5327,
+        "rural_total": 13739,
+        "rural_h": 7087,
+        "rural_m": 6652
+      },
+      "preprimaria": {
+        "total": 6116,
+        "h": 3196,
+        "m": 2920,
+        "urbano_total": 3062,
+        "urbano_h": 1523,
+        "urbano_m": 1539,
+        "rural_total": 3054,
+        "rural_h": 1673,
+        "rural_m": 1381
+      },
+      "primaria": {
+        "total": 41037,
+        "h": 22106,
+        "m": 18931,
+        "urbano_total": 21561,
+        "urbano_h": 11179,
+        "urbano_m": 10382,
+        "rural_total": 19476,
+        "rural_h": 10927,
+        "rural_m": 8549
+      },
+      "secundaria": {
+        "total": 17709,
+        "h": 9202,
+        "m": 8507,
+        "urbano_total": 11894,
+        "urbano_h": 6143,
+        "urbano_m": 5751,
+        "rural_total": 5815,
+        "rural_h": 3059,
+        "rural_m": 2756
+      },
+      "superior": {
+        "total": 10607,
+        "h": 4022,
+        "m": 6585,
+        "urbano_total": 8942,
+        "urbano_h": 3419,
+        "urbano_m": 5523,
+        "rural_total": 1665,
+        "rural_h": 603,
+        "rural_m": 1062
+      }
+    }
+  },
+  {
+    "provincia": "San Juan",
+    "nivel": {
+      "ninguno": {
+        "total": 83665,
+        "h": 45868,
+        "m": 37797,
+        "urbano_total": 41601,
+        "urbano_h": 21686,
+        "urbano_m": 19915,
+        "rural_total": 42064,
+        "rural_h": 24182,
+        "rural_m": 17882
+      },
+      "preprimaria": {
+        "total": 42888,
+        "h": 22705,
+        "m": 20183,
+        "urbano_total": 24858,
+        "urbano_h": 12700,
+        "urbano_m": 12158,
+        "rural_total": 18030,
+        "rural_h": 10005,
+        "rural_m": 8025
+      },
+      "primaria": {
+        "total": 237562,
+        "h": 128593,
+        "m": 108969,
+        "urbano_total": 139995,
+        "urbano_h": 74620,
+        "urbano_m": 65375,
+        "rural_total": 97567,
+        "rural_h": 53973,
+        "rural_m": 43594
+      },
+      "secundaria": {
+        "total": 132818,
+        "h": 71325,
+        "m": 61493,
+        "urbano_total": 93100,
+        "urbano_h": 49709,
+        "urbano_m": 43391,
+        "rural_total": 39718,
+        "rural_h": 21616,
+        "rural_m": 18102
+      },
+      "superior": {
+        "total": 117344,
+        "h": 44768,
+        "m": 72576,
+        "urbano_total": 96494,
+        "urbano_h": 37184,
+        "urbano_m": 59310,
+        "rural_total": 20850,
+        "rural_h": 7584,
+        "rural_m": 13266
+      }
+    }
+  },
+  {
+    "provincia": "El Seibo",
+    "nivel": {
+      "ninguno": {
+        "total": 30773,
+        "h": 17940,
+        "m": 12833,
+        "urbano_total": 11638,
+        "urbano_h": 6336,
+        "urbano_m": 5302,
+        "rural_total": 19135,
+        "rural_h": 11604,
+        "rural_m": 7531
+      },
+      "preprimaria": {
+        "total": 18166,
+        "h": 9857,
+        "m": 8309,
+        "urbano_total": 9265,
+        "urbano_h": 4757,
+        "urbano_m": 4508,
+        "rural_total": 8901,
+        "rural_h": 5100,
+        "rural_m": 3801
+      },
+      "primaria": {
+        "total": 106407,
+        "h": 58833,
+        "m": 47574,
+        "urbano_total": 53131,
+        "urbano_h": 28720,
+        "urbano_m": 24411,
+        "rural_total": 53276,
+        "rural_h": 30113,
+        "rural_m": 23163
+      },
+      "secundaria": {
+        "total": 60847,
+        "h": 30594,
+        "m": 30253,
+        "urbano_total": 39221,
+        "urbano_h": 19553,
+        "urbano_m": 19668,
+        "rural_total": 21626,
+        "rural_h": 11041,
+        "rural_m": 10585
+      },
+      "superior": {
+        "total": 27609,
+        "h": 9775,
+        "m": 17834,
+        "urbano_total": 22731,
+        "urbano_h": 8162,
+        "urbano_m": 14569,
+        "rural_total": 4878,
+        "rural_h": 1613,
+        "rural_m": 3265
+      }
+    }
+  },
+  {
+    "provincia": "La Altagracia",
+    "nivel": {
+      "ninguno": {
+        "total": 65482,
+        "h": 35565,
+        "m": 29917,
+        "urbano_total": 43053,
+        "urbano_h": 22631,
+        "urbano_m": 20422,
+        "rural_total": 22429,
+        "rural_h": 12934,
+        "rural_m": 9495
+      },
+      "preprimaria": {
+        "total": 44612,
+        "h": 23066,
+        "m": 21546,
+        "urbano_total": 32528,
+        "urbano_h": 16428,
+        "urbano_m": 16100,
+        "rural_total": 12084,
+        "rural_h": 6638,
+        "rural_m": 5446
+      },
+      "primaria": {
+        "total": 252960,
+        "h": 132915,
+        "m": 120045,
+        "urbano_total": 198718,
+        "urbano_h": 103351,
+        "urbano_m": 95367,
+        "rural_total": 54242,
+        "rural_h": 29564,
+        "rural_m": 24678
+      },
+      "secundaria": {
+        "total": 216760,
+        "h": 105765,
+        "m": 110995,
+        "urbano_total": 184248,
+        "urbano_h": 89230,
+        "urbano_m": 95018,
+        "rural_total": 32512,
+        "rural_h": 16535,
+        "rural_m": 15977
+      },
+      "superior": {
+        "total": 88257,
+        "h": 33739,
+        "m": 54518,
+        "urbano_total": 76134,
+        "urbano_h": 28672,
+        "urbano_m": 47462,
+        "rural_total": 12123,
+        "rural_h": 5067,
+        "rural_m": 7056
+      }
+    }
+  },
+  {
+    "provincia": "La Romana",
+    "nivel": {
+      "ninguno": {
+        "total": 55252,
+        "h": 29033,
+        "m": 26219,
+        "urbano_total": 47948,
+        "urbano_h": 24407,
+        "urbano_m": 23541,
+        "rural_total": 7304,
+        "rural_h": 4626,
+        "rural_m": 2678
+      },
+      "preprimaria": {
+        "total": 44164,
+        "h": 22399,
+        "m": 21765,
+        "urbano_total": 41277,
+        "urbano_h": 20797,
+        "urbano_m": 20480,
+        "rural_total": 2887,
+        "rural_h": 1602,
+        "rural_m": 1285
+      },
+      "primaria": {
+        "total": 286058,
+        "h": 149625,
+        "m": 136433,
+        "urbano_total": 269453,
+        "urbano_h": 139654,
+        "urbano_m": 129799,
+        "rural_total": 16605,
+        "rural_h": 9971,
+        "rural_m": 6634
+      },
+      "secundaria": {
+        "total": 283923,
+        "h": 137778,
+        "m": 146145,
+        "urbano_total": 273856,
+        "urbano_h": 132302,
+        "urbano_m": 141554,
+        "rural_total": 10067,
+        "rural_h": 5476,
+        "rural_m": 4591
+      },
+      "superior": {
+        "total": 123343,
+        "h": 46740,
+        "m": 76603,
+        "urbano_total": 120166,
+        "urbano_h": 45180,
+        "urbano_m": 74986,
+        "rural_total": 3177,
+        "rural_h": 1560,
+        "rural_m": 1617
+      }
+    }
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "nivel": {
+      "ninguno": {
+        "total": 70272,
+        "h": 37389,
+        "m": 32883,
+        "urbano_total": 47455,
+        "urbano_h": 24052,
+        "urbano_m": 23403,
+        "rural_total": 22817,
+        "rural_h": 13337,
+        "rural_m": 9480
+      },
+      "preprimaria": {
+        "total": 50105,
+        "h": 25499,
+        "m": 24606,
+        "urbano_total": 41266,
+        "urbano_h": 20777,
+        "urbano_m": 20489,
+        "rural_total": 8839,
+        "rural_h": 4722,
+        "rural_m": 4117
+      },
+      "primaria": {
+        "total": 341520,
+        "h": 177286,
+        "m": 164234,
+        "urbano_total": 270555,
+        "urbano_h": 138611,
+        "urbano_m": 131944,
+        "rural_total": 70965,
+        "rural_h": 38675,
+        "rural_m": 32290
+      },
+      "secundaria": {
+        "total": 336358,
+        "h": 167768,
+        "m": 168590,
+        "urbano_total": 288159,
+        "urbano_h": 143684,
+        "urbano_m": 144475,
+        "rural_total": 48199,
+        "rural_h": 24084,
+        "rural_m": 24115
+      },
+      "superior": {
+        "total": 157335,
+        "h": 57281,
+        "m": 100054,
+        "urbano_total": 147333,
+        "urbano_h": 53776,
+        "urbano_m": 93557,
+        "rural_total": 10002,
+        "rural_h": 3505,
+        "rural_m": 6497
+      }
+    }
+  },
+  {
+    "provincia": "Monte Plata",
+    "nivel": {
+      "ninguno": {
+        "total": 51059,
+        "h": 28431,
+        "m": 22628,
+        "urbano_total": 20660,
+        "urbano_h": 10740,
+        "urbano_m": 9920,
+        "rural_total": 30399,
+        "rural_h": 17691,
+        "rural_m": 12708
+      },
+      "preprimaria": {
+        "total": 32801,
+        "h": 17313,
+        "m": 15488,
+        "urbano_total": 15817,
+        "urbano_h": 8100,
+        "urbano_m": 7717,
+        "rural_total": 16984,
+        "rural_h": 9213,
+        "rural_m": 7771
+      },
+      "primaria": {
+        "total": 218064,
+        "h": 117566,
+        "m": 100498,
+        "urbano_total": 103192,
+        "urbano_h": 53979,
+        "urbano_m": 49213,
+        "rural_total": 114872,
+        "rural_h": 63587,
+        "rural_m": 51285
+      },
+      "secundaria": {
+        "total": 153922,
+        "h": 78925,
+        "m": 74997,
+        "urbano_total": 87076,
+        "urbano_h": 44786,
+        "urbano_m": 42290,
+        "rural_total": 66846,
+        "rural_h": 34139,
+        "rural_m": 32707
+      },
+      "superior": {
+        "total": 67983,
+        "h": 21350,
+        "m": 46633,
+        "urbano_total": 49570,
+        "urbano_h": 16079,
+        "urbano_m": 33491,
+        "rural_total": 18413,
+        "rural_h": 5271,
+        "rural_m": 13142
+      }
+    }
+  },
+  {
+    "provincia": "Hato Mayor",
+    "nivel": {
+      "ninguno": {
+        "total": 27784,
+        "h": 15412,
+        "m": 12372,
+        "urbano_total": 18594,
+        "urbano_h": 10024,
+        "urbano_m": 8570,
+        "rural_total": 9190,
+        "rural_h": 5388,
+        "rural_m": 3802
+      },
+      "preprimaria": {
+        "total": 15294,
+        "h": 7926,
+        "m": 7368,
+        "urbano_total": 10963,
+        "urbano_h": 5628,
+        "urbano_m": 5335,
+        "rural_total": 4331,
+        "rural_h": 2298,
+        "rural_m": 2033
+      },
+      "primaria": {
+        "total": 105493,
+        "h": 56285,
+        "m": 49208,
+        "urbano_total": 81571,
+        "urbano_h": 42924,
+        "urbano_m": 38647,
+        "rural_total": 23922,
+        "rural_h": 13361,
+        "rural_m": 10561
+      },
+      "secundaria": {
+        "total": 71316,
+        "h": 36618,
+        "m": 34698,
+        "urbano_total": 59236,
+        "urbano_h": 30366,
+        "urbano_m": 28870,
+        "rural_total": 12080,
+        "rural_h": 6252,
+        "rural_m": 5828
+      },
+      "superior": {
+        "total": 45232,
+        "h": 15026,
+        "m": 30206,
+        "urbano_total": 41282,
+        "urbano_h": 13749,
+        "urbano_m": 27533,
+        "rural_total": 3950,
+        "rural_h": 1277,
+        "rural_m": 2673
+      }
+    }
+  }
+]

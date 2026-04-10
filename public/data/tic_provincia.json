@@ -1,0 +1,560 @@
+[
+  {
+    "provincia": "Santo Domingo",
+    "internet": {
+      "total": 2536713,
+      "used": 2108938,
+      "rate_used": 0.8314
+    },
+    "cellular": {
+      "total": 2536713,
+      "used": 2108938,
+      "rate_used": 0.8314
+    },
+    "computer": {
+      "total": 2536713,
+      "used": 242772,
+      "rate_used": 0.0957
+    }
+  },
+  {
+    "provincia": "Espaillat",
+    "internet": {
+      "total": 223528,
+      "used": 166327,
+      "rate_used": 0.7441
+    },
+    "cellular": {
+      "total": 223528,
+      "used": 166327,
+      "rate_used": 0.7441
+    },
+    "computer": {
+      "total": 223528,
+      "used": 17436,
+      "rate_used": 0.078
+    }
+  },
+  {
+    "provincia": "Puerto Plata",
+    "internet": {
+      "total": 314664,
+      "used": 244993,
+      "rate_used": 0.7786
+    },
+    "cellular": {
+      "total": 314664,
+      "used": 244993,
+      "rate_used": 0.7786
+    },
+    "computer": {
+      "total": 314664,
+      "used": 25956,
+      "rate_used": 0.0825
+    }
+  },
+  {
+    "provincia": "Santiago",
+    "internet": {
+      "total": 993206,
+      "used": 822849,
+      "rate_used": 0.8285
+    },
+    "cellular": {
+      "total": 1272760,
+      "used": 1041145,
+      "rate_used": 0.818
+    },
+    "computer": {
+      "total": 993206,
+      "used": 81202,
+      "rate_used": 0.0818
+    }
+  },
+  {
+    "provincia": "La Vega",
+    "internet": {
+      "total": 409708,
+      "used": 307963,
+      "rate_used": 0.7517
+    },
+    "cellular": {
+      "total": 409708,
+      "used": 307963,
+      "rate_used": 0.7517
+    },
+    "computer": {
+      "total": 409708,
+      "used": 34692,
+      "rate_used": 0.0847
+    }
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "internet": {
+      "total": 150256,
+      "used": 110677,
+      "rate_used": 0.7366
+    },
+    "cellular": {
+      "total": 150256,
+      "used": 110677,
+      "rate_used": 0.7366
+    },
+    "computer": {
+      "total": 150256,
+      "used": 13385,
+      "rate_used": 0.0891
+    }
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "internet": {
+      "total": 179672,
+      "used": 139883,
+      "rate_used": 0.7785
+    },
+    "cellular": {
+      "total": 179672,
+      "used": 139883,
+      "rate_used": 0.7785
+    },
+    "computer": {
+      "total": 179672,
+      "used": 17006,
+      "rate_used": 0.0947
+    }
+  },
+  {
+    "provincia": "Duarte",
+    "internet": {
+      "total": 285706,
+      "used": 211367,
+      "rate_used": 0.7398
+    },
+    "cellular": {
+      "total": 285706,
+      "used": 211367,
+      "rate_used": 0.7398
+    },
+    "computer": {
+      "total": 285706,
+      "used": 23615,
+      "rate_used": 0.0827
+    }
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "internet": {
+      "total": 144525,
+      "used": 103460,
+      "rate_used": 0.7159
+    },
+    "cellular": {
+      "total": 144525,
+      "used": 103460,
+      "rate_used": 0.7159
+    },
+    "computer": {
+      "total": 144525,
+      "used": 12712,
+      "rate_used": 0.088
+    }
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "internet": {
+      "total": 89581,
+      "used": 67112,
+      "rate_used": 0.7492
+    },
+    "cellular": {
+      "total": 89581,
+      "used": 67112,
+      "rate_used": 0.7492
+    },
+    "computer": {
+      "total": 89581,
+      "used": 6684,
+      "rate_used": 0.0746
+    }
+  },
+  {
+    "provincia": "Samaná",
+    "internet": {
+      "total": 104927,
+      "used": 74141,
+      "rate_used": 0.7066
+    },
+    "cellular": {
+      "total": 104927,
+      "used": 74141,
+      "rate_used": 0.7066
+    },
+    "computer": {
+      "total": 104927,
+      "used": 9852,
+      "rate_used": 0.0939
+    }
+  },
+  {
+    "provincia": "Dajabón",
+    "internet": {
+      "total": 67824,
+      "used": 46053,
+      "rate_used": 0.679
+    },
+    "cellular": {
+      "total": 67824,
+      "used": 46053,
+      "rate_used": 0.679
+    },
+    "computer": {
+      "total": 67824,
+      "used": 7112,
+      "rate_used": 0.1049
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "internet": {
+      "total": 113364,
+      "used": 78897,
+      "rate_used": 0.696
+    },
+    "cellular": {
+      "total": 113364,
+      "used": 78897,
+      "rate_used": 0.696
+    },
+    "computer": {
+      "total": 113364,
+      "used": 10038,
+      "rate_used": 0.0885
+    }
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "internet": {
+      "total": 59386,
+      "used": 42905,
+      "rate_used": 0.7225
+    },
+    "cellular": {
+      "total": 59386,
+      "used": 42905,
+      "rate_used": 0.7225
+    },
+    "computer": {
+      "total": 59386,
+      "used": 4905,
+      "rate_used": 0.0826
+    }
+  },
+  {
+    "provincia": "Valverde",
+    "internet": {
+      "total": 168756,
+      "used": 127656,
+      "rate_used": 0.7565
+    },
+    "cellular": {
+      "total": 168756,
+      "used": 127656,
+      "rate_used": 0.7565
+    },
+    "computer": {
+      "total": 168756,
+      "used": 15261,
+      "rate_used": 0.0904
+    }
+  },
+  {
+    "provincia": "Peravia",
+    "internet": {
+      "total": 190168,
+      "used": 135802,
+      "rate_used": 0.7141
+    },
+    "cellular": {
+      "total": 190168,
+      "used": 135802,
+      "rate_used": 0.7141
+    },
+    "computer": {
+      "total": 190168,
+      "used": 18370,
+      "rate_used": 0.0966
+    }
+  },
+  {
+    "provincia": "San Cristóbal",
+    "internet": {
+      "total": 627647,
+      "used": 466354,
+      "rate_used": 0.743
+    },
+    "cellular": {
+      "total": 627647,
+      "used": 466354,
+      "rate_used": 0.743
+    },
+    "computer": {
+      "total": 627647,
+      "used": 66037,
+      "rate_used": 0.1052
+    }
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "internet": {
+      "total": 63275,
+      "used": 39235,
+      "rate_used": 0.6201
+    },
+    "cellular": {
+      "total": 63275,
+      "used": 39235,
+      "rate_used": 0.6201
+    },
+    "computer": {
+      "total": 63275,
+      "used": 4961,
+      "rate_used": 0.0784
+    }
+  },
+  {
+    "provincia": "Baoruco",
+    "internet": {
+      "total": 98392,
+      "used": 53334,
+      "rate_used": 0.5421
+    },
+    "cellular": {
+      "total": 98392,
+      "used": 53334,
+      "rate_used": 0.5421
+    },
+    "computer": {
+      "total": 98392,
+      "used": 10364,
+      "rate_used": 0.1053
+    }
+  },
+  {
+    "provincia": "Barahona",
+    "internet": {
+      "total": 182133,
+      "used": 111640,
+      "rate_used": 0.613
+    },
+    "cellular": {
+      "total": 182133,
+      "used": 111640,
+      "rate_used": 0.613
+    },
+    "computer": {
+      "total": 182133,
+      "used": 20267,
+      "rate_used": 0.1113
+    }
+  },
+  {
+    "provincia": "Independencia",
+    "internet": {
+      "total": 54666,
+      "used": 25782,
+      "rate_used": 0.4716
+    },
+    "cellular": {
+      "total": 54666,
+      "used": 25782,
+      "rate_used": 0.4716
+    },
+    "computer": {
+      "total": 54666,
+      "used": 6252,
+      "rate_used": 0.1144
+    }
+  },
+  {
+    "provincia": "Pedernales",
+    "internet": {
+      "total": 30661,
+      "used": 16657,
+      "rate_used": 0.5433
+    },
+    "cellular": {
+      "total": 30661,
+      "used": 16657,
+      "rate_used": 0.5433
+    },
+    "computer": {
+      "total": 30661,
+      "used": 3777,
+      "rate_used": 0.1232
+    }
+  },
+  {
+    "provincia": "Azua",
+    "internet": {
+      "total": 219538,
+      "used": 137428,
+      "rate_used": 0.626
+    },
+    "cellular": {
+      "total": 219538,
+      "used": 137428,
+      "rate_used": 0.626
+    },
+    "computer": {
+      "total": 219538,
+      "used": 22497,
+      "rate_used": 0.1025
+    }
+  },
+  {
+    "provincia": "Elías Piña",
+    "internet": {
+      "total": 57413,
+      "used": 22820,
+      "rate_used": 0.3975
+    },
+    "cellular": {
+      "total": 57413,
+      "used": 22820,
+      "rate_used": 0.3975
+    },
+    "computer": {
+      "total": 57413,
+      "used": 7474,
+      "rate_used": 0.1302
+    }
+  },
+  {
+    "provincia": "San Juan",
+    "internet": {
+      "total": 222973,
+      "used": 134144,
+      "rate_used": 0.6016
+    },
+    "cellular": {
+      "total": 222973,
+      "used": 134144,
+      "rate_used": 0.6016
+    },
+    "computer": {
+      "total": 222973,
+      "used": 21907,
+      "rate_used": 0.0982
+    }
+  },
+  {
+    "provincia": "El Seibo",
+    "internet": {
+      "total": 90525,
+      "used": 56911,
+      "rate_used": 0.6287
+    },
+    "cellular": {
+      "total": 90525,
+      "used": 56911,
+      "rate_used": 0.6287
+    },
+    "computer": {
+      "total": 90525,
+      "used": 8807,
+      "rate_used": 0.0973
+    }
+  },
+  {
+    "provincia": "La Altagracia",
+    "internet": {
+      "total": 407385,
+      "used": 315406,
+      "rate_used": 0.7742
+    },
+    "cellular": {
+      "total": 407385,
+      "used": 315406,
+      "rate_used": 0.7742
+    },
+    "computer": {
+      "total": 407385,
+      "used": 38615,
+      "rate_used": 0.0948
+    }
+  },
+  {
+    "provincia": "La Romana",
+    "internet": {
+      "total": 263106,
+      "used": 202163,
+      "rate_used": 0.7684
+    },
+    "cellular": {
+      "total": 263106,
+      "used": 202163,
+      "rate_used": 0.7684
+    },
+    "computer": {
+      "total": 263106,
+      "used": 25482,
+      "rate_used": 0.0969
+    }
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "internet": {
+      "total": 308928,
+      "used": 239400,
+      "rate_used": 0.7749
+    },
+    "cellular": {
+      "total": 308928,
+      "used": 239400,
+      "rate_used": 0.7749
+    },
+    "computer": {
+      "total": 308928,
+      "used": 29766,
+      "rate_used": 0.0964
+    }
+  },
+  {
+    "provincia": "Monte Plata",
+    "internet": {
+      "total": 187132,
+      "used": 126257,
+      "rate_used": 0.6747
+    },
+    "cellular": {
+      "total": 187132,
+      "used": 126257,
+      "rate_used": 0.6747
+    },
+    "computer": {
+      "total": 187132,
+      "used": 19432,
+      "rate_used": 0.1038
+    }
+  },
+  {
+    "provincia": "Hato Mayor",
+    "internet": {
+      "total": 91777,
+      "used": 63635,
+      "rate_used": 0.6934
+    },
+    "cellular": {
+      "total": 91777,
+      "used": 63635,
+      "rate_used": 0.6934
+    },
+    "computer": {
+      "total": 91777,
+      "used": 8888,
+      "rate_used": 0.0968
+    }
+  }
+]

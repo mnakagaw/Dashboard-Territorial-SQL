@@ -1,0 +1,45 @@
+{
+  "hogares_total": 3338256,
+  "poblacion_en_hogares": 10688936,
+  "personas_por_hogar": 3.2,
+  "tamano_hogar": {
+    "total_hogares": 3338256,
+    "distribucion": [
+      {
+        "tamano": "1",
+        "hogares": 391169,
+        "porcentaje": 11.72
+      },
+      {
+        "tamano": "2",
+        "hogares": 613935,
+        "porcentaje": 18.39
+      },
+      {
+        "tamano": "3",
+        "hogares": 703402,
+        "porcentaje": 21.07
+      },
+      {
+        "tamano": "4",
+        "hogares": 654799,
+        "porcentaje": 19.61
+      },
+      {
+        "tamano": "5",
+        "hogares": 460021,
+        "porcentaje": 13.78
+      },
+      {
+        "tamano": "6",
+        "hogares": 265765,
+        "porcentaje": 7.96
+      },
+      {
+        "tamano": "7+",
+        "hogares": 250165,
+        "porcentaje": 7.49
+      }
+    ]
+  }
+}

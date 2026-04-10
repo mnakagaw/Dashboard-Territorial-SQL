@@ -1,0 +1,77 @@
+{
+  "poblacion_3_mas": 10395552,
+  "niveles": {
+    "ninguno": {
+      "total": 944457,
+      "h": 500313,
+      "m": 444145,
+      "urbano_total": 531961,
+      "urbano_h": 270638,
+      "urbano_m": 261323,
+      "rural_total": 412496,
+      "rural_h": 229675,
+      "rural_m": 182821,
+      "porcentaje": 9.09
+    },
+    "preprimaria": {
+      "total": 417143,
+      "h": 212353,
+      "m": 204786,
+      "urbano_total": 291662,
+      "urbano_h": 147736,
+      "urbano_m": 143926,
+      "rural_total": 125481,
+      "rural_h": 64617,
+      "rural_m": 60864,
+      "porcentaje": 4.01
+    },
+    "primaria_basica": {
+      "total": 4394429,
+      "h": 2219856,
+      "m": 2174573,
+      "urbano_total": 2723705,
+      "urbano_h": 1356605,
+      "urbano_m": 1367100,
+      "rural_total": 1670724,
+      "rural_h": 863251,
+      "rural_m": 807473,
+      "porcentaje": 42.28
+    },
+    "secundaria_media": {
+      "total": 2951705,
+      "h": 1451437,
+      "m": 1500268,
+      "urbano_total": 2303327,
+      "urbano_h": 1112861,
+      "urbano_m": 1190466,
+      "rural_total": 648378,
+      "rural_h": 338576,
+      "rural_m": 309802,
+      "porcentaje": 28.39
+    },
+    "universitaria_superior": {
+      "total": 1577630,
+      "h": 717016,
+      "m": 860614,
+      "urbano_total": 1442690,
+      "urbano_h": 646342,
+      "urbano_m": 796348,
+      "rural_total": 134940,
+      "rural_h": 70674,
+      "rural_m": 64267,
+      "porcentaje": 15.17
+    },
+    "postgrado": {
+      "total": 145188,
+      "h": 62699,
+      "m": 82503,
+      "urbano_total": 137227,
+      "urbano_h": 58305,
+      "urbano_m": 78898,
+      "rural_total": 7961,
+      "rural_h": 4395,
+      "rural_m": 3566,
+      "porcentaje": 1.4
+    }
+  }
+}

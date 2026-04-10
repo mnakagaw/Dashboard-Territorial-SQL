@@ -1,0 +1,194 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "poblacion_total": 1029110,
+    "urbana": 1029110,
+    "rural": 0
+  },
+  {
+    "provincia": "Santo Domingo",
+    "poblacion_total": 2769588,
+    "urbana": 2260998,
+    "rural": 508590
+  },
+  {
+    "provincia": "Espaillat",
+    "poblacion_total": 241058,
+    "urbana": 108104,
+    "rural": 132954
+  },
+  {
+    "provincia": "Puerto Plata",
+    "poblacion_total": 338355,
+    "urbana": 195415,
+    "rural": 142940
+  },
+  {
+    "provincia": "Santiago",
+    "poblacion_total": 1074679,
+    "urbana": 783829,
+    "rural": 290850
+  },
+  {
+    "provincia": "La Vega",
+    "poblacion_total": 442719,
+    "urbana": 213160,
+    "rural": 229559
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "poblacion_total": 162642,
+    "urbana": 90403,
+    "rural": 72239
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "poblacion_total": 195547,
+    "urbana": 116344,
+    "rural": 79203
+  },
+  {
+    "provincia": "Duarte",
+    "poblacion_total": 308353,
+    "urbana": 204363,
+    "rural": 103990
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "poblacion_total": 156633,
+    "urbana": 84173,
+    "rural": 72460
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "poblacion_total": 96441,
+    "urbana": 29035,
+    "rural": 67406
+  },
+  {
+    "provincia": "Samaná",
+    "poblacion_total": 114468,
+    "urbana": 49774,
+    "rural": 64694
+  },
+  {
+    "provincia": "Dajabón",
+    "poblacion_total": 74810,
+    "urbana": 42179,
+    "rural": 32631
+  },
+  {
+    "provincia": "Monte Cristi",
+    "poblacion_total": 123519,
+    "urbana": 65289,
+    "rural": 58230
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "poblacion_total": 64635,
+    "urbana": 32819,
+    "rural": 31816
+  },
+  {
+    "provincia": "Valverde",
+    "poblacion_total": 184069,
+    "urbana": 141929,
+    "rural": 42140
+  },
+  {
+    "provincia": "Peravia",
+    "poblacion_total": 209372,
+    "urbana": 136684,
+    "rural": 72688
+  },
+  {
+    "provincia": "San Cristóbal",
+    "poblacion_total": 688828,
+    "urbana": 361177,
+    "rural": 327651
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "poblacion_total": 69082,
+    "urbana": 42778,
+    "rural": 26304
+  },
+  {
+    "provincia": "Baoruco",
+    "poblacion_total": 108717,
+    "urbana": 74673,
+    "rural": 34044
+  },
+  {
+    "provincia": "Barahona",
+    "poblacion_total": 200884,
+    "urbana": 168569,
+    "rural": 32315
+  },
+  {
+    "provincia": "Independencia",
+    "poblacion_total": 60689,
+    "urbana": 48048,
+    "rural": 12641
+  },
+  {
+    "provincia": "Pedernales",
+    "poblacion_total": 34375,
+    "urbana": 26515,
+    "rural": 7860
+  },
+  {
+    "provincia": "Azua",
+    "poblacion_total": 240209,
+    "urbana": 181371,
+    "rural": 58838
+  },
+  {
+    "provincia": "Elías Piña",
+    "poblacion_total": 64614,
+    "urbana": 33225,
+    "rural": 31389
+  },
+  {
+    "provincia": "San Juan",
+    "poblacion_total": 244667,
+    "urbana": 147434,
+    "rural": 97233
+  },
+  {
+    "provincia": "El Seibo",
+    "poblacion_total": 99169,
+    "urbana": 51277,
+    "rural": 47892
+  },
+  {
+    "provincia": "La Altagracia",
+    "poblacion_total": 446060,
+    "urbana": 342726,
+    "rural": 103334
+  },
+  {
+    "provincia": "La Romana",
+    "poblacion_total": 287914,
+    "urbana": 273042,
+    "rural": 14872
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "poblacion_total": 337146,
+    "urbana": 279544,
+    "rural": 57602
+  },
+  {
+    "provincia": "Monte Plata",
+    "poblacion_total": 205498,
+    "urbana": 103841,
+    "rural": 101657
+  },
+  {
+    "provincia": "Hato Mayor",
+    "poblacion_total": 100133,
+    "urbana": 76703,
+    "rural": 23430
+  }
+]

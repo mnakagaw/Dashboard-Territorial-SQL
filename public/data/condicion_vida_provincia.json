@@ -1,0 +1,2882 @@
+[
+  {
+    "provincia": "Azua",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 75109,
+        "categorias": {
+          "urbana": 56330,
+          "rural": 18779
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 77295,
+        "categorias": {
+          "inodoro": 49367,
+          "letrina": 21718,
+          "no_tiene": 6209,
+          "sin_informacion": 1
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 77295,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 31827,
+          "del_acueducto_en_el_patio_de_la_vivienda": 27663,
+          "de_una_llave_publica": 4925,
+          "de_una_llave_de_otra_vivienda": 1506,
+          "de_un_tubo_de_la_calle": 2065,
+          "manantial_rio_arroyo": 1970,
+          "pozo_tubular": 722,
+          "pozo_cavado": 613,
+          "lluvia": 20,
+          "camion_tanque": 5809,
+          "otro": 175
+        }
+      },
+      "agua_para_beber": {
+        "total": 77295,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 3943,
+          "del_acueducto_en_el_patio_de_la_vivienda": 4216,
+          "de_una_llave_publica": 1819,
+          "de_una_llave_de_otra_vivienda": 527,
+          "manantial_rio_arroyo": 1185,
+          "pozo_tubular": 154,
+          "pozo_cavado": 243,
+          "lluvia": 43,
+          "camion_tanque": 512,
+          "botellones": 64520,
+          "camioncito_procesada": 116,
+          "otro": 17
+        }
+      },
+      "combustible_cocinar": {
+        "total": 77295,
+        "categorias": {
+          "gas_propano": 63108,
+          "carbon": 4190,
+          "lena": 4139,
+          "electricidad": 90,
+          "otro": 179,
+          "no_cocina": 5589,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 77295,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 75099,
+          "lampara_de_gas_propano": 442,
+          "lampara_de_gas_kerosene": 273,
+          "energia_electrica_de_planta_propia": 35,
+          "paneles_solares": 518,
+          "otros": 917,
+          "sin_informacion": 11
+        }
+      },
+      "eliminacion_basura": {
+        "total": 77295,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 69153,
+          "la_recoge_una_empresa_privada": 229,
+          "la_queman": 5543,
+          "la_tiran_en_el_patio_o_sola": 687,
+          "la_tiran_en_un_vertedero": 479,
+          "la_tiran_en_un_rio_o_canada": 984,
+          "otros": 220
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Baoruco",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 32987,
+        "categorias": {
+          "urbana": 22289,
+          "rural": 10698
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 33875,
+        "categorias": {
+          "inodoro": 18830,
+          "letrina": 8357,
+          "no_tiene": 6688,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 33875,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 11874,
+          "del_acueducto_en_el_patio_de_la_vivienda": 12371,
+          "de_una_llave_publica": 2788,
+          "de_una_llave_de_otra_vivienda": 1728,
+          "de_un_tubo_de_la_calle": 1371,
+          "manantial_rio_arroyo": 1841,
+          "pozo_tubular": 420,
+          "pozo_cavado": 314,
+          "lluvia": 148,
+          "camion_tanque": 948,
+          "otro": 72
+        }
+      },
+      "agua_para_beber": {
+        "total": 33875,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 1618,
+          "del_acueducto_en_el_patio_de_la_vivienda": 1654,
+          "de_una_llave_publica": 898,
+          "de_una_llave_de_otra_vivienda": 513,
+          "manantial_rio_arroyo": 1225,
+          "pozo_tubular": 133,
+          "pozo_cavado": 132,
+          "lluvia": 123,
+          "camion_tanque": 525,
+          "botellones": 25952,
+          "camioncito_procesada": 1089,
+          "otro": 13
+        }
+      },
+      "combustible_cocinar": {
+        "total": 33875,
+        "categorias": {
+          "gas_propano": 25201,
+          "carbon": 2536,
+          "lena": 3765,
+          "electricidad": 41,
+          "otro": 63,
+          "no_cocina": 2268,
+          "sin_informacion": 1
+        }
+      },
+      "alumbrado": {
+        "total": 33875,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 32339,
+          "lampara_de_gas_propano": 288,
+          "lampara_de_gas_kerosene": 108,
+          "energia_electrica_de_planta_propia": 23,
+          "paneles_solares": 193,
+          "otros": 922,
+          "sin_informacion": 2
+        }
+      },
+      "eliminacion_basura": {
+        "total": 33875,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 26324,
+          "la_recoge_una_empresa_privada": 39,
+          "la_queman": 3790,
+          "la_tiran_en_el_patio_o_sola": 1617,
+          "la_tiran_en_un_vertedero": 682,
+          "la_tiran_en_un_rio_o_canada": 1154,
+          "otros": 269
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Barahona",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 61481,
+        "categorias": {
+          "urbana": 51314,
+          "rural": 10167
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 62611,
+        "categorias": {
+          "inodoro": 45952,
+          "letrina": 12216,
+          "no_tiene": 4443,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 62611,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 29322,
+          "del_acueducto_en_el_patio_de_la_vivienda": 18923,
+          "de_una_llave_publica": 3200,
+          "de_una_llave_de_otra_vivienda": 1101,
+          "de_un_tubo_de_la_calle": 1352,
+          "manantial_rio_arroyo": 937,
+          "pozo_tubular": 381,
+          "pozo_cavado": 378,
+          "lluvia": 1374,
+          "camion_tanque": 5322,
+          "otro": 321
+        }
+      },
+      "agua_para_beber": {
+        "total": 62611,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 5264,
+          "del_acueducto_en_el_patio_de_la_vivienda": 3466,
+          "de_una_llave_publica": 2537,
+          "de_una_llave_de_otra_vivienda": 435,
+          "manantial_rio_arroyo": 856,
+          "pozo_tubular": 103,
+          "pozo_cavado": 221,
+          "lluvia": 1330,
+          "camion_tanque": 820,
+          "botellones": 46857,
+          "camioncito_procesada": 713,
+          "otro": 9
+        }
+      },
+      "combustible_cocinar": {
+        "total": 62611,
+        "categorias": {
+          "gas_propano": 50547,
+          "carbon": 4315,
+          "lena": 3771,
+          "electricidad": 193,
+          "otro": 120,
+          "no_cocina": 3665,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 62611,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 60381,
+          "lampara_de_gas_propano": 406,
+          "lampara_de_gas_kerosene": 749,
+          "energia_electrica_de_planta_propia": 28,
+          "paneles_solares": 216,
+          "otros": 828,
+          "sin_informacion": 3
+        }
+      },
+      "eliminacion_basura": {
+        "total": 62611,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 53327,
+          "la_recoge_una_empresa_privada": 122,
+          "la_queman": 5262,
+          "la_tiran_en_el_patio_o_sola": 2033,
+          "la_tiran_en_un_vertedero": 797,
+          "la_tiran_en_un_rio_o_canada": 806,
+          "otros": 264
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Dajabón",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 25165,
+        "categorias": {
+          "urbana": 14050,
+          "rural": 11115
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 25502,
+        "categorias": {
+          "inodoro": 15976,
+          "letrina": 8775,
+          "no_tiene": 751,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 25502,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 16967,
+          "del_acueducto_en_el_patio_de_la_vivienda": 4262,
+          "de_una_llave_publica": 1819,
+          "de_una_llave_de_otra_vivienda": 250,
+          "de_un_tubo_de_la_calle": 194,
+          "manantial_rio_arroyo": 875,
+          "pozo_tubular": 731,
+          "pozo_cavado": 129,
+          "lluvia": 20,
+          "camion_tanque": 207,
+          "otro": 48
+        }
+      },
+      "agua_para_beber": {
+        "total": 25502,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 2620,
+          "del_acueducto_en_el_patio_de_la_vivienda": 969,
+          "de_una_llave_publica": 773,
+          "de_una_llave_de_otra_vivienda": 173,
+          "manantial_rio_arroyo": 471,
+          "pozo_tubular": 110,
+          "pozo_cavado": 40,
+          "lluvia": 44,
+          "camion_tanque": 54,
+          "botellones": 20204,
+          "camioncito_procesada": 43,
+          "otro": 1
+        }
+      },
+      "combustible_cocinar": {
+        "total": 25502,
+        "categorias": {
+          "gas_propano": 21771,
+          "carbon": 509,
+          "lena": 1881,
+          "electricidad": 17,
+          "otro": 69,
+          "no_cocina": 1255,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 25502,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 23956,
+          "lampara_de_gas_propano": 195,
+          "lampara_de_gas_kerosene": 118,
+          "energia_electrica_de_planta_propia": 9,
+          "paneles_solares": 298,
+          "otros": 926,
+          "sin_informacion": 0
+        }
+      },
+      "eliminacion_basura": {
+        "total": 25502,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 21687,
+          "la_recoge_una_empresa_privada": 58,
+          "la_queman": 3125,
+          "la_tiran_en_el_patio_o_sola": 364,
+          "la_tiran_en_un_vertedero": 140,
+          "la_tiran_en_un_rio_o_canada": 63,
+          "otros": 65
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 363153,
+        "categorias": {
+          "urbana": 363153,
+          "rural": 0
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 365548,
+        "categorias": {
+          "inodoro": 360360,
+          "letrina": 3343,
+          "no_tiene": 1845,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 365548,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 294146,
+          "del_acueducto_en_el_patio_de_la_vivienda": 27632,
+          "de_una_llave_publica": 10891,
+          "de_una_llave_de_otra_vivienda": 5848,
+          "de_un_tubo_de_la_calle": 20940,
+          "manantial_rio_arroyo": 75,
+          "pozo_tubular": 1722,
+          "pozo_cavado": 1740,
+          "lluvia": 184,
+          "camion_tanque": 1748,
+          "otro": 622
+        }
+      },
+      "agua_para_beber": {
+        "total": 365548,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 26005,
+          "del_acueducto_en_el_patio_de_la_vivienda": 1034,
+          "de_una_llave_publica": 2317,
+          "de_una_llave_de_otra_vivienda": 380,
+          "manantial_rio_arroyo": 26,
+          "pozo_tubular": 587,
+          "pozo_cavado": 216,
+          "lluvia": 110,
+          "camion_tanque": 1791,
+          "botellones": 326883,
+          "camioncito_procesada": 6186,
+          "otro": 13
+        }
+      },
+      "combustible_cocinar": {
+        "total": 365548,
+        "categorias": {
+          "gas_propano": 347293,
+          "carbon": 4641,
+          "lena": 29,
+          "electricidad": 1003,
+          "otro": 313,
+          "no_cocina": 12269,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 365548,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 363351,
+          "lampara_de_gas_propano": 70,
+          "lampara_de_gas_kerosene": 12,
+          "energia_electrica_de_planta_propia": 116,
+          "paneles_solares": 388,
+          "otros": 1551,
+          "sin_informacion": 60
+        }
+      },
+      "eliminacion_basura": {
+        "total": 365548,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 343735,
+          "la_recoge_una_empresa_privada": 6855,
+          "la_queman": 410,
+          "la_tiran_en_el_patio_o_sola": 851,
+          "la_tiran_en_un_vertedero": 8858,
+          "la_tiran_en_un_rio_o_canada": 3284,
+          "otros": 1555
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Duarte",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 109774,
+        "categorias": {
+          "urbana": 72830,
+          "rural": 36944
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 110673,
+        "categorias": {
+          "inodoro": 90646,
+          "letrina": 17553,
+          "no_tiene": 2473,
+          "sin_informacion": 1
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 110673,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 61856,
+          "del_acueducto_en_el_patio_de_la_vivienda": 6704,
+          "de_una_llave_publica": 5871,
+          "de_una_llave_de_otra_vivienda": 2629,
+          "de_un_tubo_de_la_calle": 5786,
+          "manantial_rio_arroyo": 2056,
+          "pozo_tubular": 18398,
+          "pozo_cavado": 3159,
+          "lluvia": 2095,
+          "camion_tanque": 1773,
+          "otro": 346
+        }
+      },
+      "agua_para_beber": {
+        "total": 110673,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 3875,
+          "del_acueducto_en_el_patio_de_la_vivienda": 380,
+          "de_una_llave_publica": 1149,
+          "de_una_llave_de_otra_vivienda": 107,
+          "manantial_rio_arroyo": 165,
+          "pozo_tubular": 226,
+          "pozo_cavado": 54,
+          "lluvia": 5396,
+          "camion_tanque": 992,
+          "botellones": 96707,
+          "camioncito_procesada": 1601,
+          "otro": 21
+        }
+      },
+      "combustible_cocinar": {
+        "total": 110673,
+        "categorias": {
+          "gas_propano": 101504,
+          "carbon": 1152,
+          "lena": 2507,
+          "electricidad": 81,
+          "otro": 136,
+          "no_cocina": 5293,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 110673,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 109206,
+          "lampara_de_gas_propano": 213,
+          "lampara_de_gas_kerosene": 98,
+          "energia_electrica_de_planta_propia": 76,
+          "paneles_solares": 211,
+          "otros": 840,
+          "sin_informacion": 29
+        }
+      },
+      "eliminacion_basura": {
+        "total": 110673,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 91389,
+          "la_recoge_una_empresa_privada": 599,
+          "la_queman": 14304,
+          "la_tiran_en_el_patio_o_sola": 1418,
+          "la_tiran_en_un_vertedero": 966,
+          "la_tiran_en_un_rio_o_canada": 1286,
+          "otros": 711
+        }
+      }
+    }
+  },
+  {
+    "provincia": "El Seibo",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 34784,
+        "categorias": {
+          "urbana": 17072,
+          "rural": 17712
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 35268,
+        "categorias": {
+          "inodoro": 21278,
+          "letrina": 9456,
+          "no_tiene": 4532,
+          "sin_informacion": 2
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 35268,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 14772,
+          "del_acueducto_en_el_patio_de_la_vivienda": 5057,
+          "de_una_llave_publica": 4438,
+          "de_una_llave_de_otra_vivienda": 742,
+          "de_un_tubo_de_la_calle": 1642,
+          "manantial_rio_arroyo": 3184,
+          "pozo_tubular": 2352,
+          "pozo_cavado": 1046,
+          "lluvia": 763,
+          "camion_tanque": 970,
+          "otro": 302
+        }
+      },
+      "agua_para_beber": {
+        "total": 35268,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 1064,
+          "del_acueducto_en_el_patio_de_la_vivienda": 789,
+          "de_una_llave_publica": 2194,
+          "de_una_llave_de_otra_vivienda": 152,
+          "manantial_rio_arroyo": 689,
+          "pozo_tubular": 494,
+          "pozo_cavado": 326,
+          "lluvia": 1687,
+          "camion_tanque": 623,
+          "botellones": 25816,
+          "camioncito_procesada": 1432,
+          "otro": 2
+        }
+      },
+      "combustible_cocinar": {
+        "total": 35268,
+        "categorias": {
+          "gas_propano": 28092,
+          "carbon": 1399,
+          "lena": 3324,
+          "electricidad": 49,
+          "otro": 61,
+          "no_cocina": 2343,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 35268,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 31929,
+          "lampara_de_gas_propano": 1041,
+          "lampara_de_gas_kerosene": 830,
+          "energia_electrica_de_planta_propia": 95,
+          "paneles_solares": 441,
+          "otros": 911,
+          "sin_informacion": 21
+        }
+      },
+      "eliminacion_basura": {
+        "total": 35268,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 23168,
+          "la_recoge_una_empresa_privada": 1712,
+          "la_queman": 8817,
+          "la_tiran_en_el_patio_o_sola": 899,
+          "la_tiran_en_un_vertedero": 298,
+          "la_tiran_en_un_rio_o_canada": 277,
+          "otros": 97
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Elías Piña",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 18892,
+        "categorias": {
+          "urbana": 9857,
+          "rural": 9035
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 19208,
+        "categorias": {
+          "inodoro": 8091,
+          "letrina": 8506,
+          "no_tiene": 2611,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 19208,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 6410,
+          "del_acueducto_en_el_patio_de_la_vivienda": 5692,
+          "de_una_llave_publica": 2375,
+          "de_una_llave_de_otra_vivienda": 989,
+          "de_un_tubo_de_la_calle": 604,
+          "manantial_rio_arroyo": 2372,
+          "pozo_tubular": 53,
+          "pozo_cavado": 62,
+          "lluvia": 24,
+          "camion_tanque": 536,
+          "otro": 91
+        }
+      },
+      "agua_para_beber": {
+        "total": 19208,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 1013,
+          "del_acueducto_en_el_patio_de_la_vivienda": 2036,
+          "de_una_llave_publica": 1468,
+          "de_una_llave_de_otra_vivienda": 551,
+          "manantial_rio_arroyo": 1801,
+          "pozo_tubular": 92,
+          "pozo_cavado": 78,
+          "lluvia": 40,
+          "camion_tanque": 81,
+          "botellones": 12034,
+          "camioncito_procesada": 8,
+          "otro": 6
+        }
+      },
+      "combustible_cocinar": {
+        "total": 19208,
+        "categorias": {
+          "gas_propano": 12291,
+          "carbon": 1355,
+          "lena": 4245,
+          "electricidad": 12,
+          "otro": 86,
+          "no_cocina": 1217,
+          "sin_informacion": 2
+        }
+      },
+      "alumbrado": {
+        "total": 19208,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 16693,
+          "lampara_de_gas_propano": 366,
+          "lampara_de_gas_kerosene": 412,
+          "energia_electrica_de_planta_propia": 4,
+          "paneles_solares": 163,
+          "otros": 1568,
+          "sin_informacion": 2
+        }
+      },
+      "eliminacion_basura": {
+        "total": 19208,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 12418,
+          "la_recoge_una_empresa_privada": 74,
+          "la_queman": 5001,
+          "la_tiran_en_el_patio_o_sola": 1263,
+          "la_tiran_en_un_vertedero": 168,
+          "la_tiran_en_un_rio_o_canada": 208,
+          "otros": 76
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Espaillat",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 81602,
+        "categorias": {
+          "urbana": 37390,
+          "rural": 44212
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 82470,
+        "categorias": {
+          "inodoro": 69560,
+          "letrina": 11406,
+          "no_tiene": 1504,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 82470,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 54161,
+          "del_acueducto_en_el_patio_de_la_vivienda": 3236,
+          "de_una_llave_publica": 4508,
+          "de_una_llave_de_otra_vivienda": 823,
+          "de_un_tubo_de_la_calle": 3858,
+          "manantial_rio_arroyo": 1499,
+          "pozo_tubular": 5594,
+          "pozo_cavado": 5242,
+          "lluvia": 839,
+          "camion_tanque": 2517,
+          "otro": 193
+        }
+      },
+      "agua_para_beber": {
+        "total": 82470,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 5840,
+          "del_acueducto_en_el_patio_de_la_vivienda": 310,
+          "de_una_llave_publica": 1332,
+          "de_una_llave_de_otra_vivienda": 119,
+          "manantial_rio_arroyo": 560,
+          "pozo_tubular": 303,
+          "pozo_cavado": 107,
+          "lluvia": 3236,
+          "camion_tanque": 187,
+          "botellones": 70419,
+          "camioncito_procesada": 47,
+          "otro": 10
+        }
+      },
+      "combustible_cocinar": {
+        "total": 82470,
+        "categorias": {
+          "gas_propano": 76442,
+          "carbon": 612,
+          "lena": 2024,
+          "electricidad": 63,
+          "otro": 65,
+          "no_cocina": 3263,
+          "sin_informacion": 1
+        }
+      },
+      "alumbrado": {
+        "total": 82470,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 81719,
+          "lampara_de_gas_propano": 106,
+          "lampara_de_gas_kerosene": 53,
+          "energia_electrica_de_planta_propia": 8,
+          "paneles_solares": 150,
+          "otros": 429,
+          "sin_informacion": 5
+        }
+      },
+      "eliminacion_basura": {
+        "total": 82470,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 70898,
+          "la_recoge_una_empresa_privada": 126,
+          "la_queman": 6446,
+          "la_tiran_en_el_patio_o_sola": 1971,
+          "la_tiran_en_un_vertedero": 1064,
+          "la_tiran_en_un_rio_o_canada": 1535,
+          "otros": 430
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Hato Mayor",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 35695,
+        "categorias": {
+          "urbana": 26653,
+          "rural": 9042
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 36216,
+        "categorias": {
+          "inodoro": 27025,
+          "letrina": 6608,
+          "no_tiene": 2583,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 36216,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 13183,
+          "del_acueducto_en_el_patio_de_la_vivienda": 2972,
+          "de_una_llave_publica": 4159,
+          "de_una_llave_de_otra_vivienda": 722,
+          "de_un_tubo_de_la_calle": 1459,
+          "manantial_rio_arroyo": 1300,
+          "pozo_tubular": 6085,
+          "pozo_cavado": 2423,
+          "lluvia": 780,
+          "camion_tanque": 2936,
+          "otro": 197
+        }
+      },
+      "agua_para_beber": {
+        "total": 36216,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 414,
+          "del_acueducto_en_el_patio_de_la_vivienda": 213,
+          "de_una_llave_publica": 305,
+          "de_una_llave_de_otra_vivienda": 17,
+          "manantial_rio_arroyo": 190,
+          "pozo_tubular": 198,
+          "pozo_cavado": 74,
+          "lluvia": 1334,
+          "camion_tanque": 910,
+          "botellones": 31032,
+          "camioncito_procesada": 1526,
+          "otro": 3
+        }
+      },
+      "combustible_cocinar": {
+        "total": 36216,
+        "categorias": {
+          "gas_propano": 31055,
+          "carbon": 939,
+          "lena": 1793,
+          "electricidad": 32,
+          "otro": 48,
+          "no_cocina": 2349,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 36216,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 35234,
+          "lampara_de_gas_propano": 191,
+          "lampara_de_gas_kerosene": 140,
+          "energia_electrica_de_planta_propia": 28,
+          "paneles_solares": 89,
+          "otros": 533,
+          "sin_informacion": 1
+        }
+      },
+      "eliminacion_basura": {
+        "total": 36216,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 29047,
+          "la_recoge_una_empresa_privada": 84,
+          "la_queman": 5968,
+          "la_tiran_en_el_patio_o_sola": 393,
+          "la_tiran_en_un_vertedero": 431,
+          "la_tiran_en_un_rio_o_canada": 75,
+          "otros": 218
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 33887,
+        "categorias": {
+          "urbana": 10527,
+          "rural": 23360
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 34130,
+        "categorias": {
+          "inodoro": 26538,
+          "letrina": 7132,
+          "no_tiene": 460,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 34130,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 21075,
+          "del_acueducto_en_el_patio_de_la_vivienda": 1562,
+          "de_una_llave_publica": 2958,
+          "de_una_llave_de_otra_vivienda": 168,
+          "de_un_tubo_de_la_calle": 2389,
+          "manantial_rio_arroyo": 710,
+          "pozo_tubular": 2356,
+          "pozo_cavado": 943,
+          "lluvia": 1227,
+          "camion_tanque": 673,
+          "otro": 69
+        }
+      },
+      "agua_para_beber": {
+        "total": 34130,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 892,
+          "del_acueducto_en_el_patio_de_la_vivienda": 92,
+          "de_una_llave_publica": 419,
+          "de_una_llave_de_otra_vivienda": 33,
+          "manantial_rio_arroyo": 190,
+          "pozo_tubular": 77,
+          "pozo_cavado": 36,
+          "lluvia": 3957,
+          "camion_tanque": 135,
+          "botellones": 28283,
+          "camioncito_procesada": 16,
+          "otro": 0
+        }
+      },
+      "combustible_cocinar": {
+        "total": 34130,
+        "categorias": {
+          "gas_propano": 31386,
+          "carbon": 151,
+          "lena": 1139,
+          "electricidad": 41,
+          "otro": 36,
+          "no_cocina": 1377,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 34130,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 33760,
+          "lampara_de_gas_propano": 56,
+          "lampara_de_gas_kerosene": 42,
+          "energia_electrica_de_planta_propia": 7,
+          "paneles_solares": 93,
+          "otros": 167,
+          "sin_informacion": 5
+        }
+      },
+      "eliminacion_basura": {
+        "total": 34130,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 23454,
+          "la_recoge_una_empresa_privada": 393,
+          "la_queman": 7711,
+          "la_tiran_en_el_patio_o_sola": 1224,
+          "la_tiran_en_un_vertedero": 639,
+          "la_tiran_en_un_rio_o_canada": 452,
+          "otros": 257
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Independencia",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 18360,
+        "categorias": {
+          "urbana": 14268,
+          "rural": 4092
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 18743,
+        "categorias": {
+          "inodoro": 11187,
+          "letrina": 4721,
+          "no_tiene": 2835,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 18743,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 8212,
+          "del_acueducto_en_el_patio_de_la_vivienda": 5708,
+          "de_una_llave_publica": 2138,
+          "de_una_llave_de_otra_vivienda": 822,
+          "de_un_tubo_de_la_calle": 441,
+          "manantial_rio_arroyo": 762,
+          "pozo_tubular": 134,
+          "pozo_cavado": 87,
+          "lluvia": 12,
+          "camion_tanque": 336,
+          "otro": 91
+        }
+      },
+      "agua_para_beber": {
+        "total": 18743,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 1076,
+          "del_acueducto_en_el_patio_de_la_vivienda": 825,
+          "de_una_llave_publica": 1211,
+          "de_una_llave_de_otra_vivienda": 347,
+          "manantial_rio_arroyo": 536,
+          "pozo_tubular": 83,
+          "pozo_cavado": 60,
+          "lluvia": 20,
+          "camion_tanque": 126,
+          "botellones": 13297,
+          "camioncito_procesada": 1161,
+          "otro": 1
+        }
+      },
+      "combustible_cocinar": {
+        "total": 18743,
+        "categorias": {
+          "gas_propano": 13390,
+          "carbon": 2077,
+          "lena": 2056,
+          "electricidad": 26,
+          "otro": 17,
+          "no_cocina": 1177,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 18743,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 17418,
+          "lampara_de_gas_propano": 117,
+          "lampara_de_gas_kerosene": 186,
+          "energia_electrica_de_planta_propia": 21,
+          "paneles_solares": 125,
+          "otros": 873,
+          "sin_informacion": 3
+        }
+      },
+      "eliminacion_basura": {
+        "total": 18743,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 15163,
+          "la_recoge_una_empresa_privada": 18,
+          "la_queman": 2174,
+          "la_tiran_en_el_patio_o_sola": 694,
+          "la_tiran_en_un_vertedero": 281,
+          "la_tiran_en_un_rio_o_canada": 239,
+          "otros": 174
+        }
+      }
+    }
+  },
+  {
+    "provincia": "La Altagracia",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 170732,
+        "categorias": {
+          "urbana": 128161,
+          "rural": 42571
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 172419,
+        "categorias": {
+          "inodoro": 156498,
+          "letrina": 13199,
+          "no_tiene": 2722,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 172419,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 88896,
+          "del_acueducto_en_el_patio_de_la_vivienda": 8932,
+          "de_una_llave_publica": 8771,
+          "de_una_llave_de_otra_vivienda": 2858,
+          "de_un_tubo_de_la_calle": 7184,
+          "manantial_rio_arroyo": 1245,
+          "pozo_tubular": 21346,
+          "pozo_cavado": 7093,
+          "lluvia": 1478,
+          "camion_tanque": 23464,
+          "otro": 1152
+        }
+      },
+      "agua_para_beber": {
+        "total": 172419,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 6769,
+          "del_acueducto_en_el_patio_de_la_vivienda": 562,
+          "de_una_llave_publica": 2510,
+          "de_una_llave_de_otra_vivienda": 269,
+          "manantial_rio_arroyo": 243,
+          "pozo_tubular": 2106,
+          "pozo_cavado": 970,
+          "lluvia": 2646,
+          "camion_tanque": 3616,
+          "botellones": 139115,
+          "camioncito_procesada": 13601,
+          "otro": 12
+        }
+      },
+      "combustible_cocinar": {
+        "total": 172419,
+        "categorias": {
+          "gas_propano": 153166,
+          "carbon": 4605,
+          "lena": 3520,
+          "electricidad": 486,
+          "otro": 263,
+          "no_cocina": 10379,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 172419,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 162180,
+          "lampara_de_gas_propano": 1686,
+          "lampara_de_gas_kerosene": 1623,
+          "energia_electrica_de_planta_propia": 532,
+          "paneles_solares": 811,
+          "otros": 5582,
+          "sin_informacion": 5
+        }
+      },
+      "eliminacion_basura": {
+        "total": 172419,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 145374,
+          "la_recoge_una_empresa_privada": 11339,
+          "la_queman": 10821,
+          "la_tiran_en_el_patio_o_sola": 1217,
+          "la_tiran_en_un_vertedero": 2214,
+          "la_tiran_en_un_rio_o_canada": 672,
+          "otros": 782
+        }
+      }
+    }
+  },
+  {
+    "provincia": "La Romana",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 95496,
+        "categorias": {
+          "urbana": 90982,
+          "rural": 4514
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 96383,
+        "categorias": {
+          "inodoro": 86125,
+          "letrina": 8370,
+          "no_tiene": 1888,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 96383,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 56569,
+          "del_acueducto_en_el_patio_de_la_vivienda": 14426,
+          "de_una_llave_publica": 3602,
+          "de_una_llave_de_otra_vivienda": 921,
+          "de_un_tubo_de_la_calle": 3553,
+          "manantial_rio_arroyo": 243,
+          "pozo_tubular": 1804,
+          "pozo_cavado": 1726,
+          "lluvia": 245,
+          "camion_tanque": 13146,
+          "otro": 148
+        }
+      },
+      "agua_para_beber": {
+        "total": 96383,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 3584,
+          "del_acueducto_en_el_patio_de_la_vivienda": 807,
+          "de_una_llave_publica": 1022,
+          "de_una_llave_de_otra_vivienda": 77,
+          "manantial_rio_arroyo": 96,
+          "pozo_tubular": 89,
+          "pozo_cavado": 74,
+          "lluvia": 136,
+          "camion_tanque": 525,
+          "botellones": 89653,
+          "camioncito_procesada": 316,
+          "otro": 4
+        }
+      },
+      "combustible_cocinar": {
+        "total": 96383,
+        "categorias": {
+          "gas_propano": 88566,
+          "carbon": 2559,
+          "lena": 611,
+          "electricidad": 171,
+          "otro": 97,
+          "no_cocina": 4379,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 96383,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 93672,
+          "lampara_de_gas_propano": 402,
+          "lampara_de_gas_kerosene": 865,
+          "energia_electrica_de_planta_propia": 343,
+          "paneles_solares": 343,
+          "otros": 755,
+          "sin_informacion": 3
+        }
+      },
+      "eliminacion_basura": {
+        "total": 96383,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 81491,
+          "la_recoge_una_empresa_privada": 5294,
+          "la_queman": 2620,
+          "la_tiran_en_el_patio_o_sola": 1195,
+          "la_tiran_en_un_vertedero": 4974,
+          "la_tiran_en_un_rio_o_canada": 107,
+          "otros": 702
+        }
+      }
+    }
+  },
+  {
+    "provincia": "La Vega",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 152436,
+        "categorias": {
+          "urbana": 73908,
+          "rural": 78528
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 153581,
+        "categorias": {
+          "inodoro": 133271,
+          "letrina": 17463,
+          "no_tiene": 2847,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 153581,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 82504,
+          "del_acueducto_en_el_patio_de_la_vivienda": 6299,
+          "de_una_llave_publica": 8400,
+          "de_una_llave_de_otra_vivienda": 3149,
+          "de_un_tubo_de_la_calle": 7812,
+          "manantial_rio_arroyo": 4427,
+          "pozo_tubular": 27873,
+          "pozo_cavado": 6692,
+          "lluvia": 2894,
+          "camion_tanque": 2964,
+          "otro": 567
+        }
+      },
+      "agua_para_beber": {
+        "total": 153581,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 10462,
+          "del_acueducto_en_el_patio_de_la_vivienda": 911,
+          "de_una_llave_publica": 3448,
+          "de_una_llave_de_otra_vivienda": 491,
+          "manantial_rio_arroyo": 3315,
+          "pozo_tubular": 1636,
+          "pozo_cavado": 129,
+          "lluvia": 5610,
+          "camion_tanque": 538,
+          "botellones": 126727,
+          "camioncito_procesada": 308,
+          "otro": 6
+        }
+      },
+      "combustible_cocinar": {
+        "total": 153581,
+        "categorias": {
+          "gas_propano": 142387,
+          "carbon": 1048,
+          "lena": 3248,
+          "electricidad": 178,
+          "otro": 160,
+          "no_cocina": 6560,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 153581,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 151474,
+          "lampara_de_gas_propano": 187,
+          "lampara_de_gas_kerosene": 90,
+          "energia_electrica_de_planta_propia": 64,
+          "paneles_solares": 265,
+          "otros": 1487,
+          "sin_informacion": 14
+        }
+      },
+      "eliminacion_basura": {
+        "total": 153581,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 140577,
+          "la_recoge_una_empresa_privada": 231,
+          "la_queman": 8530,
+          "la_tiran_en_el_patio_o_sola": 1902,
+          "la_tiran_en_un_vertedero": 1031,
+          "la_tiran_en_un_rio_o_canada": 887,
+          "otros": 423
+        }
+      }
+    }
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 56920,
+        "categorias": {
+          "urbana": 30871,
+          "rural": 26049
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 57421,
+        "categorias": {
+          "inodoro": 45179,
+          "letrina": 10004,
+          "no_tiene": 2238,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 57421,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 35027,
+          "del_acueducto_en_el_patio_de_la_vivienda": 5240,
+          "de_una_llave_publica": 3952,
+          "de_una_llave_de_otra_vivienda": 754,
+          "de_un_tubo_de_la_calle": 2527,
+          "manantial_rio_arroyo": 1073,
+          "pozo_tubular": 3657,
+          "pozo_cavado": 3263,
+          "lluvia": 810,
+          "camion_tanque": 985,
+          "otro": 133
+        }
+      },
+      "agua_para_beber": {
+        "total": 57421,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 3515,
+          "del_acueducto_en_el_patio_de_la_vivienda": 658,
+          "de_una_llave_publica": 1564,
+          "de_una_llave_de_otra_vivienda": 107,
+          "manantial_rio_arroyo": 267,
+          "pozo_tubular": 91,
+          "pozo_cavado": 59,
+          "lluvia": 1945,
+          "camion_tanque": 606,
+          "botellones": 47401,
+          "camioncito_procesada": 1204,
+          "otro": 4
+        }
+      },
+      "combustible_cocinar": {
+        "total": 57421,
+        "categorias": {
+          "gas_propano": 51342,
+          "carbon": 549,
+          "lena": 1744,
+          "electricidad": 34,
+          "otro": 90,
+          "no_cocina": 3662,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 57421,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 56583,
+          "lampara_de_gas_propano": 148,
+          "lampara_de_gas_kerosene": 85,
+          "energia_electrica_de_planta_propia": 9,
+          "paneles_solares": 98,
+          "otros": 486,
+          "sin_informacion": 12
+        }
+      },
+      "eliminacion_basura": {
+        "total": 57421,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 45636,
+          "la_recoge_una_empresa_privada": 147,
+          "la_queman": 9678,
+          "la_tiran_en_el_patio_o_sola": 945,
+          "la_tiran_en_un_vertedero": 579,
+          "la_tiran_en_un_rio_o_canada": 224,
+          "otros": 212
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 67597,
+        "categorias": {
+          "urbana": 41007,
+          "rural": 26590
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 68150,
+        "categorias": {
+          "inodoro": 63169,
+          "letrina": 3843,
+          "no_tiene": 1138,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 68150,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 48394,
+          "del_acueducto_en_el_patio_de_la_vivienda": 2711,
+          "de_una_llave_publica": 2644,
+          "de_una_llave_de_otra_vivienda": 1085,
+          "de_un_tubo_de_la_calle": 4574,
+          "manantial_rio_arroyo": 2095,
+          "pozo_tubular": 4881,
+          "pozo_cavado": 1489,
+          "lluvia": 83,
+          "camion_tanque": 80,
+          "otro": 114
+        }
+      },
+      "agua_para_beber": {
+        "total": 68150,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 5649,
+          "del_acueducto_en_el_patio_de_la_vivienda": 528,
+          "de_una_llave_publica": 2495,
+          "de_una_llave_de_otra_vivienda": 182,
+          "manantial_rio_arroyo": 1623,
+          "pozo_tubular": 404,
+          "pozo_cavado": 228,
+          "lluvia": 46,
+          "camion_tanque": 107,
+          "botellones": 56803,
+          "camioncito_procesada": 78,
+          "otro": 7
+        }
+      },
+      "combustible_cocinar": {
+        "total": 68150,
+        "categorias": {
+          "gas_propano": 63151,
+          "carbon": 577,
+          "lena": 1280,
+          "electricidad": 146,
+          "otro": 71,
+          "no_cocina": 2924,
+          "sin_informacion": 1
+        }
+      },
+      "alumbrado": {
+        "total": 68150,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 67512,
+          "lampara_de_gas_propano": 95,
+          "lampara_de_gas_kerosene": 38,
+          "energia_electrica_de_planta_propia": 15,
+          "paneles_solares": 89,
+          "otros": 396,
+          "sin_informacion": 5
+        }
+      },
+      "eliminacion_basura": {
+        "total": 68150,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 60101,
+          "la_recoge_una_empresa_privada": 3290,
+          "la_queman": 2787,
+          "la_tiran_en_el_patio_o_sola": 617,
+          "la_tiran_en_un_vertedero": 641,
+          "la_tiran_en_un_rio_o_canada": 200,
+          "otros": 514
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 44979,
+        "categorias": {
+          "urbana": 23718,
+          "rural": 21261
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 46156,
+        "categorias": {
+          "inodoro": 24347,
+          "letrina": 20119,
+          "no_tiene": 1690,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 46156,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 28793,
+          "del_acueducto_en_el_patio_de_la_vivienda": 12697,
+          "de_una_llave_publica": 2368,
+          "de_una_llave_de_otra_vivienda": 327,
+          "de_un_tubo_de_la_calle": 668,
+          "manantial_rio_arroyo": 202,
+          "pozo_tubular": 120,
+          "pozo_cavado": 100,
+          "lluvia": 35,
+          "camion_tanque": 805,
+          "otro": 41
+        }
+      },
+      "agua_para_beber": {
+        "total": 46156,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 3432,
+          "del_acueducto_en_el_patio_de_la_vivienda": 2324,
+          "de_una_llave_publica": 758,
+          "de_una_llave_de_otra_vivienda": 125,
+          "manantial_rio_arroyo": 20,
+          "pozo_tubular": 26,
+          "pozo_cavado": 12,
+          "lluvia": 225,
+          "camion_tanque": 212,
+          "botellones": 38995,
+          "camioncito_procesada": 24,
+          "otro": 3
+        }
+      },
+      "combustible_cocinar": {
+        "total": 46156,
+        "categorias": {
+          "gas_propano": 36257,
+          "carbon": 3058,
+          "lena": 2836,
+          "electricidad": 34,
+          "otro": 78,
+          "no_cocina": 3893,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 46156,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 43639,
+          "lampara_de_gas_propano": 370,
+          "lampara_de_gas_kerosene": 239,
+          "energia_electrica_de_planta_propia": 8,
+          "paneles_solares": 154,
+          "otros": 1744,
+          "sin_informacion": 2
+        }
+      },
+      "eliminacion_basura": {
+        "total": 46156,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 36930,
+          "la_recoge_una_empresa_privada": 594,
+          "la_queman": 6450,
+          "la_tiran_en_el_patio_o_sola": 520,
+          "la_tiran_en_un_vertedero": 1311,
+          "la_tiran_en_un_rio_o_canada": 190,
+          "otros": 161
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Monte Plata",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 71929,
+        "categorias": {
+          "urbana": 35877,
+          "rural": 36052
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 72459,
+        "categorias": {
+          "inodoro": 47230,
+          "letrina": 19371,
+          "no_tiene": 5858,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 72459,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 21124,
+          "del_acueducto_en_el_patio_de_la_vivienda": 7460,
+          "de_una_llave_publica": 7899,
+          "de_una_llave_de_otra_vivienda": 1777,
+          "de_un_tubo_de_la_calle": 4322,
+          "manantial_rio_arroyo": 3599,
+          "pozo_tubular": 11724,
+          "pozo_cavado": 5189,
+          "lluvia": 3058,
+          "camion_tanque": 5967,
+          "otro": 340
+        }
+      },
+      "agua_para_beber": {
+        "total": 72459,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 1118,
+          "del_acueducto_en_el_patio_de_la_vivienda": 611,
+          "de_una_llave_publica": 2494,
+          "de_una_llave_de_otra_vivienda": 372,
+          "manantial_rio_arroyo": 1310,
+          "pozo_tubular": 2599,
+          "pozo_cavado": 1933,
+          "lluvia": 3621,
+          "camion_tanque": 448,
+          "botellones": 56896,
+          "camioncito_procesada": 1056,
+          "otro": 1
+        }
+      },
+      "combustible_cocinar": {
+        "total": 72459,
+        "categorias": {
+          "gas_propano": 61434,
+          "carbon": 1603,
+          "lena": 4913,
+          "electricidad": 60,
+          "otro": 67,
+          "no_cocina": 4382,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 72459,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 70723,
+          "lampara_de_gas_propano": 345,
+          "lampara_de_gas_kerosene": 368,
+          "energia_electrica_de_planta_propia": 59,
+          "paneles_solares": 271,
+          "otros": 693,
+          "sin_informacion": 0
+        }
+      },
+      "eliminacion_basura": {
+        "total": 72459,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 50914,
+          "la_recoge_una_empresa_privada": 212,
+          "la_queman": 16847,
+          "la_tiran_en_el_patio_o_sola": 2531,
+          "la_tiran_en_un_vertedero": 1080,
+          "la_tiran_en_un_rio_o_canada": 554,
+          "otros": 321
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Pedernales",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 10298,
+        "categorias": {
+          "urbana": 7847,
+          "rural": 2451
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 10490,
+        "categorias": {
+          "inodoro": 6902,
+          "letrina": 2365,
+          "no_tiene": 1223,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 10490,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 3908,
+          "del_acueducto_en_el_patio_de_la_vivienda": 2444,
+          "de_una_llave_publica": 850,
+          "de_una_llave_de_otra_vivienda": 134,
+          "de_un_tubo_de_la_calle": 430,
+          "manantial_rio_arroyo": 261,
+          "pozo_tubular": 126,
+          "pozo_cavado": 654,
+          "lluvia": 482,
+          "camion_tanque": 1174,
+          "otro": 27
+        }
+      },
+      "agua_para_beber": {
+        "total": 10490,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 522,
+          "del_acueducto_en_el_patio_de_la_vivienda": 547,
+          "de_una_llave_publica": 384,
+          "de_una_llave_de_otra_vivienda": 107,
+          "manantial_rio_arroyo": 253,
+          "pozo_tubular": 38,
+          "pozo_cavado": 108,
+          "lluvia": 533,
+          "camion_tanque": 142,
+          "botellones": 7837,
+          "camioncito_procesada": 17,
+          "otro": 2
+        }
+      },
+      "combustible_cocinar": {
+        "total": 10490,
+        "categorias": {
+          "gas_propano": 7453,
+          "carbon": 802,
+          "lena": 1467,
+          "electricidad": 28,
+          "otro": 13,
+          "no_cocina": 727,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 10490,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 9153,
+          "lampara_de_gas_propano": 178,
+          "lampara_de_gas_kerosene": 110,
+          "energia_electrica_de_planta_propia": 11,
+          "paneles_solares": 182,
+          "otros": 855,
+          "sin_informacion": 1
+        }
+      },
+      "eliminacion_basura": {
+        "total": 10490,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 7788,
+          "la_recoge_una_empresa_privada": 17,
+          "la_queman": 1594,
+          "la_tiran_en_el_patio_o_sola": 539,
+          "la_tiran_en_un_vertedero": 191,
+          "la_tiran_en_un_rio_o_canada": 262,
+          "otros": 99
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Peravia",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 69233,
+        "categorias": {
+          "urbana": 45406,
+          "rural": 23827
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 70097,
+        "categorias": {
+          "inodoro": 61372,
+          "letrina": 6778,
+          "no_tiene": 1947,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 70097,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 40958,
+          "del_acueducto_en_el_patio_de_la_vivienda": 12373,
+          "de_una_llave_publica": 5395,
+          "de_una_llave_de_otra_vivienda": 744,
+          "de_un_tubo_de_la_calle": 3586,
+          "manantial_rio_arroyo": 642,
+          "pozo_tubular": 1151,
+          "pozo_cavado": 903,
+          "lluvia": 85,
+          "camion_tanque": 4135,
+          "otro": 125
+        }
+      },
+      "agua_para_beber": {
+        "total": 70097,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 2354,
+          "del_acueducto_en_el_patio_de_la_vivienda": 630,
+          "de_una_llave_publica": 1076,
+          "de_una_llave_de_otra_vivienda": 115,
+          "manantial_rio_arroyo": 364,
+          "pozo_tubular": 108,
+          "pozo_cavado": 115,
+          "lluvia": 135,
+          "camion_tanque": 583,
+          "botellones": 63729,
+          "camioncito_procesada": 884,
+          "otro": 4
+        }
+      },
+      "combustible_cocinar": {
+        "total": 70097,
+        "categorias": {
+          "gas_propano": 62750,
+          "carbon": 1519,
+          "lena": 1974,
+          "electricidad": 109,
+          "otro": 74,
+          "no_cocina": 3671,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 70097,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 69431,
+          "lampara_de_gas_propano": 157,
+          "lampara_de_gas_kerosene": 76,
+          "energia_electrica_de_planta_propia": 23,
+          "paneles_solares": 95,
+          "otros": 307,
+          "sin_informacion": 8
+        }
+      },
+      "eliminacion_basura": {
+        "total": 70097,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 63141,
+          "la_recoge_una_empresa_privada": 388,
+          "la_queman": 4375,
+          "la_tiran_en_el_patio_o_sola": 609,
+          "la_tiran_en_un_vertedero": 704,
+          "la_tiran_en_un_rio_o_canada": 605,
+          "otros": 275
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Puerto Plata",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 124053,
+        "categorias": {
+          "urbana": 71966,
+          "rural": 52087
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 125047,
+        "categorias": {
+          "inodoro": 109484,
+          "letrina": 13473,
+          "no_tiene": 2088,
+          "sin_informacion": 2
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 125047,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 80064,
+          "del_acueducto_en_el_patio_de_la_vivienda": 8615,
+          "de_una_llave_publica": 7301,
+          "de_una_llave_de_otra_vivienda": 1195,
+          "de_un_tubo_de_la_calle": 6101,
+          "manantial_rio_arroyo": 2924,
+          "pozo_tubular": 4302,
+          "pozo_cavado": 4503,
+          "lluvia": 579,
+          "camion_tanque": 9154,
+          "otro": 309
+        }
+      },
+      "agua_para_beber": {
+        "total": 125047,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 5502,
+          "del_acueducto_en_el_patio_de_la_vivienda": 673,
+          "de_una_llave_publica": 2580,
+          "de_una_llave_de_otra_vivienda": 139,
+          "manantial_rio_arroyo": 1572,
+          "pozo_tubular": 273,
+          "pozo_cavado": 310,
+          "lluvia": 1275,
+          "camion_tanque": 633,
+          "botellones": 111418,
+          "camioncito_procesada": 669,
+          "otro": 3
+        }
+      },
+      "combustible_cocinar": {
+        "total": 125047,
+        "categorias": {
+          "gas_propano": 113207,
+          "carbon": 1502,
+          "lena": 4161,
+          "electricidad": 118,
+          "otro": 145,
+          "no_cocina": 5913,
+          "sin_informacion": 1
+        }
+      },
+      "alumbrado": {
+        "total": 125047,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 123236,
+          "lampara_de_gas_propano": 322,
+          "lampara_de_gas_kerosene": 202,
+          "energia_electrica_de_planta_propia": 25,
+          "paneles_solares": 284,
+          "otros": 930,
+          "sin_informacion": 48
+        }
+      },
+      "eliminacion_basura": {
+        "total": 125047,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 111538,
+          "la_recoge_una_empresa_privada": 1027,
+          "la_queman": 10570,
+          "la_tiran_en_el_patio_o_sola": 905,
+          "la_tiran_en_un_vertedero": 584,
+          "la_tiran_en_un_rio_o_canada": 188,
+          "otros": 235
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Samaná",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 41550,
+        "categorias": {
+          "urbana": 18468,
+          "rural": 23082
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 41936,
+        "categorias": {
+          "inodoro": 34696,
+          "letrina": 5219,
+          "no_tiene": 2021,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 41936,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 26718,
+          "del_acueducto_en_el_patio_de_la_vivienda": 4356,
+          "de_una_llave_publica": 2554,
+          "de_una_llave_de_otra_vivienda": 535,
+          "de_un_tubo_de_la_calle": 2403,
+          "manantial_rio_arroyo": 1069,
+          "pozo_tubular": 1273,
+          "pozo_cavado": 464,
+          "lluvia": 930,
+          "camion_tanque": 1562,
+          "otro": 72
+        }
+      },
+      "agua_para_beber": {
+        "total": 41936,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 1669,
+          "del_acueducto_en_el_patio_de_la_vivienda": 248,
+          "de_una_llave_publica": 502,
+          "de_una_llave_de_otra_vivienda": 50,
+          "manantial_rio_arroyo": 649,
+          "pozo_tubular": 30,
+          "pozo_cavado": 64,
+          "lluvia": 1296,
+          "camion_tanque": 437,
+          "botellones": 35708,
+          "camioncito_procesada": 1282,
+          "otro": 1
+        }
+      },
+      "combustible_cocinar": {
+        "total": 41936,
+        "categorias": {
+          "gas_propano": 37210,
+          "carbon": 401,
+          "lena": 1226,
+          "electricidad": 51,
+          "otro": 49,
+          "no_cocina": 2999,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 41936,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 41026,
+          "lampara_de_gas_propano": 205,
+          "lampara_de_gas_kerosene": 61,
+          "energia_electrica_de_planta_propia": 13,
+          "paneles_solares": 140,
+          "otros": 491,
+          "sin_informacion": 0
+        }
+      },
+      "eliminacion_basura": {
+        "total": 41936,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 32786,
+          "la_recoge_una_empresa_privada": 258,
+          "la_queman": 7790,
+          "la_tiran_en_el_patio_o_sola": 351,
+          "la_tiran_en_un_vertedero": 506,
+          "la_tiran_en_un_rio_o_canada": 99,
+          "otros": 146
+        }
+      }
+    }
+  },
+  {
+    "provincia": "San Cristóbal",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 221397,
+        "categorias": {
+          "urbana": 119097,
+          "rural": 102300
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 223003,
+        "categorias": {
+          "inodoro": 191946,
+          "letrina": 24999,
+          "no_tiene": 6058,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 223003,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 120387,
+          "del_acueducto_en_el_patio_de_la_vivienda": 32489,
+          "de_una_llave_publica": 11907,
+          "de_una_llave_de_otra_vivienda": 3544,
+          "de_un_tubo_de_la_calle": 16799,
+          "manantial_rio_arroyo": 4052,
+          "pozo_tubular": 6053,
+          "pozo_cavado": 5376,
+          "lluvia": 1400,
+          "camion_tanque": 20598,
+          "otro": 398
+        }
+      },
+      "agua_para_beber": {
+        "total": 223003,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 8904,
+          "del_acueducto_en_el_patio_de_la_vivienda": 2217,
+          "de_una_llave_publica": 2297,
+          "de_una_llave_de_otra_vivienda": 325,
+          "manantial_rio_arroyo": 2590,
+          "pozo_tubular": 1054,
+          "pozo_cavado": 685,
+          "lluvia": 1677,
+          "camion_tanque": 5404,
+          "botellones": 167368,
+          "camioncito_procesada": 30465,
+          "otro": 17
+        }
+      },
+      "combustible_cocinar": {
+        "total": 223003,
+        "categorias": {
+          "gas_propano": 202349,
+          "carbon": 2291,
+          "lena": 7203,
+          "electricidad": 220,
+          "otro": 250,
+          "no_cocina": 10690,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 223003,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 221293,
+          "lampara_de_gas_propano": 340,
+          "lampara_de_gas_kerosene": 184,
+          "energia_electrica_de_planta_propia": 30,
+          "paneles_solares": 66,
+          "otros": 1086,
+          "sin_informacion": 4
+        }
+      },
+      "eliminacion_basura": {
+        "total": 223003,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 191384,
+          "la_recoge_una_empresa_privada": 899,
+          "la_queman": 19677,
+          "la_tiran_en_el_patio_o_sola": 3816,
+          "la_tiran_en_un_vertedero": 2856,
+          "la_tiran_en_un_rio_o_canada": 3243,
+          "otros": 1128
+        }
+      }
+    }
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 25777,
+        "categorias": {
+          "urbana": 15582,
+          "rural": 10195
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 26030,
+        "categorias": {
+          "inodoro": 19509,
+          "letrina": 5394,
+          "no_tiene": 1127,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 26030,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 14220,
+          "del_acueducto_en_el_patio_de_la_vivienda": 5582,
+          "de_una_llave_publica": 3419,
+          "de_una_llave_de_otra_vivienda": 430,
+          "de_un_tubo_de_la_calle": 453,
+          "manantial_rio_arroyo": 1343,
+          "pozo_tubular": 152,
+          "pozo_cavado": 107,
+          "lluvia": 25,
+          "camion_tanque": 255,
+          "otro": 44
+        }
+      },
+      "agua_para_beber": {
+        "total": 26030,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 1577,
+          "del_acueducto_en_el_patio_de_la_vivienda": 1386,
+          "de_una_llave_publica": 1787,
+          "de_una_llave_de_otra_vivienda": 108,
+          "manantial_rio_arroyo": 1241,
+          "pozo_tubular": 31,
+          "pozo_cavado": 44,
+          "lluvia": 16,
+          "camion_tanque": 112,
+          "botellones": 19390,
+          "camioncito_procesada": 336,
+          "otro": 2
+        }
+      },
+      "combustible_cocinar": {
+        "total": 26030,
+        "categorias": {
+          "gas_propano": 20853,
+          "carbon": 671,
+          "lena": 2310,
+          "electricidad": 50,
+          "otro": 64,
+          "no_cocina": 2082,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 26030,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 23886,
+          "lampara_de_gas_propano": 307,
+          "lampara_de_gas_kerosene": 519,
+          "energia_electrica_de_planta_propia": 93,
+          "paneles_solares": 587,
+          "otros": 638,
+          "sin_informacion": 0
+        }
+      },
+      "eliminacion_basura": {
+        "total": 26030,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 22998,
+          "la_recoge_una_empresa_privada": 82,
+          "la_queman": 1923,
+          "la_tiran_en_el_patio_o_sola": 424,
+          "la_tiran_en_un_vertedero": 232,
+          "la_tiran_en_un_rio_o_canada": 313,
+          "otros": 58
+        }
+      }
+    }
+  },
+  {
+    "provincia": "San Juan",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 81574,
+        "categorias": {
+          "urbana": 48611,
+          "rural": 32963
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 82816,
+        "categorias": {
+          "inodoro": 52233,
+          "letrina": 25053,
+          "no_tiene": 5530,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 82816,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 40114,
+          "del_acueducto_en_el_patio_de_la_vivienda": 28814,
+          "de_una_llave_publica": 4629,
+          "de_una_llave_de_otra_vivienda": 1711,
+          "de_un_tubo_de_la_calle": 1072,
+          "manantial_rio_arroyo": 2064,
+          "pozo_tubular": 1069,
+          "pozo_cavado": 882,
+          "lluvia": 44,
+          "camion_tanque": 2171,
+          "otro": 246
+        }
+      },
+      "agua_para_beber": {
+        "total": 82816,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 7337,
+          "del_acueducto_en_el_patio_de_la_vivienda": 8612,
+          "de_una_llave_publica": 3095,
+          "de_una_llave_de_otra_vivienda": 916,
+          "manantial_rio_arroyo": 1151,
+          "pozo_tubular": 378,
+          "pozo_cavado": 287,
+          "lluvia": 47,
+          "camion_tanque": 272,
+          "botellones": 60618,
+          "camioncito_procesada": 91,
+          "otro": 12
+        }
+      },
+      "combustible_cocinar": {
+        "total": 82816,
+        "categorias": {
+          "gas_propano": 66010,
+          "carbon": 2950,
+          "lena": 7821,
+          "electricidad": 80,
+          "otro": 259,
+          "no_cocina": 5696,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 82816,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 79707,
+          "lampara_de_gas_propano": 861,
+          "lampara_de_gas_kerosene": 420,
+          "energia_electrica_de_planta_propia": 179,
+          "paneles_solares": 240,
+          "otros": 1403,
+          "sin_informacion": 6
+        }
+      },
+      "eliminacion_basura": {
+        "total": 82816,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 68586,
+          "la_recoge_una_empresa_privada": 104,
+          "la_queman": 11973,
+          "la_tiran_en_el_patio_o_sola": 839,
+          "la_tiran_en_un_vertedero": 309,
+          "la_tiran_en_un_rio_o_canada": 730,
+          "otros": 275
+        }
+      }
+    }
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 115907,
+        "categorias": {
+          "urbana": 95963,
+          "rural": 19944
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 116899,
+        "categorias": {
+          "inodoro": 98922,
+          "letrina": 11044,
+          "no_tiene": 6933,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 116899,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 49436,
+          "del_acueducto_en_el_patio_de_la_vivienda": 22183,
+          "de_una_llave_publica": 7525,
+          "de_una_llave_de_otra_vivienda": 3650,
+          "de_un_tubo_de_la_calle": 4027,
+          "manantial_rio_arroyo": 81,
+          "pozo_tubular": 9854,
+          "pozo_cavado": 12235,
+          "lluvia": 177,
+          "camion_tanque": 7195,
+          "otro": 536
+        }
+      },
+      "agua_para_beber": {
+        "total": 116899,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 2677,
+          "del_acueducto_en_el_patio_de_la_vivienda": 843,
+          "de_una_llave_publica": 1025,
+          "de_una_llave_de_otra_vivienda": 181,
+          "manantial_rio_arroyo": 22,
+          "pozo_tubular": 435,
+          "pozo_cavado": 676,
+          "lluvia": 304,
+          "camion_tanque": 1022,
+          "botellones": 108453,
+          "camioncito_procesada": 1244,
+          "otro": 17
+        }
+      },
+      "combustible_cocinar": {
+        "total": 116899,
+        "categorias": {
+          "gas_propano": 104605,
+          "carbon": 2430,
+          "lena": 2872,
+          "electricidad": 256,
+          "otro": 164,
+          "no_cocina": 6572,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 116899,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 115879,
+          "lampara_de_gas_propano": 127,
+          "lampara_de_gas_kerosene": 96,
+          "energia_electrica_de_planta_propia": 66,
+          "paneles_solares": 90,
+          "otros": 637,
+          "sin_informacion": 4
+        }
+      },
+      "eliminacion_basura": {
+        "total": 116899,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 99730,
+          "la_recoge_una_empresa_privada": 1657,
+          "la_queman": 9949,
+          "la_tiran_en_el_patio_o_sola": 1333,
+          "la_tiran_en_un_vertedero": 3379,
+          "la_tiran_en_un_rio_o_canada": 166,
+          "otros": 685
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 57067,
+        "categorias": {
+          "urbana": 31313,
+          "rural": 25754
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 57499,
+        "categorias": {
+          "inodoro": 45090,
+          "letrina": 10464,
+          "no_tiene": 1945,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 57499,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 26504,
+          "del_acueducto_en_el_patio_de_la_vivienda": 3830,
+          "de_una_llave_publica": 4582,
+          "de_una_llave_de_otra_vivienda": 1259,
+          "de_un_tubo_de_la_calle": 3359,
+          "manantial_rio_arroyo": 1406,
+          "pozo_tubular": 12777,
+          "pozo_cavado": 1918,
+          "lluvia": 511,
+          "camion_tanque": 1250,
+          "otro": 103
+        }
+      },
+      "agua_para_beber": {
+        "total": 57499,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 975,
+          "del_acueducto_en_el_patio_de_la_vivienda": 376,
+          "de_una_llave_publica": 1362,
+          "de_una_llave_de_otra_vivienda": 101,
+          "manantial_rio_arroyo": 631,
+          "pozo_tubular": 856,
+          "pozo_cavado": 341,
+          "lluvia": 833,
+          "camion_tanque": 311,
+          "botellones": 51184,
+          "camioncito_procesada": 526,
+          "otro": 3
+        }
+      },
+      "combustible_cocinar": {
+        "total": 57499,
+        "categorias": {
+          "gas_propano": 51843,
+          "carbon": 594,
+          "lena": 2098,
+          "electricidad": 63,
+          "otro": 75,
+          "no_cocina": 2826,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 57499,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 56875,
+          "lampara_de_gas_propano": 138,
+          "lampara_de_gas_kerosene": 82,
+          "energia_electrica_de_planta_propia": 11,
+          "paneles_solares": 72,
+          "otros": 321,
+          "sin_informacion": 0
+        }
+      },
+      "eliminacion_basura": {
+        "total": 57499,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 45101,
+          "la_recoge_una_empresa_privada": 292,
+          "la_queman": 8846,
+          "la_tiran_en_el_patio_o_sola": 1447,
+          "la_tiran_en_un_vertedero": 572,
+          "la_tiran_en_un_rio_o_canada": 846,
+          "otros": 395
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Santiago",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 374098,
+        "categorias": {
+          "urbana": 275804,
+          "rural": 98294
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 376703,
+        "categorias": {
+          "inodoro": 355305,
+          "letrina": 17641,
+          "no_tiene": 3757,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 376703,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 310174,
+          "del_acueducto_en_el_patio_de_la_vivienda": 16223,
+          "de_una_llave_publica": 9892,
+          "de_una_llave_de_otra_vivienda": 1976,
+          "de_un_tubo_de_la_calle": 14787,
+          "manantial_rio_arroyo": 3754,
+          "pozo_tubular": 3333,
+          "pozo_cavado": 1334,
+          "lluvia": 740,
+          "camion_tanque": 13964,
+          "otro": 526
+        }
+      },
+      "agua_para_beber": {
+        "total": 376703,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 42438,
+          "del_acueducto_en_el_patio_de_la_vivienda": 1410,
+          "de_una_llave_publica": 6241,
+          "de_una_llave_de_otra_vivienda": 378,
+          "manantial_rio_arroyo": 2509,
+          "pozo_tubular": 218,
+          "pozo_cavado": 94,
+          "lluvia": 2000,
+          "camion_tanque": 1009,
+          "botellones": 320141,
+          "camioncito_procesada": 251,
+          "otro": 14
+        }
+      },
+      "combustible_cocinar": {
+        "total": 376703,
+        "categorias": {
+          "gas_propano": 355135,
+          "carbon": 3728,
+          "lena": 4241,
+          "electricidad": 519,
+          "otro": 329,
+          "no_cocina": 12749,
+          "sin_informacion": 2
+        }
+      },
+      "alumbrado": {
+        "total": 376703,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 374188,
+          "lampara_de_gas_propano": 338,
+          "lampara_de_gas_kerosene": 222,
+          "energia_electrica_de_planta_propia": 36,
+          "paneles_solares": 457,
+          "otros": 1413,
+          "sin_informacion": 49
+        }
+      },
+      "eliminacion_basura": {
+        "total": 376703,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 354162,
+          "la_recoge_una_empresa_privada": 1081,
+          "la_queman": 11889,
+          "la_tiran_en_el_patio_o_sola": 1863,
+          "la_tiran_en_un_vertedero": 2460,
+          "la_tiran_en_un_rio_o_canada": 4235,
+          "otros": 1013
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 22754,
+        "categorias": {
+          "urbana": 11441,
+          "rural": 11313
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 22894,
+        "categorias": {
+          "inodoro": 16244,
+          "letrina": 6219,
+          "no_tiene": 431,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 22894,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 14988,
+          "del_acueducto_en_el_patio_de_la_vivienda": 1571,
+          "de_una_llave_publica": 2128,
+          "de_una_llave_de_otra_vivienda": 192,
+          "de_un_tubo_de_la_calle": 936,
+          "manantial_rio_arroyo": 699,
+          "pozo_tubular": 1425,
+          "pozo_cavado": 113,
+          "lluvia": 18,
+          "camion_tanque": 785,
+          "otro": 39
+        }
+      },
+      "agua_para_beber": {
+        "total": 22894,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 2387,
+          "del_acueducto_en_el_patio_de_la_vivienda": 540,
+          "de_una_llave_publica": 861,
+          "de_una_llave_de_otra_vivienda": 84,
+          "manantial_rio_arroyo": 403,
+          "pozo_tubular": 98,
+          "pozo_cavado": 15,
+          "lluvia": 45,
+          "camion_tanque": 86,
+          "botellones": 18337,
+          "camioncito_procesada": 37,
+          "otro": 1
+        }
+      },
+      "combustible_cocinar": {
+        "total": 22894,
+        "categorias": {
+          "gas_propano": 20399,
+          "carbon": 254,
+          "lena": 1227,
+          "electricidad": 22,
+          "otro": 26,
+          "no_cocina": 966,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 22894,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 22085,
+          "lampara_de_gas_propano": 84,
+          "lampara_de_gas_kerosene": 38,
+          "energia_electrica_de_planta_propia": 20,
+          "paneles_solares": 271,
+          "otros": 395,
+          "sin_informacion": 1
+        }
+      },
+      "eliminacion_basura": {
+        "total": 22894,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 18480,
+          "la_recoge_una_empresa_privada": 46,
+          "la_queman": 3901,
+          "la_tiran_en_el_patio_o_sola": 213,
+          "la_tiran_en_un_vertedero": 125,
+          "la_tiran_en_un_rio_o_canada": 73,
+          "otros": 56
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Santo Domingo",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 934478,
+        "categorias": {
+          "urbana": 766044,
+          "rural": 168434
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 939813,
+        "categorias": {
+          "inodoro": 906312,
+          "letrina": 20630,
+          "no_tiene": 12871,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 939813,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 636794,
+          "del_acueducto_en_el_patio_de_la_vivienda": 68595,
+          "de_una_llave_publica": 36726,
+          "de_una_llave_de_otra_vivienda": 13760,
+          "de_un_tubo_de_la_calle": 59480,
+          "manantial_rio_arroyo": 619,
+          "pozo_tubular": 33588,
+          "pozo_cavado": 41290,
+          "lluvia": 2354,
+          "camion_tanque": 43978,
+          "otro": 2629
+        }
+      },
+      "agua_para_beber": {
+        "total": 939813,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 48929,
+          "del_acueducto_en_el_patio_de_la_vivienda": 3236,
+          "de_una_llave_publica": 6683,
+          "de_una_llave_de_otra_vivienda": 786,
+          "manantial_rio_arroyo": 230,
+          "pozo_tubular": 1772,
+          "pozo_cavado": 2224,
+          "lluvia": 1656,
+          "camion_tanque": 14246,
+          "botellones": 806720,
+          "camioncito_procesada": 53280,
+          "otro": 51
+        }
+      },
+      "combustible_cocinar": {
+        "total": 939813,
+        "categorias": {
+          "gas_propano": 890618,
+          "carbon": 10937,
+          "lena": 6964,
+          "electricidad": 1477,
+          "otro": 965,
+          "no_cocina": 28843,
+          "sin_informacion": 9
+        }
+      },
+      "alumbrado": {
+        "total": 939813,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 935366,
+          "lampara_de_gas_propano": 281,
+          "lampara_de_gas_kerosene": 217,
+          "energia_electrica_de_planta_propia": 288,
+          "paneles_solares": 250,
+          "otros": 3181,
+          "sin_informacion": 230
+        }
+      },
+      "eliminacion_basura": {
+        "total": 939813,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 786060,
+          "la_recoge_una_empresa_privada": 15875,
+          "la_queman": 37980,
+          "la_tiran_en_el_patio_o_sola": 13184,
+          "la_tiran_en_un_vertedero": 52126,
+          "la_tiran_en_un_rio_o_canada": 19983,
+          "otros": 14605
+        }
+      }
+    }
+  },
+  {
+    "provincia": "Valverde",
+    "servicios": {
+      "cocina_vivienda": {
+        "total": 64896,
+        "categorias": {
+          "urbana": 49519,
+          "rural": 15377
+        }
+      },
+      "servicios_sanitarios": {
+        "total": 65601,
+        "categorias": {
+          "inodoro": 45088,
+          "letrina": 18800,
+          "no_tiene": 1713,
+          "sin_informacion": 0
+        }
+      },
+      "agua_uso_domestico": {
+        "total": 65601,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 46169,
+          "del_acueducto_en_el_patio_de_la_vivienda": 13417,
+          "de_una_llave_publica": 3041,
+          "de_una_llave_de_otra_vivienda": 374,
+          "de_un_tubo_de_la_calle": 814,
+          "manantial_rio_arroyo": 748,
+          "pozo_tubular": 336,
+          "pozo_cavado": 128,
+          "lluvia": 64,
+          "camion_tanque": 414,
+          "otro": 96
+        }
+      },
+      "agua_para_beber": {
+        "total": 65601,
+        "categorias": {
+          "del_acueducto_dentro_de_la_vivienda": 7443,
+          "del_acueducto_en_el_patio_de_la_vivienda": 3136,
+          "de_una_llave_publica": 1463,
+          "de_una_llave_de_otra_vivienda": 209,
+          "manantial_rio_arroyo": 240,
+          "pozo_tubular": 40,
+          "pozo_cavado": 20,
+          "lluvia": 165,
+          "camion_tanque": 176,
+          "botellones": 52674,
+          "camioncito_procesada": 30,
+          "otro": 5
+        }
+      },
+      "combustible_cocinar": {
+        "total": 65601,
+        "categorias": {
+          "gas_propano": 55742,
+          "carbon": 3328,
+          "lena": 1939,
+          "electricidad": 43,
+          "otro": 121,
+          "no_cocina": 4428,
+          "sin_informacion": 0
+        }
+      },
+      "alumbrado": {
+        "total": 65601,
+        "categorias": {
+          "energia_eletrica_del_tendido_publico": 63799,
+          "lampara_de_gas_propano": 308,
+          "lampara_de_gas_kerosene": 112,
+          "energia_electrica_de_planta_propia": 11,
+          "paneles_solares": 233,
+          "otros": 1138,
+          "sin_informacion": 0
+        }
+      },
+      "eliminacion_basura": {
+        "total": 65601,
+        "categorias": {
+          "la_recoge_el_ayuntamiento": 60756,
+          "la_recoge_una_empresa_privada": 171,
+          "la_queman": 3197,
+          "la_tiran_en_el_patio_o_sola": 256,
+          "la_tiran_en_un_vertedero": 612,
+          "la_tiran_en_un_rio_o_canada": 411,
+          "otros": 198
+        }
+      }
+    }
+  }
+]

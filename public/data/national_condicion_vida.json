@@ -1,0 +1,87 @@
+{
+  "hogares_total": 3726936,
+
+  "servicios_sanitarios": {
+    "total": 3726936,
+    "categorias": {
+      "inodoro": 3243732,
+      "letrina": 380239,
+      "no_tiene": 102959,
+      "sin_informacion": 6
+    }
+  },
+
+  "agua_uso_domestico": {
+    "total": 3726936,
+    "categorias": {
+      "del_acueducto_dentro_de_la_vivienda": 2335546,
+      "del_acueducto_en_el_patio_de_la_vivienda": 400039,
+      "de_una_llave_publica": 187655,
+      "de_una_llave_de_otra_vivienda": 57703,
+      "de_un_tubo_de_la_calle": 186988,
+      "manantial_rio_arroyo": 50127,
+      "pozo_tubular": 185792,
+      "pozo_cavado": 111595,
+      "lluvia": 23498,
+      "camion_tanque": 177821,
+      "otro": 10172
+    }
+  },
+
+  "agua_para_beber": {
+    "total": 3726936,
+    "categorias": {
+      "del_acueducto_dentro_de_la_vivienda": 220867,
+      "del_acueducto_en_el_patio_de_la_vivienda": 46239,
+      "de_una_llave_publica": 60069,
+      "de_una_llave_de_otra_vivienda": 8476,
+      "manantial_rio_arroyo": 26623,
+      "pozo_tubular": 14842,
+      "pozo_cavado": 9975,
+      "lluvia": 41531,
+      "camion_tanque": 37241,
+      "botellones": 3141171,
+      "camioncito_procesada": 119637,
+      "otro": 265
+    }
+  },
+
+  "combustible_cocinar": {
+    "total": 3726936,
+    "categorias": {
+      "gas_propano": 3386557,
+      "carbon": 69282,
+      "lena": 94328,
+      "electricidad": 5793,
+      "otro": 4553,
+      "no_cocina": 166406,
+      "sin_informacion": 17
+    }
+  },
+
+  "alumbrado": {
+    "total": 3726936,
+    "categorias": {
+      "energia_eletrica_del_tendido_publico": 3662792,
+      "lampara_de_gas_propano": 10370,
+      "lampara_de_gas_kerosene": 8668,
+      "energia_electrica_de_planta_propia": 2286,
+      "paneles_solares": 7883,
+      "otros": 34403,
+      "sin_informacion": 534
+    }
+  },
+
+  "eliminacion_basura": {
+    "total": 3726936,
+    "categorias": {
+      "la_recoge_el_ayuntamiento": 3203296,
+      "la_recoge_una_empresa_privada": 53313,
+      "la_queman": 259948,
+      "la_tiran_en_el_patio_o_sola": 48120,
+      "la_tiran_en_un_vertedero": 91289,
+      "la_tiran_en_un_rio_o_canada": 44351,
+      "otros": 26619
+    }
+  }
+}

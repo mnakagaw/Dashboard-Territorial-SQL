@@ -11,6 +11,13 @@ import { useEffect, useState } from "react";
 import { buildCondicionVidaParsed } from "../utils/dataHelpers";
 
 function buildDataUrl(fileName) {
+    // When VITE_API_BASE is set, route through the API (SQL Server backend).
+    // Otherwise fall back to static JSON files (original behavior).
+    const apiBase = import.meta.env.VITE_API_BASE;
+    if (apiBase) {
+        const key = fileName.replace('.json', '');
+        return `${apiBase}/api/data/${key}`;
+    }
     return `${import.meta.env.BASE_URL}data/${fileName}`;
 }
 

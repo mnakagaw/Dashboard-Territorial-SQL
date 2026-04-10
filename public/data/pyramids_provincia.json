@@ -1,0 +1,3727 @@
+[
+  {
+    "provincia": "Independencia",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 708,
+        "female": 623
+      },
+      {
+        "age_group": "1-4",
+        "male": 2342,
+        "female": 2350
+      },
+      {
+        "age_group": "5-9",
+        "male": 3157,
+        "female": 3095
+      },
+      {
+        "age_group": "10-14",
+        "male": 3226,
+        "female": 3138
+      },
+      {
+        "age_group": "15-19",
+        "male": 2913,
+        "female": 2792
+      },
+      {
+        "age_group": "20-24",
+        "male": 2597,
+        "female": 2640
+      },
+      {
+        "age_group": "25-29",
+        "male": 2285,
+        "female": 2310
+      },
+      {
+        "age_group": "30-34",
+        "male": 2155,
+        "female": 2152
+      },
+      {
+        "age_group": "35-39",
+        "male": 1763,
+        "female": 1863
+      },
+      {
+        "age_group": "40-44",
+        "male": 1675,
+        "female": 1563
+      },
+      {
+        "age_group": "45-49",
+        "male": 1436,
+        "female": 1382
+      },
+      {
+        "age_group": "50-54",
+        "male": 1429,
+        "female": 1328
+      },
+      {
+        "age_group": "55-59",
+        "male": 1199,
+        "female": 1185
+      },
+      {
+        "age_group": "60-64",
+        "male": 1169,
+        "female": 1013
+      },
+      {
+        "age_group": "65-69",
+        "male": 922,
+        "female": 805
+      },
+      {
+        "age_group": "70-74",
+        "male": 704,
+        "female": 671
+      },
+      {
+        "age_group": "75-79",
+        "male": 482,
+        "female": 495
+      },
+      {
+        "age_group": "80-84",
+        "male": 296,
+        "female": 321
+      },
+      {
+        "age_group": "85-89",
+        "male": 128,
+        "female": 177
+      },
+      {
+        "age_group": "90-94",
+        "male": 57,
+        "female": 73
+      },
+      {
+        "age_group": "95-99",
+        "male": 22,
+        "female": 34
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 7,
+        "female": 7
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "La Altagracia",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 3665,
+        "female": 3781
+      },
+      {
+        "age_group": "1-4",
+        "male": 16057,
+        "female": 15172
+      },
+      {
+        "age_group": "5-9",
+        "male": 19579,
+        "female": 19036
+      },
+      {
+        "age_group": "10-14",
+        "male": 18718,
+        "female": 18190
+      },
+      {
+        "age_group": "15-19",
+        "male": 16656,
+        "female": 17971
+      },
+      {
+        "age_group": "20-24",
+        "male": 19153,
+        "female": 20801
+      },
+      {
+        "age_group": "25-29",
+        "male": 21183,
+        "female": 23015
+      },
+      {
+        "age_group": "30-34",
+        "male": 21666,
+        "female": 21717
+      },
+      {
+        "age_group": "35-39",
+        "male": 18569,
+        "female": 18729
+      },
+      {
+        "age_group": "40-44",
+        "male": 16732,
+        "female": 15824
+      },
+      {
+        "age_group": "45-49",
+        "male": 13028,
+        "female": 12005
+      },
+      {
+        "age_group": "50-54",
+        "male": 11299,
+        "female": 10604
+      },
+      {
+        "age_group": "55-59",
+        "male": 7885,
+        "female": 7596
+      },
+      {
+        "age_group": "60-64",
+        "male": 6365,
+        "female": 6189
+      },
+      {
+        "age_group": "65-69",
+        "male": 4210,
+        "female": 4538
+      },
+      {
+        "age_group": "70-74",
+        "male": 3302,
+        "female": 3238
+      },
+      {
+        "age_group": "75-79",
+        "male": 2009,
+        "female": 2014
+      },
+      {
+        "age_group": "80-84",
+        "male": 1506,
+        "female": 1462
+      },
+      {
+        "age_group": "85-89",
+        "male": 763,
+        "female": 825
+      },
+      {
+        "age_group": "90-94",
+        "male": 343,
+        "female": 329
+      },
+      {
+        "age_group": "95-99",
+        "male": 122,
+        "female": 106
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 56,
+        "female": 51
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 1
+      }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 2525,
+        "female": 2437
+      },
+      {
+        "age_group": "1-4",
+        "male": 10096,
+        "female": 9750
+      },
+      {
+        "age_group": "5-9",
+        "male": 13073,
+        "female": 12409
+      },
+      {
+        "age_group": "10-14",
+        "male": 13033,
+        "female": 12242
+      },
+      {
+        "age_group": "15-19",
+        "male": 12396,
+        "female": 12481
+      },
+      {
+        "age_group": "20-24",
+        "male": 12915,
+        "female": 12975
+      },
+      {
+        "age_group": "25-29",
+        "male": 12218,
+        "female": 12919
+      },
+      {
+        "age_group": "30-34",
+        "male": 11025,
+        "female": 11841
+      },
+      {
+        "age_group": "35-39",
+        "male": 8941,
+        "female": 9723
+      },
+      {
+        "age_group": "40-44",
+        "male": 8836,
+        "female": 9658
+      },
+      {
+        "age_group": "45-49",
+        "male": 7551,
+        "female": 8407
+      },
+      {
+        "age_group": "50-54",
+        "male": 7237,
+        "female": 8042
+      },
+      {
+        "age_group": "55-59",
+        "male": 5973,
+        "female": 6817
+      },
+      {
+        "age_group": "60-64",
+        "male": 5074,
+        "female": 5812
+      },
+      {
+        "age_group": "65-69",
+        "male": 3498,
+        "female": 4256
+      },
+      {
+        "age_group": "70-74",
+        "male": 2486,
+        "female": 3093
+      },
+      {
+        "age_group": "75-79",
+        "male": 1522,
+        "female": 1923
+      },
+      {
+        "age_group": "80-84",
+        "male": 1121,
+        "female": 1335
+      },
+      {
+        "age_group": "85-89",
+        "male": 557,
+        "female": 826
+      },
+      {
+        "age_group": "90-94",
+        "male": 286,
+        "female": 359
+      },
+      {
+        "age_group": "95-99",
+        "male": 84,
+        "female": 93
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 26,
+        "female": 43
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 3411,
+        "female": 3222
+      },
+      {
+        "age_group": "1-4",
+        "male": 13620,
+        "female": 12758
+      },
+      {
+        "age_group": "5-9",
+        "male": 17971,
+        "female": 16721
+      },
+      {
+        "age_group": "10-14",
+        "male": 17864,
+        "female": 16757
+      },
+      {
+        "age_group": "15-19",
+        "male": 17599,
+        "female": 16581
+      },
+      {
+        "age_group": "20-24",
+        "male": 19085,
+        "female": 17823
+      },
+      {
+        "age_group": "25-29",
+        "male": 18110,
+        "female": 18036
+      },
+      {
+        "age_group": "30-34",
+        "male": 17989,
+        "female": 17373
+      },
+      {
+        "age_group": "35-39",
+        "male": 14985,
+        "female": 14570
+      },
+      {
+        "age_group": "40-44",
+        "male": 14542,
+        "female": 14086
+      },
+      {
+        "age_group": "45-49",
+        "male": 12786,
+        "female": 12698
+      },
+      {
+        "age_group": "50-54",
+        "male": 13679,
+        "female": 12665
+      },
+      {
+        "age_group": "55-59",
+        "male": 11267,
+        "female": 11314
+      },
+      {
+        "age_group": "60-64",
+        "male": 9614,
+        "female": 9370
+      },
+      {
+        "age_group": "65-69",
+        "male": 7299,
+        "female": 7705
+      },
+      {
+        "age_group": "70-74",
+        "male": 5818,
+        "female": 6180
+      },
+      {
+        "age_group": "75-79",
+        "male": 3722,
+        "female": 4194
+      },
+      {
+        "age_group": "80-84",
+        "male": 2440,
+        "female": 3098
+      },
+      {
+        "age_group": "85-89",
+        "male": 1361,
+        "female": 1915
+      },
+      {
+        "age_group": "90-94",
+        "male": 761,
+        "female": 924
+      },
+      {
+        "age_group": "95-99",
+        "male": 210,
+        "female": 364
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 89,
+        "female": 143
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1286,
+        "female": 1114
+      },
+      {
+        "age_group": "1-4",
+        "male": 4965,
+        "female": 4743
+      },
+      {
+        "age_group": "5-9",
+        "male": 6550,
+        "female": 6162
+      },
+      {
+        "age_group": "10-14",
+        "male": 6446,
+        "female": 6044
+      },
+      {
+        "age_group": "15-19",
+        "male": 6177,
+        "female": 5716
+      },
+      {
+        "age_group": "20-24",
+        "male": 6264,
+        "female": 5900
+      },
+      {
+        "age_group": "25-29",
+        "male": 6356,
+        "female": 6489
+      },
+      {
+        "age_group": "30-34",
+        "male": 6094,
+        "female": 6163
+      },
+      {
+        "age_group": "35-39",
+        "male": 5198,
+        "female": 5247
+      },
+      {
+        "age_group": "40-44",
+        "male": 5145,
+        "female": 5049
+      },
+      {
+        "age_group": "45-49",
+        "male": 4567,
+        "female": 4338
+      },
+      {
+        "age_group": "50-54",
+        "male": 4586,
+        "female": 4299
+      },
+      {
+        "age_group": "55-59",
+        "male": 3781,
+        "female": 3775
+      },
+      {
+        "age_group": "60-64",
+        "male": 3617,
+        "female": 3464
+      },
+      {
+        "age_group": "65-69",
+        "male": 2883,
+        "female": 2797
+      },
+      {
+        "age_group": "70-74",
+        "male": 2326,
+        "female": 2354
+      },
+      {
+        "age_group": "75-79",
+        "male": 1606,
+        "female": 1449
+      },
+      {
+        "age_group": "80-84",
+        "male": 961,
+        "female": 991
+      },
+      {
+        "age_group": "85-89",
+        "male": 507,
+        "female": 549
+      },
+      {
+        "age_group": "90-94",
+        "male": 211,
+        "female": 253
+      },
+      {
+        "age_group": "95-99",
+        "male": 60,
+        "female": 95
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 20,
+        "female": 34
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 2
+      }
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1140,
+        "female": 1058
+      },
+      {
+        "age_group": "1-4",
+        "male": 4118,
+        "female": 3839
+      },
+      {
+        "age_group": "5-9",
+        "male": 5327,
+        "female": 4711
+      },
+      {
+        "age_group": "10-14",
+        "male": 4927,
+        "female": 4520
+      },
+      {
+        "age_group": "15-19",
+        "male": 4621,
+        "female": 4316
+      },
+      {
+        "age_group": "20-24",
+        "male": 5285,
+        "female": 4998
+      },
+      {
+        "age_group": "25-29",
+        "male": 5497,
+        "female": 5194
+      },
+      {
+        "age_group": "30-34",
+        "male": 5140,
+        "female": 4704
+      },
+      {
+        "age_group": "35-39",
+        "male": 4079,
+        "female": 3877
+      },
+      {
+        "age_group": "40-44",
+        "male": 3793,
+        "female": 3620
+      },
+      {
+        "age_group": "45-49",
+        "male": 3657,
+        "female": 3254
+      },
+      {
+        "age_group": "50-54",
+        "male": 3593,
+        "female": 3226
+      },
+      {
+        "age_group": "55-59",
+        "male": 3102,
+        "female": 2951
+      },
+      {
+        "age_group": "60-64",
+        "male": 2732,
+        "female": 2737
+      },
+      {
+        "age_group": "65-69",
+        "male": 2170,
+        "female": 2102
+      },
+      {
+        "age_group": "70-74",
+        "male": 1888,
+        "female": 1666
+      },
+      {
+        "age_group": "75-79",
+        "male": 1183,
+        "female": 1160
+      },
+      {
+        "age_group": "80-84",
+        "male": 777,
+        "female": 865
+      },
+      {
+        "age_group": "85-89",
+        "male": 508,
+        "female": 523
+      },
+      {
+        "age_group": "90-94",
+        "male": 214,
+        "female": 208
+      },
+      {
+        "age_group": "95-99",
+        "male": 82,
+        "female": 81
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 28,
+        "female": 46
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 2
+      }
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 391,
+        "female": 384
+      },
+      {
+        "age_group": "1-4",
+        "male": 1505,
+        "female": 1434
+      },
+      {
+        "age_group": "5-9",
+        "male": 1959,
+        "female": 1818
+      },
+      {
+        "age_group": "10-14",
+        "male": 1711,
+        "female": 1790
+      },
+      {
+        "age_group": "15-19",
+        "male": 1676,
+        "female": 1635
+      },
+      {
+        "age_group": "20-24",
+        "male": 1684,
+        "female": 1676
+      },
+      {
+        "age_group": "25-29",
+        "male": 1546,
+        "female": 1348
+      },
+      {
+        "age_group": "30-34",
+        "male": 1326,
+        "female": 1279
+      },
+      {
+        "age_group": "35-39",
+        "male": 1090,
+        "female": 1066
+      },
+      {
+        "age_group": "40-44",
+        "male": 1020,
+        "female": 849
+      },
+      {
+        "age_group": "45-49",
+        "male": 810,
+        "female": 733
+      },
+      {
+        "age_group": "50-54",
+        "male": 763,
+        "female": 688
+      },
+      {
+        "age_group": "55-59",
+        "male": 639,
+        "female": 558
+      },
+      {
+        "age_group": "60-64",
+        "male": 584,
+        "female": 412
+      },
+      {
+        "age_group": "65-69",
+        "male": 419,
+        "female": 317
+      },
+      {
+        "age_group": "70-74",
+        "male": 259,
+        "female": 229
+      },
+      {
+        "age_group": "75-79",
+        "male": 186,
+        "female": 164
+      },
+      {
+        "age_group": "80-84",
+        "male": 143,
+        "female": 88
+      },
+      {
+        "age_group": "85-89",
+        "male": 64,
+        "female": 59
+      },
+      {
+        "age_group": "90-94",
+        "male": 30,
+        "female": 27
+      },
+      {
+        "age_group": "95-99",
+        "male": 7,
+        "female": 7
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 0,
+        "female": 2
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 2052,
+        "female": 1851
+      },
+      {
+        "age_group": "1-4",
+        "male": 7801,
+        "female": 7500
+      },
+      {
+        "age_group": "5-9",
+        "male": 9324,
+        "female": 9046
+      },
+      {
+        "age_group": "10-14",
+        "male": 9218,
+        "female": 8760
+      },
+      {
+        "age_group": "15-19",
+        "male": 9144,
+        "female": 8943
+      },
+      {
+        "age_group": "20-24",
+        "male": 9047,
+        "female": 9625
+      },
+      {
+        "age_group": "25-29",
+        "male": 7891,
+        "female": 8827
+      },
+      {
+        "age_group": "30-34",
+        "male": 7022,
+        "female": 7740
+      },
+      {
+        "age_group": "35-39",
+        "male": 5839,
+        "female": 6650
+      },
+      {
+        "age_group": "40-44",
+        "male": 6010,
+        "female": 6565
+      },
+      {
+        "age_group": "45-49",
+        "male": 5481,
+        "female": 6148
+      },
+      {
+        "age_group": "50-54",
+        "male": 5760,
+        "female": 6160
+      },
+      {
+        "age_group": "55-59",
+        "male": 4585,
+        "female": 5155
+      },
+      {
+        "age_group": "60-64",
+        "male": 3887,
+        "female": 4398
+      },
+      {
+        "age_group": "65-69",
+        "male": 3094,
+        "female": 3428
+      },
+      {
+        "age_group": "70-74",
+        "male": 2307,
+        "female": 2557
+      },
+      {
+        "age_group": "75-79",
+        "male": 1479,
+        "female": 1774
+      },
+      {
+        "age_group": "80-84",
+        "male": 993,
+        "female": 1232
+      },
+      {
+        "age_group": "85-89",
+        "male": 496,
+        "female": 775
+      },
+      {
+        "age_group": "90-94",
+        "male": 227,
+        "female": 308
+      },
+      {
+        "age_group": "95-99",
+        "male": 74,
+        "female": 122
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 33,
+        "female": 44
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Puerto Plata",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 2365,
+        "female": 2157
+      },
+      {
+        "age_group": "1-4",
+        "male": 9796,
+        "female": 9373
+      },
+      {
+        "age_group": "5-9",
+        "male": 13294,
+        "female": 12662
+      },
+      {
+        "age_group": "10-14",
+        "male": 13556,
+        "female": 12714
+      },
+      {
+        "age_group": "15-19",
+        "male": 13273,
+        "female": 12603
+      },
+      {
+        "age_group": "20-24",
+        "male": 13448,
+        "female": 13219
+      },
+      {
+        "age_group": "25-29",
+        "male": 12879,
+        "female": 13236
+      },
+      {
+        "age_group": "30-34",
+        "male": 12881,
+        "female": 13399
+      },
+      {
+        "age_group": "35-39",
+        "male": 10747,
+        "female": 11747
+      },
+      {
+        "age_group": "40-44",
+        "male": 10637,
+        "female": 10999
+      },
+      {
+        "age_group": "45-49",
+        "male": 9732,
+        "female": 10335
+      },
+      {
+        "age_group": "50-54",
+        "male": 10822,
+        "female": 10963
+      },
+      {
+        "age_group": "55-59",
+        "male": 9335,
+        "female": 9485
+      },
+      {
+        "age_group": "60-64",
+        "male": 7964,
+        "female": 7715
+      },
+      {
+        "age_group": "65-69",
+        "male": 6058,
+        "female": 5917
+      },
+      {
+        "age_group": "70-74",
+        "male": 4769,
+        "female": 4837
+      },
+      {
+        "age_group": "75-79",
+        "male": 3049,
+        "female": 3275
+      },
+      {
+        "age_group": "80-84",
+        "male": 2113,
+        "female": 2308
+      },
+      {
+        "age_group": "85-89",
+        "male": 1114,
+        "female": 1482
+      },
+      {
+        "age_group": "90-94",
+        "male": 621,
+        "female": 766
+      },
+      {
+        "age_group": "95-99",
+        "male": 207,
+        "female": 303
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 90,
+        "female": 109
+      },
+      {
+        "age_group": "No declarado",
+        "male": 1,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 781,
+        "female": 657
+      },
+      {
+        "age_group": "1-4",
+        "male": 2757,
+        "female": 2665
+      },
+      {
+        "age_group": "5-9",
+        "male": 3430,
+        "female": 3254
+      },
+      {
+        "age_group": "10-14",
+        "male": 3567,
+        "female": 3371
+      },
+      {
+        "age_group": "15-19",
+        "male": 3668,
+        "female": 3167
+      },
+      {
+        "age_group": "20-24",
+        "male": 3923,
+        "female": 3642
+      },
+      {
+        "age_group": "25-29",
+        "male": 3849,
+        "female": 3471
+      },
+      {
+        "age_group": "30-34",
+        "male": 3695,
+        "female": 3472
+      },
+      {
+        "age_group": "35-39",
+        "male": 3144,
+        "female": 3018
+      },
+      {
+        "age_group": "40-44",
+        "male": 3209,
+        "female": 3128
+      },
+      {
+        "age_group": "45-49",
+        "male": 2838,
+        "female": 2688
+      },
+      {
+        "age_group": "50-54",
+        "male": 3091,
+        "female": 2883
+      },
+      {
+        "age_group": "55-59",
+        "male": 2759,
+        "female": 2607
+      },
+      {
+        "age_group": "60-64",
+        "male": 2422,
+        "female": 2428
+      },
+      {
+        "age_group": "65-69",
+        "male": 1959,
+        "female": 2039
+      },
+      {
+        "age_group": "70-74",
+        "male": 1655,
+        "female": 1678
+      },
+      {
+        "age_group": "75-79",
+        "male": 1101,
+        "female": 1188
+      },
+      {
+        "age_group": "80-84",
+        "male": 643,
+        "female": 905
+      },
+      {
+        "age_group": "85-89",
+        "male": 438,
+        "female": 544
+      },
+      {
+        "age_group": "90-94",
+        "male": 183,
+        "female": 303
+      },
+      {
+        "age_group": "95-99",
+        "male": 50,
+        "female": 102
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 27,
+        "female": 42
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Samaná",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 886,
+        "female": 867
+      },
+      {
+        "age_group": "1-4",
+        "male": 4083,
+        "female": 3705
+      },
+      {
+        "age_group": "5-9",
+        "male": 5034,
+        "female": 4818
+      },
+      {
+        "age_group": "10-14",
+        "male": 5138,
+        "female": 4931
+      },
+      {
+        "age_group": "15-19",
+        "male": 4449,
+        "female": 4474
+      },
+      {
+        "age_group": "20-24",
+        "male": 4664,
+        "female": 4553
+      },
+      {
+        "age_group": "25-29",
+        "male": 4464,
+        "female": 4733
+      },
+      {
+        "age_group": "30-34",
+        "male": 4378,
+        "female": 4859
+      },
+      {
+        "age_group": "35-39",
+        "male": 3748,
+        "female": 4166
+      },
+      {
+        "age_group": "40-44",
+        "male": 3729,
+        "female": 3725
+      },
+      {
+        "age_group": "45-49",
+        "male": 3157,
+        "female": 3249
+      },
+      {
+        "age_group": "50-54",
+        "male": 3254,
+        "female": 2972
+      },
+      {
+        "age_group": "55-59",
+        "male": 2605,
+        "female": 2673
+      },
+      {
+        "age_group": "60-64",
+        "male": 2187,
+        "female": 2366
+      },
+      {
+        "age_group": "65-69",
+        "male": 1927,
+        "female": 1719
+      },
+      {
+        "age_group": "70-74",
+        "male": 1455,
+        "female": 1293
+      },
+      {
+        "age_group": "75-79",
+        "male": 1035,
+        "female": 917
+      },
+      {
+        "age_group": "80-84",
+        "male": 562,
+        "female": 645
+      },
+      {
+        "age_group": "85-89",
+        "male": 318,
+        "female": 334
+      },
+      {
+        "age_group": "90-94",
+        "male": 129,
+        "female": 140
+      },
+      {
+        "age_group": "95-99",
+        "male": 29,
+        "female": 52
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 14,
+        "female": 32
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "San Cristóbal",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 5517,
+        "female": 5416
+      },
+      {
+        "age_group": "1-4",
+        "male": 25783,
+        "female": 24465
+      },
+      {
+        "age_group": "5-9",
+        "male": 33848,
+        "female": 32189
+      },
+      {
+        "age_group": "10-14",
+        "male": 32293,
+        "female": 30145
+      },
+      {
+        "age_group": "15-19",
+        "male": 30887,
+        "female": 29805
+      },
+      {
+        "age_group": "20-24",
+        "male": 32163,
+        "female": 31905
+      },
+      {
+        "age_group": "25-29",
+        "male": 28004,
+        "female": 29688
+      },
+      {
+        "age_group": "30-34",
+        "male": 26118,
+        "female": 27049
+      },
+      {
+        "age_group": "35-39",
+        "male": 21386,
+        "female": 22681
+      },
+      {
+        "age_group": "40-44",
+        "male": 20852,
+        "female": 21425
+      },
+      {
+        "age_group": "45-49",
+        "male": 17904,
+        "female": 18781
+      },
+      {
+        "age_group": "50-54",
+        "male": 17190,
+        "female": 17768
+      },
+      {
+        "age_group": "55-59",
+        "male": 13947,
+        "female": 14882
+      },
+      {
+        "age_group": "60-64",
+        "male": 11988,
+        "female": 12591
+      },
+      {
+        "age_group": "65-69",
+        "male": 8617,
+        "female": 9952
+      },
+      {
+        "age_group": "70-74",
+        "male": 6612,
+        "female": 7442
+      },
+      {
+        "age_group": "75-79",
+        "male": 4208,
+        "female": 4648
+      },
+      {
+        "age_group": "80-84",
+        "male": 2498,
+        "female": 3122
+      },
+      {
+        "age_group": "85-89",
+        "male": 1229,
+        "female": 1758
+      },
+      {
+        "age_group": "90-94",
+        "male": 583,
+        "female": 869
+      },
+      {
+        "age_group": "95-99",
+        "male": 149,
+        "female": 272
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 72,
+        "female": 118
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      },
+      {
+        "age_group": "100 o más",
+        "male": 5,
+        "female": 4
+      }
+    ]
+  },
+  {
+    "provincia": "San Juan",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 2411,
+        "female": 2287
+      },
+      {
+        "age_group": "1-4",
+        "male": 8871,
+        "female": 8125
+      },
+      {
+        "age_group": "5-9",
+        "male": 11192,
+        "female": 10715
+      },
+      {
+        "age_group": "10-14",
+        "male": 11163,
+        "female": 10469
+      },
+      {
+        "age_group": "15-19",
+        "male": 10288,
+        "female": 9527
+      },
+      {
+        "age_group": "20-24",
+        "male": 9835,
+        "female": 9638
+      },
+      {
+        "age_group": "25-29",
+        "male": 8915,
+        "female": 9051
+      },
+      {
+        "age_group": "30-34",
+        "male": 8457,
+        "female": 8050
+      },
+      {
+        "age_group": "35-39",
+        "male": 7460,
+        "female": 6924
+      },
+      {
+        "age_group": "40-44",
+        "male": 7509,
+        "female": 6763
+      },
+      {
+        "age_group": "45-49",
+        "male": 6562,
+        "female": 5971
+      },
+      {
+        "age_group": "50-54",
+        "male": 6863,
+        "female": 6104
+      },
+      {
+        "age_group": "55-59",
+        "male": 6165,
+        "female": 5786
+      },
+      {
+        "age_group": "60-64",
+        "male": 5479,
+        "female": 4792
+      },
+      {
+        "age_group": "65-69",
+        "male": 4678,
+        "female": 4718
+      },
+      {
+        "age_group": "70-74",
+        "male": 3605,
+        "female": 3716
+      },
+      {
+        "age_group": "75-79",
+        "male": 2520,
+        "female": 2654
+      },
+      {
+        "age_group": "80-84",
+        "male": 1868,
+        "female": 1959
+      },
+      {
+        "age_group": "85-89",
+        "male": 1084,
+        "female": 1078
+      },
+      {
+        "age_group": "90-94",
+        "male": 482,
+        "female": 530
+      },
+      {
+        "age_group": "95-99",
+        "male": 139,
+        "female": 135
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 56,
+        "female": 73
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 2602,
+        "female": 2467
+      },
+      {
+        "age_group": "1-4",
+        "male": 12110,
+        "female": 11039
+      },
+      {
+        "age_group": "5-9",
+        "male": 15278,
+        "female": 14488
+      },
+      {
+        "age_group": "10-14",
+        "male": 15104,
+        "female": 14463
+      },
+      {
+        "age_group": "15-19",
+        "male": 14483,
+        "female": 13885
+      },
+      {
+        "age_group": "20-24",
+        "male": 14970,
+        "female": 15121
+      },
+      {
+        "age_group": "25-29",
+        "male": 13632,
+        "female": 14606
+      },
+      {
+        "age_group": "30-34",
+        "male": 12673,
+        "female": 13510
+      },
+      {
+        "age_group": "35-39",
+        "male": 10162,
+        "female": 11229
+      },
+      {
+        "age_group": "40-44",
+        "male": 9474,
+        "female": 10437
+      },
+      {
+        "age_group": "45-49",
+        "male": 8551,
+        "female": 9868
+      },
+      {
+        "age_group": "50-54",
+        "male": 9007,
+        "female": 9898
+      },
+      {
+        "age_group": "55-59",
+        "male": 7550,
+        "female": 8828
+      },
+      {
+        "age_group": "60-64",
+        "male": 6306,
+        "female": 7451
+      },
+      {
+        "age_group": "65-69",
+        "male": 4606,
+        "female": 5139
+      },
+      {
+        "age_group": "70-74",
+        "male": 3288,
+        "female": 3886
+      },
+      {
+        "age_group": "75-79",
+        "male": 2126,
+        "female": 2533
+      },
+      {
+        "age_group": "80-84",
+        "male": 1509,
+        "female": 1741
+      },
+      {
+        "age_group": "85-89",
+        "male": 753,
+        "female": 1120
+      },
+      {
+        "age_group": "90-94",
+        "male": 333,
+        "female": 501
+      },
+      {
+        "age_group": "95-99",
+        "male": 122,
+        "female": 189
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 39,
+        "female": 66
+      },
+      {
+        "age_group": "No declarado",
+        "male": 2,
+        "female": 1
+      }
+    ]
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1206,
+        "female": 1111
+      },
+      {
+        "age_group": "1-4",
+        "male": 5080,
+        "female": 4989
+      },
+      {
+        "age_group": "5-9",
+        "male": 6802,
+        "female": 6583
+      },
+      {
+        "age_group": "10-14",
+        "male": 7109,
+        "female": 6625
+      },
+      {
+        "age_group": "15-19",
+        "male": 6765,
+        "female": 6138
+      },
+      {
+        "age_group": "20-24",
+        "male": 6676,
+        "female": 6567
+      },
+      {
+        "age_group": "25-29",
+        "male": 6414,
+        "female": 6494
+      },
+      {
+        "age_group": "30-34",
+        "male": 6107,
+        "female": 6283
+      },
+      {
+        "age_group": "35-39",
+        "male": 5234,
+        "female": 5093
+      },
+      {
+        "age_group": "40-44",
+        "male": 5364,
+        "female": 5036
+      },
+      {
+        "age_group": "45-49",
+        "male": 4527,
+        "female": 4513
+      },
+      {
+        "age_group": "50-54",
+        "male": 4565,
+        "female": 4371
+      },
+      {
+        "age_group": "55-59",
+        "male": 3890,
+        "female": 3910
+      },
+      {
+        "age_group": "60-64",
+        "male": 3686,
+        "female": 3509
+      },
+      {
+        "age_group": "65-69",
+        "male": 3009,
+        "female": 2933
+      },
+      {
+        "age_group": "70-74",
+        "male": 2440,
+        "female": 2362
+      },
+      {
+        "age_group": "75-79",
+        "male": 1650,
+        "female": 1554
+      },
+      {
+        "age_group": "80-84",
+        "male": 984,
+        "female": 1077
+      },
+      {
+        "age_group": "85-89",
+        "male": 557,
+        "female": 643
+      },
+      {
+        "age_group": "90-94",
+        "male": 247,
+        "female": 293
+      },
+      {
+        "age_group": "95-99",
+        "male": 66,
+        "female": 99
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 31,
+        "female": 50
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Santiago",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 7975,
+        "female": 8000
+      },
+      {
+        "age_group": "1-4",
+        "male": 33697,
+        "female": 31801
+      },
+      {
+        "age_group": "5-9",
+        "male": 41904,
+        "female": 39298
+      },
+      {
+        "age_group": "10-14",
+        "male": 40713,
+        "female": 38628
+      },
+      {
+        "age_group": "15-19",
+        "male": 40895,
+        "female": 39734
+      },
+      {
+        "age_group": "20-24",
+        "male": 46512,
+        "female": 47062
+      },
+      {
+        "age_group": "25-29",
+        "male": 45695,
+        "female": 46557
+      },
+      {
+        "age_group": "30-34",
+        "male": 43289,
+        "female": 44138
+      },
+      {
+        "age_group": "35-39",
+        "male": 35276,
+        "female": 36783
+      },
+      {
+        "age_group": "40-44",
+        "male": 36114,
+        "female": 37170
+      },
+      {
+        "age_group": "45-49",
+        "male": 31236,
+        "female": 32811
+      },
+      {
+        "age_group": "50-54",
+        "male": 31581,
+        "female": 32370
+      },
+      {
+        "age_group": "55-59",
+        "male": 25714,
+        "female": 27642
+      },
+      {
+        "age_group": "60-64",
+        "male": 21229,
+        "female": 22785
+      },
+      {
+        "age_group": "65-69",
+        "male": 16334,
+        "female": 18936
+      },
+      {
+        "age_group": "70-74",
+        "male": 13185,
+        "female": 15262
+      },
+      {
+        "age_group": "75-79",
+        "male": 8627,
+        "female": 9960
+      },
+      {
+        "age_group": "80-84",
+        "male": 5885,
+        "female": 7161
+      },
+      {
+        "age_group": "85-89",
+        "male": 2957,
+        "female": 4290
+      },
+      {
+        "age_group": "90-94",
+        "male": 1431,
+        "female": 2264
+      },
+      {
+        "age_group": "95-99",
+        "male": 454,
+        "female": 900
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 153,
+        "female": 230
+      },
+      {
+        "age_group": "No declarado",
+        "male": 38,
+        "female": 3
+      }
+    ]
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 599,
+        "female": 588
+      },
+      {
+        "age_group": "1-4",
+        "male": 2111,
+        "female": 1951
+      },
+      {
+        "age_group": "5-9",
+        "male": 2523,
+        "female": 2382
+      },
+      {
+        "age_group": "10-14",
+        "male": 2418,
+        "female": 2463
+      },
+      {
+        "age_group": "15-19",
+        "male": 2280,
+        "female": 2126
+      },
+      {
+        "age_group": "20-24",
+        "male": 2609,
+        "female": 2415
+      },
+      {
+        "age_group": "25-29",
+        "male": 2492,
+        "female": 2532
+      },
+      {
+        "age_group": "30-34",
+        "male": 2506,
+        "female": 2423
+      },
+      {
+        "age_group": "35-39",
+        "male": 2239,
+        "female": 1911
+      },
+      {
+        "age_group": "40-44",
+        "male": 2038,
+        "female": 1882
+      },
+      {
+        "age_group": "45-49",
+        "male": 1726,
+        "female": 1718
+      },
+      {
+        "age_group": "50-54",
+        "male": 1775,
+        "female": 1821
+      },
+      {
+        "age_group": "55-59",
+        "male": 1618,
+        "female": 1663
+      },
+      {
+        "age_group": "60-64",
+        "male": 1595,
+        "female": 1423
+      },
+      {
+        "age_group": "65-69",
+        "male": 1323,
+        "female": 1235
+      },
+      {
+        "age_group": "70-74",
+        "male": 1049,
+        "female": 1044
+      },
+      {
+        "age_group": "75-79",
+        "male": 867,
+        "female": 821
+      },
+      {
+        "age_group": "80-84",
+        "male": 604,
+        "female": 618
+      },
+      {
+        "age_group": "85-89",
+        "male": 363,
+        "female": 347
+      },
+      {
+        "age_group": "90-94",
+        "male": 184,
+        "female": 207
+      },
+      {
+        "age_group": "95-99",
+        "male": 37,
+        "female": 66
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 23,
+        "female": 20
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Valverde",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1514,
+        "female": 1504
+      },
+      {
+        "age_group": "1-4",
+        "male": 6221,
+        "female": 6074
+      },
+      {
+        "age_group": "5-9",
+        "male": 7740,
+        "female": 7521
+      },
+      {
+        "age_group": "10-14",
+        "male": 6958,
+        "female": 6872
+      },
+      {
+        "age_group": "15-19",
+        "male": 7204,
+        "female": 6803
+      },
+      {
+        "age_group": "20-24",
+        "male": 8552,
+        "female": 8181
+      },
+      {
+        "age_group": "25-29",
+        "male": 8339,
+        "female": 8254
+      },
+      {
+        "age_group": "30-34",
+        "male": 7716,
+        "female": 7145
+      },
+      {
+        "age_group": "35-39",
+        "male": 6145,
+        "female": 5797
+      },
+      {
+        "age_group": "40-44",
+        "male": 6121,
+        "female": 5791
+      },
+      {
+        "age_group": "45-49",
+        "male": 5446,
+        "female": 5187
+      },
+      {
+        "age_group": "50-54",
+        "male": 5063,
+        "female": 4849
+      },
+      {
+        "age_group": "55-59",
+        "male": 4185,
+        "female": 4246
+      },
+      {
+        "age_group": "60-64",
+        "male": 3472,
+        "female": 3689
+      },
+      {
+        "age_group": "65-69",
+        "male": 2790,
+        "female": 2873
+      },
+      {
+        "age_group": "70-74",
+        "male": 2191,
+        "female": 2323
+      },
+      {
+        "age_group": "75-79",
+        "male": 1395,
+        "female": 1545
+      },
+      {
+        "age_group": "80-84",
+        "male": 993,
+        "female": 1162
+      },
+      {
+        "age_group": "85-89",
+        "male": 591,
+        "female": 694
+      },
+      {
+        "age_group": "90-94",
+        "male": 273,
+        "female": 335
+      },
+      {
+        "age_group": "95-99",
+        "male": 95,
+        "female": 124
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 35,
+        "female": 58
+      },
+      {
+        "age_group": "No declarado",
+        "male": 3,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1705,
+        "female": 1480
+      },
+      {
+        "age_group": "1-4",
+        "male": 6485,
+        "female": 6205
+      },
+      {
+        "age_group": "5-9",
+        "male": 8620,
+        "female": 8386
+      },
+      {
+        "age_group": "10-14",
+        "male": 7995,
+        "female": 7867
+      },
+      {
+        "age_group": "15-19",
+        "male": 8059,
+        "female": 7407
+      },
+      {
+        "age_group": "20-24",
+        "male": 8369,
+        "female": 8200
+      },
+      {
+        "age_group": "25-29",
+        "male": 8152,
+        "female": 8504
+      },
+      {
+        "age_group": "30-34",
+        "male": 7780,
+        "female": 7708
+      },
+      {
+        "age_group": "35-39",
+        "male": 6171,
+        "female": 6315
+      },
+      {
+        "age_group": "40-44",
+        "male": 6147,
+        "female": 6093
+      },
+      {
+        "age_group": "45-49",
+        "male": 5607,
+        "female": 5691
+      },
+      {
+        "age_group": "50-54",
+        "male": 5506,
+        "female": 5501
+      },
+      {
+        "age_group": "55-59",
+        "male": 4551,
+        "female": 4638
+      },
+      {
+        "age_group": "60-64",
+        "male": 3906,
+        "female": 3937
+      },
+      {
+        "age_group": "65-69",
+        "male": 3038,
+        "female": 3086
+      },
+      {
+        "age_group": "70-74",
+        "male": 2478,
+        "female": 2615
+      },
+      {
+        "age_group": "75-79",
+        "male": 1540,
+        "female": 1604
+      },
+      {
+        "age_group": "80-84",
+        "male": 987,
+        "female": 1163
+      },
+      {
+        "age_group": "85-89",
+        "male": 571,
+        "female": 652
+      },
+      {
+        "age_group": "90-94",
+        "male": 248,
+        "female": 322
+      },
+      {
+        "age_group": "95-99",
+        "male": 63,
+        "female": 102
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 39,
+        "female": 54
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Monte Plata",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1810,
+        "female": 1708
+      },
+      {
+        "age_group": "1-4",
+        "male": 7581,
+        "female": 7267
+      },
+      {
+        "age_group": "5-9",
+        "male": 10040,
+        "female": 9392
+      },
+      {
+        "age_group": "10-14",
+        "male": 9638,
+        "female": 9197
+      },
+      {
+        "age_group": "15-19",
+        "male": 9230,
+        "female": 8929
+      },
+      {
+        "age_group": "20-24",
+        "male": 9021,
+        "female": 8999
+      },
+      {
+        "age_group": "25-29",
+        "male": 8191,
+        "female": 8366
+      },
+      {
+        "age_group": "30-34",
+        "male": 7431,
+        "female": 7653
+      },
+      {
+        "age_group": "35-39",
+        "male": 6172,
+        "female": 6297
+      },
+      {
+        "age_group": "40-44",
+        "male": 5832,
+        "female": 5946
+      },
+      {
+        "age_group": "45-49",
+        "male": 5018,
+        "female": 5034
+      },
+      {
+        "age_group": "50-54",
+        "male": 5055,
+        "female": 5050
+      },
+      {
+        "age_group": "55-59",
+        "male": 4558,
+        "female": 4512
+      },
+      {
+        "age_group": "60-64",
+        "male": 4051,
+        "female": 3859
+      },
+      {
+        "age_group": "65-69",
+        "male": 3207,
+        "female": 2962
+      },
+      {
+        "age_group": "70-74",
+        "male": 2601,
+        "female": 2519
+      },
+      {
+        "age_group": "75-79",
+        "male": 1767,
+        "female": 1754
+      },
+      {
+        "age_group": "80-84",
+        "male": 1253,
+        "female": 1280
+      },
+      {
+        "age_group": "85-89",
+        "male": 665,
+        "female": 651
+      },
+      {
+        "age_group": "90-94",
+        "male": 371,
+        "female": 323
+      },
+      {
+        "age_group": "95-99",
+        "male": 96,
+        "female": 107
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 40,
+        "female": 62
+      },
+      {
+        "age_group": "No declarado",
+        "male": 2,
+        "female": 1
+      }
+    ]
+  },
+  {
+    "provincia": "Hato Mayor",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 820,
+        "female": 789
+      },
+      {
+        "age_group": "1-4",
+        "male": 3414,
+        "female": 3333
+      },
+      {
+        "age_group": "5-9",
+        "male": 4620,
+        "female": 4268
+      },
+      {
+        "age_group": "10-14",
+        "male": 4461,
+        "female": 4146
+      },
+      {
+        "age_group": "15-19",
+        "male": 4038,
+        "female": 3955
+      },
+      {
+        "age_group": "20-24",
+        "male": 4016,
+        "female": 4049
+      },
+      {
+        "age_group": "25-29",
+        "male": 3931,
+        "female": 4168
+      },
+      {
+        "age_group": "30-34",
+        "male": 3775,
+        "female": 3989
+      },
+      {
+        "age_group": "35-39",
+        "male": 3172,
+        "female": 3401
+      },
+      {
+        "age_group": "40-44",
+        "male": 2999,
+        "female": 3056
+      },
+      {
+        "age_group": "45-49",
+        "male": 2632,
+        "female": 2793
+      },
+      {
+        "age_group": "50-54",
+        "male": 2706,
+        "female": 2703
+      },
+      {
+        "age_group": "55-59",
+        "male": 2281,
+        "female": 2519
+      },
+      {
+        "age_group": "60-64",
+        "male": 2154,
+        "female": 2031
+      },
+      {
+        "age_group": "65-69",
+        "male": 1584,
+        "female": 1576
+      },
+      {
+        "age_group": "70-74",
+        "male": 1243,
+        "female": 1270
+      },
+      {
+        "age_group": "75-79",
+        "male": 853,
+        "female": 910
+      },
+      {
+        "age_group": "80-84",
+        "male": 601,
+        "female": 663
+      },
+      {
+        "age_group": "85-89",
+        "male": 336,
+        "female": 398
+      },
+      {
+        "age_group": "90-94",
+        "male": 147,
+        "female": 172
+      },
+      {
+        "age_group": "95-99",
+        "male": 42,
+        "female": 79
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 14,
+        "female": 26
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 696,
+        "female": 624
+      },
+      {
+        "age_group": "1-4",
+        "male": 2282,
+        "female": 2205
+      },
+      {
+        "age_group": "5-9",
+        "male": 2508,
+        "female": 2453
+      },
+      {
+        "age_group": "10-14",
+        "male": 2470,
+        "female": 2252
+      },
+      {
+        "age_group": "15-19",
+        "male": 3053,
+        "female": 2444
+      },
+      {
+        "age_group": "20-24",
+        "male": 3668,
+        "female": 2863
+      },
+      {
+        "age_group": "25-29",
+        "male": 3427,
+        "female": 2666
+      },
+      {
+        "age_group": "30-34",
+        "male": 2875,
+        "female": 2249
+      },
+      {
+        "age_group": "35-39",
+        "male": 2368,
+        "female": 2074
+      },
+      {
+        "age_group": "40-44",
+        "male": 2198,
+        "female": 1902
+      },
+      {
+        "age_group": "45-49",
+        "male": 2087,
+        "female": 1916
+      },
+      {
+        "age_group": "50-54",
+        "male": 2175,
+        "female": 1850
+      },
+      {
+        "age_group": "55-59",
+        "male": 1887,
+        "female": 1600
+      },
+      {
+        "age_group": "60-64",
+        "male": 1694,
+        "female": 1315
+      },
+      {
+        "age_group": "65-69",
+        "male": 1282,
+        "female": 1078
+      },
+      {
+        "age_group": "70-74",
+        "male": 1001,
+        "female": 903
+      },
+      {
+        "age_group": "75-79",
+        "male": 587,
+        "female": 539
+      },
+      {
+        "age_group": "80-84",
+        "male": 511,
+        "female": 413
+      },
+      {
+        "age_group": "85-89",
+        "male": 283,
+        "female": 281
+      },
+      {
+        "age_group": "90-94",
+        "male": 120,
+        "female": 156
+      },
+      {
+        "age_group": "95-99",
+        "male": 28,
+        "female": 52
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 20,
+        "female": 27
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 22743,
+        "female": 21373
+      },
+      {
+        "age_group": "1-4",
+        "male": 97056,
+        "female": 91703
+      },
+      {
+        "age_group": "5-9",
+        "male": 124308,
+        "female": 118464
+      },
+      {
+        "age_group": "10-14",
+        "male": 123185,
+        "female": 118859
+      },
+      {
+        "age_group": "15-19",
+        "male": 113546,
+        "female": 114182
+      },
+      {
+        "age_group": "20-24",
+        "male": 122291,
+        "female": 128522
+      },
+      {
+        "age_group": "25-29",
+        "male": 111170,
+        "female": 123972
+      },
+      {
+        "age_group": "30-34",
+        "male": 106988,
+        "female": 118906
+      },
+      {
+        "age_group": "35-39",
+        "male": 88861,
+        "female": 100286
+      },
+      {
+        "age_group": "40-44",
+        "male": 86543,
+        "female": 94718
+      },
+      {
+        "age_group": "45-49",
+        "male": 73079,
+        "female": 80696
+      },
+      {
+        "age_group": "50-54",
+        "male": 70412,
+        "female": 77329
+      },
+      {
+        "age_group": "55-59",
+        "male": 57492,
+        "female": 65234
+      },
+      {
+        "age_group": "60-64",
+        "male": 47040,
+        "female": 54062
+      },
+      {
+        "age_group": "65-69",
+        "male": 36820,
+        "female": 43581
+      },
+      {
+        "age_group": "70-74",
+        "male": 26607,
+        "female": 31714
+      },
+      {
+        "age_group": "75-79",
+        "male": 15890,
+        "female": 19942
+      },
+      {
+        "age_group": "80-84",
+        "male": 9559,
+        "female": 12968
+      },
+      {
+        "age_group": "85-89",
+        "male": 4747,
+        "female": 7057
+      },
+      {
+        "age_group": "90-94",
+        "male": 1875,
+        "female": 3361
+      },
+      {
+        "age_group": "95-99",
+        "male": 567,
+        "female": 1198
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 192,
+        "female": 453
+      },
+      {
+        "age_group": "No declarado",
+        "male": 28,
+        "female": 9
+      }
+    ]
+  },
+  {
+    "provincia": "Azua",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 2288,
+        "female": 1899
+      },
+      {
+        "age_group": "1-4",
+        "male": 8614,
+        "female": 7870
+      },
+      {
+        "age_group": "5-9",
+        "male": 11425,
+        "female": 11072
+      },
+      {
+        "age_group": "10-14",
+        "male": 10975,
+        "female": 10596
+      },
+      {
+        "age_group": "15-19",
+        "male": 10899,
+        "female": 9783
+      },
+      {
+        "age_group": "20-24",
+        "male": 10944,
+        "female": 9700
+      },
+      {
+        "age_group": "25-29",
+        "male": 9530,
+        "female": 9102
+      },
+      {
+        "age_group": "30-34",
+        "male": 9030,
+        "female": 8472
+      },
+      {
+        "age_group": "35-39",
+        "male": 8164,
+        "female": 7350
+      },
+      {
+        "age_group": "40-44",
+        "male": 7444,
+        "female": 6932
+      },
+      {
+        "age_group": "45-49",
+        "male": 6592,
+        "female": 6177
+      },
+      {
+        "age_group": "50-54",
+        "male": 6434,
+        "female": 6108
+      },
+      {
+        "age_group": "55-59",
+        "male": 5741,
+        "female": 5285
+      },
+      {
+        "age_group": "60-64",
+        "male": 4731,
+        "female": 4321
+      },
+      {
+        "age_group": "65-69",
+        "male": 3940,
+        "female": 3936
+      },
+      {
+        "age_group": "70-74",
+        "male": 2919,
+        "female": 2923
+      },
+      {
+        "age_group": "75-79",
+        "male": 1944,
+        "female": 1926
+      },
+      {
+        "age_group": "80-84",
+        "male": 1309,
+        "female": 1316
+      },
+      {
+        "age_group": "85-89",
+        "male": 764,
+        "female": 772
+      },
+      {
+        "age_group": "90-94",
+        "male": 316,
+        "female": 383
+      },
+      {
+        "age_group": "95-99",
+        "male": 73,
+        "female": 114
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 39,
+        "female": 55
+      },
+      {
+        "age_group": "No declarado",
+        "male": 1,
+        "female": 1
+      }
+    ]
+  },
+  {
+    "provincia": "Baoruco",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1085,
+        "female": 973
+      },
+      {
+        "age_group": "1-4",
+        "male": 4216,
+        "female": 4051
+      },
+      {
+        "age_group": "5-9",
+        "male": 5270,
+        "female": 5094
+      },
+      {
+        "age_group": "10-14",
+        "male": 5487,
+        "female": 5161
+      },
+      {
+        "age_group": "15-19",
+        "male": 5331,
+        "female": 4755
+      },
+      {
+        "age_group": "20-24",
+        "male": 5092,
+        "female": 4687
+      },
+      {
+        "age_group": "25-29",
+        "male": 4235,
+        "female": 4196
+      },
+      {
+        "age_group": "30-34",
+        "male": 3699,
+        "female": 3735
+      },
+      {
+        "age_group": "35-39",
+        "male": 3334,
+        "female": 3163
+      },
+      {
+        "age_group": "40-44",
+        "male": 2980,
+        "female": 2779
+      },
+      {
+        "age_group": "45-49",
+        "male": 2536,
+        "female": 2496
+      },
+      {
+        "age_group": "50-54",
+        "male": 2594,
+        "female": 2474
+      },
+      {
+        "age_group": "55-59",
+        "male": 2497,
+        "female": 2331
+      },
+      {
+        "age_group": "60-64",
+        "male": 2139,
+        "female": 1940
+      },
+      {
+        "age_group": "65-69",
+        "male": 1699,
+        "female": 1557
+      },
+      {
+        "age_group": "70-74",
+        "male": 1416,
+        "female": 1377
+      },
+      {
+        "age_group": "75-79",
+        "male": 919,
+        "female": 991
+      },
+      {
+        "age_group": "80-84",
+        "male": 532,
+        "female": 655
+      },
+      {
+        "age_group": "85-89",
+        "male": 370,
+        "female": 412
+      },
+      {
+        "age_group": "90-94",
+        "male": 131,
+        "female": 195
+      },
+      {
+        "age_group": "95-99",
+        "male": 22,
+        "female": 47
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 20,
+        "female": 42
+      },
+      {
+        "age_group": "No declarado",
+        "male": 2,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Barahona",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1911,
+        "female": 1750
+      },
+      {
+        "age_group": "1-4",
+        "male": 7572,
+        "female": 7518
+      },
+      {
+        "age_group": "5-9",
+        "male": 10344,
+        "female": 9923
+      },
+      {
+        "age_group": "10-14",
+        "male": 10198,
+        "female": 9631
+      },
+      {
+        "age_group": "15-19",
+        "male": 8930,
+        "female": 8484
+      },
+      {
+        "age_group": "20-24",
+        "male": 8926,
+        "female": 8797
+      },
+      {
+        "age_group": "25-29",
+        "male": 8053,
+        "female": 7976
+      },
+      {
+        "age_group": "30-34",
+        "male": 7031,
+        "female": 7175
+      },
+      {
+        "age_group": "35-39",
+        "male": 6210,
+        "female": 6078
+      },
+      {
+        "age_group": "40-44",
+        "male": 5845,
+        "female": 5575
+      },
+      {
+        "age_group": "45-49",
+        "male": 4948,
+        "female": 5028
+      },
+      {
+        "age_group": "50-54",
+        "male": 4914,
+        "female": 4855
+      },
+      {
+        "age_group": "55-59",
+        "male": 4385,
+        "female": 4226
+      },
+      {
+        "age_group": "60-64",
+        "male": 3681,
+        "female": 3618
+      },
+      {
+        "age_group": "65-69",
+        "male": 2921,
+        "female": 2880
+      },
+      {
+        "age_group": "70-74",
+        "male": 2212,
+        "female": 2282
+      },
+      {
+        "age_group": "75-79",
+        "male": 1441,
+        "female": 1480
+      },
+      {
+        "age_group": "80-84",
+        "male": 980,
+        "female": 1220
+      },
+      {
+        "age_group": "85-89",
+        "male": 514,
+        "female": 612
+      },
+      {
+        "age_group": "90-94",
+        "male": 239,
+        "female": 305
+      },
+      {
+        "age_group": "95-99",
+        "male": 57,
+        "female": 90
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 24,
+        "female": 45
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Dajabón",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 762,
+        "female": 723
+      },
+      {
+        "age_group": "1-4",
+        "male": 2834,
+        "female": 2667
+      },
+      {
+        "age_group": "5-9",
+        "male": 3645,
+        "female": 3467
+      },
+      {
+        "age_group": "10-14",
+        "male": 3322,
+        "female": 3237
+      },
+      {
+        "age_group": "15-19",
+        "male": 3040,
+        "female": 2899
+      },
+      {
+        "age_group": "20-24",
+        "male": 2822,
+        "female": 2985
+      },
+      {
+        "age_group": "25-29",
+        "male": 2887,
+        "female": 2865
+      },
+      {
+        "age_group": "30-34",
+        "male": 2625,
+        "female": 2684
+      },
+      {
+        "age_group": "35-39",
+        "male": 2183,
+        "female": 2156
+      },
+      {
+        "age_group": "40-44",
+        "male": 2080,
+        "female": 2088
+      },
+      {
+        "age_group": "45-49",
+        "male": 1906,
+        "female": 1827
+      },
+      {
+        "age_group": "50-54",
+        "male": 2026,
+        "female": 1851
+      },
+      {
+        "age_group": "55-59",
+        "male": 1788,
+        "female": 1707
+      },
+      {
+        "age_group": "60-64",
+        "male": 1594,
+        "female": 1438
+      },
+      {
+        "age_group": "65-69",
+        "male": 1362,
+        "female": 1371
+      },
+      {
+        "age_group": "70-74",
+        "male": 1109,
+        "female": 1041
+      },
+      {
+        "age_group": "75-79",
+        "male": 798,
+        "female": 781
+      },
+      {
+        "age_group": "80-84",
+        "male": 520,
+        "female": 546
+      },
+      {
+        "age_group": "85-89",
+        "male": 315,
+        "female": 377
+      },
+      {
+        "age_group": "90-94",
+        "male": 165,
+        "female": 181
+      },
+      {
+        "age_group": "95-99",
+        "male": 36,
+        "female": 55
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 30,
+        "female": 15
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Duarte",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 2285,
+        "female": 2141
+      },
+      {
+        "age_group": "1-4",
+        "male": 9360,
+        "female": 8861
+      },
+      {
+        "age_group": "5-9",
+        "male": 12186,
+        "female": 11429
+      },
+      {
+        "age_group": "10-14",
+        "male": 12206,
+        "female": 11686
+      },
+      {
+        "age_group": "15-19",
+        "male": 11910,
+        "female": 11334
+      },
+      {
+        "age_group": "20-24",
+        "male": 12738,
+        "female": 12382
+      },
+      {
+        "age_group": "25-29",
+        "male": 11957,
+        "female": 12082
+      },
+      {
+        "age_group": "30-34",
+        "male": 11334,
+        "female": 11620
+      },
+      {
+        "age_group": "35-39",
+        "male": 9582,
+        "female": 10359
+      },
+      {
+        "age_group": "40-44",
+        "male": 9993,
+        "female": 10107
+      },
+      {
+        "age_group": "45-49",
+        "male": 9108,
+        "female": 9051
+      },
+      {
+        "age_group": "50-54",
+        "male": 8803,
+        "female": 8523
+      },
+      {
+        "age_group": "55-59",
+        "male": 8017,
+        "female": 8185
+      },
+      {
+        "age_group": "60-64",
+        "male": 7427,
+        "female": 7277
+      },
+      {
+        "age_group": "65-69",
+        "male": 5932,
+        "female": 5935
+      },
+      {
+        "age_group": "70-74",
+        "male": 4869,
+        "female": 4814
+      },
+      {
+        "age_group": "75-79",
+        "male": 2976,
+        "female": 3165
+      },
+      {
+        "age_group": "80-84",
+        "male": 1981,
+        "female": 2442
+      },
+      {
+        "age_group": "85-89",
+        "male": 1010,
+        "female": 1482
+      },
+      {
+        "age_group": "90-94",
+        "male": 508,
+        "female": 728
+      },
+      {
+        "age_group": "95-99",
+        "male": 166,
+        "female": 218
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 66,
+        "female": 118
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "El Seibo",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 873,
+        "female": 815
+      },
+      {
+        "age_group": "1-4",
+        "male": 3562,
+        "female": 3394
+      },
+      {
+        "age_group": "5-9",
+        "male": 4615,
+        "female": 4192
+      },
+      {
+        "age_group": "10-14",
+        "male": 4558,
+        "female": 4190
+      },
+      {
+        "age_group": "15-19",
+        "male": 4126,
+        "female": 3972
+      },
+      {
+        "age_group": "20-24",
+        "male": 4329,
+        "female": 3959
+      },
+      {
+        "age_group": "25-29",
+        "male": 4062,
+        "female": 3708
+      },
+      {
+        "age_group": "30-34",
+        "male": 3831,
+        "female": 3537
+      },
+      {
+        "age_group": "35-39",
+        "male": 3304,
+        "female": 3039
+      },
+      {
+        "age_group": "40-44",
+        "male": 3196,
+        "female": 2702
+      },
+      {
+        "age_group": "45-49",
+        "male": 2598,
+        "female": 2421
+      },
+      {
+        "age_group": "50-54",
+        "male": 2821,
+        "female": 2497
+      },
+      {
+        "age_group": "55-59",
+        "male": 2335,
+        "female": 2039
+      },
+      {
+        "age_group": "60-64",
+        "male": 2121,
+        "female": 1964
+      },
+      {
+        "age_group": "65-69",
+        "male": 1756,
+        "female": 1530
+      },
+      {
+        "age_group": "70-74",
+        "male": 1384,
+        "female": 1234
+      },
+      {
+        "age_group": "75-79",
+        "male": 993,
+        "female": 801
+      },
+      {
+        "age_group": "80-84",
+        "male": 735,
+        "female": 621
+      },
+      {
+        "age_group": "85-89",
+        "male": 356,
+        "female": 393
+      },
+      {
+        "age_group": "90-94",
+        "male": 186,
+        "female": 231
+      },
+      {
+        "age_group": "95-99",
+        "male": 71,
+        "female": 54
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 24,
+        "female": 37
+      },
+      {
+        "age_group": "No declarado",
+        "male": 3,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 789,
+        "female": 737
+      },
+      {
+        "age_group": "1-4",
+        "male": 2873,
+        "female": 2802
+      },
+      {
+        "age_group": "5-9",
+        "male": 3821,
+        "female": 3653
+      },
+      {
+        "age_group": "10-14",
+        "male": 3687,
+        "female": 3380
+      },
+      {
+        "age_group": "15-19",
+        "male": 3263,
+        "female": 3129
+      },
+      {
+        "age_group": "20-24",
+        "male": 2322,
+        "female": 2476
+      },
+      {
+        "age_group": "25-29",
+        "male": 2012,
+        "female": 2223
+      },
+      {
+        "age_group": "30-34",
+        "male": 1892,
+        "female": 1922
+      },
+      {
+        "age_group": "35-39",
+        "male": 1811,
+        "female": 1677
+      },
+      {
+        "age_group": "40-44",
+        "male": 1717,
+        "female": 1576
+      },
+      {
+        "age_group": "45-49",
+        "male": 1434,
+        "female": 1405
+      },
+      {
+        "age_group": "50-54",
+        "male": 1555,
+        "female": 1322
+      },
+      {
+        "age_group": "55-59",
+        "male": 1245,
+        "female": 1152
+      },
+      {
+        "age_group": "60-64",
+        "male": 1298,
+        "female": 1126
+      },
+      {
+        "age_group": "65-69",
+        "male": 1044,
+        "female": 945
+      },
+      {
+        "age_group": "70-74",
+        "male": 855,
+        "female": 808
+      },
+      {
+        "age_group": "75-79",
+        "male": 670,
+        "female": 567
+      },
+      {
+        "age_group": "80-84",
+        "male": 380,
+        "female": 373
+      },
+      {
+        "age_group": "85-89",
+        "male": 200,
+        "female": 211
+      },
+      {
+        "age_group": "90-94",
+        "male": 97,
+        "female": 88
+      },
+      {
+        "age_group": "95-99",
+        "male": 23,
+        "female": 31
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 13,
+        "female": 10
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  },
+  {
+    "provincia": "Espaillat",
+    "age_groups": [
+      {
+        "age_group": "Menos de 1",
+        "male": 1855,
+        "female": 1559
+      },
+      {
+        "age_group": "1-4",
+        "male": 7171,
+        "female": 6945
+      },
+      {
+        "age_group": "5-9",
+        "male": 8895,
+        "female": 8541
+      },
+      {
+        "age_group": "10-14",
+        "male": 8830,
+        "female": 8419
+      },
+      {
+        "age_group": "15-19",
+        "male": 9424,
+        "female": 8659
+      },
+      {
+        "age_group": "20-24",
+        "male": 10316,
+        "female": 9717
+      },
+      {
+        "age_group": "25-29",
+        "male": 10413,
+        "female": 9481
+      },
+      {
+        "age_group": "30-34",
+        "male": 9991,
+        "female": 9126
+      },
+      {
+        "age_group": "35-39",
+        "male": 8186,
+        "female": 8032
+      },
+      {
+        "age_group": "40-44",
+        "male": 8190,
+        "female": 7658
+      },
+      {
+        "age_group": "45-49",
+        "male": 7223,
+        "female": 6887
+      },
+      {
+        "age_group": "50-54",
+        "male": 7551,
+        "female": 7322
+      },
+      {
+        "age_group": "55-59",
+        "male": 6297,
+        "female": 6387
+      },
+      {
+        "age_group": "60-64",
+        "male": 5226,
+        "female": 5456
+      },
+      {
+        "age_group": "65-69",
+        "male": 4241,
+        "female": 4509
+      },
+      {
+        "age_group": "70-74",
+        "male": 3321,
+        "female": 3561
+      },
+      {
+        "age_group": "75-79",
+        "male": 2243,
+        "female": 2503
+      },
+      {
+        "age_group": "80-84",
+        "male": 1461,
+        "female": 1902
+      },
+      {
+        "age_group": "85-89",
+        "male": 779,
+        "female": 1193
+      },
+      {
+        "age_group": "90-94",
+        "male": 392,
+        "female": 707
+      },
+      {
+        "age_group": "95-99",
+        "male": 119,
+        "female": 219
+      },
+      {
+        "age_group": "100 o más ",
+        "male": 59,
+        "female": 92
+      },
+      {
+        "age_group": "No declarado",
+        "male": 0,
+        "female": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "provincia": "Azua",
+    "centros_total": 257,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 132,
+        "matricula": 21988
+      },
+      "secundario": {
+        "centros": 97,
+        "matricula": 33761
+      },
+      "adultos": {
+        "centros": 28,
+        "matricula": 3427
+      }
+    }
+  },
+  {
+    "provincia": "Baoruco",
+    "centros_total": 165,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 107,
+        "matricula": 16341
+      },
+      "secundario": {
+        "centros": 32,
+        "matricula": 10847
+      },
+      "adultos": {
+        "centros": 26,
+        "matricula": 3525
+      }
+    }
+  },
+  {
+    "provincia": "Barahona",
+    "centros_total": 251,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 150,
+        "matricula": 28798
+      },
+      "secundario": {
+        "centros": 67,
+        "matricula": 25668
+      },
+      "adultos": {
+        "centros": 34,
+        "matricula": 4953
+      }
+    }
+  },
+  {
+    "provincia": "Dajabón",
+    "centros_total": 127,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 83,
+        "matricula": 9207
+      },
+      "secundario": {
+        "centros": 26,
+        "matricula": 7905
+      },
+      "adultos": {
+        "centros": 18,
+        "matricula": 986
+      }
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "centros_total": 817,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 424,
+        "matricula": 78437
+      },
+      "secundario": {
+        "centros": 315,
+        "matricula": 136499
+      },
+      "adultos": {
+        "centros": 78,
+        "matricula": 14503
+      }
+    }
+  },
+  {
+    "provincia": "Duarte",
+    "centros_total": 373,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 199,
+        "matricula": 20913
+      },
+      "secundario": {
+        "centros": 140,
+        "matricula": 40769
+      },
+      "adultos": {
+        "centros": 34,
+        "matricula": 3144
+      }
+    }
+  },
+  {
+    "provincia": "El Seibo",
+    "centros_total": 169,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 116,
+        "matricula": 10148
+      },
+      "secundario": {
+        "centros": 43,
+        "matricula": 12612
+      },
+      "adultos": {
+        "centros": 10,
+        "matricula": 1027
+      }
+    }
+  },
+  {
+    "provincia": "Elías Piña",
+    "centros_total": 145,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 102,
+        "matricula": 11848
+      },
+      "secundario": {
+        "centros": 32,
+        "matricula": 8752
+      },
+      "adultos": {
+        "centros": 11,
+        "matricula": 1047
+      }
+    }
+  },
+  {
+    "provincia": "Espaillat",
+    "centros_total": 278,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 163,
+        "matricula": 21849
+      },
+      "secundario": {
+        "centros": 83,
+        "matricula": 25853
+      },
+      "adultos": {
+        "centros": 32,
+        "matricula": 3917
+      }
+    }
+  },
+  {
+    "provincia": "Hato Mayor",
+    "centros_total": 140,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 74,
+        "matricula": 6590
+      },
+      "secundario": {
+        "centros": 54,
+        "matricula": 16515
+      },
+      "adultos": {
+        "centros": 12,
+        "matricula": 1941
+      }
+    }
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "centros_total": 146,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 86,
+        "matricula": 8983
+      },
+      "secundario": {
+        "centros": 47,
+        "matricula": 9379
+      },
+      "adultos": {
+        "centros": 13,
+        "matricula": 1079
+      }
+    }
+  },
+  {
+    "provincia": "Independencia",
+    "centros_total": 76,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 33,
+        "matricula": 8562
+      },
+      "secundario": {
+        "centros": 25,
+        "matricula": 7960
+      },
+      "adultos": {
+        "centros": 18,
+        "matricula": 2612
+      }
+    }
+  },
+  {
+    "provincia": "La Altagracia",
+    "centros_total": 323,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 201,
+        "matricula": 46076
+      },
+      "secundario": {
+        "centros": 93,
+        "matricula": 55091
+      },
+      "adultos": {
+        "centros": 29,
+        "matricula": 8374
+      }
+    }
+  },
+  {
+    "provincia": "La Romana",
+    "centros_total": 211,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 103,
+        "matricula": 25279
+      },
+      "secundario": {
+        "centros": 86,
+        "matricula": 43364
+      },
+      "adultos": {
+        "centros": 22,
+        "matricula": 6544
+      }
+    }
+  },
+  {
+    "provincia": "La Vega",
+    "centros_total": 448,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 264,
+        "matricula": 44262
+      },
+      "secundario": {
+        "centros": 130,
+        "matricula": 44904
+      },
+      "adultos": {
+        "centros": 54,
+        "matricula": 8116
+      }
+    }
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "centros_total": 247,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 170,
+        "matricula": 15227
+      },
+      "secundario": {
+        "centros": 61,
+        "matricula": 17112
+      },
+      "adultos": {
+        "centros": 16,
+        "matricula": 1710
+      }
+    }
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "centros_total": 215,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 129,
+        "matricula": 18362
+      },
+      "secundario": {
+        "centros": 54,
+        "matricula": 21994
+      },
+      "adultos": {
+        "centros": 32,
+        "matricula": 4413
+      }
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "centros_total": 126,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 76,
+        "matricula": 9325
+      },
+      "secundario": {
+        "centros": 38,
+        "matricula": 11408
+      },
+      "adultos": {
+        "centros": 12,
+        "matricula": 1382
+      }
+    }
+  },
+  {
+    "provincia": "Monte Plata",
+    "centros_total": 334,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 195,
+        "matricula": 21301
+      },
+      "secundario": {
+        "centros": 113,
+        "matricula": 28615
+      },
+      "adultos": {
+        "centros": 26,
+        "matricula": 4281
+      }
+    }
+  },
+  {
+    "provincia": "Pedernales",
+    "centros_total": 30,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 16,
+        "matricula": 3143
+      },
+      "secundario": {
+        "centros": 10,
+        "matricula": 5206
+      },
+      "adultos": {
+        "centros": 4,
+        "matricula": 697
+      }
+    }
+  },
+  {
+    "provincia": "Peravia",
+    "centros_total": 163,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 60,
+        "matricula": 10854
+      },
+      "secundario": {
+        "centros": 75,
+        "matricula": 34176
+      },
+      "adultos": {
+        "centros": 28,
+        "matricula": 5233
+      }
+    }
+  },
+  {
+    "provincia": "Puerto Plata",
+    "centros_total": 441,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 248,
+        "matricula": 25824
+      },
+      "secundario": {
+        "centros": 150,
+        "matricula": 48178
+      },
+      "adultos": {
+        "centros": 43,
+        "matricula": 6361
+      }
+    }
+  },
+  {
+    "provincia": "Samaná",
+    "centros_total": 151,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 88,
+        "matricula": 12038
+      },
+      "secundario": {
+        "centros": 43,
+        "matricula": 15544
+      },
+      "adultos": {
+        "centros": 20,
+        "matricula": 1954
+      }
+    }
+  },
+  {
+    "provincia": "San Cristóbal",
+    "centros_total": 654,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 371,
+        "matricula": 69639
+      },
+      "secundario": {
+        "centros": 193,
+        "matricula": 93378
+      },
+      "adultos": {
+        "centros": 90,
+        "matricula": 18316
+      }
+    }
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "centros_total": 109,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 71,
+        "matricula": 5046
+      },
+      "secundario": {
+        "centros": 32,
+        "matricula": 7285
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 825
+      }
+    }
+  },
+  {
+    "provincia": "San Juan",
+    "centros_total": 382,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 210,
+        "matricula": 19563
+      },
+      "secundario": {
+        "centros": 136,
+        "matricula": 39139
+      },
+      "adultos": {
+        "centros": 36,
+        "matricula": 4015
+      }
+    }
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "centros_total": 290,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 132,
+        "matricula": 23838
+      },
+      "secundario": {
+        "centros": 125,
+        "matricula": 55702
+      },
+      "adultos": {
+        "centros": 33,
+        "matricula": 7925
+      }
+    }
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "centros_total": 199,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 110,
+        "matricula": 10258
+      },
+      "secundario": {
+        "centros": 54,
+        "matricula": 15003
+      },
+      "adultos": {
+        "centros": 35,
+        "matricula": 2791
+      }
+    }
+  },
+  {
+    "provincia": "Santiago",
+    "centros_total": 843,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 454,
+        "matricula": 82347
+      },
+      "secundario": {
+        "centros": 311,
+        "matricula": 134607
+      },
+      "adultos": {
+        "centros": 78,
+        "matricula": 16276
+      }
+    }
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "centros_total": 101,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 45,
+        "matricula": 3388
+      },
+      "secundario": {
+        "centros": 50,
+        "matricula": 9501
+      },
+      "adultos": {
+        "centros": 6,
+        "matricula": 635
+      }
+    }
+  },
+  {
+    "provincia": "Santo Domingo",
+    "centros_total": 2153,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 1149,
+        "matricula": 258359
+      },
+      "secundario": {
+        "centros": 752,
+        "matricula": 401438
+      },
+      "adultos": {
+        "centros": 252,
+        "matricula": 59177
+      }
+    }
+  },
+  {
+    "provincia": "Valverde",
+    "centros_total": 173,
+    "niveles": {
+      "inicial_primario": {
+        "centros": 104,
+        "matricula": 17849
+      },
+      "secundario": {
+        "centros": 49,
+        "matricula": 17109
+      },
+      "adultos": {
+        "centros": 20,
+        "matricula": 2467
+      }
+    }
+  }
+]
