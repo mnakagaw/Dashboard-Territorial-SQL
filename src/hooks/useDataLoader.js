@@ -16,7 +16,7 @@ function buildDataUrl(fileName) {
     const apiBase = import.meta.env.VITE_API_BASE;
     if (apiBase) {
         const key = fileName.replace('.json', '');
-        return `${apiBase}/api/data/${key}`;
+        return `${apiBase.replace(/\/$/, '')}/api/data.php?key=${encodeURIComponent(key)}`;
     }
     return `${import.meta.env.BASE_URL}data/${fileName}`;
 }
