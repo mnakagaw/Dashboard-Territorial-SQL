@@ -33,11 +33,11 @@ CREATE INDEX `idx_content_hash` ON `dataset_assets` (`content_hash`);
 INSERT IGNORE INTO `dataset_assets` (`asset_key`, `version_no`, `json_content`, `content_hash`, `source_name`, `is_active`, `notes`)
 VALUES
     ('adm2_json_meta', 1,
-     '{"type":"static_file","path":"/data/adm2.json","size_bytes":15385651,"format":"json"}',
+     '{"type":"static_file","path":"/data/adm2.json","size_bytes":15890578,"format":"json"}',
      'metadata_only', 'adm2.json', 1,
      'Served as static file — 15 MB GeoJSON-equivalent. Not stored in DB.'),
 
     ('adm2_geojson_meta', 1,
-     '{"type":"static_file","path":"/data/adm2.geojson","size_bytes":596186,"format":"geojson"}',
+     '{"type":"static_file","path":"/data/adm2.geojson","size_bytes":15890578,"format":"geojson"}',
      'metadata_only', 'adm2.geojson', 1,
      'Served as static file — GeoJSON for Leaflet map layer.');

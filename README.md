@@ -83,9 +83,8 @@ VITE_API_BASE=https://prodecare.net/dbt
 
 > ⚠️ En entornos con Node 24, use `npm run build:node18` en lugar de `npm run build`.
 
-> Nota: `npm run verify:data` falla si existen municipios en `municipios_index.json`
-> sin polígono en `public/data/adm2.geojson`. Ese resultado indica un pendiente de
-> cartografía, no un fallo del script.
+> Nota: `npm run verify:data` confirma que los 158 municipios de
+> `municipios_index.json` tienen polígono en `public/data/adm2.geojson`.
 
 ## Estructura del Proyecto
 

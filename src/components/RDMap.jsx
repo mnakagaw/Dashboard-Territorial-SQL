@@ -2,7 +2,7 @@
  * RDMap.jsx - Mapa Interactivo de República Dominicana
  *
  * Este componente renderiza un mapa interactivo usando Leaflet que muestra:
- * - Todos los municipios de República Dominicana (155)
+ * - Todos los municipios de República Dominicana (158)
  * - El municipio/provincia/región seleccionado resaltado en rojo
  * - Tooltips con el nombre del municipio al pasar el cursor
  *

@@ -40,14 +40,14 @@ GO
 -- The actual files remain as static assets (too large for NVARCHAR(MAX) column).
 -- =============================================================================
 
--- adm2.json (~15 MB boundary GeoJSON equivalent)
+-- adm2.json (~15.9 MB boundary GeoJSON equivalent)
 IF NOT EXISTS (SELECT 1 FROM dataset_assets WHERE asset_key = 'adm2_json_meta')
 BEGIN
     INSERT INTO dataset_assets (asset_key, version_no, json_content, content_hash, source_name, is_active, notes)
     VALUES (
         'adm2_json_meta',
         1,
-        '{"type":"static_file","path":"/data/adm2.json","size_bytes":15385651,"format":"json"}',
+        '{"type":"static_file","path":"/data/adm2.json","size_bytes":15890578,"format":"json"}',
         'metadata_only',
         'adm2.json',
         1,
@@ -55,14 +55,14 @@ BEGIN
     );
 END
 
--- adm2.geojson (~596 KB)
+-- adm2.geojson (~15.9 MB)
 IF NOT EXISTS (SELECT 1 FROM dataset_assets WHERE asset_key = 'adm2_geojson_meta')
 BEGIN
     INSERT INTO dataset_assets (asset_key, version_no, json_content, content_hash, source_name, is_active, notes)
     VALUES (
         'adm2_geojson_meta',
         1,
-        '{"type":"static_file","path":"/data/adm2.geojson","size_bytes":596186,"format":"geojson"}',
+        '{"type":"static_file","path":"/data/adm2.geojson","size_bytes":15890578,"format":"geojson"}',
         'metadata_only',
         'adm2.geojson',
         1,
