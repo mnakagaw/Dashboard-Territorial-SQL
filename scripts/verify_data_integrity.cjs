@@ -34,13 +34,18 @@ try {
     console.log('Missing in GeoJSON:', missingInGeo);
     console.log('Missing in Index:', missingInIndex);
 
-    // Check for type mismatches (e.g. number vs string)
     const geoTypes = new Set(geoData.features.map(f => typeof f.properties.adm2_code));
-    console.log('GeoJSON adm2_code types:', [...geoTypes]);
-
     const indexTypes = new Set(indexData.map(m => typeof m.adm2_code));
+
+    console.log('GeoJSON adm2_code types:', [...geoTypes]);
     console.log('Index adm2_code types:', [...indexTypes]);
 
+    if (missingInGeo.length || missingInIndex.length) {
+        console.error('ERROR: Territory index and GeoJSON are not aligned.');
+        process.exit(1);
+    }
+
+    console.log('Territory index and GeoJSON are aligned.');
 } catch (e) {
     console.error('Error parsing files:', e);
     process.exit(1);

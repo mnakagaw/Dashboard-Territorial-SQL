@@ -12,7 +12,6 @@ if (!fs.existsSync(indexPath) || !fs.existsSync(geoPath)) {
 const indexData = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
 const geoData = JSON.parse(fs.readFileSync(geoPath, 'utf8'));
 
-// Map adm2_code to province for both
 const indexProvinces = {};
 indexData.forEach(m => {
     indexProvinces[m.adm2_code] = m.provincia;
@@ -36,8 +35,10 @@ allCodes.forEach(code => {
 
 console.log('Total codes checked:', allCodes.size);
 console.log('Mismatches found:', mismatches.length);
+
 if (mismatches.length > 0) {
     console.log('First 5 mismatches:', mismatches.slice(0, 5));
-} else {
-    console.log('No province name mismatches found.');
+    process.exit(1);
 }
+
+console.log('No province name mismatches found.');

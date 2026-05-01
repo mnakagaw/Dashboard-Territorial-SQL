@@ -12,6 +12,9 @@
     "build:node18": "npx --yes node@18 ./node_modules/vite/bin/vite.js build && npx --yes node@18 scripts/postbuild.mjs",
     "preview": "vite preview",
     "deploy": "node scripts/deploy.mjs",
+    "verify:data": "node scripts/verify_data_integrity.cjs",
+    "verify:province-names": "node scripts/verify_province_names.cjs",
+    "verify": "npm run verify:data && npm run verify:province-names",
     "test": "vitest run"
   },
   "dependencies": {

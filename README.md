@@ -79,8 +79,13 @@ VITE_API_BASE=https://prodecare.net/dbt
 | `npm run dev` | Servidor de desarrollo (datos estáticos) |
 | `npm run build:node18` | Build de producción (requiere Node 18 vía npx) |
 | `npm run deploy` | Despliegue al servidor FTP |
+| `npm run verify` | Verifica coherencia entre índice territorial y GeoJSON |
 
 > ⚠️ En entornos con Node 24, use `npm run build:node18` en lugar de `npm run build`.
+
+> Nota: `npm run verify:data` falla si existen municipios en `municipios_index.json`
+> sin polígono en `public/data/adm2.geojson`. Ese resultado indica un pendiente de
+> cartografía, no un fallo del script.
 
 ## Estructura del Proyecto
 
