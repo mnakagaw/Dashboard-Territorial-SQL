@@ -1,0 +1,374 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Azua",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Azua",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Baoruco",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Baoruco",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Barahona",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Barahona",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Dajabón",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Dajabón",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Duarte",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Duarte",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Elías Piña",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Elías Piña",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "El Seibo",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "El Seibo",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Espaillat",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Espaillat",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Independencia",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Independencia",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "La Altagracia",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "La Altagracia",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "La Romana",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "La Romana",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "La Vega",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "La Vega",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Monte Cristi",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Monte Cristi",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Pedernales",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Pedernales",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Peravia",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Peravia",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Puerto Plata",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Puerto Plata",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Samaná",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Samaná",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San Cristóbal",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San Cristóbal",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San Juan",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San Juan",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Santiago",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Santiago",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Valverde",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Valverde",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Monte Plata",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Monte Plata",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Hato Mayor",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "Hato Mayor",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "indicator": "pobreza_general",
+    "source": "siuben",
+    "value": 0
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "indicator": "pobreza_extrema",
+    "source": "siuben",
+    "value": 0
+  }
+]

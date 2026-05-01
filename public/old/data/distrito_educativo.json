@@ -1,0 +1,911 @@
+[
+  {
+    "distrito_educativo": "0101",
+    "nombre": "PEDERNALES",
+    "region_educativa": "01",
+    "municipios": [
+      "Oviedo",
+      "Pedernales"
+    ]
+  },
+  {
+    "distrito_educativo": "0102",
+    "nombre": "ENRIQUILLO",
+    "region_educativa": "01",
+    "municipios": [
+      "Barahona",
+      "Cabral",
+      "El Peñón",
+      "Enriquillo",
+      "Fundación",
+      "Jaquimeyes",
+      "La Ciénaga",
+      "Las Salinas",
+      "Paraíso",
+      "Polo",
+      "Vicente Noble"
+    ]
+  },
+  {
+    "distrito_educativo": "0103",
+    "nombre": "BARAHONA",
+    "region_educativa": "01",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0104",
+    "nombre": "CABRAL",
+    "region_educativa": "01",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0105",
+    "nombre": "VICENTE NOBLE",
+    "region_educativa": "01",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0201",
+    "nombre": "COMENDADOR",
+    "region_educativa": "02",
+    "municipios": [
+      "Bánica",
+      "Comendador",
+      "El Llano",
+      "Hondo Valle",
+      "Juan Santiago",
+      "Pedro Santana"
+    ]
+  },
+  {
+    "distrito_educativo": "0202",
+    "nombre": "PEDRO SANTANA",
+    "region_educativa": "02",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0203",
+    "nombre": "LAS MATAS DE FARFAN",
+    "region_educativa": "02",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0204",
+    "nombre": "EL CERCADO",
+    "region_educativa": "02",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0205",
+    "nombre": "SAN JUAN ESTE",
+    "region_educativa": "02",
+    "municipios": [
+      "Bohechío",
+      "El Cercado",
+      "Juan de Herrera",
+      "Las Matas de Farfán",
+      "San Juan",
+      "Vallejuelo"
+    ]
+  },
+  {
+    "distrito_educativo": "0206",
+    "nombre": "SAN JUAN OESTE",
+    "region_educativa": "02",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0207",
+    "nombre": "HONDO VALLE",
+    "region_educativa": "02",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0301",
+    "nombre": "AZUA",
+    "region_educativa": "03",
+    "municipios": [
+      "Azua",
+      "Estebanía",
+      "Guayabal",
+      "Las Charcas",
+      "Las Yayas de Viajama",
+      "Padre Las Casas",
+      "Peralta",
+      "Pueblo Viejo",
+      "Sabana Yegua",
+      "Tábara Arriba"
+    ]
+  },
+  {
+    "distrito_educativo": "0302",
+    "nombre": "PADRE DE LAS CASAS",
+    "region_educativa": "03",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0303",
+    "nombre": "SAN JOSE DE OCOA",
+    "region_educativa": "03",
+    "municipios": [
+      "Rancho Arriba",
+      "Sabana Larga",
+      "San José de Ocoa"
+    ]
+  },
+  {
+    "distrito_educativo": "0304",
+    "nombre": "BANI",
+    "region_educativa": "03",
+    "municipios": [
+      "Baní",
+      "Matanzas",
+      "Nizao"
+    ]
+  },
+  {
+    "distrito_educativo": "0305",
+    "nombre": "NIZAO",
+    "region_educativa": "03",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0401",
+    "nombre": "CAMBITA GARABITOS",
+    "region_educativa": "04",
+    "municipios": [
+      "Bajos de Haina",
+      "Cambita Garabitos",
+      "Los Cacaos",
+      "Sabana Grande de Palenque",
+      "San Cristóbal",
+      "San Gregorio de Nigua",
+      "Villa Altagracia",
+      "Yaguate"
+    ]
+  },
+  {
+    "distrito_educativo": "0402",
+    "nombre": "SAN CRISTOBAL NORTE",
+    "region_educativa": "04",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0403",
+    "nombre": "SAN CRISTOBAL SUR",
+    "region_educativa": "04",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0404",
+    "nombre": "VILLA ALTAGRACIA",
+    "region_educativa": "04",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0405",
+    "nombre": "YAGUATE",
+    "region_educativa": "04",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0406",
+    "nombre": "HAINA",
+    "region_educativa": "04",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0407",
+    "nombre": "SAN GREGORIO DE NIGUA",
+    "region_educativa": "04",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0501",
+    "nombre": "SAN PEDRO DE MACORIS ESTE",
+    "region_educativa": "05",
+    "municipios": [
+      "Consuelo",
+      "Guayacanes",
+      "Los Llanos",
+      "Quisqueya",
+      "Ramón Santana",
+      "San Pedro de Macorís"
+    ]
+  },
+  {
+    "distrito_educativo": "0502",
+    "nombre": "SAN PEDRO DE MACORIS OESTE",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0503",
+    "nombre": "LA ROMANA",
+    "region_educativa": "05",
+    "municipios": [
+      "Guaymate",
+      "La Romana",
+      "Villa Hermosa"
+    ]
+  },
+  {
+    "distrito_educativo": "0504",
+    "nombre": "HATO MAYOR",
+    "region_educativa": "05",
+    "municipios": [
+      "El Valle",
+      "Hato Mayor",
+      "Sabana de La Mar"
+    ]
+  },
+  {
+    "distrito_educativo": "0505",
+    "nombre": "SABANA DE LA MAR",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0506",
+    "nombre": "CONSUELO",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0507",
+    "nombre": "SAN JOSE DE LOS LLANOS",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0508",
+    "nombre": "QUISQUEYA",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0509",
+    "nombre": "EL VALLE",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0510",
+    "nombre": "GUAYMATE",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0511",
+    "nombre": "VILLA HERMOSA",
+    "region_educativa": "05",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0601",
+    "nombre": "JOSE CONTRERAS",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0602",
+    "nombre": "CONSTANZA",
+    "region_educativa": "06",
+    "municipios": [
+      "Constanza",
+      "Jarabacoa",
+      "Jima Abajo",
+      "La Vega"
+    ]
+  },
+  {
+    "distrito_educativo": "0603",
+    "nombre": "JARABACOA",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0604",
+    "nombre": "LA VEGA OESTE",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0605",
+    "nombre": "LA VEGA ESTE",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0606",
+    "nombre": "MOCA",
+    "region_educativa": "06",
+    "municipios": [
+      "Cayetano Germosén",
+      "Gaspar Hernández",
+      "Jamao Al Norte",
+      "Moca",
+      "San Víctor"
+    ]
+  },
+  {
+    "distrito_educativo": "0607",
+    "nombre": "GASPAR HERNANDEZ",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0608",
+    "nombre": "JAMAO AL NORTE",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0609",
+    "nombre": "SAN VICTOR",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0610",
+    "nombre": "JIMA ABAJO",
+    "region_educativa": "06",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0701",
+    "nombre": "TENARES",
+    "region_educativa": "07",
+    "municipios": [
+      "Salcedo",
+      "Tenares",
+      "Villa Tapia"
+    ]
+  },
+  {
+    "distrito_educativo": "0702",
+    "nombre": "SALCEDO",
+    "region_educativa": "07",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0703",
+    "nombre": "CASTILLO",
+    "region_educativa": "07",
+    "municipios": [
+      "Arenoso",
+      "Castillo",
+      "Eugenio María de Hostos",
+      "Las Guáranas",
+      "Pimentel",
+      "San Francisco de Macorís",
+      "Villa Riva"
+    ]
+  },
+  {
+    "distrito_educativo": "0704",
+    "nombre": "VILLA RIVA",
+    "region_educativa": "07",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0705",
+    "nombre": "SAN FRANCISCO DE MACORIS SUR-E",
+    "region_educativa": "07",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0706",
+    "nombre": "SAN FRANCISCO DE MACORIS NOR-O",
+    "region_educativa": "07",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0707",
+    "nombre": "VILLA TAPIA",
+    "region_educativa": "07",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0801",
+    "nombre": "SAN JOSE DE LAS MATAS",
+    "region_educativa": "08",
+    "municipios": [
+      "Baitoa",
+      "Bisonó",
+      "Jánico",
+      "Licey al Medio",
+      "Puñal",
+      "Sabana Iglesia",
+      "San José de Las Matas",
+      "Santiago",
+      "Tamboril",
+      "Villa González"
+    ]
+  },
+  {
+    "distrito_educativo": "0802",
+    "nombre": "JANICO",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0803",
+    "nombre": "SANTIAGO SUR-ESTE",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0804",
+    "nombre": "SANTIAGO NOROESTE",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0805",
+    "nombre": "SANTIAGO CENTRO-OESTE",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0806",
+    "nombre": "SANTIAGO NORESTE",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0807",
+    "nombre": "VILLA BISONO (NAVARRETE)",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0808",
+    "nombre": "LICEY AL MEDIO",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0809",
+    "nombre": "TAMBORIL",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0810",
+    "nombre": "VILLA GONZALEZ",
+    "region_educativa": "08",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0901",
+    "nombre": "MAO",
+    "region_educativa": "09",
+    "municipios": [
+      "Esperanza",
+      "Laguna Salada",
+      "Mao"
+    ]
+  },
+  {
+    "distrito_educativo": "0902",
+    "nombre": "ESPERANZA",
+    "region_educativa": "09",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0903",
+    "nombre": "SAN IGNACIO DE SABANETA",
+    "region_educativa": "09",
+    "municipios": [
+      "Monción",
+      "San Ignacio de Sabaneta",
+      "Villa Los Almácigos"
+    ]
+  },
+  {
+    "distrito_educativo": "0904",
+    "nombre": "MONCION",
+    "region_educativa": "09",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0905",
+    "nombre": "LAGUNA SALADA",
+    "region_educativa": "09",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "0906",
+    "nombre": "VILLA LOS ALMACIGOS",
+    "region_educativa": "09",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1001",
+    "nombre": "VILLA MELLA",
+    "region_educativa": "10",
+    "municipios": [
+      "Boca Chica",
+      "Los Alcarrizos",
+      "Pedro Brand",
+      "San Antonio de Guerra",
+      "Santo Domingo Este",
+      "Santo Domingo Norte",
+      "Santo Domingo Oeste"
+    ]
+  },
+  {
+    "distrito_educativo": "1002",
+    "nombre": "SABANA PERDIDA",
+    "region_educativa": "10",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1003",
+    "nombre": "SANTO DOMINGO NORESTE",
+    "region_educativa": "10",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1004",
+    "nombre": "SANTO DOMINGO ORIENTAL",
+    "region_educativa": "10",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1005",
+    "nombre": "BOCA CHICA",
+    "region_educativa": "10",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1006",
+    "nombre": "MENDOZA",
+    "region_educativa": "10",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1007",
+    "nombre": "SAN ANTONIO DE GUERRA",
+    "region_educativa": "10",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1101",
+    "nombre": "SOSUA",
+    "region_educativa": "11",
+    "municipios": [
+      "Altamira",
+      "Guananico",
+      "Imbert",
+      "Los Hidalgos",
+      "Luperón",
+      "Puerto Plata",
+      "Sosúa",
+      "Villa Isabela",
+      "Villa Montellano"
+    ]
+  },
+  {
+    "distrito_educativo": "1102",
+    "nombre": "PUERTO PLATA",
+    "region_educativa": "11",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1103",
+    "nombre": "IMBERT",
+    "region_educativa": "11",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1104",
+    "nombre": "LUPERON",
+    "region_educativa": "11",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1105",
+    "nombre": "ALTAMIRA",
+    "region_educativa": "11",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1106",
+    "nombre": "EL MAMEY",
+    "region_educativa": "11",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1107",
+    "nombre": "VILLA ISABELA",
+    "region_educativa": "11",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1201",
+    "nombre": "HIGUEY",
+    "region_educativa": "12",
+    "municipios": [
+      "Higüey",
+      "San Rafael del Yuma"
+    ]
+  },
+  {
+    "distrito_educativo": "1202",
+    "nombre": "SAN RAFAEL DEL YUMA",
+    "region_educativa": "12",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1203",
+    "nombre": "EL SEIBO",
+    "region_educativa": "12",
+    "municipios": [
+      "El Seibo",
+      "Miches"
+    ]
+  },
+  {
+    "distrito_educativo": "1204",
+    "nombre": "MICHES",
+    "region_educativa": "12",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1301",
+    "nombre": "MONTE CRISTI",
+    "region_educativa": "13",
+    "municipios": [
+      "Castañuelas",
+      "Guayubín",
+      "Las Matas de Santa Cruz",
+      "Monte Cristi",
+      "Pepillo Salcedo",
+      "Villa Vásquez"
+    ]
+  },
+  {
+    "distrito_educativo": "1302",
+    "nombre": "GUAYUBIN",
+    "region_educativa": "13",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1303",
+    "nombre": "VILLA VASQUEZ",
+    "region_educativa": "13",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1304",
+    "nombre": "DAJABON",
+    "region_educativa": "13",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1305",
+    "nombre": "LOMA DE CABRERA",
+    "region_educativa": "13",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1306",
+    "nombre": "RESTAURACION",
+    "region_educativa": "13",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1401",
+    "nombre": "NAGUA",
+    "region_educativa": "14",
+    "municipios": [
+      "Cabrera",
+      "El Factor",
+      "Nagua",
+      "Río San Juan"
+    ]
+  },
+  {
+    "distrito_educativo": "1402",
+    "nombre": "CABRERA",
+    "region_educativa": "14",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1403",
+    "nombre": "RIO SAN JUAN",
+    "region_educativa": "14",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1404",
+    "nombre": "SAMANA",
+    "region_educativa": "14",
+    "municipios": [
+      "Las Terrenas",
+      "Samaná",
+      "Sánchez"
+    ]
+  },
+  {
+    "distrito_educativo": "1405",
+    "nombre": "SANCHEZ",
+    "region_educativa": "14",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1406",
+    "nombre": "EL FACTOR",
+    "region_educativa": "14",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1407",
+    "nombre": "LAS TERRENAS",
+    "region_educativa": "14",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1501",
+    "nombre": "LOS ALCARRIZOS",
+    "region_educativa": "15",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1502",
+    "nombre": "SANTO DOMINGO CENTRO",
+    "region_educativa": "15",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1503",
+    "nombre": "SANTO DOMINGO SURCENTRAL",
+    "region_educativa": "15",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1504",
+    "nombre": "SANTO DOMINGO NOROESTE",
+    "region_educativa": "15",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1505",
+    "nombre": "HERRERA",
+    "region_educativa": "15",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1506",
+    "nombre": "PEDRO BRAND",
+    "region_educativa": "15",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1601",
+    "nombre": "COTUI",
+    "region_educativa": "16",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1602",
+    "nombre": "FANTINO",
+    "region_educativa": "16",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1603",
+    "nombre": "CEVICOS",
+    "region_educativa": "16",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1604",
+    "nombre": "BONAO SUROESTE",
+    "region_educativa": "16",
+    "municipios": [
+      "Bonao",
+      "Maimón",
+      "Piedra Blanca"
+    ]
+  },
+  {
+    "distrito_educativo": "1605",
+    "nombre": "PIEDRA BLANCA",
+    "region_educativa": "16",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1606",
+    "nombre": "BONAO NORDESTE",
+    "region_educativa": "16",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1607",
+    "nombre": "VILLA LA MATA",
+    "region_educativa": "16",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1701",
+    "nombre": "YAMASA",
+    "region_educativa": "17",
+    "municipios": [
+      "Bayaguana",
+      "Monte Plata",
+      "Peralvillo",
+      "Sabana Grande de Boyá",
+      "Yamasá"
+    ]
+  },
+  {
+    "distrito_educativo": "1702",
+    "nombre": "MONTE PLATA",
+    "region_educativa": "17",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1703",
+    "nombre": "BAYAGUANA",
+    "region_educativa": "17",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1704",
+    "nombre": "SABANA GRANDE DE BOYA",
+    "region_educativa": "17",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1705",
+    "nombre": "ESPERALVILLO",
+    "region_educativa": "17",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1801",
+    "nombre": "NEYBA",
+    "region_educativa": "18",
+    "municipios": [
+      "Galván",
+      "Los Ríos",
+      "Neiba",
+      "Tamayo",
+      "Villa Jaragua"
+    ]
+  },
+  {
+    "distrito_educativo": "1802",
+    "nombre": "TAMAYO",
+    "region_educativa": "18",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1803",
+    "nombre": "VILLA JARAGUA",
+    "region_educativa": "18",
+    "municipios": []
+  },
+  {
+    "distrito_educativo": "1804",
+    "nombre": "JIMANI",
+    "region_educativa": "18",
+    "municipios": [
+      "Cristóbal",
+      "Duvergé",
+      "Jimaní",
+      "La Descubierta",
+      "Mella",
+      "Postrer Río"
+    ]
+  },
+  {
+    "distrito_educativo": "1805",
+    "nombre": "DUVERGE",
+    "region_educativa": "18",
+    "municipios": []
+  }
+]

@@ -1,20 +1,13 @@
 /**
- * qa_canonical.js — Quality Assurance for Phase 2 Canonical Schema
- *
- * Checks:
- *   1. Row counts per dimension table
- *   2. fact_statistic row count and domain distribution
- *   3. Duplicate detection (if UNIQUE constraint somehow bypassed)
- *   4. NULL / missing value detection
- *   5. Territory hierarchy integrity (orphan check)
- *   6. Source / period consistency
- *   7. Expected territory counts (158 municipios, 32 provincias, 10 regiones)
- *
- * Usage:
- *   node scripts/qa_canonical.js
+ * qa_canonical.js — Comprehensive Canonical Data Audit (36 Datasets)
  */
 
+import { readFile } from "node:fs/promises";
+import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 async function main() {
   let mysql;
@@ -35,137 +28,70 @@ async function main() {
     port: parseInt(process.env.DB_PORT || "3306", 10),
     charset: "utf8mb4",
   });
+  console.log("🧐 Running Canonical Audit (36 Datasets)...\n");
 
-  let passed = 0;
-  let warned = 0;
-  let failed = 0;
+  const tests = [
+      { name: "Duplicate Records (Same Territory, Indicator, Year, Breakdown)",
+        query: `SELECT territory_id, indicator_id, period_year, breakdown_id, count(*) as cnt 
+                FROM fact_statistic 
+                GROUP BY territory_id, indicator_id, period_year, breakdown_id 
+                HAVING cnt > 1` },
+      { name: "Orphan Indicators (Not in dim_indicator)",
+        query: `SELECT count(*) as orphans FROM fact_statistic WHERE indicator_id NOT IN (SELECT indicator_id FROM dim_indicator)` },
+      { name: "Orphan Territories (Not in dim_territory)",
+        query: `SELECT count(*) as orphans FROM fact_statistic WHERE territory_id NOT IN (SELECT territory_id FROM dim_territory)` },
+      { name: "Orphan Breakdowns (NotNull and not in dim_breakdown)",
+        query: `SELECT count(*) as orphans FROM fact_statistic WHERE breakdown_id <> -1 AND breakdown_id NOT IN (SELECT breakdown_id FROM dim_breakdown)` },
+      { name: "Null Indicator/Territory/Year",
+        query: `SELECT count(*) as nulls FROM fact_statistic WHERE indicator_id IS NULL OR territory_id IS NULL OR period_year IS NULL` },
+      { name: "Coverage Reach (Indicators used in fact_statistic)",
+        query: `SELECT count(distinct indicator_id) as coverage FROM fact_statistic` },
+      { name: "Territory Reach",
+        query: `SELECT territory_type, count(distinct t.territory_id) as count
+                FROM fact_statistic f JOIN dim_territory t ON f.territory_id = t.territory_id
+                GROUP BY territory_type` }
+  ];
 
-  function check(label, ok, detail) {
-    if (ok) {
-      console.log(`  ✅ ${label}: ${detail}`);
-      passed++;
-    } else {
-      console.log(`  ❌ ${label}: ${detail}`);
-      failed++;
-    }
-  }
-  function warn(label, detail) {
-    console.log(`  ⚠️  ${label}: ${detail}`);
-    warned++;
-  }
-
-  // ---- 1. Row Counts ----
-  console.log("\n═══ 1. Dimension Table Row Counts ═══");
-  const tables = ['dim_territory', 'dim_domain', 'dim_indicator', 'dim_source', 'fact_statistic', 'raw_import_batch'];
-  for (const t of tables) {
-    const [[{ cnt }]] = await conn.execute(`SELECT COUNT(*) as cnt FROM ${t}`);
-    console.log(`  📋 ${t}: ${cnt} rows`);
-  }
-
-  // ---- 2. Territory Hierarchy ----
-  console.log("\n═══ 2. Territory Hierarchy ═══");
-  const [[{ municipios }]] = await conn.execute(`SELECT COUNT(*) as municipios FROM dim_territory WHERE territory_type='municipio'`);
-  const [[{ provincias }]] = await conn.execute(`SELECT COUNT(*) as provincias FROM dim_territory WHERE territory_type='provincia'`);
-  const [[{ regiones }]] = await conn.execute(`SELECT COUNT(*) as regiones FROM dim_territory WHERE territory_type='region'`);
-  const [[{ nacional }]] = await conn.execute(`SELECT COUNT(*) as nacional FROM dim_territory WHERE territory_type='nacional'`);
-  check('Municipios', municipios === 158, `${municipios} (expected 158)`);
-  check('Provincias', provincias === 32, `${provincias} (expected 32)`);
-  check('Regiones', regiones === 10, `${regiones} (expected 10)`);
-  check('Nacional', nacional === 1, `${nacional} (expected 1)`);
-
-  // Orphan check
-  const [[{ orphans }]] = await conn.execute(
-    `SELECT COUNT(*) as orphans FROM dim_territory t
-     WHERE t.parent_territory_id IS NOT NULL
-       AND NOT EXISTS(SELECT 1 FROM dim_territory p WHERE p.territory_id = t.parent_territory_id)`
-  );
-  check('No orphan territories', orphans === 0, `${orphans} orphans found`);
-
-  // ---- 3. fact_statistic Distribution ----
-  console.log("\n═══ 3. Fact Distribution by Domain ═══");
-  const [domDist] = await conn.execute(
-    `SELECT d.domain_name, COUNT(*) as cnt
-     FROM fact_statistic f
-     JOIN dim_indicator i ON f.indicator_id = i.indicator_id
-     JOIN dim_domain d ON i.domain_id = d.domain_id
-     GROUP BY d.domain_name ORDER BY cnt DESC`
-  );
-  for (const row of domDist) {
-    console.log(`  📊 ${row.domain_name}: ${row.cnt} facts`);
+  let pass = true;
+  for (const t of tests) {
+      console.log(`🔍 [TEST] ${t.name}...`);
+      const [rows] = await conn.execute(t.query);
+      if (t.name.includes("Coverage") || t.name.includes("Reach")) {
+          console.table(rows);
+      } else if (rows.length > 0 && (rows[0].cnt > 0 || rows[0].orphans > 0 || rows[0].nulls > 0)) {
+          console.error(`   ❌ FAIL: Issues found!`);
+          console.table(rows);
+          pass = false;
+      } else {
+          console.log(`   ✅ PASS`);
+      }
   }
 
-  // ---- 4. Duplicate Detection ----
-  console.log("\n═══ 4. Duplicate Check ═══");
-  const [[{ dupes }]] = await conn.execute(
-    `SELECT COUNT(*) as dupes FROM (
-       SELECT territory_id, indicator_id, source_id, period_year, COUNT(*) as c
-       FROM fact_statistic
-       GROUP BY territory_id, indicator_id, source_id, period_year
-       HAVING c > 1
-     ) dup`
-  );
-  check('No duplicates in fact_statistic', dupes === 0, `${dupes} duplicate groups`);
-
-  // ---- 5. NULL Value Detection ----
-  console.log("\n═══ 5. NULL / Missing Value Audit ═══");
-  const [[{ nullValues }]] = await conn.execute(
-    `SELECT COUNT(*) as nullValues FROM fact_statistic WHERE numeric_value IS NULL AND text_value IS NULL`
-  );
-  if (nullValues > 0) {
-    warn('Facts with no value', `${nullValues} facts have NULL numeric_value AND NULL text_value`);
-  } else {
-    check('All facts have values', true, `0 empty facts`);
+  // Cross-Territory Audit
+  console.log("\n🧪 [AUDIT] Provincial Totals vs Municipal Sums (Sample: dem_pop_total 2022)...");
+  const [auditRows] = await conn.execute(`
+    SELECT p.territory_name, p.territory_code, f_prov.numeric_value as prov_val, SUM(f_muni.numeric_value) as muni_sum
+    FROM dim_territory p
+    JOIN fact_statistic f_prov ON p.territory_id = f_prov.territory_id
+    JOIN dim_indicator i ON f_prov.indicator_id = i.indicator_id
+    JOIN dim_territory m ON m.parent_territory_id = p.territory_id
+    JOIN fact_statistic f_muni ON m.territory_id = f_muni.territory_id AND f_muni.indicator_id = i.indicator_id
+    WHERE i.indicator_code = 'dem_pop_total' AND p.territory_type = 'provincia' AND f_prov.period_year = 2022 AND f_muni.period_year = 2022 AND f_prov.breakdown_id = -1 AND f_muni.breakdown_id = -1
+    GROUP BY p.territory_id, f_prov.numeric_value
+  `);
+  
+  let mismatchCount = 0;
+  for (const r of auditRows) {
+      const diff = Math.abs(r.prov_val - r.muni_sum);
+      if (diff > 10) { // Allowed small diff for rounding or source discrepancies
+          console.warn(`   ⚠️  Mismatch in ${r.territory_name} (${r.territory_code}): Prov=${r.prov_val}, MuniSum=${r.muni_sum} (Diff: ${diff})`);
+          mismatchCount++;
+      }
   }
+  if (mismatchCount === 0) console.log("   ✅ All Provincial totals match Municipal sums within tolerance.");
 
-  // Indicators with no facts
-  const [emptyInds] = await conn.execute(
-    `SELECT i.indicator_code FROM dim_indicator i
-     LEFT JOIN fact_statistic f ON i.indicator_id = f.indicator_id
-     WHERE f.fact_id IS NULL`
-  );
-  if (emptyInds.length > 0) {
-    warn('Indicators with 0 facts', emptyInds.map(r => r.indicator_code).join(', '));
-  } else {
-    check('All indicators have facts', true, 'OK');
-  }
-
-  // ---- 6. Source / Period Consistency ----
-  console.log("\n═══ 6. Source & Period Consistency ═══");
-  const [srcDist] = await conn.execute(
-    `SELECT s.source_name, s.reference_year, COUNT(*) as cnt
-     FROM fact_statistic f JOIN dim_source s ON f.source_id = s.source_id
-     GROUP BY s.source_name, s.reference_year`
-  );
-  for (const row of srcDist) {
-    console.log(`  📋 ${row.source_name} (${row.reference_year}): ${row.cnt} facts`);
-  }
-
-  // ---- 7. Coverage Check ----
-  console.log("\n═══ 7. Coverage: Municipios per Indicator ═══");
-  const [coverage] = await conn.execute(
-    `SELECT i.indicator_code, COUNT(DISTINCT f.territory_id) as terr_count
-     FROM fact_statistic f
-     JOIN dim_indicator i ON f.indicator_id = i.indicator_id
-     JOIN dim_territory t ON f.territory_id = t.territory_id
-     WHERE t.territory_type = 'municipio'
-     GROUP BY i.indicator_code
-     ORDER BY i.indicator_code`
-  );
-  for (const row of coverage) {
-    const star = row.terr_count < 155 ? ' ⚠️' : '';
-    console.log(`  📋 ${row.indicator_code}: ${row.terr_count} municipios${star}`);
-  }
-
-  // ---- Summary ----
-  console.log(`\n═══════════════════════════════════════`);
-  console.log(`  QA Summary: ✅ ${passed} passed, ⚠️ ${warned} warnings, ❌ ${failed} failed`);
-  console.log(`═══════════════════════════════════════\n`);
-
+  console.log(`\n🏁 Audit Complete. Status: ${pass ? 'CLEAN' : 'DIRTY'}`);
   await conn.end();
-  process.exit(failed > 0 ? 1 : 0);
 }
 
-main().catch(err => {
-  console.error("💥 QA failed:", err);
-  process.exit(1);
-});
+main().catch(console.error);

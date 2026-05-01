@@ -1,0 +1,1862 @@
+[
+  {
+    "adm2_code": "010001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 57.75
+  },
+  {
+    "adm2_code": "010001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 58.1
+  },
+  {
+    "adm2_code": "010002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 67.44
+  },
+  {
+    "adm2_code": "010002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 39.84
+  },
+  {
+    "adm2_code": "010003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 32.65
+  },
+  {
+    "adm2_code": "010003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 33.89
+  },
+  {
+    "adm2_code": "010004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 48.91
+  },
+  {
+    "adm2_code": "010004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 64.41
+  },
+  {
+    "adm2_code": "010005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 84.21
+  },
+  {
+    "adm2_code": "010005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 35.11
+  },
+  {
+    "adm2_code": "020001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 64.15
+  },
+  {
+    "adm2_code": "020001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 32.65
+  },
+  {
+    "adm2_code": "020002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 40.37
+  },
+  {
+    "adm2_code": "020002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 59.41
+  },
+  {
+    "adm2_code": "020003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 84.8
+  },
+  {
+    "adm2_code": "020003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 37.97
+  },
+  {
+    "adm2_code": "020004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 53.6
+  },
+  {
+    "adm2_code": "020004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 65.59
+  },
+  {
+    "adm2_code": "020005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 65.13
+  },
+  {
+    "adm2_code": "020005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 66.13
+  },
+  {
+    "adm2_code": "030001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 42.53
+  },
+  {
+    "adm2_code": "030001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 56.27
+  },
+  {
+    "adm2_code": "030002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 70.87
+  },
+  {
+    "adm2_code": "030002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.32
+  },
+  {
+    "adm2_code": "030003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 72.22
+  },
+  {
+    "adm2_code": "030003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 59.27
+  },
+  {
+    "adm2_code": "030004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 51.29
+  },
+  {
+    "adm2_code": "030004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 40.18
+  },
+  {
+    "adm2_code": "030005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 76.05
+  },
+  {
+    "adm2_code": "030005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 49.98
+  },
+  {
+    "adm2_code": "040001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 79.98
+  },
+  {
+    "adm2_code": "040001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 62.85
+  },
+  {
+    "adm2_code": "040002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 60.14
+  },
+  {
+    "adm2_code": "040002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 64.36
+  },
+  {
+    "adm2_code": "040003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 57.96
+  },
+  {
+    "adm2_code": "040003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 32.06
+  },
+  {
+    "adm2_code": "040004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 32.2
+  },
+  {
+    "adm2_code": "040004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 29.68
+  },
+  {
+    "adm2_code": "040005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 32.77
+  },
+  {
+    "adm2_code": "040005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 69.79
+  },
+  {
+    "adm2_code": "050001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 52.01
+  },
+  {
+    "adm2_code": "050001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 57.43
+  },
+  {
+    "adm2_code": "050002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 73.57
+  },
+  {
+    "adm2_code": "050002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 74.94
+  },
+  {
+    "adm2_code": "050003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 48.62
+  },
+  {
+    "adm2_code": "050003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 70.19
+  },
+  {
+    "adm2_code": "050004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 50.43
+  },
+  {
+    "adm2_code": "050004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 64.14
+  },
+  {
+    "adm2_code": "050005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 54.61
+  },
+  {
+    "adm2_code": "050005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 26.19
+  },
+  {
+    "adm2_code": "060001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 75.64
+  },
+  {
+    "adm2_code": "060001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 51.64
+  },
+  {
+    "adm2_code": "060002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 43.9
+  },
+  {
+    "adm2_code": "060002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.05
+  },
+  {
+    "adm2_code": "060003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 80.23
+  },
+  {
+    "adm2_code": "060003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 52.09
+  },
+  {
+    "adm2_code": "060004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 52.98
+  },
+  {
+    "adm2_code": "060004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 61.82
+  },
+  {
+    "adm2_code": "060005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 34.44
+  },
+  {
+    "adm2_code": "060005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 48.85
+  },
+  {
+    "adm2_code": "070001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 33.94
+  },
+  {
+    "adm2_code": "070001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 52.33
+  },
+  {
+    "adm2_code": "070002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 56.88
+  },
+  {
+    "adm2_code": "070002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 35.15
+  },
+  {
+    "adm2_code": "070003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 41.68
+  },
+  {
+    "adm2_code": "070003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.87
+  },
+  {
+    "adm2_code": "070004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 55.55
+  },
+  {
+    "adm2_code": "070004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 75.53
+  },
+  {
+    "adm2_code": "070005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 74.02
+  },
+  {
+    "adm2_code": "070005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 39.47
+  },
+  {
+    "adm2_code": "080001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 72.08
+  },
+  {
+    "adm2_code": "080001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 64.06
+  },
+  {
+    "adm2_code": "080002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 36.42
+  },
+  {
+    "adm2_code": "080002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 39.15
+  },
+  {
+    "adm2_code": "080003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 75.09
+  },
+  {
+    "adm2_code": "080003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 53.72
+  },
+  {
+    "adm2_code": "080004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 82.63
+  },
+  {
+    "adm2_code": "080004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 36.9
+  },
+  {
+    "adm2_code": "080005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 36.06
+  },
+  {
+    "adm2_code": "080005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 50.56
+  },
+  {
+    "adm2_code": "090001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 43.25
+  },
+  {
+    "adm2_code": "090001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 59.2
+  },
+  {
+    "adm2_code": "090002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 44.43
+  },
+  {
+    "adm2_code": "090002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 64.5
+  },
+  {
+    "adm2_code": "090003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 59.71
+  },
+  {
+    "adm2_code": "090003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 67.12
+  },
+  {
+    "adm2_code": "090004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 43.19
+  },
+  {
+    "adm2_code": "090004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 65.06
+  },
+  {
+    "adm2_code": "090005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 45.22
+  },
+  {
+    "adm2_code": "090005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 67.02
+  },
+  {
+    "adm2_code": "100001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 62.01
+  },
+  {
+    "adm2_code": "100001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 57.48
+  },
+  {
+    "adm2_code": "100002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 68.61
+  },
+  {
+    "adm2_code": "100002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 79.47
+  },
+  {
+    "adm2_code": "100003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 76.35
+  },
+  {
+    "adm2_code": "100003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 57.62
+  },
+  {
+    "adm2_code": "100004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 44.58
+  },
+  {
+    "adm2_code": "100004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 67.55
+  },
+  {
+    "adm2_code": "100005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 41.1
+  },
+  {
+    "adm2_code": "100005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 36.13
+  },
+  {
+    "adm2_code": "110001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 75.9
+  },
+  {
+    "adm2_code": "110001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 68.31
+  },
+  {
+    "adm2_code": "110002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 47.94
+  },
+  {
+    "adm2_code": "110002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 74.59
+  },
+  {
+    "adm2_code": "110003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 56.58
+  },
+  {
+    "adm2_code": "110003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 72.19
+  },
+  {
+    "adm2_code": "110004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 56.06
+  },
+  {
+    "adm2_code": "110004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 31.16
+  },
+  {
+    "adm2_code": "110005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 54.8
+  },
+  {
+    "adm2_code": "110005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 77.76
+  },
+  {
+    "adm2_code": "120001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 31.45
+  },
+  {
+    "adm2_code": "120001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 57.65
+  },
+  {
+    "adm2_code": "120002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 49.77
+  },
+  {
+    "adm2_code": "120002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 78.83
+  },
+  {
+    "adm2_code": "120003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 77.73
+  },
+  {
+    "adm2_code": "120003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 42.65
+  },
+  {
+    "adm2_code": "120004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 64.97
+  },
+  {
+    "adm2_code": "120004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 57.31
+  },
+  {
+    "adm2_code": "120005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 74.88
+  },
+  {
+    "adm2_code": "120005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 48.22
+  },
+  {
+    "adm2_code": "130001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 39.12
+  },
+  {
+    "adm2_code": "130001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 33.44
+  },
+  {
+    "adm2_code": "130002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 84.26
+  },
+  {
+    "adm2_code": "130002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 77.64
+  },
+  {
+    "adm2_code": "130003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 64.83
+  },
+  {
+    "adm2_code": "130003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 26.69
+  },
+  {
+    "adm2_code": "130004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 64.94
+  },
+  {
+    "adm2_code": "130004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 62.29
+  },
+  {
+    "adm2_code": "130005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 50.59
+  },
+  {
+    "adm2_code": "130005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 62.88
+  },
+  {
+    "adm2_code": "140001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 30.46
+  },
+  {
+    "adm2_code": "140001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 29.43
+  },
+  {
+    "adm2_code": "140002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 34.82
+  },
+  {
+    "adm2_code": "140002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 41.5
+  },
+  {
+    "adm2_code": "140003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 37.69
+  },
+  {
+    "adm2_code": "140003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 25.22
+  },
+  {
+    "adm2_code": "140004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 77.1
+  },
+  {
+    "adm2_code": "140004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 48.68
+  },
+  {
+    "adm2_code": "140005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 47.02
+  },
+  {
+    "adm2_code": "140005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 26.24
+  },
+  {
+    "adm2_code": "150001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 34.28
+  },
+  {
+    "adm2_code": "150001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 28.08
+  },
+  {
+    "adm2_code": "150002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 37.62
+  },
+  {
+    "adm2_code": "150002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 76.09
+  },
+  {
+    "adm2_code": "150003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 43.93
+  },
+  {
+    "adm2_code": "150003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 50.77
+  },
+  {
+    "adm2_code": "150004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 67.02
+  },
+  {
+    "adm2_code": "150004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 72.68
+  },
+  {
+    "adm2_code": "150005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 80.95
+  },
+  {
+    "adm2_code": "150005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 71.01
+  },
+  {
+    "adm2_code": "160001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 84.37
+  },
+  {
+    "adm2_code": "160001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 41.73
+  },
+  {
+    "adm2_code": "160002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 64.71
+  },
+  {
+    "adm2_code": "160002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 57.9
+  },
+  {
+    "adm2_code": "160003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 56.63
+  },
+  {
+    "adm2_code": "160003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 41.29
+  },
+  {
+    "adm2_code": "160004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 43.89
+  },
+  {
+    "adm2_code": "160004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.86
+  },
+  {
+    "adm2_code": "160005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 31.66
+  },
+  {
+    "adm2_code": "160005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 48.29
+  },
+  {
+    "adm2_code": "170001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 55.01
+  },
+  {
+    "adm2_code": "170001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 67.31
+  },
+  {
+    "adm2_code": "170002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 51.62
+  },
+  {
+    "adm2_code": "170002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 46.65
+  },
+  {
+    "adm2_code": "170003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 81.89
+  },
+  {
+    "adm2_code": "170003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 38.94
+  },
+  {
+    "adm2_code": "170004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 38.16
+  },
+  {
+    "adm2_code": "170004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 77.68
+  },
+  {
+    "adm2_code": "170005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 39.59
+  },
+  {
+    "adm2_code": "170005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 33.63
+  },
+  {
+    "adm2_code": "180001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 56.2
+  },
+  {
+    "adm2_code": "180001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 34.1
+  },
+  {
+    "adm2_code": "180002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 38.67
+  },
+  {
+    "adm2_code": "180002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 28.69
+  },
+  {
+    "adm2_code": "180003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 46.66
+  },
+  {
+    "adm2_code": "180003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 64.78
+  },
+  {
+    "adm2_code": "180004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 82.47
+  },
+  {
+    "adm2_code": "180004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 36.09
+  },
+  {
+    "adm2_code": "180005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 49.54
+  },
+  {
+    "adm2_code": "180005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 66.01
+  },
+  {
+    "adm2_code": "190001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 68.66
+  },
+  {
+    "adm2_code": "190001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 31.36
+  },
+  {
+    "adm2_code": "190002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 79.2
+  },
+  {
+    "adm2_code": "190002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 56.92
+  },
+  {
+    "adm2_code": "190003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 35.37
+  },
+  {
+    "adm2_code": "190003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 39.68
+  },
+  {
+    "adm2_code": "190004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 68.77
+  },
+  {
+    "adm2_code": "190004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 45.59
+  },
+  {
+    "adm2_code": "190005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 50.51
+  },
+  {
+    "adm2_code": "190005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 54.78
+  },
+  {
+    "adm2_code": "200001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 53.51
+  },
+  {
+    "adm2_code": "200001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.72
+  },
+  {
+    "adm2_code": "200002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 55.52
+  },
+  {
+    "adm2_code": "200002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 58.97
+  },
+  {
+    "adm2_code": "200003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 60.69
+  },
+  {
+    "adm2_code": "200003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 28.96
+  },
+  {
+    "adm2_code": "200004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 69.51
+  },
+  {
+    "adm2_code": "200004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 76.39
+  },
+  {
+    "adm2_code": "200005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 74.43
+  },
+  {
+    "adm2_code": "200005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 79.29
+  },
+  {
+    "adm2_code": "210001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 83.25
+  },
+  {
+    "adm2_code": "210001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 46.29
+  },
+  {
+    "adm2_code": "210002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 51.27
+  },
+  {
+    "adm2_code": "210002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 26.05
+  },
+  {
+    "adm2_code": "210003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 61.01
+  },
+  {
+    "adm2_code": "210003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 51.71
+  },
+  {
+    "adm2_code": "210004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 58.48
+  },
+  {
+    "adm2_code": "210004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 26.2
+  },
+  {
+    "adm2_code": "210005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 60.7
+  },
+  {
+    "adm2_code": "210005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 45.12
+  },
+  {
+    "adm2_code": "220001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 48.75
+  },
+  {
+    "adm2_code": "220001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 56.67
+  },
+  {
+    "adm2_code": "220002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 30.2
+  },
+  {
+    "adm2_code": "220002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 66.47
+  },
+  {
+    "adm2_code": "220003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 84.9
+  },
+  {
+    "adm2_code": "220003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 70.94
+  },
+  {
+    "adm2_code": "220004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 67.79
+  },
+  {
+    "adm2_code": "220004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 51.86
+  },
+  {
+    "adm2_code": "220005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 83.47
+  },
+  {
+    "adm2_code": "220005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 27.23
+  },
+  {
+    "adm2_code": "230001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 80.7
+  },
+  {
+    "adm2_code": "230001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 58.58
+  },
+  {
+    "adm2_code": "230002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 32.8
+  },
+  {
+    "adm2_code": "230002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 65.31
+  },
+  {
+    "adm2_code": "230003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 58.33
+  },
+  {
+    "adm2_code": "230003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 65.1
+  },
+  {
+    "adm2_code": "230004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 71.7
+  },
+  {
+    "adm2_code": "230004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 56.45
+  },
+  {
+    "adm2_code": "230005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 35.9
+  },
+  {
+    "adm2_code": "230005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 50.93
+  },
+  {
+    "adm2_code": "240001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 32.48
+  },
+  {
+    "adm2_code": "240001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 57.98
+  },
+  {
+    "adm2_code": "240002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 78.48
+  },
+  {
+    "adm2_code": "240002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 50.96
+  },
+  {
+    "adm2_code": "240003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 40.69
+  },
+  {
+    "adm2_code": "240003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 66.08
+  },
+  {
+    "adm2_code": "240004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 34.61
+  },
+  {
+    "adm2_code": "240004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 74.26
+  },
+  {
+    "adm2_code": "240005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 39.73
+  },
+  {
+    "adm2_code": "240005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 32.85
+  },
+  {
+    "adm2_code": "250001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 42.53
+  },
+  {
+    "adm2_code": "250001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 31.1
+  },
+  {
+    "adm2_code": "250002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 43.5
+  },
+  {
+    "adm2_code": "250002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 69.66
+  },
+  {
+    "adm2_code": "250003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 72.98
+  },
+  {
+    "adm2_code": "250003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 71.24
+  },
+  {
+    "adm2_code": "250004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 59.16
+  },
+  {
+    "adm2_code": "250004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 76.88
+  },
+  {
+    "adm2_code": "250005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 70.91
+  },
+  {
+    "adm2_code": "250005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 44.93
+  },
+  {
+    "adm2_code": "260001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 46.05
+  },
+  {
+    "adm2_code": "260001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 58.29
+  },
+  {
+    "adm2_code": "260002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 38.36
+  },
+  {
+    "adm2_code": "260002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 41.75
+  },
+  {
+    "adm2_code": "260003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 76.12
+  },
+  {
+    "adm2_code": "260003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 26.16
+  },
+  {
+    "adm2_code": "260004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 44.84
+  },
+  {
+    "adm2_code": "260004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 26.78
+  },
+  {
+    "adm2_code": "260005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 39.8
+  },
+  {
+    "adm2_code": "260005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 36.39
+  },
+  {
+    "adm2_code": "270001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 42.04
+  },
+  {
+    "adm2_code": "270001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 78.91
+  },
+  {
+    "adm2_code": "270002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 36.86
+  },
+  {
+    "adm2_code": "270002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 45.92
+  },
+  {
+    "adm2_code": "270003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 50.3
+  },
+  {
+    "adm2_code": "270003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 35.11
+  },
+  {
+    "adm2_code": "270004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 53.26
+  },
+  {
+    "adm2_code": "270004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.96
+  },
+  {
+    "adm2_code": "270005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 57.94
+  },
+  {
+    "adm2_code": "270005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 56.3
+  },
+  {
+    "adm2_code": "280001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 78.91
+  },
+  {
+    "adm2_code": "280001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 76.9
+  },
+  {
+    "adm2_code": "280002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 51.86
+  },
+  {
+    "adm2_code": "280002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 37.56
+  },
+  {
+    "adm2_code": "280003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 76.86
+  },
+  {
+    "adm2_code": "280003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 46.84
+  },
+  {
+    "adm2_code": "280004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 76.95
+  },
+  {
+    "adm2_code": "280004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 44.45
+  },
+  {
+    "adm2_code": "280005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 51.55
+  },
+  {
+    "adm2_code": "280005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.19
+  },
+  {
+    "adm2_code": "290001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 72.19
+  },
+  {
+    "adm2_code": "290001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 27.5
+  },
+  {
+    "adm2_code": "290002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 75.75
+  },
+  {
+    "adm2_code": "290002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 77.48
+  },
+  {
+    "adm2_code": "290003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 44.24
+  },
+  {
+    "adm2_code": "290003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 49.68
+  },
+  {
+    "adm2_code": "290004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 49.58
+  },
+  {
+    "adm2_code": "290004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 74.72
+  },
+  {
+    "adm2_code": "290005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 68.03
+  },
+  {
+    "adm2_code": "290005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 31.12
+  },
+  {
+    "adm2_code": "300001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 79.09
+  },
+  {
+    "adm2_code": "300001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 73.35
+  },
+  {
+    "adm2_code": "300002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 40.66
+  },
+  {
+    "adm2_code": "300002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 51.56
+  },
+  {
+    "adm2_code": "300003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 64.04
+  },
+  {
+    "adm2_code": "300003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 32.72
+  },
+  {
+    "adm2_code": "300004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 42.71
+  },
+  {
+    "adm2_code": "300004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 30.17
+  },
+  {
+    "adm2_code": "300005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 35.05
+  },
+  {
+    "adm2_code": "300005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 76.98
+  },
+  {
+    "adm2_code": "310001",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 39.5
+  },
+  {
+    "adm2_code": "310001",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 67.56
+  },
+  {
+    "adm2_code": "310002",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 71.6
+  },
+  {
+    "adm2_code": "310002",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 51.15
+  },
+  {
+    "adm2_code": "310003",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 66.27
+  },
+  {
+    "adm2_code": "310003",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 41.33
+  },
+  {
+    "adm2_code": "310004",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 44.81
+  },
+  {
+    "adm2_code": "310004",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 41.56
+  },
+  {
+    "adm2_code": "310005",
+    "source": "censo2022",
+    "indicator": "uso_internet",
+    "value": 81.48
+  },
+  {
+    "adm2_code": "310005",
+    "source": "indotel",
+    "indicator": "internet_penetracion",
+    "value": 78.09
+  }
+]

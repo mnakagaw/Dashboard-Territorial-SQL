@@ -1,0 +1,932 @@
+[
+  {
+    "adm2_code": "010001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.59
+  },
+  {
+    "adm2_code": "010002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 8.66
+  },
+  {
+    "adm2_code": "010003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.0
+  },
+  {
+    "adm2_code": "010004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.52
+  },
+  {
+    "adm2_code": "010005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 12.08
+  },
+  {
+    "adm2_code": "020001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.14
+  },
+  {
+    "adm2_code": "020002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 20.49
+  },
+  {
+    "adm2_code": "020003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 6.55
+  },
+  {
+    "adm2_code": "020004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.98
+  },
+  {
+    "adm2_code": "020005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.68
+  },
+  {
+    "adm2_code": "030001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 11.57
+  },
+  {
+    "adm2_code": "030002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.73
+  },
+  {
+    "adm2_code": "030003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 8.29
+  },
+  {
+    "adm2_code": "030004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 4.83
+  },
+  {
+    "adm2_code": "030005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 6.28
+  },
+  {
+    "adm2_code": "040001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.18
+  },
+  {
+    "adm2_code": "040002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.12
+  },
+  {
+    "adm2_code": "040003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 18.79
+  },
+  {
+    "adm2_code": "040004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.91
+  },
+  {
+    "adm2_code": "040005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.36
+  },
+  {
+    "adm2_code": "050001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 11.89
+  },
+  {
+    "adm2_code": "050002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 15.0
+  },
+  {
+    "adm2_code": "050003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.36
+  },
+  {
+    "adm2_code": "050004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.08
+  },
+  {
+    "adm2_code": "050005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 22.29
+  },
+  {
+    "adm2_code": "060001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.47
+  },
+  {
+    "adm2_code": "060002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 24.33
+  },
+  {
+    "adm2_code": "060003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.04
+  },
+  {
+    "adm2_code": "060004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.49
+  },
+  {
+    "adm2_code": "060005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 9.0
+  },
+  {
+    "adm2_code": "070001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 22.3
+  },
+  {
+    "adm2_code": "070002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 3.26
+  },
+  {
+    "adm2_code": "070003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 11.49
+  },
+  {
+    "adm2_code": "070004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 20.49
+  },
+  {
+    "adm2_code": "070005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 11.86
+  },
+  {
+    "adm2_code": "080001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.52
+  },
+  {
+    "adm2_code": "080002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 23.86
+  },
+  {
+    "adm2_code": "080003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.47
+  },
+  {
+    "adm2_code": "080004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 24.69
+  },
+  {
+    "adm2_code": "080005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 6.36
+  },
+  {
+    "adm2_code": "090001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 20.92
+  },
+  {
+    "adm2_code": "090002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 9.35
+  },
+  {
+    "adm2_code": "090003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.51
+  },
+  {
+    "adm2_code": "090004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 15.87
+  },
+  {
+    "adm2_code": "090005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 6.7
+  },
+  {
+    "adm2_code": "100001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 23.49
+  },
+  {
+    "adm2_code": "100002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 20.19
+  },
+  {
+    "adm2_code": "100003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.8
+  },
+  {
+    "adm2_code": "100004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.46
+  },
+  {
+    "adm2_code": "100005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.95
+  },
+  {
+    "adm2_code": "110001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 15.63
+  },
+  {
+    "adm2_code": "110002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.93
+  },
+  {
+    "adm2_code": "110003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.24
+  },
+  {
+    "adm2_code": "110004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.53
+  },
+  {
+    "adm2_code": "110005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.7
+  },
+  {
+    "adm2_code": "120001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.3
+  },
+  {
+    "adm2_code": "120002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 20.41
+  },
+  {
+    "adm2_code": "120003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.88
+  },
+  {
+    "adm2_code": "120004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.59
+  },
+  {
+    "adm2_code": "120005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.27
+  },
+  {
+    "adm2_code": "130001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 12.86
+  },
+  {
+    "adm2_code": "130002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.63
+  },
+  {
+    "adm2_code": "130003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.82
+  },
+  {
+    "adm2_code": "130004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 18.27
+  },
+  {
+    "adm2_code": "130005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 18.15
+  },
+  {
+    "adm2_code": "140001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 13.86
+  },
+  {
+    "adm2_code": "140002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 13.63
+  },
+  {
+    "adm2_code": "140003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 22.99
+  },
+  {
+    "adm2_code": "140004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 6.81
+  },
+  {
+    "adm2_code": "140005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 13.21
+  },
+  {
+    "adm2_code": "150001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.72
+  },
+  {
+    "adm2_code": "150002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.43
+  },
+  {
+    "adm2_code": "150003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 15.02
+  },
+  {
+    "adm2_code": "150004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 8.75
+  },
+  {
+    "adm2_code": "150005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.39
+  },
+  {
+    "adm2_code": "160001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 19.87
+  },
+  {
+    "adm2_code": "160002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 14.82
+  },
+  {
+    "adm2_code": "160003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.7
+  },
+  {
+    "adm2_code": "160004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 9.56
+  },
+  {
+    "adm2_code": "160005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.8
+  },
+  {
+    "adm2_code": "170001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 24.1
+  },
+  {
+    "adm2_code": "170002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.88
+  },
+  {
+    "adm2_code": "170003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 3.91
+  },
+  {
+    "adm2_code": "170004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 8.91
+  },
+  {
+    "adm2_code": "170005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.01
+  },
+  {
+    "adm2_code": "180001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.59
+  },
+  {
+    "adm2_code": "180002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 12.6
+  },
+  {
+    "adm2_code": "180003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 22.67
+  },
+  {
+    "adm2_code": "180004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.87
+  },
+  {
+    "adm2_code": "180005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 13.52
+  },
+  {
+    "adm2_code": "190001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 8.73
+  },
+  {
+    "adm2_code": "190002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.3
+  },
+  {
+    "adm2_code": "190003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 23.18
+  },
+  {
+    "adm2_code": "190004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 12.43
+  },
+  {
+    "adm2_code": "190005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.46
+  },
+  {
+    "adm2_code": "200001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.49
+  },
+  {
+    "adm2_code": "200002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 7.23
+  },
+  {
+    "adm2_code": "200003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.2
+  },
+  {
+    "adm2_code": "200004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.68
+  },
+  {
+    "adm2_code": "200005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 4.84
+  },
+  {
+    "adm2_code": "210001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 17.28
+  },
+  {
+    "adm2_code": "210002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 4.46
+  },
+  {
+    "adm2_code": "210003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 22.69
+  },
+  {
+    "adm2_code": "210004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 19.25
+  },
+  {
+    "adm2_code": "210005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 23.58
+  },
+  {
+    "adm2_code": "220001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.65
+  },
+  {
+    "adm2_code": "220002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 20.37
+  },
+  {
+    "adm2_code": "220003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 3.21
+  },
+  {
+    "adm2_code": "220004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 3.27
+  },
+  {
+    "adm2_code": "220005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 9.0
+  },
+  {
+    "adm2_code": "230001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 3.73
+  },
+  {
+    "adm2_code": "230002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 2.74
+  },
+  {
+    "adm2_code": "230003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.04
+  },
+  {
+    "adm2_code": "230004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.19
+  },
+  {
+    "adm2_code": "230005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 11.55
+  },
+  {
+    "adm2_code": "240001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.81
+  },
+  {
+    "adm2_code": "240002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 23.5
+  },
+  {
+    "adm2_code": "240003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 17.88
+  },
+  {
+    "adm2_code": "240004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 19.02
+  },
+  {
+    "adm2_code": "240005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 6.6
+  },
+  {
+    "adm2_code": "250001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 12.54
+  },
+  {
+    "adm2_code": "250002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 24.97
+  },
+  {
+    "adm2_code": "250003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.85
+  },
+  {
+    "adm2_code": "250004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 17.28
+  },
+  {
+    "adm2_code": "250005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 23.67
+  },
+  {
+    "adm2_code": "260001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 10.56
+  },
+  {
+    "adm2_code": "260002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.39
+  },
+  {
+    "adm2_code": "260003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.92
+  },
+  {
+    "adm2_code": "260004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 13.02
+  },
+  {
+    "adm2_code": "260005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 22.86
+  },
+  {
+    "adm2_code": "270001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 12.02
+  },
+  {
+    "adm2_code": "270002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 23.69
+  },
+  {
+    "adm2_code": "270003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.12
+  },
+  {
+    "adm2_code": "270004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 12.74
+  },
+  {
+    "adm2_code": "270005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.98
+  },
+  {
+    "adm2_code": "280001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.72
+  },
+  {
+    "adm2_code": "280002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 11.26
+  },
+  {
+    "adm2_code": "280003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 4.24
+  },
+  {
+    "adm2_code": "280004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 11.12
+  },
+  {
+    "adm2_code": "280005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 14.22
+  },
+  {
+    "adm2_code": "290001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 6.78
+  },
+  {
+    "adm2_code": "290002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.43
+  },
+  {
+    "adm2_code": "290003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 4.42
+  },
+  {
+    "adm2_code": "290004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.43
+  },
+  {
+    "adm2_code": "290005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 18.12
+  },
+  {
+    "adm2_code": "300001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 5.07
+  },
+  {
+    "adm2_code": "300002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 1.05
+  },
+  {
+    "adm2_code": "300003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 17.22
+  },
+  {
+    "adm2_code": "300004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 3.05
+  },
+  {
+    "adm2_code": "300005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 21.82
+  },
+  {
+    "adm2_code": "310001",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 18.58
+  },
+  {
+    "adm2_code": "310002",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 16.22
+  },
+  {
+    "adm2_code": "310003",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 17.62
+  },
+  {
+    "adm2_code": "310004",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 15.67
+  },
+  {
+    "adm2_code": "310005",
+    "source": "msp",
+    "indicator": "establecimientos_salud",
+    "value": 24.45
+  }
+]

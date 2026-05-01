@@ -1,0 +1,386 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 365548
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.82
+  },
+  {
+    "provincia": "Santo Domingo",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 939813
+  },
+  {
+    "provincia": "Santo Domingo",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.95
+  },
+  {
+    "provincia": "Espaillat",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 82470
+  },
+  {
+    "provincia": "Espaillat",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.92
+  },
+  {
+    "provincia": "Puerto Plata",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 125047
+  },
+  {
+    "provincia": "Puerto Plata",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.71
+  },
+  {
+    "provincia": "Santiago",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 376703
+  },
+  {
+    "provincia": "Santiago",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.85
+  },
+  {
+    "provincia": "La Vega",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 153581
+  },
+  {
+    "provincia": "La Vega",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.88
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 57499
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.83
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 68150
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.87
+  },
+  {
+    "provincia": "Duarte",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 110673
+  },
+  {
+    "provincia": "Duarte",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.79
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 57421
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.73
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 34130
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.83
+  },
+  {
+    "provincia": "Samaná",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 41936
+  },
+  {
+    "provincia": "Samaná",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.73
+  },
+  {
+    "provincia": "Dajabón",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 25502
+  },
+  {
+    "provincia": "Dajabón",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.93
+  },
+  {
+    "provincia": "Monte Cristi",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 46156
+  },
+  {
+    "provincia": "Monte Cristi",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.68
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 22894
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.82
+  },
+  {
+    "provincia": "Valverde",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 65601
+  },
+  {
+    "provincia": "Valverde",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.81
+  },
+  {
+    "provincia": "Peravia",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 70097
+  },
+  {
+    "provincia": "Peravia",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.99
+  },
+  {
+    "provincia": "San Cristóbal",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 223003
+  },
+  {
+    "provincia": "San Cristóbal",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 3.09
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 26030
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.65
+  },
+  {
+    "provincia": "Baoruco",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 33875
+  },
+  {
+    "provincia": "Baoruco",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 3.21
+  },
+  {
+    "provincia": "Barahona",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 62611
+  },
+  {
+    "provincia": "Barahona",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 3.21
+  },
+  {
+    "provincia": "Independencia",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 18743
+  },
+  {
+    "provincia": "Independencia",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 3.24
+  },
+  {
+    "provincia": "Pedernales",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 10490
+  },
+  {
+    "provincia": "Pedernales",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 3.28
+  },
+  {
+    "provincia": "Azua",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 77295
+  },
+  {
+    "provincia": "Azua",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 3.11
+  },
+  {
+    "provincia": "Elías Piña",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 19208
+  },
+  {
+    "provincia": "Elías Piña",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 3.36
+  },
+  {
+    "provincia": "San Juan",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 82816
+  },
+  {
+    "provincia": "San Juan",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.95
+  },
+  {
+    "provincia": "El Seibo",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 35268
+  },
+  {
+    "provincia": "El Seibo",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.81
+  },
+  {
+    "provincia": "La Altagracia",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 172419
+  },
+  {
+    "provincia": "La Altagracia",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.59
+  },
+  {
+    "provincia": "La Romana",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 96383
+  },
+  {
+    "provincia": "La Romana",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.99
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 116899
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.88
+  },
+  {
+    "provincia": "Monte Plata",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 72459
+  },
+  {
+    "provincia": "Monte Plata",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.84
+  },
+  {
+    "provincia": "Hato Mayor",
+    "indicator": "hogares_total",
+    "source": "one",
+    "value": 36216
+  },
+  {
+    "provincia": "Hato Mayor",
+    "indicator": "personas_por_hogar",
+    "source": "one",
+    "value": 2.76
+  }
+]

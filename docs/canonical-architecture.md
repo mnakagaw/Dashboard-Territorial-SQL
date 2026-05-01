@@ -8,9 +8,9 @@ Este documento describe la arquitectura de datos del Dashboard Territorial, con 
 
 | Fase | Nombre | Descripción | Estado |
 |------|--------|-------------|--------|
-| **Phase 1** | SQL-backed JSON Asset Store | Tabla `dataset_assets` con `json_content`. El dashboard React consume directamente estos JSON vía API. | ✅ Operativo |
-| **Phase 2** | Canonical Statistical Data Layer | Esquema en estrella normalizado: `dim_territory`, `dim_indicator`, `fact_statistic`. | ✅ Implementado (datasets planos) |
-| **Ideal** | Original Source → Canonical → Delivery | El dato nace en el sistema estadístico fuente, se normaliza en el canonical, y se entrega al dashboard vía vistas/API. | 📋 Objetivo |
+| **Phase 1** | Delivery Layer | Tabla `dataset_assets` con `json_content`. El frontend React consume estos activos optimizados. | ✅ Operativo |
+| **Phase 2** | Canonical Layer | Esquema en estrella normalizado con modelos de desglose (Breakdowns) y entidades. | ✅ Completado |
+| **Ideal** | Automated Continuity | Original Source → Canonical → Delivery. Flujo automatizado de actualización de punta a punta. | ✅ Implementado |
 
 ### Relación entre Fases
 
@@ -52,7 +52,7 @@ La tabla `dataset_assets` almacena JSON preformateados listos para consumo direc
 
 ### Indicadores Planos (Flat Indicators)
 
-Indicadores que producen un único valor escalar por territorio. Se almacenan directamente en `fact_statistic`.
+Indicadores que producen un único valor escalar por territorio. Se almacenan directamente en `fact_statistic` estableciendo `breakdown_id` como `NULL`.
 
 Ejemplos: Población total, viviendas ocupadas, tasa de uso de internet, total de establecimientos.
 
@@ -60,19 +60,23 @@ Ejemplos: Población total, viviendas ocupadas, tasa de uso de internet, total d
 
 Datasets con distribuciones internas que requieren ejes adicionales (edad, sexo, tipo de establecimiento, sector económico CIIU).
 
-Estos datasets **no se fuerzan** en `fact_statistic`. Se mantienen temporalmente en `dataset_assets` (Fase 1) hasta que se implementen las dimensiones de desglose:
+Para no hiperfragmentar `fact_statistic` agregando docenas de columnas para cada eje (edad, sexo, educación), utilizamos un **Modelo de Desgloses (Breakdown Model) Unificado**:
 
-- `dim_breakdown_type` — Define los ejes de corte (grupo etario, sexo, nivel educativo, categoría de servicio).
-- `fact_statistic_breakdown` — Extiende `fact_statistic` con el eje de desglose.
+- **`dim_breakdown`** — Define los cortes estadísticos: `breakdown_id`, `category` (ej. 'sex_age', 'education_level', 'ciiu_section'), `code` y `label`.
+- **`fact_statistic`** — Tiene una Foreign Key opcional a `breakdown_id`. Cuando un hecho representa la "Población Femenina de 15 a 19 años", el `breakdown_id` no es NULL, enlazando directamente al segmento demográfico.
 
-Esta extensión se planifica como Fase 2b.
+Esto permite que todos los datasets complejos estén canónicamente estructurados:
+- `condicion_vida` (Agua, Combustible, etc.)
+- `pyramids` (Sexo × Edad)
+- `educacion` (Eficiencia por Nivel)
+- `economia_empleo` (Distribución Sectorial CIIU y Tamaño)
 
-**Datasets complejos mantenidos en Fase 1:**
-- `condicion_vida` — Servicios por categoría (agua, saneamiento, electricidad, basura).
-- `salud_establecimientos` — Listado de entidades individuales con coordenadas.
-- `educacion` / `educacion_nivel` — Distribución por rango etario y logro educativo.
-- `economia_empleo.sectors` / `employment_size_bands` — Distribución sectorial CIIU.
-- `pyramids` — Pirámides poblacionales por decil × sexo.
+### Entidades Físicas (Entity Model)
+
+Para datos que no son agregados estadísticos sino entidades individuales con geolocalización (ej. hospitales, escuelas).
+- **`dim_facility_type`** — Tipos de entidades (ej. "Hospital Infantil", "Centro de Primer Nivel").
+- **`dim_facility`** — Cada infraestructura tiene `territory_id`, nombre, latitud, longitud.
+- Implementado para: `salud_establecimientos`.
 
 ---
 

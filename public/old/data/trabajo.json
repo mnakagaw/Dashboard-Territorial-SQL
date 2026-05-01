@@ -1,0 +1,1862 @@
+[
+  {
+    "adm2_code": "010001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 60.04
+  },
+  {
+    "adm2_code": "010001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 12.51
+  },
+  {
+    "adm2_code": "010002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 58.7
+  },
+  {
+    "adm2_code": "010002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.69
+  },
+  {
+    "adm2_code": "010003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 41.54
+  },
+  {
+    "adm2_code": "010003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.08
+  },
+  {
+    "adm2_code": "010004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 53.44
+  },
+  {
+    "adm2_code": "010004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.52
+  },
+  {
+    "adm2_code": "010005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 46.0
+  },
+  {
+    "adm2_code": "010005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.41
+  },
+  {
+    "adm2_code": "020001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 45.07
+  },
+  {
+    "adm2_code": "020001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 10.87
+  },
+  {
+    "adm2_code": "020002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.07
+  },
+  {
+    "adm2_code": "020002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 5.22
+  },
+  {
+    "adm2_code": "020003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 50.12
+  },
+  {
+    "adm2_code": "020003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.94
+  },
+  {
+    "adm2_code": "020004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.03
+  },
+  {
+    "adm2_code": "020004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.76
+  },
+  {
+    "adm2_code": "020005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 64.27
+  },
+  {
+    "adm2_code": "020005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 10.08
+  },
+  {
+    "adm2_code": "030001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 47.83
+  },
+  {
+    "adm2_code": "030001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.28
+  },
+  {
+    "adm2_code": "030002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 40.89
+  },
+  {
+    "adm2_code": "030002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.1
+  },
+  {
+    "adm2_code": "030003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 42.45
+  },
+  {
+    "adm2_code": "030003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.07
+  },
+  {
+    "adm2_code": "030004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 60.25
+  },
+  {
+    "adm2_code": "030004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.85
+  },
+  {
+    "adm2_code": "030005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.9
+  },
+  {
+    "adm2_code": "030005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.9
+  },
+  {
+    "adm2_code": "040001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 65.01
+  },
+  {
+    "adm2_code": "040001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.3
+  },
+  {
+    "adm2_code": "040002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 52.9
+  },
+  {
+    "adm2_code": "040002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 12.98
+  },
+  {
+    "adm2_code": "040003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 59.65
+  },
+  {
+    "adm2_code": "040003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.77
+  },
+  {
+    "adm2_code": "040004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 57.64
+  },
+  {
+    "adm2_code": "040004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.75
+  },
+  {
+    "adm2_code": "040005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 44.15
+  },
+  {
+    "adm2_code": "040005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.07
+  },
+  {
+    "adm2_code": "050001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 42.4
+  },
+  {
+    "adm2_code": "050001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.04
+  },
+  {
+    "adm2_code": "050002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 46.16
+  },
+  {
+    "adm2_code": "050002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.69
+  },
+  {
+    "adm2_code": "050003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 51.85
+  },
+  {
+    "adm2_code": "050003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.21
+  },
+  {
+    "adm2_code": "050004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 64.55
+  },
+  {
+    "adm2_code": "050004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 9.94
+  },
+  {
+    "adm2_code": "050005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 60.18
+  },
+  {
+    "adm2_code": "050005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.64
+  },
+  {
+    "adm2_code": "060001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 61.16
+  },
+  {
+    "adm2_code": "060001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 9.29
+  },
+  {
+    "adm2_code": "060002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.37
+  },
+  {
+    "adm2_code": "060002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.1
+  },
+  {
+    "adm2_code": "060003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 45.42
+  },
+  {
+    "adm2_code": "060003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.93
+  },
+  {
+    "adm2_code": "060004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.56
+  },
+  {
+    "adm2_code": "060004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.85
+  },
+  {
+    "adm2_code": "060005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 59.26
+  },
+  {
+    "adm2_code": "060005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.29
+  },
+  {
+    "adm2_code": "070001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 47.57
+  },
+  {
+    "adm2_code": "070001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 12.31
+  },
+  {
+    "adm2_code": "070002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 42.59
+  },
+  {
+    "adm2_code": "070002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.99
+  },
+  {
+    "adm2_code": "070003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 66.45
+  },
+  {
+    "adm2_code": "070003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.56
+  },
+  {
+    "adm2_code": "070004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 56.36
+  },
+  {
+    "adm2_code": "070004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.62
+  },
+  {
+    "adm2_code": "070005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 61.79
+  },
+  {
+    "adm2_code": "070005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.26
+  },
+  {
+    "adm2_code": "080001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 57.8
+  },
+  {
+    "adm2_code": "080001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 9.26
+  },
+  {
+    "adm2_code": "080002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 65.66
+  },
+  {
+    "adm2_code": "080002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.94
+  },
+  {
+    "adm2_code": "080003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 47.25
+  },
+  {
+    "adm2_code": "080003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.66
+  },
+  {
+    "adm2_code": "080004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 40.57
+  },
+  {
+    "adm2_code": "080004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.19
+  },
+  {
+    "adm2_code": "080005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 57.29
+  },
+  {
+    "adm2_code": "080005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.82
+  },
+  {
+    "adm2_code": "090001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 62.6
+  },
+  {
+    "adm2_code": "090001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 5.24
+  },
+  {
+    "adm2_code": "090002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 46.95
+  },
+  {
+    "adm2_code": "090002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 9.36
+  },
+  {
+    "adm2_code": "090003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 53.44
+  },
+  {
+    "adm2_code": "090003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.93
+  },
+  {
+    "adm2_code": "090004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 45.46
+  },
+  {
+    "adm2_code": "090004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.8
+  },
+  {
+    "adm2_code": "090005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 57.97
+  },
+  {
+    "adm2_code": "090005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 9.35
+  },
+  {
+    "adm2_code": "100001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 67.53
+  },
+  {
+    "adm2_code": "100001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 4.84
+  },
+  {
+    "adm2_code": "100002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 65.91
+  },
+  {
+    "adm2_code": "100002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.72
+  },
+  {
+    "adm2_code": "100003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 40.28
+  },
+  {
+    "adm2_code": "100003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.01
+  },
+  {
+    "adm2_code": "100004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 42.29
+  },
+  {
+    "adm2_code": "100004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.81
+  },
+  {
+    "adm2_code": "100005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 59.77
+  },
+  {
+    "adm2_code": "100005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.92
+  },
+  {
+    "adm2_code": "110001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.21
+  },
+  {
+    "adm2_code": "110001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 10.95
+  },
+  {
+    "adm2_code": "110002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 61.76
+  },
+  {
+    "adm2_code": "110002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.41
+  },
+  {
+    "adm2_code": "110003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 41.98
+  },
+  {
+    "adm2_code": "110003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.28
+  },
+  {
+    "adm2_code": "110004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 56.78
+  },
+  {
+    "adm2_code": "110004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 9.55
+  },
+  {
+    "adm2_code": "110005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 67.02
+  },
+  {
+    "adm2_code": "110005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.94
+  },
+  {
+    "adm2_code": "120001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 56.01
+  },
+  {
+    "adm2_code": "120001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.68
+  },
+  {
+    "adm2_code": "120002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.34
+  },
+  {
+    "adm2_code": "120002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.26
+  },
+  {
+    "adm2_code": "120003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.39
+  },
+  {
+    "adm2_code": "120003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.46
+  },
+  {
+    "adm2_code": "120004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 40.05
+  },
+  {
+    "adm2_code": "120004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.17
+  },
+  {
+    "adm2_code": "120005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 68.95
+  },
+  {
+    "adm2_code": "120005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.95
+  },
+  {
+    "adm2_code": "130001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 61.86
+  },
+  {
+    "adm2_code": "130001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.31
+  },
+  {
+    "adm2_code": "130002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 66.13
+  },
+  {
+    "adm2_code": "130002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.66
+  },
+  {
+    "adm2_code": "130003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 44.72
+  },
+  {
+    "adm2_code": "130003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.47
+  },
+  {
+    "adm2_code": "130004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 41.33
+  },
+  {
+    "adm2_code": "130004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.97
+  },
+  {
+    "adm2_code": "130005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 46.09
+  },
+  {
+    "adm2_code": "130005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.99
+  },
+  {
+    "adm2_code": "140001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 58.19
+  },
+  {
+    "adm2_code": "140001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.94
+  },
+  {
+    "adm2_code": "140002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 65.81
+  },
+  {
+    "adm2_code": "140002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.94
+  },
+  {
+    "adm2_code": "140003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 57.27
+  },
+  {
+    "adm2_code": "140003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.68
+  },
+  {
+    "adm2_code": "140004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 63.41
+  },
+  {
+    "adm2_code": "140004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.37
+  },
+  {
+    "adm2_code": "140005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 60.29
+  },
+  {
+    "adm2_code": "140005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.54
+  },
+  {
+    "adm2_code": "150001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 43.8
+  },
+  {
+    "adm2_code": "150001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.16
+  },
+  {
+    "adm2_code": "150002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.35
+  },
+  {
+    "adm2_code": "150002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.33
+  },
+  {
+    "adm2_code": "150003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 67.43
+  },
+  {
+    "adm2_code": "150003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.68
+  },
+  {
+    "adm2_code": "150004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 41.83
+  },
+  {
+    "adm2_code": "150004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.37
+  },
+  {
+    "adm2_code": "150005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.01
+  },
+  {
+    "adm2_code": "150005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 5.05
+  },
+  {
+    "adm2_code": "160001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 51.81
+  },
+  {
+    "adm2_code": "160001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.25
+  },
+  {
+    "adm2_code": "160002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 51.17
+  },
+  {
+    "adm2_code": "160002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.84
+  },
+  {
+    "adm2_code": "160003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 53.49
+  },
+  {
+    "adm2_code": "160003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.8
+  },
+  {
+    "adm2_code": "160004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 50.08
+  },
+  {
+    "adm2_code": "160004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.47
+  },
+  {
+    "adm2_code": "160005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 68.2
+  },
+  {
+    "adm2_code": "160005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.72
+  },
+  {
+    "adm2_code": "170001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.88
+  },
+  {
+    "adm2_code": "170001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.41
+  },
+  {
+    "adm2_code": "170002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 45.34
+  },
+  {
+    "adm2_code": "170002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.8
+  },
+  {
+    "adm2_code": "170003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 65.96
+  },
+  {
+    "adm2_code": "170003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.41
+  },
+  {
+    "adm2_code": "170004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 43.32
+  },
+  {
+    "adm2_code": "170004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.56
+  },
+  {
+    "adm2_code": "170005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 51.01
+  },
+  {
+    "adm2_code": "170005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.25
+  },
+  {
+    "adm2_code": "180001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 67.66
+  },
+  {
+    "adm2_code": "180001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.69
+  },
+  {
+    "adm2_code": "180002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.37
+  },
+  {
+    "adm2_code": "180002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.02
+  },
+  {
+    "adm2_code": "180003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 50.65
+  },
+  {
+    "adm2_code": "180003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.31
+  },
+  {
+    "adm2_code": "180004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.62
+  },
+  {
+    "adm2_code": "180004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 5.61
+  },
+  {
+    "adm2_code": "180005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.52
+  },
+  {
+    "adm2_code": "180005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.69
+  },
+  {
+    "adm2_code": "190001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.8
+  },
+  {
+    "adm2_code": "190001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.9
+  },
+  {
+    "adm2_code": "190002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 43.68
+  },
+  {
+    "adm2_code": "190002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.75
+  },
+  {
+    "adm2_code": "190003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 47.36
+  },
+  {
+    "adm2_code": "190003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.05
+  },
+  {
+    "adm2_code": "190004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 47.52
+  },
+  {
+    "adm2_code": "190004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.2
+  },
+  {
+    "adm2_code": "190005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.87
+  },
+  {
+    "adm2_code": "190005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.59
+  },
+  {
+    "adm2_code": "200001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 47.84
+  },
+  {
+    "adm2_code": "200001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.54
+  },
+  {
+    "adm2_code": "200002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 61.59
+  },
+  {
+    "adm2_code": "200002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.56
+  },
+  {
+    "adm2_code": "200003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 52.74
+  },
+  {
+    "adm2_code": "200003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.14
+  },
+  {
+    "adm2_code": "200004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 53.47
+  },
+  {
+    "adm2_code": "200004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.32
+  },
+  {
+    "adm2_code": "200005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 51.28
+  },
+  {
+    "adm2_code": "200005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.76
+  },
+  {
+    "adm2_code": "210001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 62.02
+  },
+  {
+    "adm2_code": "210001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 10.54
+  },
+  {
+    "adm2_code": "210002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 62.29
+  },
+  {
+    "adm2_code": "210002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 12.09
+  },
+  {
+    "adm2_code": "210003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 61.61
+  },
+  {
+    "adm2_code": "210003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.08
+  },
+  {
+    "adm2_code": "210004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 47.25
+  },
+  {
+    "adm2_code": "210004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 5.89
+  },
+  {
+    "adm2_code": "210005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 51.85
+  },
+  {
+    "adm2_code": "210005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.72
+  },
+  {
+    "adm2_code": "220001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.68
+  },
+  {
+    "adm2_code": "220001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.94
+  },
+  {
+    "adm2_code": "220002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.46
+  },
+  {
+    "adm2_code": "220002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.3
+  },
+  {
+    "adm2_code": "220003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 40.06
+  },
+  {
+    "adm2_code": "220003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 6.74
+  },
+  {
+    "adm2_code": "220004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 68.02
+  },
+  {
+    "adm2_code": "220004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.47
+  },
+  {
+    "adm2_code": "220005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 57.95
+  },
+  {
+    "adm2_code": "220005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.7
+  },
+  {
+    "adm2_code": "230001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 56.52
+  },
+  {
+    "adm2_code": "230001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.84
+  },
+  {
+    "adm2_code": "230002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 43.67
+  },
+  {
+    "adm2_code": "230002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.22
+  },
+  {
+    "adm2_code": "230003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.91
+  },
+  {
+    "adm2_code": "230003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.13
+  },
+  {
+    "adm2_code": "230004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 59.74
+  },
+  {
+    "adm2_code": "230004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 4.93
+  },
+  {
+    "adm2_code": "230005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.78
+  },
+  {
+    "adm2_code": "230005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 9.45
+  },
+  {
+    "adm2_code": "240001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 51.93
+  },
+  {
+    "adm2_code": "240001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.76
+  },
+  {
+    "adm2_code": "240002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.72
+  },
+  {
+    "adm2_code": "240002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 10.17
+  },
+  {
+    "adm2_code": "240003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 57.16
+  },
+  {
+    "adm2_code": "240003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.34
+  },
+  {
+    "adm2_code": "240004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 45.08
+  },
+  {
+    "adm2_code": "240004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 12.98
+  },
+  {
+    "adm2_code": "240005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.28
+  },
+  {
+    "adm2_code": "240005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.7
+  },
+  {
+    "adm2_code": "250001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.29
+  },
+  {
+    "adm2_code": "250001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.11
+  },
+  {
+    "adm2_code": "250002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.65
+  },
+  {
+    "adm2_code": "250002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.21
+  },
+  {
+    "adm2_code": "250003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 45.36
+  },
+  {
+    "adm2_code": "250003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.68
+  },
+  {
+    "adm2_code": "250004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 65.67
+  },
+  {
+    "adm2_code": "250004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.93
+  },
+  {
+    "adm2_code": "250005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 45.41
+  },
+  {
+    "adm2_code": "250005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 12.43
+  },
+  {
+    "adm2_code": "260001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 69.46
+  },
+  {
+    "adm2_code": "260001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.39
+  },
+  {
+    "adm2_code": "260002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.01
+  },
+  {
+    "adm2_code": "260002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 10.14
+  },
+  {
+    "adm2_code": "260003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 40.81
+  },
+  {
+    "adm2_code": "260003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 5.47
+  },
+  {
+    "adm2_code": "260004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 53.55
+  },
+  {
+    "adm2_code": "260004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.55
+  },
+  {
+    "adm2_code": "260005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 61.2
+  },
+  {
+    "adm2_code": "260005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.4
+  },
+  {
+    "adm2_code": "270001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 59.99
+  },
+  {
+    "adm2_code": "270001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.12
+  },
+  {
+    "adm2_code": "270002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 56.98
+  },
+  {
+    "adm2_code": "270002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.95
+  },
+  {
+    "adm2_code": "270003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 54.96
+  },
+  {
+    "adm2_code": "270003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.75
+  },
+  {
+    "adm2_code": "270004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 63.71
+  },
+  {
+    "adm2_code": "270004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.0
+  },
+  {
+    "adm2_code": "270005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 58.68
+  },
+  {
+    "adm2_code": "270005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.79
+  },
+  {
+    "adm2_code": "280001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.26
+  },
+  {
+    "adm2_code": "280001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.05
+  },
+  {
+    "adm2_code": "280002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 52.9
+  },
+  {
+    "adm2_code": "280002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 15.85
+  },
+  {
+    "adm2_code": "280003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 68.79
+  },
+  {
+    "adm2_code": "280003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.21
+  },
+  {
+    "adm2_code": "280004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 41.81
+  },
+  {
+    "adm2_code": "280004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 14.43
+  },
+  {
+    "adm2_code": "280005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.17
+  },
+  {
+    "adm2_code": "280005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.48
+  },
+  {
+    "adm2_code": "290001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.26
+  },
+  {
+    "adm2_code": "290001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 4.42
+  },
+  {
+    "adm2_code": "290002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 59.59
+  },
+  {
+    "adm2_code": "290002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 18.57
+  },
+  {
+    "adm2_code": "290003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 43.45
+  },
+  {
+    "adm2_code": "290003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.8
+  },
+  {
+    "adm2_code": "290004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.9
+  },
+  {
+    "adm2_code": "290004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 19.13
+  },
+  {
+    "adm2_code": "290005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 66.54
+  },
+  {
+    "adm2_code": "290005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 16.29
+  },
+  {
+    "adm2_code": "300001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 49.72
+  },
+  {
+    "adm2_code": "300001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.71
+  },
+  {
+    "adm2_code": "300002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 48.38
+  },
+  {
+    "adm2_code": "300002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 13.47
+  },
+  {
+    "adm2_code": "300003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 58.28
+  },
+  {
+    "adm2_code": "300003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 11.45
+  },
+  {
+    "adm2_code": "300004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 68.91
+  },
+  {
+    "adm2_code": "300004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.46
+  },
+  {
+    "adm2_code": "300005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 43.58
+  },
+  {
+    "adm2_code": "300005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 3.75
+  },
+  {
+    "adm2_code": "310001",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 50.94
+  },
+  {
+    "adm2_code": "310001",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 10.66
+  },
+  {
+    "adm2_code": "310002",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 68.51
+  },
+  {
+    "adm2_code": "310002",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 7.05
+  },
+  {
+    "adm2_code": "310003",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 50.65
+  },
+  {
+    "adm2_code": "310003",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 8.32
+  },
+  {
+    "adm2_code": "310004",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 60.84
+  },
+  {
+    "adm2_code": "310004",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 17.24
+  },
+  {
+    "adm2_code": "310005",
+    "source": "trabajo",
+    "indicator": "tasa_ocupacion",
+    "value": 55.71
+  },
+  {
+    "adm2_code": "310005",
+    "source": "trabajo",
+    "indicator": "tasa_desempleo",
+    "value": 5.92
+  }
+]

@@ -1,0 +1,36 @@
+[dotenv@17.3.1] injecting env (7) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+
+═══ 1. Table Row Counts ═══
+  📋 dim_territory: 201 rows
+  📋 dim_domain: 7 rows
+  📋 dim_indicator: 36 rows
+  📋 dim_source: 8 rows
+  📋 dim_breakdown: 168 rows
+  📋 dim_facility_type: 12 rows
+  📋 dim_facility: 1882 rows
+  📋 fact_statistic: 44799 rows
+  📋 raw_import_batch: 2 rows
+
+═══ 2. Fact Distribution ═══
+  📋 Flat Facts (breakdown=NULL): 8465
+  📋 Breakdown Facts (breakdown!=NULL): 36339
+
+═══ 3. Duplicate Check ═══
+  ❌ No duplicates in fact_statistic: 12531 duplicate groups
+
+═══ 4. NULL / Missing Value Audit ═══
+  ✅ All facts have values: 0 empty facts
+
+═══ 5. Entity Model Integrity ═══
+  ✅ Facilities have coordinates: 0/1882 missing lat/lon
+
+═══ 6. Breakdown Integrity ═══
+  ✅ No orphan breakdown refs: 0 orphan refs
+
+═══ 7. Coverage Check ═══
+  ✅ All indicators have data: 0 indicators with no facts
+
+═══════════════════════════════════════
+  QA Summary: ✅ 4 passed, ⚠️ 0 warnings, ❌ 1 failed
+═══════════════════════════════════════
+

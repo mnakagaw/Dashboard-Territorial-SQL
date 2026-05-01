@@ -1,0 +1,126 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "value": 115.85
+  },
+  {
+    "provincia": "Azua",
+    "value": 569.8000000000001
+  },
+  {
+    "provincia": "Baoruco",
+    "value": 548.98
+  },
+  {
+    "provincia": "Barahona",
+    "value": 521.79
+  },
+  {
+    "provincia": "Dajabón",
+    "value": 572.13
+  },
+  {
+    "provincia": "Duarte",
+    "value": 531.6400000000001
+  },
+  {
+    "provincia": "Elías Piña",
+    "value": 495.4200000000001
+  },
+  {
+    "provincia": "El Seibo",
+    "value": 211.71
+  },
+  {
+    "provincia": "Espaillat",
+    "value": 558.6999999999999
+  },
+  {
+    "provincia": "Independencia",
+    "value": 590.9
+  },
+  {
+    "provincia": "La Altagracia",
+    "value": 266.74
+  },
+  {
+    "provincia": "La Romana",
+    "value": 338.08
+  },
+  {
+    "provincia": "La Vega",
+    "value": 453.21
+  },
+  {
+    "provincia": "María Trinidad Sánchez",
+    "value": 324.90000000000003
+  },
+  {
+    "provincia": "Monte Cristi",
+    "value": 562.43
+  },
+  {
+    "provincia": "Pedernales",
+    "value": 248.71
+  },
+  {
+    "provincia": "Peravia",
+    "value": 341.42
+  },
+  {
+    "provincia": "Puerto Plata",
+    "value": 503.2100000000001
+  },
+  {
+    "provincia": "Hermanas Mirabal",
+    "value": 311.19
+  },
+  {
+    "provincia": "Samaná",
+    "value": 288.36999999999995
+  },
+  {
+    "provincia": "San Cristóbal",
+    "value": 510.08
+  },
+  {
+    "provincia": "San Juan",
+    "value": 588.2800000000001
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "value": 575.7999999999998
+  },
+  {
+    "provincia": "Sanchez Ramírez",
+    "value": 435.54
+  },
+  {
+    "provincia": "Santiago",
+    "value": 582.8899999999999
+  },
+  {
+    "provincia": "Santiago Rodríguez",
+    "value": 286.73
+  },
+  {
+    "provincia": "Valverde",
+    "value": 289.14000000000004
+  },
+  {
+    "provincia": "Monseñor Nouel",
+    "value": 368.93000000000006
+  },
+  {
+    "provincia": "Monte Plata",
+    "value": 570.29
+  },
+  {
+    "provincia": "Hato Mayor",
+    "value": 341.41999999999996
+  },
+  {
+    "provincia": "San José de Ocoa",
+    "value": 337.40999999999997
+  }
+]

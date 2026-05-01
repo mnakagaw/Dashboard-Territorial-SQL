@@ -1,0 +1,1862 @@
+[
+  {
+    "adm2_code": "010001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2815.7
+  },
+  {
+    "adm2_code": "010001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 29.56
+  },
+  {
+    "adm2_code": "010002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 479.1
+  },
+  {
+    "adm2_code": "010002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 17.1
+  },
+  {
+    "adm2_code": "010003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 264.36
+  },
+  {
+    "adm2_code": "010003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 10.05
+  },
+  {
+    "adm2_code": "010004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1391.36
+  },
+  {
+    "adm2_code": "010004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 40.0
+  },
+  {
+    "adm2_code": "010005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1363.5
+  },
+  {
+    "adm2_code": "010005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 37.71
+  },
+  {
+    "adm2_code": "020001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2576.13
+  },
+  {
+    "adm2_code": "020001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 12.89
+  },
+  {
+    "adm2_code": "020002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 525.84
+  },
+  {
+    "adm2_code": "020002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 15.64
+  },
+  {
+    "adm2_code": "020003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1469.17
+  },
+  {
+    "adm2_code": "020003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 38.9
+  },
+  {
+    "adm2_code": "020004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1212.93
+  },
+  {
+    "adm2_code": "020004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 15.56
+  },
+  {
+    "adm2_code": "020005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1860.69
+  },
+  {
+    "adm2_code": "020005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 31.42
+  },
+  {
+    "adm2_code": "030001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1169.61
+  },
+  {
+    "adm2_code": "030001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 30.99
+  },
+  {
+    "adm2_code": "030002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 778.6
+  },
+  {
+    "adm2_code": "030002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 27.07
+  },
+  {
+    "adm2_code": "030003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1829.38
+  },
+  {
+    "adm2_code": "030003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 20.81
+  },
+  {
+    "adm2_code": "030004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 638.4
+  },
+  {
+    "adm2_code": "030004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 27.54
+  },
+  {
+    "adm2_code": "030005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 251.66
+  },
+  {
+    "adm2_code": "030005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 36.86
+  },
+  {
+    "adm2_code": "040001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1498.07
+  },
+  {
+    "adm2_code": "040001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 39.83
+  },
+  {
+    "adm2_code": "040002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 791.37
+  },
+  {
+    "adm2_code": "040002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 35.19
+  },
+  {
+    "adm2_code": "040003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 651.85
+  },
+  {
+    "adm2_code": "040003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 9.1
+  },
+  {
+    "adm2_code": "040004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 233.93
+  },
+  {
+    "adm2_code": "040004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 14.63
+  },
+  {
+    "adm2_code": "040005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 973.17
+  },
+  {
+    "adm2_code": "040005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 33.55
+  },
+  {
+    "adm2_code": "050001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 833.98
+  },
+  {
+    "adm2_code": "050001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 21.35
+  },
+  {
+    "adm2_code": "050002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 926.06
+  },
+  {
+    "adm2_code": "050002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 21.44
+  },
+  {
+    "adm2_code": "050003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 144.25
+  },
+  {
+    "adm2_code": "050003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 38.05
+  },
+  {
+    "adm2_code": "050004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2384.7
+  },
+  {
+    "adm2_code": "050004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 10.19
+  },
+  {
+    "adm2_code": "050005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 535.09
+  },
+  {
+    "adm2_code": "050005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 17.41
+  },
+  {
+    "adm2_code": "060001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1102.92
+  },
+  {
+    "adm2_code": "060001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 29.44
+  },
+  {
+    "adm2_code": "060002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 135.41
+  },
+  {
+    "adm2_code": "060002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 18.35
+  },
+  {
+    "adm2_code": "060003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2518.33
+  },
+  {
+    "adm2_code": "060003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 30.72
+  },
+  {
+    "adm2_code": "060004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2516.5
+  },
+  {
+    "adm2_code": "060004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 43.26
+  },
+  {
+    "adm2_code": "060005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1706.05
+  },
+  {
+    "adm2_code": "060005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 9.88
+  },
+  {
+    "adm2_code": "070001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1507.52
+  },
+  {
+    "adm2_code": "070001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 44.75
+  },
+  {
+    "adm2_code": "070002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 575.03
+  },
+  {
+    "adm2_code": "070002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 26.6
+  },
+  {
+    "adm2_code": "070003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 657.12
+  },
+  {
+    "adm2_code": "070003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 5.1
+  },
+  {
+    "adm2_code": "070004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 230.36
+  },
+  {
+    "adm2_code": "070004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 18.43
+  },
+  {
+    "adm2_code": "070005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2483.44
+  },
+  {
+    "adm2_code": "070005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 12.12
+  },
+  {
+    "adm2_code": "080001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1963.95
+  },
+  {
+    "adm2_code": "080001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 20.44
+  },
+  {
+    "adm2_code": "080002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1184.01
+  },
+  {
+    "adm2_code": "080002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 28.19
+  },
+  {
+    "adm2_code": "080003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1943.51
+  },
+  {
+    "adm2_code": "080003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 42.02
+  },
+  {
+    "adm2_code": "080004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 750.43
+  },
+  {
+    "adm2_code": "080004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 18.07
+  },
+  {
+    "adm2_code": "080005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2479.25
+  },
+  {
+    "adm2_code": "080005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 23.64
+  },
+  {
+    "adm2_code": "090001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 603.19
+  },
+  {
+    "adm2_code": "090001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 14.94
+  },
+  {
+    "adm2_code": "090002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2598.98
+  },
+  {
+    "adm2_code": "090002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 6.25
+  },
+  {
+    "adm2_code": "090003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1397.86
+  },
+  {
+    "adm2_code": "090003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 12.99
+  },
+  {
+    "adm2_code": "090004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 210.54
+  },
+  {
+    "adm2_code": "090004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 43.65
+  },
+  {
+    "adm2_code": "090005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1650.96
+  },
+  {
+    "adm2_code": "090005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 32.85
+  },
+  {
+    "adm2_code": "100001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2356.29
+  },
+  {
+    "adm2_code": "100001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 11.09
+  },
+  {
+    "adm2_code": "100002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2701.3
+  },
+  {
+    "adm2_code": "100002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 19.69
+  },
+  {
+    "adm2_code": "100003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1776.38
+  },
+  {
+    "adm2_code": "100003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 34.02
+  },
+  {
+    "adm2_code": "100004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2143.63
+  },
+  {
+    "adm2_code": "100004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 44.06
+  },
+  {
+    "adm2_code": "100005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1553.36
+  },
+  {
+    "adm2_code": "100005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 34.66
+  },
+  {
+    "adm2_code": "110001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1953.74
+  },
+  {
+    "adm2_code": "110001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 31.94
+  },
+  {
+    "adm2_code": "110002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2727.57
+  },
+  {
+    "adm2_code": "110002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 29.02
+  },
+  {
+    "adm2_code": "110003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1335.01
+  },
+  {
+    "adm2_code": "110003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 34.51
+  },
+  {
+    "adm2_code": "110004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2009.21
+  },
+  {
+    "adm2_code": "110004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 12.69
+  },
+  {
+    "adm2_code": "110005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 484.32
+  },
+  {
+    "adm2_code": "110005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 41.34
+  },
+  {
+    "adm2_code": "120001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1138.69
+  },
+  {
+    "adm2_code": "120001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 14.82
+  },
+  {
+    "adm2_code": "120002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2798.53
+  },
+  {
+    "adm2_code": "120002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 41.13
+  },
+  {
+    "adm2_code": "120003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 292.51
+  },
+  {
+    "adm2_code": "120003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 27.41
+  },
+  {
+    "adm2_code": "120004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1371.54
+  },
+  {
+    "adm2_code": "120004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 20.05
+  },
+  {
+    "adm2_code": "120005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 387.03
+  },
+  {
+    "adm2_code": "120005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 22.79
+  },
+  {
+    "adm2_code": "130001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1372.24
+  },
+  {
+    "adm2_code": "130001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 36.27
+  },
+  {
+    "adm2_code": "130002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 446.47
+  },
+  {
+    "adm2_code": "130002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 16.75
+  },
+  {
+    "adm2_code": "130003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2767.45
+  },
+  {
+    "adm2_code": "130003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 23.18
+  },
+  {
+    "adm2_code": "130004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1667.91
+  },
+  {
+    "adm2_code": "130004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 19.4
+  },
+  {
+    "adm2_code": "130005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 630.42
+  },
+  {
+    "adm2_code": "130005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 41.92
+  },
+  {
+    "adm2_code": "140001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1071.31
+  },
+  {
+    "adm2_code": "140001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 19.37
+  },
+  {
+    "adm2_code": "140002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2770.05
+  },
+  {
+    "adm2_code": "140002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 28.26
+  },
+  {
+    "adm2_code": "140003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1339.52
+  },
+  {
+    "adm2_code": "140003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 23.8
+  },
+  {
+    "adm2_code": "140004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1960.18
+  },
+  {
+    "adm2_code": "140004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 26.93
+  },
+  {
+    "adm2_code": "140005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2924.47
+  },
+  {
+    "adm2_code": "140005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 8.51
+  },
+  {
+    "adm2_code": "150001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2377.59
+  },
+  {
+    "adm2_code": "150001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 41.14
+  },
+  {
+    "adm2_code": "150002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2339.44
+  },
+  {
+    "adm2_code": "150002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 16.95
+  },
+  {
+    "adm2_code": "150003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1819.81
+  },
+  {
+    "adm2_code": "150003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 41.32
+  },
+  {
+    "adm2_code": "150004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1589.86
+  },
+  {
+    "adm2_code": "150004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 14.93
+  },
+  {
+    "adm2_code": "150005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1994.12
+  },
+  {
+    "adm2_code": "150005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 44.06
+  },
+  {
+    "adm2_code": "160001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2745.32
+  },
+  {
+    "adm2_code": "160001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 12.36
+  },
+  {
+    "adm2_code": "160002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 298.05
+  },
+  {
+    "adm2_code": "160002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 32.52
+  },
+  {
+    "adm2_code": "160003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2915.54
+  },
+  {
+    "adm2_code": "160003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 40.25
+  },
+  {
+    "adm2_code": "160004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2972.15
+  },
+  {
+    "adm2_code": "160004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 5.99
+  },
+  {
+    "adm2_code": "160005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1883.31
+  },
+  {
+    "adm2_code": "160005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 37.37
+  },
+  {
+    "adm2_code": "170001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2141.52
+  },
+  {
+    "adm2_code": "170001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 42.47
+  },
+  {
+    "adm2_code": "170002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2390.97
+  },
+  {
+    "adm2_code": "170002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 5.27
+  },
+  {
+    "adm2_code": "170003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1291.99
+  },
+  {
+    "adm2_code": "170003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 26.53
+  },
+  {
+    "adm2_code": "170004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2345.05
+  },
+  {
+    "adm2_code": "170004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 43.76
+  },
+  {
+    "adm2_code": "170005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2082.21
+  },
+  {
+    "adm2_code": "170005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 31.31
+  },
+  {
+    "adm2_code": "180001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 557.59
+  },
+  {
+    "adm2_code": "180001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 44.16
+  },
+  {
+    "adm2_code": "180002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 277.61
+  },
+  {
+    "adm2_code": "180002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 42.07
+  },
+  {
+    "adm2_code": "180003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1780.13
+  },
+  {
+    "adm2_code": "180003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 35.34
+  },
+  {
+    "adm2_code": "180004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2775.1
+  },
+  {
+    "adm2_code": "180004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 39.18
+  },
+  {
+    "adm2_code": "180005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2859.61
+  },
+  {
+    "adm2_code": "180005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 15.85
+  },
+  {
+    "adm2_code": "190001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2875.76
+  },
+  {
+    "adm2_code": "190001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 6.84
+  },
+  {
+    "adm2_code": "190002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1541.63
+  },
+  {
+    "adm2_code": "190002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 36.78
+  },
+  {
+    "adm2_code": "190003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1914.76
+  },
+  {
+    "adm2_code": "190003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 18.42
+  },
+  {
+    "adm2_code": "190004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1189.11
+  },
+  {
+    "adm2_code": "190004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 10.93
+  },
+  {
+    "adm2_code": "190005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 304.07
+  },
+  {
+    "adm2_code": "190005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 16.41
+  },
+  {
+    "adm2_code": "200001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2441.98
+  },
+  {
+    "adm2_code": "200001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 8.22
+  },
+  {
+    "adm2_code": "200002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1464.47
+  },
+  {
+    "adm2_code": "200002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 40.11
+  },
+  {
+    "adm2_code": "200003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1359.86
+  },
+  {
+    "adm2_code": "200003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 27.84
+  },
+  {
+    "adm2_code": "200004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1320.03
+  },
+  {
+    "adm2_code": "200004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 29.04
+  },
+  {
+    "adm2_code": "200005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2827.6
+  },
+  {
+    "adm2_code": "200005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 30.6
+  },
+  {
+    "adm2_code": "210001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1285.45
+  },
+  {
+    "adm2_code": "210001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 25.07
+  },
+  {
+    "adm2_code": "210002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 501.15
+  },
+  {
+    "adm2_code": "210002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 9.52
+  },
+  {
+    "adm2_code": "210003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1828.52
+  },
+  {
+    "adm2_code": "210003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 29.92
+  },
+  {
+    "adm2_code": "210004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2389.24
+  },
+  {
+    "adm2_code": "210004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 5.63
+  },
+  {
+    "adm2_code": "210005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2302.1
+  },
+  {
+    "adm2_code": "210005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 43.32
+  },
+  {
+    "adm2_code": "220001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1374.72
+  },
+  {
+    "adm2_code": "220001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 37.2
+  },
+  {
+    "adm2_code": "220002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1480.18
+  },
+  {
+    "adm2_code": "220002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 16.77
+  },
+  {
+    "adm2_code": "220003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1025.91
+  },
+  {
+    "adm2_code": "220003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 25.0
+  },
+  {
+    "adm2_code": "220004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2265.21
+  },
+  {
+    "adm2_code": "220004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 34.87
+  },
+  {
+    "adm2_code": "220005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1206.24
+  },
+  {
+    "adm2_code": "220005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 38.43
+  },
+  {
+    "adm2_code": "230001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1767.47
+  },
+  {
+    "adm2_code": "230001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 21.47
+  },
+  {
+    "adm2_code": "230002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1463.32
+  },
+  {
+    "adm2_code": "230002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 18.93
+  },
+  {
+    "adm2_code": "230003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1511.12
+  },
+  {
+    "adm2_code": "230003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 18.32
+  },
+  {
+    "adm2_code": "230004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 662.29
+  },
+  {
+    "adm2_code": "230004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 24.73
+  },
+  {
+    "adm2_code": "230005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2157.08
+  },
+  {
+    "adm2_code": "230005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 21.59
+  },
+  {
+    "adm2_code": "240001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1153.83
+  },
+  {
+    "adm2_code": "240001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 38.86
+  },
+  {
+    "adm2_code": "240002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1403.44
+  },
+  {
+    "adm2_code": "240002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 33.58
+  },
+  {
+    "adm2_code": "240003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2232.22
+  },
+  {
+    "adm2_code": "240003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 26.43
+  },
+  {
+    "adm2_code": "240004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1015.65
+  },
+  {
+    "adm2_code": "240004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 42.34
+  },
+  {
+    "adm2_code": "240005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2084.71
+  },
+  {
+    "adm2_code": "240005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 24.59
+  },
+  {
+    "adm2_code": "250001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1135.63
+  },
+  {
+    "adm2_code": "250001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 34.29
+  },
+  {
+    "adm2_code": "250002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 348.76
+  },
+  {
+    "adm2_code": "250002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 20.06
+  },
+  {
+    "adm2_code": "250003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 54.25
+  },
+  {
+    "adm2_code": "250003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 42.24
+  },
+  {
+    "adm2_code": "250004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 770.36
+  },
+  {
+    "adm2_code": "250004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 8.08
+  },
+  {
+    "adm2_code": "250005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 754.87
+  },
+  {
+    "adm2_code": "250005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 7.33
+  },
+  {
+    "adm2_code": "260001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1736.69
+  },
+  {
+    "adm2_code": "260001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 43.87
+  },
+  {
+    "adm2_code": "260002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1380.15
+  },
+  {
+    "adm2_code": "260002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 26.95
+  },
+  {
+    "adm2_code": "260003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1738.64
+  },
+  {
+    "adm2_code": "260003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 31.15
+  },
+  {
+    "adm2_code": "260004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2640.4
+  },
+  {
+    "adm2_code": "260004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 37.51
+  },
+  {
+    "adm2_code": "260005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 453.86
+  },
+  {
+    "adm2_code": "260005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 12.76
+  },
+  {
+    "adm2_code": "270001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1317.69
+  },
+  {
+    "adm2_code": "270001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 8.27
+  },
+  {
+    "adm2_code": "270002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2883.81
+  },
+  {
+    "adm2_code": "270002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 26.61
+  },
+  {
+    "adm2_code": "270003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2507.57
+  },
+  {
+    "adm2_code": "270003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 34.64
+  },
+  {
+    "adm2_code": "270004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1442.84
+  },
+  {
+    "adm2_code": "270004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 6.83
+  },
+  {
+    "adm2_code": "270005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1120.75
+  },
+  {
+    "adm2_code": "270005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 35.88
+  },
+  {
+    "adm2_code": "280001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1146.02
+  },
+  {
+    "adm2_code": "280001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 11.97
+  },
+  {
+    "adm2_code": "280002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2706.93
+  },
+  {
+    "adm2_code": "280002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 5.08
+  },
+  {
+    "adm2_code": "280003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 256.26
+  },
+  {
+    "adm2_code": "280003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 21.76
+  },
+  {
+    "adm2_code": "280004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2436.42
+  },
+  {
+    "adm2_code": "280004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 13.38
+  },
+  {
+    "adm2_code": "280005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2685.65
+  },
+  {
+    "adm2_code": "280005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 14.11
+  },
+  {
+    "adm2_code": "290001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 128.45
+  },
+  {
+    "adm2_code": "290001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 33.39
+  },
+  {
+    "adm2_code": "290002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1180.17
+  },
+  {
+    "adm2_code": "290002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 7.07
+  },
+  {
+    "adm2_code": "290003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2619.16
+  },
+  {
+    "adm2_code": "290003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 29.73
+  },
+  {
+    "adm2_code": "290004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2971.94
+  },
+  {
+    "adm2_code": "290004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 39.73
+  },
+  {
+    "adm2_code": "290005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1881.94
+  },
+  {
+    "adm2_code": "290005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 36.4
+  },
+  {
+    "adm2_code": "300001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 444.13
+  },
+  {
+    "adm2_code": "300001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 16.32
+  },
+  {
+    "adm2_code": "300002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1561.29
+  },
+  {
+    "adm2_code": "300002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 13.56
+  },
+  {
+    "adm2_code": "300003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 61.04
+  },
+  {
+    "adm2_code": "300003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 43.14
+  },
+  {
+    "adm2_code": "300004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2136.9
+  },
+  {
+    "adm2_code": "300004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 29.54
+  },
+  {
+    "adm2_code": "300005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2398.08
+  },
+  {
+    "adm2_code": "300005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 38.95
+  },
+  {
+    "adm2_code": "310001",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2956.43
+  },
+  {
+    "adm2_code": "310001",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 13.17
+  },
+  {
+    "adm2_code": "310002",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 2687.62
+  },
+  {
+    "adm2_code": "310002",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 13.19
+  },
+  {
+    "adm2_code": "310003",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1531.8
+  },
+  {
+    "adm2_code": "310003",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 44.83
+  },
+  {
+    "adm2_code": "310004",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 1245.9
+  },
+  {
+    "adm2_code": "310004",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 44.45
+  },
+  {
+    "adm2_code": "310005",
+    "source": "policia",
+    "indicator": "delitos_reportados",
+    "value": 862.83
+  },
+  {
+    "adm2_code": "310005",
+    "source": "policia",
+    "indicator": "tasa_homicidios_100k",
+    "value": 12.57
+  }
+]

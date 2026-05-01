@@ -22,40 +22,40 @@ Visualización y comparación de indicadores territoriales a tres niveles: **mun
 - **Resumen narrativo (IA)**: Diagnóstico automático vía ChatGPT
 - **Exportación PDF**: Impresión tipo informe
 
-## Arquitectura
-
-```
-┌─────────────────┐     ┌──────────────┐     ┌──────────────┐
-│  React SPA      │────▶│  PHP API     │────▶│  MariaDB     │
-│  (Vite + React) │     │  (data.php)  │     │  (SQL)       │
-└─────────────────┘     └──────────────┘     └──────────────┘
-        │                                          │
-        │  GeoJSON (estáticos)                     │  dataset_assets
-        └──── /data/adm2.geojson                   └── 36 datasets JSON
-```
-
-### Almacenamiento de datos: `dataset_assets`
-
-Los datos se almacenan en una tabla SQL con columnas de gestión:
-
-| Columna | Descripción |
-|---------|-------------|
-| `asset_key` | Clave única del dataset (ej: `indicadores_basicos`) |
-| `version_no` | Número de versión (incrementado en cada actualización) |
-| `json_content` | Contenido JSON completo (LONGTEXT) |
-| `content_hash` | SHA-256 del contenido (detección de cambios) |
-| `source_name` | Nombre del archivo fuente |
-| `is_active` | Flag activo/inactivo (soft-delete) |
-| `created_at` / `updated_at` | Timestamps de auditoría |
-
-> **Nota**: Los archivos GeoJSON (>15 MB) se sirven como archivos estáticos. Solo sus metadatos se almacenan en SQL.
-
-### APIs duales
-
-| Entorno | Backend | Base de datos | Estado |
-|---------|---------|---------------|--------|
-| **prodecare.net (pruebas)** | PHP (`data.php`) | MariaDB | ✅ Operativo |
-| **Entorno ASP.NET (producción)** | ASP.NET Core (`server/`) | SQL Server | 📋 Planificado |
+## Arquitectura de Datos (Capa Canónica)
+ 
+ El sistema se rige por un **Esquema Canónico Normalizado (Phase 2)** que actúa como única fuente de verdad (*Single Source of Truth*), garantizando la integridad de las estadísticas territoriales.
+ 
+ ```
+ ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+ │   Data Source   │────▶│ Canonical Layer │────▶│ Delivery Layer  │
+ │ (Censas/Excel)  │     │ (Star Schema)   │     │ (JSON Cache)    │
+ └─────────────────┘     └─────────────────┘     └─────────────────┘
+          │                       │                       │
+     Scripts ETL           fact_statistic           dataset_assets
+    (Idempotentes)         (Normalizado)          (Frontend ready)
+ ```
+ 
+ ### 1. Capa Canónica (Star Schema)
+ 
+ Los datos se organizan en un esquema en estrella diseñado para responder a cualquier consulta estadística:
+ 
+ - **`dim_territory`**: Jerarquía geográfica recursiva (Nacional → Región → Provincia → Municipio).
+ - **`dim_indicator`**: Catálogo de indicadores con métodos de agregación definidos.
+ - **`dim_breakdown`**: Modelo de desgloses unificado para datos complejos (sexo, edad, nivel educativo, sectores CIIU).
+ - **`dim_facility`**: Modelo de entidades para infraestructuras georreferenciadas (Salud).
+ - **`fact_statistic`**: Tabla de hechos con integridad referencial y bloqueos de duplicidad por `period_year` y `breakdown_id`.
+ 
+ ### 2. Capa de Entrega (Delivery Layer)
+ 
+ Para mantener el rendimiento óptimo del dashboard React, existe la tabla `dataset_assets`. Esta capa almacena los objetos JSON necesarios para el frontend, los cuales son **regenerados íntegramente** desde la Capa Canónica cada vez que hay una actualización.
+ 
+ ### Bases de Datos Soportadas
+ 
+ | Entorno | Motor | Estado |
+ |---------|---------|--------|
+ | **Desarrollo / CoreServer** | MariaDB 10.11+ | ✅ 100% Funcional |
+ | **Producción ONE** | SQL Server 2022+ | ✅ DDL T-SQL Incluido |
 
 ## Instalación (desarrollo local)
 

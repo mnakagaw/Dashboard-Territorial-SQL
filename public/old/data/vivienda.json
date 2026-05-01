@@ -1,0 +1,1898 @@
+[
+  {
+    "adm2_code": "01001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 365548.0
+  },
+  {
+    "adm2_code": "01001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.81525271646952
+  },
+  {
+    "adm2_code": "32001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 351360.0
+  },
+  {
+    "adm2_code": "32001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9289532103825136
+  },
+  {
+    "adm2_code": "32002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 143144.0
+  },
+  {
+    "adm2_code": "32002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8682864807466606
+  },
+  {
+    "adm2_code": "32003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 224697.0
+  },
+  {
+    "adm2_code": "32003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0008144300992003
+  },
+  {
+    "adm2_code": "32004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 56593.0
+  },
+  {
+    "adm2_code": "32004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.951601788207022
+  },
+  {
+    "adm2_code": "32005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 20885.0
+  },
+  {
+    "adm2_code": "32005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8393105099353604
+  },
+  {
+    "adm2_code": "32006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 111928.0
+  },
+  {
+    "adm2_code": "32006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.004672646701451
+  },
+  {
+    "adm2_code": "32007",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 31206.0
+  },
+  {
+    "adm2_code": "32007",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.979330897904249
+  },
+  {
+    "adm2_code": "09001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 54913.0
+  },
+  {
+    "adm2_code": "09001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9869429825360116
+  },
+  {
+    "adm2_code": "09002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2996.0
+  },
+  {
+    "adm2_code": "09002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.656875834445928
+  },
+  {
+    "adm2_code": "09003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 15090.0
+  },
+  {
+    "adm2_code": "09003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.702518223989397
+  },
+  {
+    "adm2_code": "09004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2883.0
+  },
+  {
+    "adm2_code": "09004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7686437738466876
+  },
+  {
+    "adm2_code": "09005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6588.0
+  },
+  {
+    "adm2_code": "09005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0833333333333335
+  },
+  {
+    "adm2_code": "18001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 59241.0
+  },
+  {
+    "adm2_code": "18001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7361624550564643
+  },
+  {
+    "adm2_code": "18002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7149.0
+  },
+  {
+    "adm2_code": "18002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.472513638271087
+  },
+  {
+    "adm2_code": "18003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2447.0
+  },
+  {
+    "adm2_code": "18003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6424192889252147
+  },
+  {
+    "adm2_code": "18004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 8905.0
+  },
+  {
+    "adm2_code": "18004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.574396406513195
+  },
+  {
+    "adm2_code": "18005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4814.0
+  },
+  {
+    "adm2_code": "18005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8261321146655587
+  },
+  {
+    "adm2_code": "18006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6575.0
+  },
+  {
+    "adm2_code": "18006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6733079847908745
+  },
+  {
+    "adm2_code": "18007",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 21065.0
+  },
+  {
+    "adm2_code": "18007",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.705055779729409
+  },
+  {
+    "adm2_code": "18008",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7153.0
+  },
+  {
+    "adm2_code": "18008",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8348944498811686
+  },
+  {
+    "adm2_code": "18009",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7698.0
+  },
+  {
+    "adm2_code": "18009",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6958950376721225
+  },
+  {
+    "adm2_code": "25001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 272180.0
+  },
+  {
+    "adm2_code": "25001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8354324344183994
+  },
+  {
+    "adm2_code": "25002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 17181.0
+  },
+  {
+    "adm2_code": "25002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8733484663290842
+  },
+  {
+    "adm2_code": "25003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5252.0
+  },
+  {
+    "adm2_code": "25003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7389565879664888
+  },
+  {
+    "adm2_code": "25004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 9956.0
+  },
+  {
+    "adm2_code": "25004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.023603856970671
+  },
+  {
+    "adm2_code": "25005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 13028.0
+  },
+  {
+    "adm2_code": "25005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8715842800122813
+  },
+  {
+    "adm2_code": "25006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 19888.0
+  },
+  {
+    "adm2_code": "25006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8996882542236526
+  },
+  {
+    "adm2_code": "25007",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 14456.0
+  },
+  {
+    "adm2_code": "25007",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9190647482014387
+  },
+  {
+    "adm2_code": "25008",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 15621.0
+  },
+  {
+    "adm2_code": "25008",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9505153319249726
+  },
+  {
+    "adm2_code": "25009",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5222.0
+  },
+  {
+    "adm2_code": "25009",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6844121026426655
+  },
+  {
+    "adm2_code": "25010",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3919.0
+  },
+  {
+    "adm2_code": "25010",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.982903801990304
+  },
+  {
+    "adm2_code": "13001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 96210.0
+  },
+  {
+    "adm2_code": "13001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9316599106122023
+  },
+  {
+    "adm2_code": "13002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 23946.0
+  },
+  {
+    "adm2_code": "13002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7693978117430884
+  },
+  {
+    "adm2_code": "13003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 23382.0
+  },
+  {
+    "adm2_code": "13003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.782439483363271
+  },
+  {
+    "adm2_code": "13004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10043.0
+  },
+  {
+    "adm2_code": "13004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.916359653489993
+  },
+  {
+    "adm2_code": "24001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 29915.0
+  },
+  {
+    "adm2_code": "24001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8144074878823333
+  },
+  {
+    "adm2_code": "24002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5837.0
+  },
+  {
+    "adm2_code": "24002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.794414939181086
+  },
+  {
+    "adm2_code": "24003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 8349.0
+  },
+  {
+    "adm2_code": "24003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8482452988381843
+  },
+  {
+    "adm2_code": "24004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 13398.0
+  },
+  {
+    "adm2_code": "24004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.862964621585311
+  },
+  {
+    "adm2_code": "28001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 50536.0
+  },
+  {
+    "adm2_code": "28001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8677180623713787
+  },
+  {
+    "adm2_code": "28002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 8274.0
+  },
+  {
+    "adm2_code": "28002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.886753686246072
+  },
+  {
+    "adm2_code": "28003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 9340.0
+  },
+  {
+    "adm2_code": "28003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.862847965738758
+  },
+  {
+    "adm2_code": "06001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 73225.0
+  },
+  {
+    "adm2_code": "06001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.768398770911574
+  },
+  {
+    "adm2_code": "06002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5225.0
+  },
+  {
+    "adm2_code": "06002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.658373205741627
+  },
+  {
+    "adm2_code": "06003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5995.0
+  },
+  {
+    "adm2_code": "06003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8
+  },
+  {
+    "adm2_code": "06004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6303.0
+  },
+  {
+    "adm2_code": "06004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0196731715056324
+  },
+  {
+    "adm2_code": "06005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 12685.0
+  },
+  {
+    "adm2_code": "06005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.843200630666141
+  },
+  {
+    "adm2_code": "06006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5101.0
+  },
+  {
+    "adm2_code": "06006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.763967849441286
+  },
+  {
+    "adm2_code": "06007",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2139.0
+  },
+  {
+    "adm2_code": "06007",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.694249649368864
+  },
+  {
+    "adm2_code": "14001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 29198.0
+  },
+  {
+    "adm2_code": "14001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.788684156449072
+  },
+  {
+    "adm2_code": "14002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10890.0
+  },
+  {
+    "adm2_code": "14002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6333333333333333
+  },
+  {
+    "adm2_code": "14003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10928.0
+  },
+  {
+    "adm2_code": "14003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.72108345534407
+  },
+  {
+    "adm2_code": "14004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6405.0
+  },
+  {
+    "adm2_code": "14004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.622326307572209
+  },
+  {
+    "adm2_code": "19001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 14698.0
+  },
+  {
+    "adm2_code": "19001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8126275683766497
+  },
+  {
+    "adm2_code": "19002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10449.0
+  },
+  {
+    "adm2_code": "19002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7698344339171213
+  },
+  {
+    "adm2_code": "19003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 8983.0
+  },
+  {
+    "adm2_code": "19003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.912056105977958
+  },
+  {
+    "adm2_code": "20001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 22840.0
+  },
+  {
+    "adm2_code": "20001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7740367775831873
+  },
+  {
+    "adm2_code": "20002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 9374.0
+  },
+  {
+    "adm2_code": "20002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7110091743119265
+  },
+  {
+    "adm2_code": "20003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 9722.0
+  },
+  {
+    "adm2_code": "20003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.643077556058424
+  },
+  {
+    "adm2_code": "05001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 12092.0
+  },
+  {
+    "adm2_code": "05001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.961379424412835
+  },
+  {
+    "adm2_code": "05002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5658.0
+  },
+  {
+    "adm2_code": "05002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9740190880169672
+  },
+  {
+    "adm2_code": "05003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2859.0
+  },
+  {
+    "adm2_code": "05003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6526757607555087
+  },
+  {
+    "adm2_code": "05004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2646.0
+  },
+  {
+    "adm2_code": "05004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.079743008314437
+  },
+  {
+    "adm2_code": "05005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2247.0
+  },
+  {
+    "adm2_code": "05005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8664886515353807
+  },
+  {
+    "adm2_code": "15001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10115.0
+  },
+  {
+    "adm2_code": "15001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.675926841324765
+  },
+  {
+    "adm2_code": "15002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7234.0
+  },
+  {
+    "adm2_code": "15002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.569532761957423
+  },
+  {
+    "adm2_code": "15003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 14598.0
+  },
+  {
+    "adm2_code": "15003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.716331004247157
+  },
+  {
+    "adm2_code": "15004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4123.0
+  },
+  {
+    "adm2_code": "15004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6956099927237447
+  },
+  {
+    "adm2_code": "15005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3944.0
+  },
+  {
+    "adm2_code": "15005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7036004056795133
+  },
+  {
+    "adm2_code": "15006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6142.0
+  },
+  {
+    "adm2_code": "15006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.675675675675676
+  },
+  {
+    "adm2_code": "26001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 13948.0
+  },
+  {
+    "adm2_code": "26001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.781617436191569
+  },
+  {
+    "adm2_code": "26002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4062.0
+  },
+  {
+    "adm2_code": "26002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9089118660758246
+  },
+  {
+    "adm2_code": "26003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4884.0
+  },
+  {
+    "adm2_code": "26003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8708026208026207
+  },
+  {
+    "adm2_code": "27001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 31178.0
+  },
+  {
+    "adm2_code": "27001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.779491949451536
+  },
+  {
+    "adm2_code": "27002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 24105.0
+  },
+  {
+    "adm2_code": "27002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8957892553412155
+  },
+  {
+    "adm2_code": "27003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10318.0
+  },
+  {
+    "adm2_code": "27003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6756154293467724
+  },
+  {
+    "adm2_code": "17001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 53021.0
+  },
+  {
+    "adm2_code": "17001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9803096886139455
+  },
+  {
+    "adm2_code": "17002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10335.0
+  },
+  {
+    "adm2_code": "17002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1147556845670055
+  },
+  {
+    "adm2_code": "17003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6741.0
+  },
+  {
+    "adm2_code": "17003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8426049547544876
+  },
+  {
+    "adm2_code": "21001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 88583.0
+  },
+  {
+    "adm2_code": "21001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1359628822686068
+  },
+  {
+    "adm2_code": "21002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5680.0
+  },
+  {
+    "adm2_code": "21002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.222535211267606
+  },
+  {
+    "adm2_code": "21003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 53277.0
+  },
+  {
+    "adm2_code": "21003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.001069880060814
+  },
+  {
+    "adm2_code": "21004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 10423.0
+  },
+  {
+    "adm2_code": "21004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.039815791998465
+  },
+  {
+    "adm2_code": "21005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 32108.0
+  },
+  {
+    "adm2_code": "21005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0403637722685937
+  },
+  {
+    "adm2_code": "21006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 16375.0
+  },
+  {
+    "adm2_code": "21006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1443664122137402
+  },
+  {
+    "adm2_code": "21007",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 12565.0
+  },
+  {
+    "adm2_code": "21007",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0459212097095105
+  },
+  {
+    "adm2_code": "21008",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3992.0
+  },
+  {
+    "adm2_code": "21008",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.4514028056112225
+  },
+  {
+    "adm2_code": "31001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 16200.0
+  },
+  {
+    "adm2_code": "31001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.678641975308642
+  },
+  {
+    "adm2_code": "31002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4379.0
+  },
+  {
+    "adm2_code": "31002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.6572276775519525
+  },
+  {
+    "adm2_code": "31003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5451.0
+  },
+  {
+    "adm2_code": "31003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.577875619152449
+  },
+  {
+    "adm2_code": "03001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 12152.0
+  },
+  {
+    "adm2_code": "03001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.344634628044766
+  },
+  {
+    "adm2_code": "03002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5359.0
+  },
+  {
+    "adm2_code": "03002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9253592088076132
+  },
+  {
+    "adm2_code": "03003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 9962.0
+  },
+  {
+    "adm2_code": "03003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.078297530616342
+  },
+  {
+    "adm2_code": "03004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3693.0
+  },
+  {
+    "adm2_code": "03004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.364473327917682
+  },
+  {
+    "adm2_code": "03005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2709.0
+  },
+  {
+    "adm2_code": "03005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.4348468069398304
+  },
+  {
+    "adm2_code": "04001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 27560.0
+  },
+  {
+    "adm2_code": "04001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.27155297532656
+  },
+  {
+    "adm2_code": "04002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4871.0
+  },
+  {
+    "adm2_code": "04002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.2668856497639087
+  },
+  {
+    "adm2_code": "04003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4468.0
+  },
+  {
+    "adm2_code": "04003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8028200537153087
+  },
+  {
+    "adm2_code": "04004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5114.0
+  },
+  {
+    "adm2_code": "04004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.2471646460696126
+  },
+  {
+    "adm2_code": "04005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 8230.0
+  },
+  {
+    "adm2_code": "04005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.120048602673147
+  },
+  {
+    "adm2_code": "04006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 1370.0
+  },
+  {
+    "adm2_code": "04006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.202919708029197
+  },
+  {
+    "adm2_code": "04007",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2741.0
+  },
+  {
+    "adm2_code": "04007",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.351331630791682
+  },
+  {
+    "adm2_code": "04008",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2924.0
+  },
+  {
+    "adm2_code": "04008",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1542407660738716
+  },
+  {
+    "adm2_code": "04009",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 1552.0
+  },
+  {
+    "adm2_code": "04009",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0992268041237114
+  },
+  {
+    "adm2_code": "04010",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2468.0
+  },
+  {
+    "adm2_code": "04010",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.09805510534846
+  },
+  {
+    "adm2_code": "04011",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 1313.0
+  },
+  {
+    "adm2_code": "04011",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.6153846153846154
+  },
+  {
+    "adm2_code": "10001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5852.0
+  },
+  {
+    "adm2_code": "10001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.272898154477102
+  },
+  {
+    "adm2_code": "10002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4445.0
+  },
+  {
+    "adm2_code": "10002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1777277840269966
+  },
+  {
+    "adm2_code": "10003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2376.0
+  },
+  {
+    "adm2_code": "10003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.3973063973063975
+  },
+  {
+    "adm2_code": "10004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2173.0
+  },
+  {
+    "adm2_code": "10004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.3032673722963644
+  },
+  {
+    "adm2_code": "10005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2412.0
+  },
+  {
+    "adm2_code": "10005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1579601990049753
+  },
+  {
+    "adm2_code": "10006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 1485.0
+  },
+  {
+    "adm2_code": "10006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.05993265993266
+  },
+  {
+    "adm2_code": "16001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7342.0
+  },
+  {
+    "adm2_code": "16001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.3264777989648597
+  },
+  {
+    "adm2_code": "16002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3148.0
+  },
+  {
+    "adm2_code": "16002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.161372299872935
+  },
+  {
+    "adm2_code": "02001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 32360.0
+  },
+  {
+    "adm2_code": "02001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1914709517923363
+  },
+  {
+    "adm2_code": "02002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4913.0
+  },
+  {
+    "adm2_code": "02002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9189904335436596
+  },
+  {
+    "adm2_code": "02003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6705.0
+  },
+  {
+    "adm2_code": "02003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8627889634601043
+  },
+  {
+    "adm2_code": "02004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7022.0
+  },
+  {
+    "adm2_code": "02004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.943890629450299
+  },
+  {
+    "adm2_code": "02005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4386.0
+  },
+  {
+    "adm2_code": "02005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.3447332421340628
+  },
+  {
+    "adm2_code": "02006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6616.0
+  },
+  {
+    "adm2_code": "02006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.22037484885127
+  },
+  {
+    "adm2_code": "02007",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3844.0
+  },
+  {
+    "adm2_code": "02007",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.120967741935484
+  },
+  {
+    "adm2_code": "02008",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6710.0
+  },
+  {
+    "adm2_code": "02008",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0955290611028317
+  },
+  {
+    "adm2_code": "02009",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 1949.0
+  },
+  {
+    "adm2_code": "02009",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.952283222165213
+  },
+  {
+    "adm2_code": "02010",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2790.0
+  },
+  {
+    "adm2_code": "02010",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9487455197132615
+  },
+  {
+    "adm2_code": "07001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 8275.0
+  },
+  {
+    "adm2_code": "07001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.472870090634441
+  },
+  {
+    "adm2_code": "07002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2316.0
+  },
+  {
+    "adm2_code": "07002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.2525906735751295
+  },
+  {
+    "adm2_code": "07003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2629.0
+  },
+  {
+    "adm2_code": "07003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.2624572080639025
+  },
+  {
+    "adm2_code": "07004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 2926.0
+  },
+  {
+    "adm2_code": "07004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.3140806561859195
+  },
+  {
+    "adm2_code": "07005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 1960.0
+  },
+  {
+    "adm2_code": "07005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.3698979591836733
+  },
+  {
+    "adm2_code": "07006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 1102.0
+  },
+  {
+    "adm2_code": "07006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.143375680580762
+  },
+  {
+    "adm2_code": "22001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 48501.0
+  },
+  {
+    "adm2_code": "22001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9485783798272203
+  },
+  {
+    "adm2_code": "22002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3476.0
+  },
+  {
+    "adm2_code": "22002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.891542002301496
+  },
+  {
+    "adm2_code": "22003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5783.0
+  },
+  {
+    "adm2_code": "22003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.110323361577036
+  },
+  {
+    "adm2_code": "22004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4381.0
+  },
+  {
+    "adm2_code": "22004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.874229627938827
+  },
+  {
+    "adm2_code": "22005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 16421.0
+  },
+  {
+    "adm2_code": "22005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9339869679069484
+  },
+  {
+    "adm2_code": "22006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 4254.0
+  },
+  {
+    "adm2_code": "22006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.0204513399153736
+  },
+  {
+    "adm2_code": "08001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 25696.0
+  },
+  {
+    "adm2_code": "08001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8321528642590286
+  },
+  {
+    "adm2_code": "08002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 9572.0
+  },
+  {
+    "adm2_code": "08002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7574174676138736
+  },
+  {
+    "adm2_code": "11001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 160056.0
+  },
+  {
+    "adm2_code": "11001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.593367321437497
+  },
+  {
+    "adm2_code": "11002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 12363.0
+  },
+  {
+    "adm2_code": "11002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.5055407263609157
+  },
+  {
+    "adm2_code": "12001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 53573.0
+  },
+  {
+    "adm2_code": "12001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.860414761167006
+  },
+  {
+    "adm2_code": "12002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 5432.0
+  },
+  {
+    "adm2_code": "12002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1715758468335786
+  },
+  {
+    "adm2_code": "12003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 37378.0
+  },
+  {
+    "adm2_code": "12003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 3.1420889293167105
+  },
+  {
+    "adm2_code": "23001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 75448.0
+  },
+  {
+    "adm2_code": "23001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8830850387021525
+  },
+  {
+    "adm2_code": "23002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 9124.0
+  },
+  {
+    "adm2_code": "23002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.8603682595352917
+  },
+  {
+    "adm2_code": "23003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3997.0
+  },
+  {
+    "adm2_code": "23003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7783337503127346
+  },
+  {
+    "adm2_code": "23004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 13797.0
+  },
+  {
+    "adm2_code": "23004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.9388272812930345
+  },
+  {
+    "adm2_code": "23005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7640.0
+  },
+  {
+    "adm2_code": "23005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.973821989528796
+  },
+  {
+    "adm2_code": "23006",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6893.0
+  },
+  {
+    "adm2_code": "23006",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.778615987233425
+  },
+  {
+    "adm2_code": "29001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 19349.0
+  },
+  {
+    "adm2_code": "29001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.735335159439764
+  },
+  {
+    "adm2_code": "29002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 13005.0
+  },
+  {
+    "adm2_code": "29002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.724721261053441
+  },
+  {
+    "adm2_code": "29003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 12146.0
+  },
+  {
+    "adm2_code": "29003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.879713485921291
+  },
+  {
+    "adm2_code": "29004",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 21557.0
+  },
+  {
+    "adm2_code": "29004",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.968362944751125
+  },
+  {
+    "adm2_code": "29005",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 6402.0
+  },
+  {
+    "adm2_code": "29005",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.838331771321462
+  },
+  {
+    "adm2_code": "30001",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 25241.0
+  },
+  {
+    "adm2_code": "30001",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.7963234420189376
+  },
+  {
+    "adm2_code": "30002",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 7119.0
+  },
+  {
+    "adm2_code": "30002",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.761764292737744
+  },
+  {
+    "adm2_code": "30003",
+    "source": "censo2022",
+    "indicator": "hogares_total",
+    "value": 3856.0
+  },
+  {
+    "adm2_code": "30003",
+    "source": "censo2022",
+    "indicator": "personas_por_hogar",
+    "value": 2.5648340248962658
+  }
+]

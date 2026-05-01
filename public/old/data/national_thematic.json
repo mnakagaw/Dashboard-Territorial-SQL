@@ -1,0 +1,45 @@
+{
+  "vivienda": {
+    "hogares_total": 3726936.0,
+    "personas_por_hogar": 2.8908419677719177,
+    "viviendas_agua_mejorada": 67.3413548387097,
+    "viviendas_electricidad": 78.9789677419355,
+    "viviendas_inodoro": 71.08135483870969,
+    "viviendas_piso_adecuado": 73.04509677419355,
+    "agua_mejorada": 72.029935483871
+  },
+  "educacion": {
+    "tasa_escolar_primaria": 86.38270967741937,
+    "tasa_escolar_secundaria": 71.88703225806456,
+    "asistencia_escolar_6_11": 89.44064516129029,
+    "asistencia_escolar_12_17": 77.1278064516129,
+    "desercion_escolar": 8.870129032258065
+  },
+  "seguridad": {
+    "delitos_reportados": 1546.8690967741934,
+    "tasa_homicidios_100k": 25.880903225806456
+  },
+  "registro_civil": {
+    "nacimientos": 2606.805161290323,
+    "defunciones": 982.3464516129031
+  },
+  "salud": {
+    "establecimientos_salud": 12.409870967741934
+  },
+  "telecom": {
+    "uso_internet": 56.627225806451584,
+    "internet_penetracion": 51.61509677419355
+  },
+  "pobreza": {
+    "pobreza_general": 41.541032258064526,
+    "pobreza_extrema": 14.372387096774196
+  },
+  "trabajo": {
+    "tasa_ocupacion": 54.803419354838724,
+    "tasa_desempleo": 11.875096774193551
+  },
+  "elecciones": {
+    "padron_electoral": 179575.53883870973,
+    "participacion_electoral": 60.771612903225794
+  }
+}
