@@ -15,6 +15,23 @@ const DATA_DIR = join(__dirname, "..", "public", "data");
 
 function sha256(s) { return createHash("sha256").update(s, "utf8").digest("hex"); }
 
+function canonicalProvinceName(value) {
+  return String(value || "")
+    .replaceAll("Sanchez Ramírez", "Sánchez Ramírez")
+    .replaceAll("Sanchez Ramirez", "Sánchez Ramírez")
+    .replaceAll("Sánchez Ramirez", "Sánchez Ramírez");
+}
+
+function canonicalizeAssetData(value) {
+  if (Array.isArray(value)) return value.map(canonicalizeAssetData);
+  if (value && typeof value === "object") {
+    return Object.fromEntries(
+      Object.entries(value).map(([key, nested]) => [key, canonicalizeAssetData(nested)])
+    );
+  }
+  return typeof value === "string" ? canonicalProvinceName(value) : value;
+}
+
 async function main() {
   let mysql;
   try {
@@ -37,7 +54,7 @@ async function main() {
   console.log("✅ Starting Comprehensive Recovery (36 Files)...\n");
 
   async function saveAsset(key, data) {
-    const json = JSON.stringify(data, null, 2);
+    const json = JSON.stringify(canonicalizeAssetData(data), null, 2);
     const hash = sha256(json);
     const [rows] = await conn.execute(`SELECT id, content_hash, version_no FROM dataset_assets WHERE asset_key = ? AND is_active = 1`, [key]);
     if (rows.length > 0) {

@@ -57,6 +57,14 @@ sort($files);
 
 echo "Found " . count($files) . " JSON files.\n\n";
 
+function canonical_json_content($content) {
+    return str_replace(
+        array('Sanchez Ramírez', 'Sanchez Ramirez', 'Sánchez Ramirez'),
+        'Sánchez Ramírez',
+        $content
+    );
+}
+
 $stmtCheck = $pdo->prepare(
     "SELECT id, content_hash, version_no FROM dataset_assets WHERE asset_key = :key AND is_active = 1"
 );
@@ -87,6 +95,7 @@ foreach ($files as $filePath) {
         continue;
     }
 
+    $content = canonical_json_content($content);
     $hash = hash('sha256', $content);
     $sizeKB = round(strlen($content) / 1024, 1);
 

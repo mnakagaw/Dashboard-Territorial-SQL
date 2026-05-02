@@ -50,11 +50,11 @@ describe("province name normalization", () => {
     });
 
     it("compares province names without accents", () => {
-        expect(sameProvinceName("Sánchez Ramírez", "Sanchez Ramírez")).toBe(true);
+        expect(sameProvinceName("María Trinidad Sánchez", "Maria Trinidad Sanchez")).toBe(true);
     });
 
     it("checks province lists without accents", () => {
-        expect(provinceListIncludes(["Sánchez Ramírez"], "Sanchez Ramírez")).toBe(true);
+        expect(provinceListIncludes(["María Trinidad Sánchez"], "Maria Trinidad Sanchez")).toBe(true);
     });
 });
 
@@ -102,13 +102,13 @@ describe("buildProvinceMap", () => {
 
     it("groups rows by provincia", () => {
         const data = [
-            { provincia: "Sánchez Ramírez", value: 1 },
-            { provincia: "Sanchez Ramírez", value: 2 },
+            { provincia: "María Trinidad Sánchez", value: 1 },
+            { provincia: "Maria Trinidad Sanchez", value: 2 },
             { provincia: "Santiago", value: 3 },
         ];
         const map = buildProvinceMap(data);
         expect(map.size).toBe(2);
-        expect(map.get("sanchez ramirez")).toHaveLength(2);
+        expect(map.get("maria trinidad sanchez")).toHaveLength(2);
         expect(map.get("santiago")).toHaveLength(1);
     });
 

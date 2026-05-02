@@ -25,6 +25,13 @@ function formatLabel(str) {
   return str.split('_').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 }
 
+function canonicalProvinceName(value) {
+  return String(value || "")
+    .replaceAll("Sanchez Ramírez", "Sánchez Ramírez")
+    .replaceAll("Sanchez Ramirez", "Sánchez Ramírez")
+    .replaceAll("Sánchez Ramirez", "Sánchez Ramírez");
+}
+
 async function main() {
   let mysql;
   try {
@@ -131,13 +138,15 @@ async function main() {
   const munis = JSON.parse(await readFile(join(DATA_DIR, "municipios_index.json"), "utf8"));
   for (const m of munis) {
     const pCode = m.adm2_code.substring(0, 2);
-    const pName = m.provincia;
+    const pName = canonicalProvinceName(m.provincia);
     const [pRows] = await conn.execute(`SELECT territory_id FROM dim_territory WHERE territory_code=? AND territory_type='provincia'`, [pCode]);
     let pId = pRows.length ? pRows[0].territory_id : null;
     if(!pId) {
         await conn.execute(`INSERT INTO dim_territory (territory_code, territory_name, territory_type, parent_territory_id) VALUES (?, ?, 'provincia', ?)`, [pCode, pName, nacId]);
         const [[pNew]] = await conn.execute(`SELECT LAST_INSERT_ID() as id`);
         pId = pNew.id;
+    } else {
+        await conn.execute(`UPDATE dim_territory SET territory_name=? WHERE territory_id=?`, [pName, pId]);
     }
     await conn.execute(`INSERT IGNORE INTO dim_territory (territory_code, territory_name, territory_type, parent_territory_id, region_oficial_ley345) VALUES (?, ?, 'municipio', ?, ?)`, [m.adm2_code, m.municipio, pId, m.region]);
   }

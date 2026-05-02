@@ -39,6 +39,13 @@ function sha256(content) {
   return createHash("sha256").update(content, "utf8").digest("hex");
 }
 
+function canonicalJsonContent(content) {
+  return content
+    .replaceAll("Sanchez Ramírez", "Sánchez Ramírez")
+    .replaceAll("Sanchez Ramirez", "Sánchez Ramírez")
+    .replaceAll("Sánchez Ramirez", "Sánchez Ramírez");
+}
+
 // ---- Main ----
 async function main() {
   // Dynamic import so the script still parses even if mssql isn't installed yet
@@ -101,7 +108,7 @@ async function main() {
   for (const file of files) {
     const assetKey = basename(file, ".json"); // e.g. 'indicadores_basicos'
     const filePath = join(DATA_DIR, file);
-    const content = await readFile(filePath, "utf8");
+    const content = canonicalJsonContent(await readFile(filePath, "utf8"));
     const hash = sha256(content);
 
     // Check if row exists and hash matches
