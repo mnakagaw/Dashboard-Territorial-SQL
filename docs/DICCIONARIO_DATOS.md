@@ -316,11 +316,17 @@ Promedios nacionales de acceso a TIC
 ### adm2.geojson
 **Descripción:** Fronteras municipales  
 **Tipo:** GeoJSON FeatureCollection  
+**Fuente:** Instituto Geográfico Nacional (IGN) - Infraestructura de Datos
+Espaciales de la República Dominicana (IDERD), capa `RD_MUNICIPIOS`:
+https://geoportal.iderd.gob.do/layers/geonode:RD_MUNICIPIOS/metadata_detail
+
 **Propiedades por feature:**
-- `ADM2_ES`: Nombre del municipio
-- `ADM2_PCODE`: Código ADM2
-- `ADM1_ES`: Nombre de la provincia
-- `ADM1_PCODE`: Código de provincia
+- `adm2_code`: Código ADM2 de 5 dígitos
+- `municipio`: Nombre del municipio
+- `provincia`: Nombre de la provincia
+- `region`: Región de planificación
+- `shapeName`: Nombre del municipio usado para renderizado
+- `source_name`: Nombre original de la capa `RD_MUNICIPIOS`
 
 ---
 

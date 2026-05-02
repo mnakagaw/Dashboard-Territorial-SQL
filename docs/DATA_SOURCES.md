@@ -14,6 +14,7 @@ No se consultan APIs externas para datos estadísticos; todo está incluido en e
 | Directorio de Empresas y Establecimientos (DEE) | Fuentes Oficiales | 2024 | Economía, empleo, estructura productiva |
 | Anuario Estadístico Educativo | MINERD | 2024 | Oferta educativa, eficiencia del sistema |
 | Registro de Establecimientos de Salud | SNS | 2025 | Centros de salud por tipo y ubicación |
+| Límites municipales ADM2 (`RD_MUNICIPIOS`) | Instituto Geográfico Nacional (IGN) - Infraestructura de Datos Espaciales de la República Dominicana (IDERD) | s/f | Polígonos municipales para `adm2.json` y `adm2.geojson` |
 
 ## Archivos de Datos (`public/data/`)
 
@@ -59,15 +60,19 @@ Los valores se calculan como suma (poblaciones, hogares) o promedio ponderado (t
 
 | Archivo | Descripción |
 |---------|-------------|
-| `public/data/adm2.geojson` | Fronteras administrativas (municipios) |
-| `src/data/adm2.json` | Mismo GeoJSON, bundled con la app para el mapa |
+| `public/data/adm2.geojson` | Fronteras administrativas municipales ADM2 |
+| `public/data/adm2.json` | Mismo GeoJSON, usado por el mapa interactivo y el mapa de impresión |
+
+**Fuente cartográfica:** Instituto Geográfico Nacional (IGN) - Infraestructura
+de Datos Espaciales de la República Dominicana (IDERD), capa `RD_MUNICIPIOS`:
+https://geoportal.iderd.gob.do/layers/geonode:RD_MUNICIPIOS/metadata_detail
 
 ## Proceso de Actualización de Datos
 
 1. Obtener datos crudos (PDF, XLSX) de la fuente oficial
 2. Procesar con scripts en `scripts/` (parse_*.js)
 3. Guardar JSON resultante en `public/data/`
-4. Verificar integridad con `scripts/verify_data_integrity.js`
+4. Verificar integridad con `npm run verify` (`scripts/verify_data_integrity.cjs`)
 5. Reconstruir: `npm run build`
 
 > **Nota**: Los scripts de parseo (`scripts/parse_*.js`) requieren los archivos fuente

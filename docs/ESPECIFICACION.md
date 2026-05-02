@@ -135,6 +135,11 @@ Dashboard interactivo para visualizar estadísticas municipales de la República
 | DEE 2024 | `economia_empleo.json` | Estadísticas empresariales |
 | MINERD | `educacion.json`, `educacion_nivel.json` | Indicadores educativos |
 | SNS | `salud_establecimientos.json` | Establecimientos de salud |
+| IGN / IDERD | `adm2.json`, `adm2.geojson` | Límites municipales ADM2 (`RD_MUNICIPIOS`) |
+
+Fuente cartográfica: Instituto Geográfico Nacional (IGN) - Infraestructura de
+Datos Espaciales de la República Dominicana (IDERD), capa `RD_MUNICIPIOS`:
+https://geoportal.iderd.gob.do/layers/geonode:RD_MUNICIPIOS/metadata_detail
 
 ---
 

@@ -122,6 +122,7 @@
 | DEE 2024 | Anual |
 | MINERD Anuario | Anual |
 | SNS Establecimientos | Continua |
+| IGN / IDERD `RD_MUNICIPIOS` | Según actualización cartográfica oficial |
 
 ### RD-02: Formato de Datos
 | Requisito |
@@ -183,6 +184,8 @@
 | Término | Definición |
 |---------|------------|
 | ADM2 | División administrativa nivel 2 (municipio) |
+| IDERD | Infraestructura de Datos Espaciales de la República Dominicana |
+| IGN | Instituto Geográfico Nacional |
 | DEE | Directorio de Establecimientos Económicos |
 | CIIU | Clasificación Industrial Internacional Uniforme |
 | LQ | Location Quotient (índice de especialización) |

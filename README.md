@@ -154,6 +154,10 @@ VITE_API_BASE=https://prodecare.net/dbt
 - **Directorio de Empresas y Establecimientos (DEE) 2024** (ONE)
 - **Anuario Estadístico Educativo** (MINERD)
 - **Establecimientos de Salud 1878–2025** (SNS)
+- **Límites municipales ADM2**: Instituto Geográfico Nacional (IGN) -
+  Infraestructura de Datos Espaciales de la República Dominicana (IDERD),
+  capa `RD_MUNICIPIOS`:
+  https://geoportal.iderd.gob.do/layers/geonode:RD_MUNICIPIOS/metadata_detail
 
 ### Datasets en SQL (36 archivos)
 
