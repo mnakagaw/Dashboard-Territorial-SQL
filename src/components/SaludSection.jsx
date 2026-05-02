@@ -11,7 +11,7 @@ import { Stethoscope } from "lucide-react";
  * Props:
  *  - selectedAdm2: Código ADM2 del municipio (ej: "01001")
  *  - selectedMunicipio: Objeto municipio de useMunicipioData
- *  - saludEstablecimientos: Datos de public/data/salud_establecimientos.json
+ *  - saludEstablecimientos: Datos procesados desde salud_establecimientos.json
  *  - isProvinceSelection: true si se seleccionó una provincia completa
  */
 export default function SaludSection({
@@ -21,16 +21,9 @@ export default function SaludSection({
   isProvinceSelection,
   isRegionSelection,
 }) {
-  const adm2 = selectedAdm2 || null;
-
   const centros = useMemo(() => {
-    if (isProvinceSelection || isRegionSelection) {
-      return saludEstablecimientos?.centros || [];
-    }
-    if (!adm2 || !saludEstablecimientos) return [];
-    const entry = saludEstablecimientos[adm2];
-    return entry?.centros || [];
-  }, [adm2, saludEstablecimientos, isProvinceSelection]);
+    return saludEstablecimientos?.centros || [];
+  }, [saludEstablecimientos]);
 
   const resumenPorTipo = useMemo(() => {
     const acc = {};
