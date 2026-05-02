@@ -4,6 +4,7 @@ import {
     getEducationEfficiencyOverride,
     getEducationLevelOverride,
 } from "./educationEfficiencyOverrides";
+import { sameProvinceName } from "./dataHelpers";
 
 // --------------------------------------------------------------------------
 // Helpers (Internal)
@@ -11,7 +12,7 @@ import {
 
 function getProvinciaRow(dataset, actualProvName) {
     if (!dataset || !actualProvName) return null;
-    return dataset.find((r) => r.provincia === actualProvName) || null;
+    return dataset.find((r) => sameProvinceName(r.provincia, actualProvName)) || null;
 }
 
 function getMunicipioRow(dataset, adm2) {
@@ -26,7 +27,7 @@ function getMunicipioRow(dataset, adm2) {
 function getProvinciaDemografia(indicadoresBasicosData, actualProvName) {
     if (!indicadoresBasicosData || !actualProvName) return null;
     const rows = indicadoresBasicosData.filter(
-        (r) => r.provincia === actualProvName
+        (r) => sameProvinceName(r.provincia, actualProvName)
     );
     if (!rows.length) return null;
 
@@ -87,7 +88,7 @@ export function buildResumenComparacion({
     const isNacionalMode = selectedMunicipio.region === "Nacional" || selectedMunicipio.municipio === "República Dominicana";
     const adm2 = selectedMunicipio.adm2_code;
     const isSingleMunicipioProvince = !!actualProvName && (
-        indicadoresBasicosData?.filter((r) => r.provincia === actualProvName).length === 1
+        indicadoresBasicosData?.filter((r) => sameProvinceName(r.provincia, actualProvName)).length === 1
     );
     const educEfficiencyOverride = getEducationEfficiencyOverride({
         adm2Code: adm2,

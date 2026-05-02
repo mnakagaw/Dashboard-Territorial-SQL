@@ -4,6 +4,9 @@
 import { describe, it, expect } from "vitest";
 import {
     normalizeAdm2,
+    normalizeName,
+    sameProvinceName,
+    provinceListIncludes,
     buildLongMap,
     buildProvinceMap,
     buildCondicionVidaParsed,
@@ -38,6 +41,20 @@ describe("normalizeAdm2", () => {
 
     it("trims whitespace", () => {
         expect(normalizeAdm2("  42  ")).toBe("00042");
+    });
+});
+
+describe("province name normalization", () => {
+    it("normalizes accents and whitespace", () => {
+        expect(normalizeName(" Sánchez  Ramírez ")).toBe("sanchez ramirez");
+    });
+
+    it("compares province names without accents", () => {
+        expect(sameProvinceName("Sánchez Ramírez", "Sanchez Ramírez")).toBe(true);
+    });
+
+    it("checks province lists without accents", () => {
+        expect(provinceListIncludes(["Sánchez Ramírez"], "Sanchez Ramírez")).toBe(true);
     });
 });
 
@@ -85,14 +102,14 @@ describe("buildProvinceMap", () => {
 
     it("groups rows by provincia", () => {
         const data = [
-            { provincia: "Santo Domingo", value: 1 },
-            { provincia: "Santo Domingo", value: 2 },
+            { provincia: "Sánchez Ramírez", value: 1 },
+            { provincia: "Sanchez Ramírez", value: 2 },
             { provincia: "Santiago", value: 3 },
         ];
         const map = buildProvinceMap(data);
         expect(map.size).toBe(2);
-        expect(map.get("Santo Domingo")).toHaveLength(2);
-        expect(map.get("Santiago")).toHaveLength(1);
+        expect(map.get("sanchez ramirez")).toHaveLength(2);
+        expect(map.get("santiago")).toHaveLength(1);
     });
 
     it("skips rows without provincia", () => {

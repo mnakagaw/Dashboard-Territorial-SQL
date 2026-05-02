@@ -11,6 +11,7 @@
  */
 
 import React, { useEffect, useState, useMemo } from "react";
+import { provinceListIncludes, sameProvinceName } from "../utils/dataHelpers";
 
 function buildDataUrl(fileName) {
     return `${import.meta.env.BASE_URL}data/${fileName}`;
@@ -109,14 +110,14 @@ export function PrintMapSVG({
             if (selectedAdm2) {
                 isSelected = adm2 === selectedAdm2;
             } else if (selectedProvince) {
-                isSelected = prov === selectedProvince;
+                isSelected = sameProvinceName(prov, selectedProvince);
             } else if (selectedRegion) {
                 if (selectedRegion === "nacional") {
                     isSelected = true;
                 } else {
                     const regObj = regionsIndex.find((r) => r.id === selectedRegion);
                     if (regObj) {
-                        isSelected = regObj.provincias.includes(prov);
+                        isSelected = provinceListIncludes(regObj.provincias, prov);
                     }
                 }
             }

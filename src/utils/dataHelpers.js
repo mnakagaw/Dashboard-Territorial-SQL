@@ -21,6 +21,24 @@ export function normalizeAdm2(code) {
     return c.padStart(5, "0");
 }
 
+export function normalizeName(value) {
+    return String(value || "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/\s+/g, " ")
+        .trim()
+        .toLowerCase();
+}
+
+export function sameProvinceName(a, b) {
+    return normalizeName(a) === normalizeName(b);
+}
+
+export function provinceListIncludes(list, province) {
+    const target = normalizeName(province);
+    return (list || []).some((item) => normalizeName(item) === target);
+}
+
 // ---------------------------------------------------------------------------
 // buildLongMap - Construye un Map agrupado por adm2_code normalizado
 // ---------------------------------------------------------------------------
@@ -56,7 +74,7 @@ export function buildProvinceMap(data) {
     const map = new Map();
     for (const row of data || []) {
         if (!row.provincia) continue;
-        const key = row.provincia;
+        const key = normalizeName(row.provincia);
         if (!map.has(key)) map.set(key, []);
         map.get(key).push(row);
     }

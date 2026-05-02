@@ -13,6 +13,7 @@
 import React, { useEffect, useState } from "react";
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
+import { provinceListIncludes, sameProvinceName } from "../utils/dataHelpers";
 
 function buildDataUrl(fileName) {
   return `${import.meta.env.BASE_URL}data/${fileName}`;
@@ -57,14 +58,14 @@ export function RDMap({ selectedAdm2, selectedProvince, selectedRegion, onSelect
     if (selectedAdm2) {
       isSelected = adm2 === selectedAdm2;
     } else if (selectedProvince) {
-      isSelected = prov === selectedProvince;
+      isSelected = sameProvinceName(prov, selectedProvince);
     } else if (selectedRegion) {
       if (selectedRegion === "nacional") {
         isSelected = true;
       } else {
         const regObj = regionsIndex.find(r => r.id === selectedRegion);
         if (regObj) {
-          isSelected = regObj.provincias.includes(prov);
+          isSelected = provinceListIncludes(regObj.provincias, prov);
         }
       }
     }

@@ -26,6 +26,9 @@ import { useMemo } from "react";
 import useDataLoader from "./useDataLoader";
 import {
   normalizeAdm2,
+  normalizeName,
+  sameProvinceName,
+  provinceListIncludes,
   buildLongMap,
   buildProvinceMap,
   buildCondicionVidaParsed,
@@ -122,7 +125,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
         adm2_code: null,
         municipio: `Provincia de ${selectedProvinceScope}`,
         provincia: selectedProvinceScope,
-        region: municipiosIndex.find((m) => m.provincia === selectedProvinceScope)?.region || "",
+        region: municipiosIndex.find((m) => sameProvinceName(m.provincia, selectedProvinceScope))?.region || "",
       };
     }
     if (isRegionSelection && selectedRegionScope) {
@@ -201,6 +204,8 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
   );
 
   // Mapas a nivel provincial
+  const selectedProvinceKey = useMemo(() => normalizeName(selectedProvinceScope), [selectedProvinceScope]);
+
   const educacionProvinciaMap = useMemo(() => buildProvinceMap(educacionProvinciaData), [educacionProvinciaData]);
   const hogaresResumenProvinciaMap = useMemo(() => buildProvinceMap(hogaresResumenProvinciaData), [hogaresResumenProvinciaData]);
   const hogaresTamanoProvinciaMap = useMemo(() => buildProvinceMap(hogaresTamanoProvinciaData), [hogaresTamanoProvinciaData]);
@@ -222,7 +227,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
 
     if (isProvinceSelection && selectedProvinceScope) {
       const rows = indicadoresBasicosData.filter(
-        (r) => r.provincia === selectedProvinceScope
+        (r) => sameProvinceName(r.provincia, selectedProvinceScope)
       );
       if (!rows.length) return null;
 
@@ -255,7 +260,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       const reg = regionsIndexData.find((r) => r.id === selectedRegionScope);
       const provincesInRegion = reg?.provincias || [];
       const rows = indicadoresBasicosData.filter((r) =>
-        provincesInRegion.includes(r.provincia)
+        provinceListIncludes(provincesInRegion, r.provincia)
       );
       if (!rows.length) return null;
 
@@ -293,14 +298,14 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return econMap.get(normalizeAdm2(selectedAdm2)) || null;
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      const rows = economiaEmpleoProvinciaMap.get(selectedProvinceScope) || [];
+      const rows = economiaEmpleoProvinciaMap.get(selectedProvinceKey) || [];
       return rows[0] || null;
     }
     if (isRegionSelection && selectedRegionScope) {
       if (selectedRegionScope === "nacional") return nationalEcon;
       const reg = regionsIndexData.find((r) => r.id === selectedRegionScope);
       const provinces = reg?.provincias || [];
-      const allRows = provinces.flatMap(p => economiaEmpleoProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => economiaEmpleoProvinciaMap.get(normalizeName(p)) || []);
 
       if (!allRows.length) return null;
 
@@ -371,13 +376,13 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
         const dnEntry = pyramidMap["01001"];
         if (dnEntry?.age_groups?.length) return dnEntry.age_groups;
       }
-      const rows = pyramidsProvinciaMap.get(selectedProvinceScope) || [];
+      const rows = pyramidsProvinciaMap.get(selectedProvinceKey) || [];
       return rows[0]?.age_groups || [];
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find((r) => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => pyramidsProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => pyramidsProvinciaMap.get(normalizeName(p)) || []);
 
       if (!allRows.length) return [];
 
@@ -409,12 +414,12 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return pyramid2010Map.get(selectedAdm22010) || [];
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      return pyramid2010ProvinciaMap.get(selectedProvinceScope) || [];
+      return pyramid2010ProvinciaMap.get(selectedProvinceKey) || [];
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find((r) => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => pyramid2010ProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => pyramid2010ProvinciaMap.get(normalizeName(p)) || []);
 
       if (!allRows.length) return [];
 
@@ -452,29 +457,29 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return rows[0] || null;
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      const rows = hogaresResumenProvinciaMap.get(selectedProvinceScope) || [];
+      const rows = hogaresResumenProvinciaMap.get(selectedProvinceKey) || [];
       return rows[0] || null;
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find(r => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => hogaresResumenProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => hogaresResumenProvinciaMap.get(normalizeName(p)) || []);
       return householdsAggregation(allRows);
     }
     return null;
-  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, hogaresResumenMap, hogaresResumenProvinciaMap, regionsIndexData]);
+  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, selectedProvinceKey, isRegionSelection, selectedRegionScope, hogaresResumenMap, hogaresResumenProvinciaMap, regionsIndexData]);
 
   const hogaresTamanoRecords = useMemo(() => {
     if (selectedAdm2Norm) {
       return hogaresTamanoMap.get(selectedAdm2Norm) || [];
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      return hogaresTamanoProvinciaMap.get(selectedProvinceScope) || [];
+      return hogaresTamanoProvinciaMap.get(selectedProvinceKey) || [];
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find(r => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => hogaresTamanoProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => hogaresTamanoProvinciaMap.get(normalizeName(p)) || []);
 
       const sizeMap = {};
       allRows.forEach(r => {
@@ -487,7 +492,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return Object.values(sizeMap);
     }
     return [];
-  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, hogaresTamanoMap, hogaresTamanoProvinciaMap, regionsIndexData]);
+  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, selectedProvinceKey, isRegionSelection, selectedRegionScope, hogaresTamanoMap, hogaresTamanoProvinciaMap, regionsIndexData]);
 
   const poblacionUrbanaRural = useMemo(() => {
     if (selectedAdm2Norm) {
@@ -495,13 +500,13 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return rows[0] || null;
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      const rows = poblacionUrbanaRuralProvinciaMap.get(selectedProvinceScope) || [];
+      const rows = poblacionUrbanaRuralProvinciaMap.get(selectedProvinceKey) || [];
       return rows[0] || null;
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find(r => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => poblacionUrbanaRuralProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => poblacionUrbanaRuralProvinciaMap.get(normalizeName(p)) || []);
       if (!allRows.length) return null;
       return {
         poblacion_total: allRows.reduce((a, r) => a + (r.poblacion_total || 0), 0),
@@ -510,34 +515,34 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       };
     }
     return null;
-  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, poblacionUrbanaRuralMap, poblacionUrbanaRuralProvinciaMap, regionsIndexData]);
+  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, selectedProvinceKey, isRegionSelection, selectedRegionScope, poblacionUrbanaRuralMap, poblacionUrbanaRuralProvinciaMap, regionsIndexData]);
 
   const educacionRecords = useMemo(() => {
     if (selectedAdm2Norm) {
       return educacionMap.get(selectedAdm2Norm) || [];
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      return educacionProvinciaMap.get(selectedProvinceScope) || [];
+      return educacionProvinciaMap.get(selectedProvinceKey) || [];
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find(r => r.id === selectedRegionScope)?.provincias || []);
-      return provinces.flatMap(p => educacionProvinciaMap.get(p) || []);
+      return provinces.flatMap(p => educacionProvinciaMap.get(normalizeName(p)) || []);
     }
     return [];
-  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, educacionMap, educacionProvinciaMap, regionsIndexData]);
+  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, selectedProvinceKey, isRegionSelection, selectedRegionScope, educacionMap, educacionProvinciaMap, regionsIndexData]);
 
   const educacionNivel = useMemo(() => {
     if (selectedAdm2Norm) {
       return educacionNivelMap.get(selectedAdm2Norm) || [];
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      return educacionNivelProvinciaMap.get(selectedProvinceScope) || [];
+      return educacionNivelProvinciaMap.get(selectedProvinceKey) || [];
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find(r => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => educacionNivelProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => educacionNivelProvinciaMap.get(normalizeName(p)) || []);
 
       const nivelMap = {};
       allRows.forEach(r => {
@@ -551,7 +556,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return Object.values(nivelMap);
     }
     return [];
-  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, educacionNivelMap, educacionNivelProvinciaMap, regionsIndexData]);
+  }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, selectedProvinceKey, isRegionSelection, selectedRegionScope, educacionNivelMap, educacionNivelProvinciaMap, regionsIndexData]);
 
   // ---------------------------------------------------------------------------
   // Mapa de TIC (datos sin procesar, el componente convierte a %)
@@ -576,13 +581,13 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return mergeTicPersonal(ticMap.get(selectedAdm2Norm) || null, ticPersonalOverride);
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      const rows = ticProvinciaMap.get(selectedProvinceScope) || [];
+      const rows = ticProvinciaMap.get(selectedProvinceKey) || [];
       return mergeTicPersonal(rows[0] || null, ticPersonalOverride);
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find((r) => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => ticProvinciaMap.get(p) || []);
+      const allRows = provinces.flatMap(p => ticProvinciaMap.get(normalizeName(p)) || []);
 
       if (!allRows.length) return null;
 
@@ -599,7 +604,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       };
     }
     return null;
-  }, [selectedAdm2Norm, selectedMunicipio, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, ticMap, ticProvinciaMap, regionsIndexData]);
+  }, [selectedAdm2Norm, selectedMunicipio, isProvinceSelection, selectedProvinceScope, selectedProvinceKey, isRegionSelection, selectedRegionScope, ticMap, ticProvinciaMap, regionsIndexData]);
 
   // ---------------------------------------------------------------------------
   // Condición de Vida (municipio)
@@ -609,12 +614,12 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return condicionVidaData.find((c) => String(c.adm2_code).padStart(5, "0") === selectedAdm2Norm) || null;
     }
     if (isProvinceSelection && selectedProvinceScope) {
-      return condicionVidaProvinciaData.find(c => c.provincia === selectedProvinceScope) || null;
+      return condicionVidaProvinciaData.find(c => sameProvinceName(c.provincia, selectedProvinceScope)) || null;
     }
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find((r) => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.map(p => condicionVidaProvinciaData.find(c => c.provincia === p)).filter(Boolean);
+      const allRows = provinces.map(p => condicionVidaProvinciaData.find(c => sameProvinceName(c.provincia, p))).filter(Boolean);
 
       if (!allRows.length) return null;
 
@@ -688,7 +693,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
   const municipioOptions = useMemo(() => {
     if (!provinceName) return [];
 
-    const list = municipiosIndex.filter((m) => m.provincia === provinceName);
+    const list = municipiosIndex.filter((m) => sameProvinceName(m.provincia, provinceName));
     const opts = list.map((m) => ({
       value: m.adm2_code,
       label: m.municipio,
@@ -747,7 +752,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
         return saludEstablecimientosData?.[selectedAdm2Norm] || null;
       }
       if (isProvinceSelection && selectedProvinceScope) {
-        return (saludEstablecimientosProvinciaMap.get(selectedProvinceScope) || [])[0] || null;
+        return (saludEstablecimientosProvinciaMap.get(selectedProvinceKey) || [])[0] || null;
       }
       if (isRegionSelection && selectedRegionScope) {
         if (selectedRegionScope === "nacional") {
@@ -762,7 +767,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
         }
         const reg = regionsIndexData.find(r => r.id === selectedRegionScope);
         const provinces = reg?.provincias || [];
-        const allProvsHealth = provinces.map(p => (saludEstablecimientosProvinciaMap.get(p) || [])[0]).filter(Boolean);
+        const allProvsHealth = provinces.map(p => (saludEstablecimientosProvinciaMap.get(normalizeName(p)) || [])[0]).filter(Boolean);
         if (!allProvsHealth.length) return null;
 
         // Combinar todos los centros de salud
