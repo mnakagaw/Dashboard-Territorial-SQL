@@ -3908,127 +3908,127 @@
   {
     "provincia": "Santo Domingo",
     "age_group": "1 - 4",
-    "male": 452290,
-    "female": 436570
+    "male": 94947,
+    "female": 92367
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "5 - 9",
-    "male": 598519,
-    "female": 582182
+    "male": 122124,
+    "female": 120117
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "10 - 14",
-    "male": 614069,
-    "female": 602943
+    "male": 121178,
+    "female": 122073
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "15 - 19",
-    "male": 610161,
-    "female": 620434
+    "male": 119278,
+    "female": 128094
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "20 - 24",
-    "male": 551167,
-    "female": 555443
+    "male": 110541,
+    "female": 119135
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "25 - 29",
-    "male": 483673,
-    "female": 486936
+    "male": 98981,
+    "female": 105395
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "30 - 34",
-    "male": 451932,
-    "female": 452099
+    "male": 93457,
+    "female": 97502
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "35 - 39",
-    "male": 399285,
-    "female": 403947
+    "male": 81471,
+    "female": 85038
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "40 - 44",
-    "male": 364231,
-    "female": 363486
+    "male": 72363,
+    "female": 74956
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "45 - 49",
-    "male": 311104,
-    "female": 313295
+    "male": 61154,
+    "female": 63786
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "50 - 54",
-    "male": 251727,
-    "female": 250054
+    "male": 48044,
+    "female": 50048
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "55 - 59",
-    "male": 195864,
-    "female": 200140
+    "male": 36357,
+    "female": 38687
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "60 - 64",
-    "male": 161702,
-    "female": 165497
+    "male": 28361,
+    "female": 30309
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "65 - 69",
-    "male": 110421,
-    "female": 113333
+    "male": 18033,
+    "female": 19416
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "70 - 74",
-    "male": 90572,
-    "female": 95969
+    "male": 13829,
+    "female": 15382
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "75 - 79",
-    "male": 57114,
-    "female": 63358
+    "male": 7797,
+    "female": 9447
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "80 - 84",
-    "male": 41580,
-    "female": 47571
+    "male": 5343,
+    "female": 7098
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "85 - 89",
-    "male": 17561,
-    "female": 22400
+    "male": 2136,
+    "female": 3240
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "90 - 94",
-    "male": 8882,
-    "female": 11795
+    "male": 1043,
+    "female": 1643
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "95 - 99",
-    "male": 3384,
-    "female": 4697
+    "male": 422,
+    "female": 630
   },
   {
     "provincia": "Santo Domingo",
     "age_group": "100 y más",
-    "male": 1854,
-    "female": 2759
+    "male": 262,
+    "female": 395
   }
 ]

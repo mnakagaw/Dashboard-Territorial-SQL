@@ -23,8 +23,8 @@ import {
 import { Briefcase } from "lucide-react";
 import { COLORS } from "./PopulationCharts";
 
-const ECON_BAR = "#fb7185";
-const ECON_ACCENT = "#be123c";
+const ECON_BAR = "#b6125a";
+const ECON_ACCENT = "#69143a";
 
 const CustomBarLabel = ({ x, y, width, height, value }) => {
     if (value == null) return null;
@@ -53,13 +53,13 @@ export function EconomyEmployment({
 }) {
     if (!econ && !nationalEcon) {
         return (
-            <Card className="border-rose-200 bg-rose-50/80 no-break print-card">
-                <CardHeader className="border-b border-rose-100/70">
+            <Card className="end-section end-section--economic economy-end-section no-break print-card">
+                <CardHeader className="border-b border-white/10">
                     <div className="flex items-center gap-3 print-flex">
-                        <div className="flex h-8 w-8 items-center justify-center rounded-full bg-rose-100 text-sm text-rose-700">
+                        <div className="end-section-icon h-8 w-8 text-sm">
                             <Briefcase className="h-4 w-4" />
                         </div>
-                        <CardTitle className="text-sm font-semibold text-rose-900">
+                        <CardTitle className="end-section-title text-sm font-semibold">
                             Economía y empleo
                         </CardTitle>
                     </div>
@@ -142,16 +142,16 @@ export function EconomyEmployment({
     const topSpec = dee.top_specialization ?? null;
 
     return (
-        <Card className="border-rose-200 bg-rose-50/80 no-break print-card">
-            <CardHeader className="border-b border-rose-100/70">
+        <Card className="end-section end-section--economic economy-end-section no-break print-card">
+            <CardHeader className="border-b border-white/10">
                 <div className="flex items-center gap-3 print-flex">
-                    <div className="flex h-8 w-8 items-center justify-center rounded-full bg-rose-100 text-sm text-rose-900">
+                    <div className="end-section-icon h-8 w-8 text-sm">
                         <Briefcase className="h-5 w-5" />
                     </div>
-                    <CardTitle className="text-lg font-bold text-rose-900">
+                    <CardTitle className="end-section-title text-lg font-bold">
                         Economía y empleo{" "}
                         <span className="font-normal text-base">
-                            (DEE 2024 + Censo 2022 + Otras Fuentes)
+                            (DEE 2024 + Censo 2022)
                         </span>
                     </CardTitle>
                 </div>
@@ -328,7 +328,7 @@ export function EconomyEmployment({
                                                 </span>
                                             )}
                                             {s.lq != null && (
-                                                <span className={`inline-flex items-center rounded-full px-1.5 py-0.5 font-semibold ${s.lq >= 1.2 ? "bg-rose-100 text-rose-800" : "bg-slate-100 text-slate-500"}`}>
+                                                <span className={`economy-lq-badge inline-flex items-center rounded-full px-1.5 py-0.5 font-semibold ${s.lq >= 1.2 ? "economy-lq-badge--high" : "economy-lq-badge--base"}`}>
                                                     LQ {s.lq.toFixed(2)}
                                                 </span>
                                             )}

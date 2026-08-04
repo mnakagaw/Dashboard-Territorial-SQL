@@ -10,6 +10,7 @@ import {
     buildLongMap,
     buildProvinceMap,
     buildCondicionVidaParsed,
+    aggregateEducationLevelRows,
 } from "./dataHelpers";
 
 // ---------------------------------------------------------------------------
@@ -119,6 +120,36 @@ describe("buildProvinceMap", () => {
         ];
         const map = buildProvinceMap(data);
         expect(map.size).toBe(1);
+    });
+});
+
+describe("aggregateEducationLevelRows", () => {
+    it("sums nested education levels without coercing the object to a string key", () => {
+        const rows = [
+            {
+                nivel: {
+                    ninguno: { total: 10, h: 6, m: 4 },
+                    secundaria: { total: 20, h: 9, m: 11 },
+                },
+            },
+            {
+                nivel: {
+                    ninguno: { total: 5, h: 2, m: 3 },
+                    secundaria: { total: 7, h: 4, m: 3 },
+                },
+            },
+        ];
+
+        const result = aggregateEducationLevelRows(rows);
+        expect(result).toHaveLength(1);
+        expect(result[0].nivel.ninguno).toMatchObject({ total: 15, h: 8, m: 7 });
+        expect(result[0].nivel.secundaria).toMatchObject({ total: 27, h: 13, m: 14 });
+        expect(result[0]).not.toHaveProperty("[object Object]");
+    });
+
+    it("returns an empty array when no nested level data is available", () => {
+        expect(aggregateEducationLevelRows([])).toEqual([]);
+        expect(aggregateEducationLevelRows([{ nivel: null }])).toEqual([]);
     });
 });
 

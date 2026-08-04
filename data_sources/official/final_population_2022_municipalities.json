@@ -1,0 +1,1274 @@
+{
+  "source": {
+    "primary": "https://www.one.gob.do/media/xebmyq12/informe-general-xcnpv.pdf",
+    "transcription": "https://www.citypopulation.de/en/domrep/admin/",
+    "note": "Final 2022 census figures transcribed by City Population and attributed there to ONE."
+  },
+  "national_total": 10773983,
+  "municipalities": [
+    {
+      "adm2_code": "01001",
+      "municipio": "Santo Domingo de Guzmán",
+      "poblacion_total": 1029110,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/distrito_nacional/0101__santo_domingo_de_guzm%C3%A1n/",
+      "poblacion_hombres": 490052,
+      "poblacion_mujeres": 539058
+    },
+    {
+      "adm2_code": "02001",
+      "municipio": "Azua",
+      "poblacion_total": 103276,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0201__azua/",
+      "poblacion_hombres": 51711,
+      "poblacion_mujeres": 51565
+    },
+    {
+      "adm2_code": "02002",
+      "municipio": "Las Charcas",
+      "poblacion_total": 14341,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0202__las_charcas/",
+      "poblacion_hombres": 7470,
+      "poblacion_mujeres": 6871
+    },
+    {
+      "adm2_code": "02003",
+      "municipio": "Las Yayas de Viajama",
+      "poblacion_total": 19195,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0203__las_yayas_de_viajama/",
+      "poblacion_hombres": 9858,
+      "poblacion_mujeres": 9337
+    },
+    {
+      "adm2_code": "02004",
+      "municipio": "Padre Las Casas",
+      "poblacion_total": 20672,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0204__padre_las_casas/",
+      "poblacion_hombres": 10906,
+      "poblacion_mujeres": 9766
+    },
+    {
+      "adm2_code": "02005",
+      "municipio": "Peralta",
+      "poblacion_total": 14670,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0205__peralta/",
+      "poblacion_hombres": 7873,
+      "poblacion_mujeres": 6797
+    },
+    {
+      "adm2_code": "02006",
+      "municipio": "Sabana Yegua",
+      "poblacion_total": 21306,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0206__sabana_yegua/",
+      "poblacion_hombres": 11220,
+      "poblacion_mujeres": 10086
+    },
+    {
+      "adm2_code": "02007",
+      "municipio": "Pueblo Viejo",
+      "poblacion_total": 11997,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0207__pueblo_viejo/",
+      "poblacion_hombres": 5943,
+      "poblacion_mujeres": 6054
+    },
+    {
+      "adm2_code": "02008",
+      "municipio": "Tábara Arriba",
+      "poblacion_total": 20771,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0208__t%C3%A1bara_arriba/",
+      "poblacion_hombres": 11562,
+      "poblacion_mujeres": 9209
+    },
+    {
+      "adm2_code": "02009",
+      "municipio": "Guayabal",
+      "poblacion_total": 5754,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0209__guayabal/",
+      "poblacion_hombres": 3276,
+      "poblacion_mujeres": 2478
+    },
+    {
+      "adm2_code": "02010",
+      "municipio": "Estebanía",
+      "poblacion_total": 8227,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/azua/0210__esteban%C3%ADa/",
+      "poblacion_hombres": 4297,
+      "poblacion_mujeres": 3930
+    },
+    {
+      "adm2_code": "03001",
+      "municipio": "Neiba",
+      "poblacion_total": 40644,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/baoruco/0301__neiba/",
+      "poblacion_hombres": 20512,
+      "poblacion_mujeres": 20132
+    },
+    {
+      "adm2_code": "03002",
+      "municipio": "Galván",
+      "poblacion_total": 15677,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/baoruco/0302__galv%C3%A1n/",
+      "poblacion_hombres": 8170,
+      "poblacion_mujeres": 7507
+    },
+    {
+      "adm2_code": "03003",
+      "municipio": "Tamayo",
+      "poblacion_total": 30666,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/baoruco/0303__tamayo/",
+      "poblacion_hombres": 15649,
+      "poblacion_mujeres": 15017
+    },
+    {
+      "adm2_code": "03004",
+      "municipio": "Villa Jaragua",
+      "poblacion_total": 12425,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/baoruco/0304__villa_jaragua/",
+      "poblacion_hombres": 6333,
+      "poblacion_mujeres": 6092
+    },
+    {
+      "adm2_code": "03005",
+      "municipio": "Los Ríos",
+      "poblacion_total": 9305,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/baoruco/0305__los_r%C3%ADos/",
+      "poblacion_hombres": 4942,
+      "poblacion_mujeres": 4363
+    },
+    {
+      "adm2_code": "04001",
+      "municipio": "Barahona",
+      "poblacion_total": 90164,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0401__barahona/",
+      "poblacion_hombres": 44031,
+      "poblacion_mujeres": 46133
+    },
+    {
+      "adm2_code": "04002",
+      "municipio": "Cabral",
+      "poblacion_total": 15913,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0402__cabral/",
+      "poblacion_hombres": 8104,
+      "poblacion_mujeres": 7809
+    },
+    {
+      "adm2_code": "04003",
+      "municipio": "Enriquillo",
+      "poblacion_total": 12523,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0403__enriquillo/",
+      "poblacion_hombres": 6483,
+      "poblacion_mujeres": 6040
+    },
+    {
+      "adm2_code": "04004",
+      "municipio": "Paraíso",
+      "poblacion_total": 16606,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0404__para%C3%ADso/",
+      "poblacion_hombres": 8956,
+      "poblacion_mujeres": 7650
+    },
+    {
+      "adm2_code": "04005",
+      "municipio": "Vicente Noble",
+      "poblacion_total": 25678,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0405__vicente_noble/",
+      "poblacion_hombres": 13085,
+      "poblacion_mujeres": 12593
+    },
+    {
+      "adm2_code": "04006",
+      "municipio": "El Peñón",
+      "poblacion_total": 4388,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0406__el_pe%C3%B1%C3%B3n/",
+      "poblacion_hombres": 2283,
+      "poblacion_mujeres": 2105
+    },
+    {
+      "adm2_code": "04007",
+      "municipio": "La Ciénaga",
+      "poblacion_total": 9186,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0407__la_ci%C3%A9naga/",
+      "poblacion_hombres": 4724,
+      "poblacion_mujeres": 4462
+    },
+    {
+      "adm2_code": "04008",
+      "municipio": "Fundación",
+      "poblacion_total": 9223,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0408__fundaci%C3%B3n/",
+      "poblacion_hombres": 4727,
+      "poblacion_mujeres": 4496
+    },
+    {
+      "adm2_code": "04009",
+      "municipio": "Las Salinas",
+      "poblacion_total": 4810,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0409__las_salinas/",
+      "poblacion_hombres": 2426,
+      "poblacion_mujeres": 2384
+    },
+    {
+      "adm2_code": "04010",
+      "municipio": "Polo",
+      "poblacion_total": 7646,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0410__polo/",
+      "poblacion_hombres": 4221,
+      "poblacion_mujeres": 3425
+    },
+    {
+      "adm2_code": "04011",
+      "municipio": "Jaquimeyes",
+      "poblacion_total": 4747,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/barahona/0411__jaquimeyes/",
+      "poblacion_hombres": 2296,
+      "poblacion_mujeres": 2451
+    },
+    {
+      "adm2_code": "05001",
+      "municipio": "Dajabón",
+      "poblacion_total": 35809,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/dajab%C3%B3n/0501__dajab%C3%B3n/",
+      "poblacion_hombres": 17715,
+      "poblacion_mujeres": 18094
+    },
+    {
+      "adm2_code": "05002",
+      "municipio": "Loma de Cabrera",
+      "poblacion_total": 16827,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/dajab%C3%B3n/0502__loma_de_cabrera/",
+      "poblacion_hombres": 8635,
+      "poblacion_mujeres": 8192
+    },
+    {
+      "adm2_code": "05003",
+      "municipio": "Partido",
+      "poblacion_total": 7584,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/dajab%C3%B3n/0503__partido/",
+      "poblacion_hombres": 3990,
+      "poblacion_mujeres": 3594
+    },
+    {
+      "adm2_code": "05004",
+      "municipio": "Restauración",
+      "poblacion_total": 8149,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/dajab%C3%B3n/0504__restauraci%C3%B3n/",
+      "poblacion_hombres": 4187,
+      "poblacion_mujeres": 3962
+    },
+    {
+      "adm2_code": "05005",
+      "municipio": "El Pino",
+      "poblacion_total": 6441,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/dajab%C3%B3n/0505__el_pino/",
+      "poblacion_hombres": 3322,
+      "poblacion_mujeres": 3119
+    },
+    {
+      "adm2_code": "06001",
+      "municipio": "San Francisco de Macorís",
+      "poblacion_total": 202716,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/duarte/0601__san_francisco_de_macor%C3%ADs/",
+      "poblacion_hombres": 100343,
+      "poblacion_mujeres": 102373
+    },
+    {
+      "adm2_code": "06002",
+      "municipio": "Arenoso",
+      "poblacion_total": 13890,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/duarte/0602__arenoso/",
+      "poblacion_hombres": 7303,
+      "poblacion_mujeres": 6587
+    },
+    {
+      "adm2_code": "06003",
+      "municipio": "Castillo",
+      "poblacion_total": 16786,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/duarte/0603__castillo/",
+      "poblacion_hombres": 8630,
+      "poblacion_mujeres": 8156
+    },
+    {
+      "adm2_code": "06004",
+      "municipio": "Pimentel",
+      "poblacion_total": 19033,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/duarte/0604__pimentel/",
+      "poblacion_hombres": 9367,
+      "poblacion_mujeres": 9666
+    },
+    {
+      "adm2_code": "06005",
+      "municipio": "Villa Riva",
+      "poblacion_total": 36066,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/duarte/0605__villa_riva/",
+      "poblacion_hombres": 18678,
+      "poblacion_mujeres": 17388
+    },
+    {
+      "adm2_code": "06006",
+      "municipio": "Las Guáranas",
+      "poblacion_total": 14099,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/duarte/0606__las_gu%C3%A1ranas/",
+      "poblacion_hombres": 7075,
+      "poblacion_mujeres": 7024
+    },
+    {
+      "adm2_code": "06007",
+      "municipio": "Eugenio María de Hostos",
+      "poblacion_total": 5763,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/duarte/0607__eugenio_mar%C3%ADa_de_hostos/",
+      "poblacion_hombres": 3018,
+      "poblacion_mujeres": 2745
+    },
+    {
+      "adm2_code": "07001",
+      "municipio": "Comendador",
+      "poblacion_total": 28738,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el%C3%ADas_pi%C3%B1a/0701__comendador/",
+      "poblacion_hombres": 14270,
+      "poblacion_mujeres": 14468
+    },
+    {
+      "adm2_code": "07002",
+      "municipio": "Bánica",
+      "poblacion_total": 7533,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el%C3%ADas_pi%C3%B1a/0702__b%C3%A1nica/",
+      "poblacion_hombres": 3845,
+      "poblacion_mujeres": 3688
+    },
+    {
+      "adm2_code": "07003",
+      "municipio": "El Llano",
+      "poblacion_total": 8577,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el%C3%ADas_pi%C3%B1a/0703__el_llano/",
+      "poblacion_hombres": 4380,
+      "poblacion_mujeres": 4197
+    },
+    {
+      "adm2_code": "07004",
+      "municipio": "Hondo Valle",
+      "poblacion_total": 9697,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el%C3%ADas_pi%C3%B1a/0704__hondo_valle/",
+      "poblacion_hombres": 5107,
+      "poblacion_mujeres": 4590
+    },
+    {
+      "adm2_code": "07005",
+      "municipio": "Pedro Santana",
+      "poblacion_total": 6605,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el%C3%ADas_pi%C3%B1a/0705__pedro_santana/",
+      "poblacion_hombres": 3519,
+      "poblacion_mujeres": 3086
+    },
+    {
+      "adm2_code": "07006",
+      "municipio": "Juan Santiago",
+      "poblacion_total": 3464,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el%C3%ADas_pi%C3%B1a/0706__juan_santiago/",
+      "poblacion_hombres": 1880,
+      "poblacion_mujeres": 1584
+    },
+    {
+      "adm2_code": "08001",
+      "municipio": "El Seibo",
+      "poblacion_total": 72775,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el_seibo/0801__el_seibo/",
+      "poblacion_hombres": 38027,
+      "poblacion_mujeres": 34748
+    },
+    {
+      "adm2_code": "08002",
+      "municipio": "Miches",
+      "poblacion_total": 26394,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/el_seibo/0802__miches/",
+      "poblacion_hombres": 13812,
+      "poblacion_mujeres": 12582
+    },
+    {
+      "adm2_code": "09001",
+      "municipio": "Moca",
+      "poblacion_total": 164022,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/espaillat/0901__moca/",
+      "poblacion_hombres": 83053,
+      "poblacion_mujeres": 80969
+    },
+    {
+      "adm2_code": "09002",
+      "municipio": "Cayetano Germosén",
+      "poblacion_total": 7960,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/espaillat/0902__cayetano_germos%C3%A9n/",
+      "poblacion_hombres": 4132,
+      "poblacion_mujeres": 3828
+    },
+    {
+      "adm2_code": "09003",
+      "municipio": "Gaspar Hernández",
+      "poblacion_total": 40781,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/espaillat/0903__gaspar_hern%C3%A1ndez/",
+      "poblacion_hombres": 20626,
+      "poblacion_mujeres": 20155
+    },
+    {
+      "adm2_code": "09004",
+      "municipio": "Jamao al Norte",
+      "poblacion_total": 7982,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/espaillat/0904__jamao_al_norte/",
+      "poblacion_hombres": 4118,
+      "poblacion_mujeres": 3864
+    },
+    {
+      "adm2_code": "09005",
+      "municipio": "San Víctor",
+      "poblacion_total": 20313,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/espaillat/0905__san_v%C3%ADctor/",
+      "poblacion_hombres": 10254,
+      "poblacion_mujeres": 10059
+    },
+    {
+      "adm2_code": "10001",
+      "municipio": "Jimaní",
+      "poblacion_total": 19153,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/independencia/1001__jiman%C3%AD/",
+      "poblacion_hombres": 9448,
+      "poblacion_mujeres": 9705
+    },
+    {
+      "adm2_code": "10002",
+      "municipio": "Duvergé",
+      "poblacion_total": 14125,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/independencia/1002__duverg%C3%A9/",
+      "poblacion_hombres": 6999,
+      "poblacion_mujeres": 7126
+    },
+    {
+      "adm2_code": "10003",
+      "municipio": "La Descubierta",
+      "poblacion_total": 8072,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/independencia/1003__la_descubierta/",
+      "poblacion_hombres": 4098,
+      "poblacion_mujeres": 3974
+    },
+    {
+      "adm2_code": "10004",
+      "municipio": "Postrer Río",
+      "poblacion_total": 7178,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/independencia/1004__postrer_r%C3%ADo/",
+      "poblacion_hombres": 3801,
+      "poblacion_mujeres": 3377
+    },
+    {
+      "adm2_code": "10005",
+      "municipio": "Cristóbal",
+      "poblacion_total": 7617,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/independencia/1005__crist%C3%B3bal/",
+      "poblacion_hombres": 4023,
+      "poblacion_mujeres": 3594
+    },
+    {
+      "adm2_code": "10006",
+      "municipio": "Mella",
+      "poblacion_total": 4544,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/independencia/1006__mella/",
+      "poblacion_hombres": 2303,
+      "poblacion_mujeres": 2241
+    },
+    {
+      "adm2_code": "11001",
+      "municipio": "Higüey",
+      "poblacion_total": 415084,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_altagracia/1101__hig%C3%BCey/",
+      "poblacion_hombres": 206942,
+      "poblacion_mujeres": 208142
+    },
+    {
+      "adm2_code": "11002",
+      "municipio": "San Rafael del Yuma",
+      "poblacion_total": 30976,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_altagracia/1102__san_rafael_del_yuma/",
+      "poblacion_hombres": 15924,
+      "poblacion_mujeres": 15052
+    },
+    {
+      "adm2_code": "12001",
+      "municipio": "La Romana",
+      "poblacion_total": 153241,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_romana/1201__la_romana/",
+      "poblacion_hombres": 73427,
+      "poblacion_mujeres": 79814
+    },
+    {
+      "adm2_code": "12002",
+      "municipio": "Guaymate",
+      "poblacion_total": 17228,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_romana/1202__guaymate/",
+      "poblacion_hombres": 9097,
+      "poblacion_mujeres": 8131
+    },
+    {
+      "adm2_code": "12003",
+      "municipio": "Villa Hermosa",
+      "poblacion_total": 117445,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_romana/1203__villa_hermosa/",
+      "poblacion_hombres": 57949,
+      "poblacion_mujeres": 59496
+    },
+    {
+      "adm2_code": "13001",
+      "municipio": "La Vega",
+      "poblacion_total": 282055,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_vega/1301__la_vega/",
+      "poblacion_hombres": 141935,
+      "poblacion_mujeres": 140120
+    },
+    {
+      "adm2_code": "13002",
+      "municipio": "Constanza",
+      "poblacion_total": 66316,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_vega/1302__constanza/",
+      "poblacion_hombres": 34326,
+      "poblacion_mujeres": 31990
+    },
+    {
+      "adm2_code": "13003",
+      "municipio": "Jarabacoa",
+      "poblacion_total": 65059,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_vega/1303__jarabacoa/",
+      "poblacion_hombres": 33108,
+      "poblacion_mujeres": 31951
+    },
+    {
+      "adm2_code": "13004",
+      "municipio": "Jima Abajo",
+      "poblacion_total": 29289,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/la_vega/1304__jima_abajo/",
+      "poblacion_hombres": 14853,
+      "poblacion_mujeres": 14436
+    },
+    {
+      "adm2_code": "14001",
+      "municipio": "Nagua",
+      "poblacion_total": 81424,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/mar%C3%ADa_trinidad_s%C3%A1nchez/1401__nagua/",
+      "poblacion_hombres": 40942,
+      "poblacion_mujeres": 40482
+    },
+    {
+      "adm2_code": "14002",
+      "municipio": "Cabrera",
+      "poblacion_total": 28677,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/mar%C3%ADa_trinidad_s%C3%A1nchez/1402__cabrera/",
+      "poblacion_hombres": 14485,
+      "poblacion_mujeres": 14192
+    },
+    {
+      "adm2_code": "14003",
+      "municipio": "El Factor",
+      "poblacion_total": 29736,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/mar%C3%ADa_trinidad_s%C3%A1nchez/1403__el_factor/",
+      "poblacion_hombres": 15423,
+      "poblacion_mujeres": 14313
+    },
+    {
+      "adm2_code": "14004",
+      "municipio": "Río San Juan",
+      "poblacion_total": 16796,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/mar%C3%ADa_trinidad_s%C3%A1nchez/1404__r%C3%ADo_san_juan/",
+      "poblacion_hombres": 8756,
+      "poblacion_mujeres": 8040
+    },
+    {
+      "adm2_code": "15001",
+      "municipio": "Monte Cristi",
+      "poblacion_total": 27067,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_cristi/1501__monte_cristi/",
+      "poblacion_hombres": 13969,
+      "poblacion_mujeres": 13098
+    },
+    {
+      "adm2_code": "15002",
+      "municipio": "Castañuelas",
+      "poblacion_total": 18588,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_cristi/1502__casta%C3%B1uelas/",
+      "poblacion_hombres": 9765,
+      "poblacion_mujeres": 8823
+    },
+    {
+      "adm2_code": "15003",
+      "municipio": "Guayubín",
+      "poblacion_total": 39653,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_cristi/1503__guayub%C3%ADn/",
+      "poblacion_hombres": 20587,
+      "poblacion_mujeres": 19066
+    },
+    {
+      "adm2_code": "15004",
+      "municipio": "Las Matas de Santa Cruz",
+      "poblacion_total": 11114,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_cristi/1504__las_matas_de_santa_cruz/",
+      "poblacion_hombres": 5683,
+      "poblacion_mujeres": 5431
+    },
+    {
+      "adm2_code": "15005",
+      "municipio": "Pepillo Salcedo",
+      "poblacion_total": 10663,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_cristi/1505__pepillo_salcedo/",
+      "poblacion_hombres": 5429,
+      "poblacion_mujeres": 5234
+    },
+    {
+      "adm2_code": "15006",
+      "municipio": "Villa Vásquez",
+      "poblacion_total": 16434,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_cristi/1506__villa_v%C3%A1squez/",
+      "poblacion_hombres": 8428,
+      "poblacion_mujeres": 8006
+    },
+    {
+      "adm2_code": "16001",
+      "municipio": "Pedernales",
+      "poblacion_total": 24423,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/pedernales/1601__pedernales/",
+      "poblacion_hombres": 12451,
+      "poblacion_mujeres": 11972
+    },
+    {
+      "adm2_code": "16002",
+      "municipio": "Oviedo",
+      "poblacion_total": 9952,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/pedernales/1602__oviedo/",
+      "poblacion_hombres": 5361,
+      "poblacion_mujeres": 4591
+    },
+    {
+      "adm2_code": "17001",
+      "municipio": "Baní",
+      "poblacion_total": 158019,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/peravia/1701__ban%C3%AD/",
+      "poblacion_hombres": 76565,
+      "poblacion_mujeres": 81454
+    },
+    {
+      "adm2_code": "17002",
+      "municipio": "Nizao",
+      "poblacion_total": 32191,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/peravia/1702__nizao/",
+      "poblacion_hombres": 15693,
+      "poblacion_mujeres": 16498
+    },
+    {
+      "adm2_code": "17003",
+      "municipio": "Matanzas",
+      "poblacion_total": 19162,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/peravia/1703__matanzas/",
+      "poblacion_hombres": 9506,
+      "poblacion_mujeres": 9656
+    },
+    {
+      "adm2_code": "18001",
+      "municipio": "Puerto Plata",
+      "poblacion_total": 162093,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1801__puerto_plata/",
+      "poblacion_hombres": 79323,
+      "poblacion_mujeres": 82770
+    },
+    {
+      "adm2_code": "18002",
+      "municipio": "Altamira",
+      "poblacion_total": 17676,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1802__altamira/",
+      "poblacion_hombres": 9128,
+      "poblacion_mujeres": 8548
+    },
+    {
+      "adm2_code": "18003",
+      "municipio": "Guananico",
+      "poblacion_total": 6466,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1803__guananico/",
+      "poblacion_hombres": 3353,
+      "poblacion_mujeres": 3113
+    },
+    {
+      "adm2_code": "18004",
+      "municipio": "Imbert",
+      "poblacion_total": 22925,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1804__imbert/",
+      "poblacion_hombres": 11472,
+      "poblacion_mujeres": 11453
+    },
+    {
+      "adm2_code": "18005",
+      "municipio": "Los Hidalgos",
+      "poblacion_total": 13605,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1805__los_hidalgos/",
+      "poblacion_hombres": 7155,
+      "poblacion_mujeres": 6450
+    },
+    {
+      "adm2_code": "18006",
+      "municipio": "Luperón",
+      "poblacion_total": 17577,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1806__luper%C3%B3n/",
+      "poblacion_hombres": 9160,
+      "poblacion_mujeres": 8417
+    },
+    {
+      "adm2_code": "18007",
+      "municipio": "Sosúa",
+      "poblacion_total": 56982,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1807__sos%C3%BAa/",
+      "poblacion_hombres": 28120,
+      "poblacion_mujeres": 28862
+    },
+    {
+      "adm2_code": "18008",
+      "municipio": "Villa Isabela",
+      "poblacion_total": 20278,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1808__villa_isabela/",
+      "poblacion_hombres": 10680,
+      "poblacion_mujeres": 9598
+    },
+    {
+      "adm2_code": "18009",
+      "municipio": "Villa Montellano",
+      "poblacion_total": 20753,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/puerto_plata/1809__villa_montellano/",
+      "poblacion_hombres": 10360,
+      "poblacion_mujeres": 10393
+    },
+    {
+      "adm2_code": "19001",
+      "municipio": "Salcedo",
+      "poblacion_total": 41340,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/hermanas_mirabal/1901__salcedo/",
+      "poblacion_hombres": 20939,
+      "poblacion_mujeres": 20401
+    },
+    {
+      "adm2_code": "19002",
+      "municipio": "Tenares",
+      "poblacion_total": 28942,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/hermanas_mirabal/1902__tenares/",
+      "poblacion_hombres": 14739,
+      "poblacion_mujeres": 14203
+    },
+    {
+      "adm2_code": "19003",
+      "municipio": "Villa Tapia",
+      "poblacion_total": 26159,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/hermanas_mirabal/1903__villa_tapia/",
+      "poblacion_hombres": 13511,
+      "poblacion_mujeres": 12648
+    },
+    {
+      "adm2_code": "20001",
+      "municipio": "Samaná",
+      "poblacion_total": 63359,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/saman%C3%A1/2001__saman%C3%A1/",
+      "poblacion_hombres": 31968,
+      "poblacion_mujeres": 31391
+    },
+    {
+      "adm2_code": "20002",
+      "municipio": "Sánchez",
+      "poblacion_total": 25413,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/saman%C3%A1/2002__s%C3%A1nchez/",
+      "poblacion_hombres": 12602,
+      "poblacion_mujeres": 12811
+    },
+    {
+      "adm2_code": "20003",
+      "municipio": "Las Terrenas",
+      "poblacion_total": 25696,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/saman%C3%A1/2003__las_terrenas/",
+      "poblacion_hombres": 12675,
+      "poblacion_mujeres": 13021
+    },
+    {
+      "adm2_code": "21001",
+      "municipio": "San Cristóbal",
+      "poblacion_total": 277793,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2101__san_crist%C3%B3bal/",
+      "poblacion_hombres": 137608,
+      "poblacion_mujeres": 140185
+    },
+    {
+      "adm2_code": "21002",
+      "municipio": "Sabana Grande de Palenque",
+      "poblacion_total": 18304,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2102__sabana_grande_de_palenque/",
+      "poblacion_hombres": 8969,
+      "poblacion_mujeres": 9335
+    },
+    {
+      "adm2_code": "21003",
+      "municipio": "Bajos de Haina",
+      "poblacion_total": 159888,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2103__bajos_de_haina/",
+      "poblacion_hombres": 77901,
+      "poblacion_mujeres": 81987
+    },
+    {
+      "adm2_code": "21004",
+      "municipio": "Cambita Garabitos",
+      "poblacion_total": 31684,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2104__cambita_garabitos/",
+      "poblacion_hombres": 16397,
+      "poblacion_mujeres": 15287
+    },
+    {
+      "adm2_code": "21005",
+      "municipio": "Villa Altagracia",
+      "poblacion_total": 97620,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2105__villa_altagracia/",
+      "poblacion_hombres": 48547,
+      "poblacion_mujeres": 49073
+    },
+    {
+      "adm2_code": "21006",
+      "municipio": "Yaguate",
+      "poblacion_total": 51489,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2106__yaguate/",
+      "poblacion_hombres": 25310,
+      "poblacion_mujeres": 26179
+    },
+    {
+      "adm2_code": "21007",
+      "municipio": "San Gregorio de Nigua",
+      "poblacion_total": 38272,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2107__san_gregorio_de_nigua/",
+      "poblacion_hombres": 18933,
+      "poblacion_mujeres": 19339
+    },
+    {
+      "adm2_code": "21008",
+      "municipio": "Los Cacaos",
+      "poblacion_total": 13778,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_crist%C3%B3bal/2108__los_cacaos/",
+      "poblacion_hombres": 8188,
+      "poblacion_mujeres": 5590
+    },
+    {
+      "adm2_code": "22001",
+      "municipio": "San Juan",
+      "poblacion_total": 143009,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_juan/2201__san_juan_/",
+      "poblacion_hombres": 72642,
+      "poblacion_mujeres": 70367
+    },
+    {
+      "adm2_code": "22002",
+      "municipio": "Bohechío",
+      "poblacion_total": 10051,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_juan/2202__bohech%C3%ADo/",
+      "poblacion_hombres": 5371,
+      "poblacion_mujeres": 4680
+    },
+    {
+      "adm2_code": "22003",
+      "municipio": "El Cercado",
+      "poblacion_total": 17987,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_juan/2203__el_cercado/",
+      "poblacion_hombres": 9653,
+      "poblacion_mujeres": 8334
+    },
+    {
+      "adm2_code": "22004",
+      "municipio": "Juan de Herrera",
+      "poblacion_total": 12592,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_juan/2204__juan_de_herrera/",
+      "poblacion_hombres": 6633,
+      "poblacion_mujeres": 5959
+    },
+    {
+      "adm2_code": "22005",
+      "municipio": "Las Matas de Farfán",
+      "poblacion_total": 48179,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_juan/2205__las_matas_de_farf%C3%A1n/",
+      "poblacion_hombres": 24487,
+      "poblacion_mujeres": 23692
+    },
+    {
+      "adm2_code": "22006",
+      "municipio": "Vallejuelo",
+      "poblacion_total": 12849,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_juan/2206__vallejuelo/",
+      "poblacion_hombres": 6816,
+      "poblacion_mujeres": 6033
+    },
+    {
+      "adm2_code": "23001",
+      "municipio": "San Pedro de Macorís",
+      "poblacion_total": 217523,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_pedro_de_macor%C3%ADs/2301__san_pedro_de_macor%C3%ADs/",
+      "poblacion_hombres": 104526,
+      "poblacion_mujeres": 112997
+    },
+    {
+      "adm2_code": "23002",
+      "municipio": "Los Llanos",
+      "poblacion_total": 26098,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_pedro_de_macor%C3%ADs/2302__los_llanos/",
+      "poblacion_hombres": 13252,
+      "poblacion_mujeres": 12846
+    },
+    {
+      "adm2_code": "23003",
+      "municipio": "Ramón Santana",
+      "poblacion_total": 11105,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_pedro_de_macor%C3%ADs/2303__ram%C3%B3n_santana/",
+      "poblacion_hombres": 5892,
+      "poblacion_mujeres": 5213
+    },
+    {
+      "adm2_code": "23004",
+      "municipio": "Consuelo",
+      "poblacion_total": 40547,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_pedro_de_macor%C3%ADs/2304__consuelo/",
+      "poblacion_hombres": 20061,
+      "poblacion_mujeres": 20486
+    },
+    {
+      "adm2_code": "23005",
+      "municipio": "Quisqueya",
+      "poblacion_total": 22720,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_pedro_de_macor%C3%ADs/2305__quisqueya/",
+      "poblacion_hombres": 11263,
+      "poblacion_mujeres": 11457
+    },
+    {
+      "adm2_code": "23006",
+      "municipio": "Guayacanes",
+      "poblacion_total": 19153,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_pedro_de_macor%C3%ADs/2306__guayacanes/",
+      "poblacion_hombres": 9686,
+      "poblacion_mujeres": 9467
+    },
+    {
+      "adm2_code": "24001",
+      "municipio": "Cotuí",
+      "poblacion_total": 84193,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/s%C3%A1nchez_ram%C3%ADrez/2401__cotu%C3%AD/",
+      "poblacion_hombres": 42531,
+      "poblacion_mujeres": 41662
+    },
+    {
+      "adm2_code": "24002",
+      "municipio": "Cevicos",
+      "poblacion_total": 16311,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/s%C3%A1nchez_ram%C3%ADrez/2402__cevicos/",
+      "poblacion_hombres": 8501,
+      "poblacion_mujeres": 7810
+    },
+    {
+      "adm2_code": "24003",
+      "municipio": "Fantino",
+      "poblacion_total": 23780,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/s%C3%A1nchez_ram%C3%ADrez/2403__fantino/",
+      "poblacion_hombres": 11918,
+      "poblacion_mujeres": 11862
+    },
+    {
+      "adm2_code": "24004",
+      "municipio": "La Mata",
+      "poblacion_total": 38358,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/s%C3%A1nchez_ram%C3%ADrez/2404__la_mata/",
+      "poblacion_hombres": 19459,
+      "poblacion_mujeres": 18899
+    },
+    {
+      "adm2_code": "25001",
+      "municipio": "Santiago",
+      "poblacion_total": 771748,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2501__santiago/",
+      "poblacion_hombres": 377008,
+      "poblacion_mujeres": 394740
+    },
+    {
+      "adm2_code": "25002",
+      "municipio": "Bisonó",
+      "poblacion_total": 49367,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2502__bison%C3%B3/",
+      "poblacion_hombres": 24663,
+      "poblacion_mujeres": 24704
+    },
+    {
+      "adm2_code": "25003",
+      "municipio": "Jánico",
+      "poblacion_total": 14385,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2503__j%C3%A1nico/",
+      "poblacion_hombres": 7818,
+      "poblacion_mujeres": 6567
+    },
+    {
+      "adm2_code": "25004",
+      "municipio": "Licey al Medio",
+      "poblacion_total": 30103,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2504__licey_al_medio/",
+      "poblacion_hombres": 14980,
+      "poblacion_mujeres": 15123
+    },
+    {
+      "adm2_code": "25005",
+      "municipio": "San José de las Matas",
+      "poblacion_total": 37411,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2505__san_jos%C3%A9_de_las_matas/",
+      "poblacion_hombres": 19782,
+      "poblacion_mujeres": 17629
+    },
+    {
+      "adm2_code": "25006",
+      "municipio": "Tamboril",
+      "poblacion_total": 57669,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2506__tamboril/",
+      "poblacion_hombres": 28875,
+      "poblacion_mujeres": 28794
+    },
+    {
+      "adm2_code": "25007",
+      "municipio": "Villa González",
+      "poblacion_total": 42198,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2507__villa_gonz%C3%A1lez/",
+      "poblacion_hombres": 21394,
+      "poblacion_mujeres": 20804
+    },
+    {
+      "adm2_code": "25008",
+      "municipio": "Puñal",
+      "poblacion_total": 46090,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2508__pu%C3%B1al/",
+      "poblacion_hombres": 22924,
+      "poblacion_mujeres": 23166
+    },
+    {
+      "adm2_code": "25009",
+      "municipio": "Sabana Iglesia",
+      "poblacion_total": 14018,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2509__sabana_iglesia/",
+      "poblacion_hombres": 7315,
+      "poblacion_mujeres": 6703
+    },
+    {
+      "adm2_code": "25010",
+      "municipio": "Baitoa",
+      "poblacion_total": 11690,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago/2510__baitoa/",
+      "poblacion_hombres": 6135,
+      "poblacion_mujeres": 5555
+    },
+    {
+      "adm2_code": "26001",
+      "municipio": "Sabaneta",
+      "poblacion_total": 38798,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago_rodr%C3%ADguez/2601__sabaneta/",
+      "poblacion_hombres": 19813,
+      "poblacion_mujeres": 18985
+    },
+    {
+      "adm2_code": "26002",
+      "municipio": "Villa Los Almácigos",
+      "poblacion_total": 11816,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago_rodr%C3%ADguez/2602__villa_los_alm%C3%A1cigos/",
+      "poblacion_hombres": 6137,
+      "poblacion_mujeres": 5679
+    },
+    {
+      "adm2_code": "26003",
+      "municipio": "Monción",
+      "poblacion_total": 14021,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santiago_rodr%C3%ADguez/2603__monci%C3%B3n/",
+      "poblacion_hombres": 7029,
+      "poblacion_mujeres": 6992
+    },
+    {
+      "adm2_code": "27001",
+      "municipio": "Mao",
+      "poblacion_total": 86659,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/valverde/2701__mao/",
+      "poblacion_hombres": 43381,
+      "poblacion_mujeres": 43278
+    },
+    {
+      "adm2_code": "27002",
+      "municipio": "Esperanza",
+      "poblacion_total": 69803,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/valverde/2702__esperanza/",
+      "poblacion_hombres": 35462,
+      "poblacion_mujeres": 34341
+    },
+    {
+      "adm2_code": "27003",
+      "municipio": "Laguna Salada",
+      "poblacion_total": 27607,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/valverde/2703__laguna_salada/",
+      "poblacion_hombres": 14199,
+      "poblacion_mujeres": 13408
+    },
+    {
+      "adm2_code": "28001",
+      "municipio": "Bonao",
+      "poblacion_total": 144923,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monse%C3%B1or_nouel/2801__bonao/",
+      "poblacion_hombres": 72848,
+      "poblacion_mujeres": 72075
+    },
+    {
+      "adm2_code": "28002",
+      "municipio": "Maimón",
+      "poblacion_total": 23885,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monse%C3%B1or_nouel/2802__maim%C3%B3n/",
+      "poblacion_hombres": 11705,
+      "poblacion_mujeres": 12180
+    },
+    {
+      "adm2_code": "28003",
+      "municipio": "Piedra Blanca",
+      "poblacion_total": 26739,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monse%C3%B1or_nouel/2803__piedra_blanca/",
+      "poblacion_hombres": 13464,
+      "poblacion_mujeres": 13275
+    },
+    {
+      "adm2_code": "29001",
+      "municipio": "Monte Plata",
+      "poblacion_total": 52926,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_plata/2901__monte_plata/",
+      "poblacion_hombres": 26657,
+      "poblacion_mujeres": 26269
+    },
+    {
+      "adm2_code": "29002",
+      "municipio": "Bayaguana",
+      "poblacion_total": 35435,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_plata/2902__bayaguana/",
+      "poblacion_hombres": 17946,
+      "poblacion_mujeres": 17489
+    },
+    {
+      "adm2_code": "29003",
+      "municipio": "Sabana Grande de Boyá",
+      "poblacion_total": 34977,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_plata/2903__sabana_grande_de_boy%C3%A1/",
+      "poblacion_hombres": 17925,
+      "poblacion_mujeres": 17052
+    },
+    {
+      "adm2_code": "29004",
+      "municipio": "Yamasá",
+      "poblacion_total": 63989,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_plata/2904__yamas%C3%A1/",
+      "poblacion_hombres": 31854,
+      "poblacion_mujeres": 32135
+    },
+    {
+      "adm2_code": "29005",
+      "municipio": "Peralvillo",
+      "poblacion_total": 18171,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/monte_plata/2905__peralvillo/",
+      "poblacion_hombres": 9248,
+      "poblacion_mujeres": 8923
+    },
+    {
+      "adm2_code": "30001",
+      "municipio": "Hato Mayor del Rey",
+      "poblacion_total": 70582,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/hato_mayor/3001__hato_mayor_del_rey/",
+      "poblacion_hombres": 34969,
+      "poblacion_mujeres": 35613
+    },
+    {
+      "adm2_code": "30002",
+      "municipio": "Sabana de la Mar",
+      "poblacion_total": 19661,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/hato_mayor/3002__sabana_de_la_mar/",
+      "poblacion_hombres": 9815,
+      "poblacion_mujeres": 9846
+    },
+    {
+      "adm2_code": "30003",
+      "municipio": "El Valle",
+      "poblacion_total": 9890,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/hato_mayor/3003__el_valle/",
+      "poblacion_hombres": 5055,
+      "poblacion_mujeres": 4835
+    },
+    {
+      "adm2_code": "31001",
+      "municipio": "San José de Ocoa",
+      "poblacion_total": 43394,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_jos%C3%A9_de_ocoa/3101__san_jos%C3%A9_de_ocoa/",
+      "poblacion_hombres": 22820,
+      "poblacion_mujeres": 20574
+    },
+    {
+      "adm2_code": "31002",
+      "municipio": "Sabana Larga",
+      "poblacion_total": 11636,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_jos%C3%A9_de_ocoa/3102__sabana_larga/",
+      "poblacion_hombres": 6337,
+      "poblacion_mujeres": 5299
+    },
+    {
+      "adm2_code": "31003",
+      "municipio": "Rancho Arriba",
+      "poblacion_total": 14052,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/san_jos%C3%A9_de_ocoa/3103__rancho_arriba/",
+      "poblacion_hombres": 8063,
+      "poblacion_mujeres": 5989
+    },
+    {
+      "adm2_code": "32001",
+      "municipio": "Santo Domingo Este",
+      "poblacion_total": 1029117,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santo_domingo/3201__santo_domingo_este/",
+      "poblacion_hombres": 489906,
+      "poblacion_mujeres": 539211
+    },
+    {
+      "adm2_code": "32002",
+      "municipio": "Santo Domingo Oeste",
+      "poblacion_total": 410578,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santo_domingo/3202__santo_domingo_oeste/",
+      "poblacion_hombres": 197104,
+      "poblacion_mujeres": 213474
+    },
+    {
+      "adm2_code": "32003",
+      "municipio": "Santo Domingo Norte",
+      "poblacion_total": 674274,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santo_domingo/3203__santo_domingo_norte/",
+      "poblacion_hombres": 331288,
+      "poblacion_mujeres": 342986
+    },
+    {
+      "adm2_code": "32004",
+      "municipio": "Boca Chica",
+      "poblacion_total": 167040,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santo_domingo/3204__boca_chica/",
+      "poblacion_hombres": 81634,
+      "poblacion_mujeres": 85406
+    },
+    {
+      "adm2_code": "32005",
+      "municipio": "San Antonio de Guerra",
+      "poblacion_total": 59299,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santo_domingo/3205__san_antonio_de_guerra/",
+      "poblacion_hombres": 29485,
+      "poblacion_mujeres": 29814
+    },
+    {
+      "adm2_code": "32006",
+      "municipio": "Los Alcarrizos",
+      "poblacion_total": 336307,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santo_domingo/3206__los_alcarrizos/",
+      "poblacion_hombres": 165435,
+      "poblacion_mujeres": 170872
+    },
+    {
+      "adm2_code": "32007",
+      "municipio": "Pedro Brand",
+      "poblacion_total": 92973,
+      "transcription_url": "https://www.citypopulation.de/en/domrep/admin/santo_domingo/3207__pedro_brand/",
+      "poblacion_hombres": 46147,
+      "poblacion_mujeres": 46826
+    }
+  ]
+}

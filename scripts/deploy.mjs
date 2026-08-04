@@ -29,7 +29,9 @@ import fs from 'fs';
 // ============================================
 
 // Lista de posibles carpetas de build (en orden de prioridad)
-const CANDIDATE_DIRS = ['dist', 'dist_prod', 'dist_prod_v2', 'dist_prod_v3'];
+const CANDIDATE_DIRS = process.env.DEPLOY_BUILD_DIR
+    ? [process.env.DEPLOY_BUILD_DIR]
+    : ['dist', 'dist_prod', 'dist_prod_v2', 'dist_prod_v3'];
 let BUILD_DIR = null;
 
 // Buscar la primera carpeta de build que exista
@@ -101,5 +103,6 @@ async function deploy() {
     }
 }
 
-// Ejecutar la función de despliegue
-deploy();
+// Ejecutar la función de despliegue y esperar a que finalice antes de que los
+// scripts de verificación o limpieza continúen.
+await deploy();

@@ -86,7 +86,7 @@ export function HouseholdSizeChart({ records }) {
             return { label, hogares, order: m ? parseInt(m[0], 10) : 999 };
         })
         .sort((a, b) => a.order - b.order);
-    const BAR_COLOR = "#3B82F6";
+    const BAR_COLOR = "#861547";
 
     return (
         <Card className="border-sky-100 bg-sky-50/70 h-full flex flex-col">
@@ -100,12 +100,27 @@ export function HouseholdSizeChart({ records }) {
             <CardContent className="h-64 md:h-72 print-graph-content">
                 <div className="w-full h-full print-chart-container">
                     <ResponsiveContainer width="100%" height="100%">
-                        <BarChart data={data}>
+                        <BarChart
+                            data={data}
+                            margin={{ top: 28, right: 14, bottom: 8, left: 22 }}
+                        >
                             <XAxis dataKey="label" tick={{ fontSize: 10 }} interval={0} />
-                            <YAxis tickFormatter={(v) => v.toLocaleString("es-DO")} />
+                            <YAxis
+                                width={72}
+                                tick={{ fontSize: 10 }}
+                                tickMargin={8}
+                                allowDecimals={false}
+                                tickFormatter={(v) => Number(v).toLocaleString("es-DO")}
+                            />
                             <Tooltip formatter={(value) => [Number(value).toLocaleString("es-DO"), "Hogares"]} />
                             <Bar dataKey="hogares" fill={BAR_COLOR} radius={[4, 4, 0, 0]}>
-                                <LabelList dataKey="hogares" position="top" formatter={(v) => v.toLocaleString("es-DO")} style={{ fontSize: 10 }} />
+                                <LabelList
+                                    dataKey="hogares"
+                                    position="top"
+                                    offset={8}
+                                    formatter={(v) => Number(v).toLocaleString("es-DO")}
+                                    style={{ fontSize: 10 }}
+                                />
                             </Bar>
                         </BarChart>
                     </ResponsiveContainer>

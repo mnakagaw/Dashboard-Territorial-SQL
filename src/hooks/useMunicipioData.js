@@ -32,6 +32,7 @@ import {
   buildLongMap,
   buildProvinceMap,
   buildCondicionVidaParsed,
+  aggregateEducationLevelRows,
 } from "../utils/dataHelpers";
 import {
   getTicPersonalOverride,
@@ -252,7 +253,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
           provincia: null,
           region: "Nacional",
           poblacion_total: nationalBasic.poblacion_total,
-          poblacion_2010: nationalBasic.poblacion_2010,
+          poblacion_2010: nationalBasic.poblacion_2010 ?? nationalBasic.poblacion_total_2010,
           poblacion_hombres: nationalBasic.poblacion_hombres,
           poblacion_mujeres: nationalBasic.poblacion_mujeres,
         };
@@ -382,7 +383,13 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
     if (isRegionSelection && selectedRegionScope) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find((r) => r.id === selectedRegionScope)?.provincias || []);
-      const allRows = provinces.flatMap(p => pyramidsProvinciaMap.get(normalizeName(p)) || []);
+      const allRows = provinces.flatMap((province) => {
+        if (sameProvinceName(province, "Distrito Nacional")) {
+          const dnEntry = pyramidMap["01001"];
+          return dnEntry?.age_groups?.length ? [dnEntry] : [];
+        }
+        return pyramidsProvinciaMap.get(normalizeName(province)) || [];
+      });
 
       if (!allRows.length) return [];
 
@@ -400,7 +407,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       return Object.values(ageGroupMap);
     }
     return [];
-  }, [pyramidMap, pyramidsProvinciaMap, selectedAdm2, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, regionsIndexData]);
+  }, [pyramidMap, pyramidsProvinciaMap, selectedAdm2, isProvinceSelection, selectedProvinceScope, isRegionSelection, selectedRegionScope, regionsIndexData, provincias]);
 
   // Pirámide 2010
   const selectedAdm22010 = useMemo(() => {
@@ -543,17 +550,7 @@ export default function useMunicipioData(regionId, provinceName, adm2Code) {
       const isNacional = selectedRegionScope === "nacional";
       const provinces = isNacional ? provincias : (regionsIndexData.find(r => r.id === selectedRegionScope)?.provincias || []);
       const allRows = provinces.flatMap(p => educacionNivelProvinciaMap.get(normalizeName(p)) || []);
-
-      const nivelMap = {};
-      allRows.forEach(r => {
-        if (!nivelMap[r.nivel]) {
-          nivelMap[r.nivel] = { nivel: r.nivel, label: r.label, total: 0, male: 0, female: 0 };
-        }
-        nivelMap[r.nivel].total += (r.total || 0);
-        nivelMap[r.nivel].male += (r.male || 0);
-        nivelMap[r.nivel].female += (r.female || 0);
-      });
-      return Object.values(nivelMap);
+      return aggregateEducationLevelRows(allRows);
     }
     return [];
   }, [selectedAdm2Norm, isProvinceSelection, selectedProvinceScope, selectedProvinceKey, isRegionSelection, selectedRegionScope, educacionNivelMap, educacionNivelProvinciaMap, regionsIndexData]);

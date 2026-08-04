@@ -2,9 +2,360 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --one-wine-950: #50102c;
+  --one-wine-900: #5f1334;
+  --one-wine-800: #69143a;
+  --one-wine-700: #861547;
+  --one-magenta: #b6125a;
+  --one-red: #c72821;
+  --one-gold: #d5a62a;
+  --one-teal: #217d7a;
+  --one-blue: #3b6f9c;
+  --one-lavender: #7c6fb2;
+  --end-institutional: #668aa2;
+  --end-social: #c6a75c;
+  --end-economic: #c45f65;
+  --end-ecology: #6f927f;
+  --one-paper: #fffdfc;
+  --one-paper-soft: #f7f1f4;
+  --one-ink: #30242a;
+  --one-border: #d9c7cf;
+  font-family: "Montserrat", "Aptos", "Segoe UI", sans-serif;
+  color: var(--one-ink);
+  background: var(--one-wine-950);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+html {
+  background: var(--one-wine-950);
+}
+
 body {
-  @apply bg-white text-slate-900;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  min-width: 320px;
+  margin: 0;
+  background: var(--one-wine-950);
+  color: var(--one-ink);
+  font-family: "Montserrat", "Aptos", "Segoe UI", sans-serif;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.one-dashboard {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background:
+    linear-gradient(90deg, rgb(182 18 90 / 18%) 0 76px, transparent 76px) right -28px top 130px / 104px 230px no-repeat,
+    linear-gradient(90deg, rgb(182 18 90 / 20%) 0 72px, transparent 72px) left -28px top 640px / 100px 230px no-repeat,
+    linear-gradient(180deg, rgb(134 21 71 / 34%) 0 76px, transparent 76px) right 42px bottom 130px / 150px 116px no-repeat,
+    var(--one-wine-950);
+}
+
+.one-dashboard::before {
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  content: "";
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, transparent 0 62%, rgb(95 19 52 / 55%) 62% 76%, transparent 76%) 0 0 / 100% 250px repeat-y;
+  opacity: 0.55;
+}
+
+.one-header,
+.one-footer {
+  background: rgb(80 16 44 / 93%);
+  backdrop-filter: blur(12px);
+}
+
+.one-brand-lockup {
+  line-height: 0;
+}
+
+.one-dashboard-word {
+  position: absolute;
+  right: 7.5%;
+  bottom: 11%;
+  color: rgb(255 255 255 / 82%);
+  font-size: clamp(7px, 1.6vw, 10px);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: 0.035em;
+}
+
+.one-card {
+  background: var(--one-paper);
+  border-color: rgb(217 199 207 / 88%);
+  box-shadow: 0 14px 36px rgb(46 5 24 / 16%);
+}
+
+.one-card-header {
+  border-color: rgb(80 16 44 / 10%);
+}
+
+.one-card-title {
+  color: inherit;
+}
+
+.one-card.bg-emerald-50\/60 {
+  background: #eef8f5;
+}
+
+.one-card.bg-rose-50\/80 {
+  background: #fbf0f4;
+}
+
+.one-card.bg-amber-50 {
+  background: #fff8e9;
+}
+
+/* END accents: wine remains the surface; theme colours act only as signals. */
+.end-section {
+  --end-accent: var(--end-social);
+  --end-accent-rgb: 198 167 92;
+  position: relative;
+  overflow: hidden;
+  color: rgb(255 248 251 / 94%);
+  background:
+    linear-gradient(135deg, rgb(var(--end-accent-rgb) / 10%), transparent 38%),
+    rgb(95 19 52 / 88%) !important;
+  border-color: rgb(var(--end-accent-rgb) / 38%) !important;
+  box-shadow: 0 18px 42px rgb(36 4 18 / 28%);
+  backdrop-filter: blur(8px);
+}
+
+.end-section::before,
+.end-card::before {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  left: 0;
+  height: 3px;
+  content: "";
+  background: linear-gradient(90deg, var(--end-accent), rgb(var(--end-accent-rgb) / 34%) 48%, transparent 88%);
+}
+
+.end-section--institutional,
+.end-card--institutional {
+  --end-accent: var(--end-institutional);
+  --end-accent-rgb: 102 138 162;
+}
+
+.end-section--social,
+.end-card--social {
+  --end-accent: var(--end-social);
+  --end-accent-rgb: 198 167 92;
+}
+
+.end-section--economic,
+.end-card--economic {
+  --end-accent: var(--end-economic);
+  --end-accent-rgb: 196 95 101;
+}
+
+.end-section--ecology,
+.end-card--ecology {
+  --end-accent: var(--end-ecology);
+  --end-accent-rgb: 111 146 127;
+}
+
+.end-section-icon {
+  display: inline-flex;
+  width: 2.25rem;
+  height: 2.25rem;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  color: var(--end-accent);
+  background: rgb(var(--end-accent-rgb) / 14%);
+  border: 1px solid rgb(var(--end-accent-rgb) / 52%);
+  border-radius: 999px;
+  box-shadow: inset 0 0 0 1px rgb(255 255 255 / 5%);
+}
+
+.end-section-title {
+  color: rgb(255 250 252 / 98%) !important;
+}
+
+.end-section-subtitle {
+  color: rgb(var(--end-accent-rgb) / 94%) !important;
+}
+
+.end-card {
+  position: relative;
+  overflow: hidden;
+  color: rgb(255 248 251 / 90%);
+  background: rgb(80 16 44 / 58%) !important;
+  border-color: rgb(255 255 255 / 14%) !important;
+  box-shadow: 0 12px 26px rgb(35 3 17 / 18%);
+}
+
+.end-card::before {
+  height: 2px;
+  opacity: 0.9;
+}
+
+.end-card .one-card-header,
+.end-section .one-card-header {
+  border-color: rgb(255 255 255 / 12%);
+}
+
+.end-card-title {
+  color: rgb(255 250 252 / 96%) !important;
+}
+
+.end-card-meta {
+  color: rgb(255 245 249 / 68%) !important;
+}
+
+.end-card-accent {
+  color: rgb(255 245 249 / 52%) !important;
+}
+
+.end-data-row {
+  color: rgb(255 248 251 / 88%);
+  border-color: rgb(255 255 255 / 9%) !important;
+}
+
+.end-section [class*="text-slate-"],
+.end-card [class*="text-slate-"],
+.end-section [class*="text-rose-"],
+.end-section [class*="text-orange-"],
+.end-section [class*="text-amber-"] {
+  color: rgb(255 245 249 / 64%) !important;
+}
+
+.economy-end-section .economy-lq-badge {
+  border: 1px solid rgb(255 255 255 / 16%);
+  color: rgb(255 248 251 / 76%) !important;
+  background: rgb(255 255 255 / 7%);
+  line-height: 1.15;
+}
+
+.economy-end-section .economy-lq-badge--high {
+  border-color: rgb(var(--end-accent-rgb) / 60%);
+  color: rgb(255 223 227 / 96%) !important;
+  background: rgb(var(--end-accent-rgb) / 22%);
+}
+
+.end-section [class*="border-rose-"],
+.end-section [class*="border-orange-"],
+.end-section [class*="border-amber-"] {
+  border-color: rgb(255 255 255 / 10%) !important;
+}
+
+.end-section table tr {
+  border-color: rgb(255 255 255 / 10%);
+}
+
+.end-section .recharts-cartesian-axis-tick-value,
+.end-section .recharts-label,
+.end-section .recharts-text {
+  fill: rgb(255 245 249 / 72%);
+}
+
+.end-section .recharts-default-tooltip {
+  color: var(--one-ink);
+  background: var(--one-paper) !important;
+  border: 0 !important;
+  border-radius: 8px;
+}
+
+.one-demography-shell .one-card,
+.one-dark-panel {
+  color: white;
+  background: rgb(95 19 52 / 76%) !important;
+  border-color: rgb(255 255 255 / 22%) !important;
+  box-shadow: 0 16px 38px rgb(36 4 18 / 25%);
+  backdrop-filter: blur(8px);
+}
+
+.one-demography-shell .one-card-header {
+  border-color: rgb(255 255 255 / 16%);
+}
+
+.one-demography-shell .one-card [class*="text-slate-"],
+.one-demography-shell .one-card [class*="text-sky-"],
+.one-demography-shell .one-card [class*="text-blue-"] {
+  color: rgb(255 255 255 / 76%) !important;
+}
+
+.one-demography-shell .one-card [class*="bg-sky-"],
+.one-demography-shell .one-card [class*="bg-blue-"],
+.one-demography-shell .one-card [class*="bg-slate-"] {
+  background-color: rgb(182 18 90 / 24%) !important;
+}
+
+.one-demography-shell .one-card [class*="border-sky-"],
+.one-demography-shell .one-card [class*="border-blue-"],
+.one-demography-shell .one-card [class*="border-slate-"] {
+  border-color: rgb(255 255 255 / 16%) !important;
+}
+
+.one-demography-shell .recharts-cartesian-axis-tick-value,
+.one-demography-shell .recharts-label,
+.one-demography-shell .recharts-text {
+  fill: rgb(255 255 255 / 74%) !important;
+}
+
+.one-demography-shell .recharts-cartesian-grid line,
+.one-demography-shell .recharts-cartesian-axis line {
+  stroke: rgb(255 255 255 / 18%) !important;
+}
+
+.one-demography-shell .recharts-default-tooltip {
+  color: var(--one-ink);
+  background: var(--one-paper) !important;
+  border: 0 !important;
+  border-radius: 8px;
+  box-shadow: 0 10px 28px rgb(46 5 24 / 24%);
+}
+
+.one-select {
+  min-height: 40px;
+}
+
+.one-vector-map,
+.one-vector-map .leaflet-container {
+  background: var(--one-wine-950);
+}
+
+.one-vector-map .leaflet-control-zoom a {
+  color: var(--one-wine-950);
+  background: var(--one-paper);
+  border-color: var(--one-border);
+}
+
+.one-vector-map .leaflet-control-zoom a:hover {
+  color: white;
+  background: var(--one-magenta);
+}
+
+.one-map-tooltip {
+  color: var(--one-wine-950);
+  background: var(--one-paper);
+  border: 0;
+  border-radius: 6px;
+  box-shadow: 0 8px 20px rgb(40 4 20 / 24%);
+  font-family: "Montserrat", sans-serif;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.one-map-tooltip::before {
+  border-top-color: var(--one-paper) !important;
+}
+
+.one-footer {
+  margin-top: 24px;
 }
 
 /* ===============================================================

@@ -82,6 +82,58 @@ export function buildProvinceMap(data) {
 }
 
 // ---------------------------------------------------------------------------
+// aggregateEducationLevelRows - Suma la estructura anidada de nivel educativo
+// ---------------------------------------------------------------------------
+const EDUCATION_LEVEL_KEYS = [
+    "ninguno",
+    "preprimaria",
+    "primaria",
+    "secundaria",
+    "superior",
+];
+
+const EDUCATION_LEVEL_FIELDS = [
+    "total",
+    "h",
+    "m",
+    "urbano_total",
+    "urbano_h",
+    "urbano_m",
+    "rural_total",
+    "rural_h",
+    "rural_m",
+];
+
+/**
+ * Agrega filas provinciales con forma `{ nivel: { ninguno: {...}, ... } }`.
+ * Mantiene la misma forma que los registros municipales/provinciales para que
+ * los componentes no tengan que tratar la selección regional como un caso
+ * distinto.
+ */
+export function aggregateEducationLevelRows(rows) {
+    const validRows = (rows || []).filter((row) => row?.nivel);
+    if (!validRows.length) return [];
+
+    const nivel = Object.fromEntries(
+        EDUCATION_LEVEL_KEYS.map((level) => [
+            level,
+            Object.fromEntries(EDUCATION_LEVEL_FIELDS.map((field) => [field, 0])),
+        ])
+    );
+
+    for (const row of validRows) {
+        for (const level of EDUCATION_LEVEL_KEYS) {
+            for (const field of EDUCATION_LEVEL_FIELDS) {
+                const value = Number(row.nivel?.[level]?.[field]);
+                if (Number.isFinite(value)) nivel[level][field] += value;
+            }
+        }
+    }
+
+    return [{ nivel }];
+}
+
+// ---------------------------------------------------------------------------
 // buildCondicionVidaParsed - Convierte datos brutos de condición de vida
 // a porcentajes para cada categoría de servicio
 // ---------------------------------------------------------------------------

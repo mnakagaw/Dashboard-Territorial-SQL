@@ -21,20 +21,20 @@ import {
    3 色テーマ（Educación のオレンジ系 UI に合わせた配色）
 ============================================================ */
 const CHART_COLORS = {
-  abandono: "#f59e0b",
-  promocion: "#22c55e",
-  reprobacion: "#ef4444",
+  abandono: "#d5a62a",
+  promocion: "#217d7a",
+  reprobacion: "#c72821",
 };
 
 /* ============================================================
    Nivel de instrucción 用カラー
 ============================================================ */
 const NIVEL_COLORS = {
-  ninguno: "#94a3b8",
-  preprimaria: "#38bdf8",
-  primaria: "#34d399",
-  secundaria: "#fbbf24",
-  superior: "#f43f5e",
+  ninguno: "#8f7b84",
+  preprimaria: "#d5a62a",
+  primaria: "#217d7a",
+  secundaria: "#3b6f9c",
+  superior: "#b6125a",
 };
 
 /* ============================================================
@@ -67,7 +67,7 @@ function CycleTooltip({ active, payload, label }) {
 function StatCard({ label, v, rd }) {
   if (v == null || Number.isNaN(v)) {
     return (
-      <div className="rounded-xl bg-white p-4 shadow-sm border border-slate-200 print-card">
+      <div className="end-card end-card--social rounded-xl p-4 print-card">
         <div className="text-xs text-slate-500">{label}</div>
         <div className="text-lg font-semibold text-slate-400">—</div>
         <div className="text-xs text-slate-400">(RD: {rd})</div>
@@ -76,7 +76,7 @@ function StatCard({ label, v, rd }) {
   }
 
   return (
-    <div className="rounded-xl bg-white p-4 shadow-sm border border-slate-200 print-card">
+    <div className="end-card end-card--social rounded-xl p-4 print-card">
       <div className="text-xs text-slate-500">{label}</div>
       <div className="text-lg font-semibold">
         {typeof v === "number" ? parseFloat(v.toFixed(2)) : v}{" "}
@@ -112,8 +112,8 @@ function CycleChartCard({ title, data }) {
   ];
 
   return (
-    <div className="rounded-xl bg-white p-5 shadow-sm border border-slate-200 flex flex-col items-center print-card">
-      <h3 className="text-lg font-bold text-orange-700 mb-3">{title}</h3>
+    <div className="end-card end-card--social rounded-xl p-5 flex flex-col items-center print-card">
+      <h3 className="end-card-title text-lg font-bold mb-3">{title}</h3>
 
       <div className="flex flex-col md:flex-row items-center gap-5 w-full">
         <div className="chart-container">
@@ -453,24 +453,26 @@ export default function EducacionDashboard({
 
   return (
     <div className="
-      my-6 rounded-2xl border border-orange-200 bg-orange-50 p-6 shadow-sm 
+      end-section end-section--social education-end-section my-6 rounded-2xl p-6
       print-no-margin print-no-padding print-allow-break
     ">
       {/* HEADER */}
-      <div className="flex items-center gap-3 mb-4">
-        <div className="h-10 w-10 bg-orange-200 rounded-full flex items-center justify-center">
-          <GraduationCap className="h-6 w-6 text-orange-700" />
+      <div className="mb-4 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+        <div className="flex items-center gap-3">
+          <div className="end-section-icon h-10 w-10">
+            <GraduationCap className="h-6 w-6" />
+          </div>
+          <h2 className="end-section-title text-xl font-bold">
+            Educación – contexto general
+          </h2>
         </div>
-        <h2 className="text-xl font-bold text-orange-700">
-          Educación – contexto general
-        </h2>
       </div>
 
-      <h3 className="text-lg font-semibold">
+      <h3 className="end-section-title text-lg font-semibold">
         {selectedMunicipio?.municipio || muni.municipio}
       </h3>
       {selectedMunicipio?.provincia && (
-        <div className="text-sm text-slate-600 mb-3">
+        <div className="end-section-subtitle text-sm mb-3">
           Provincia: {selectedMunicipio.provincia}
         </div>
       )}
@@ -478,14 +480,16 @@ export default function EducacionDashboard({
       {/* Oferta + Nivel */}
       <div className="grid gap-4 md:grid-cols-[1fr,1.35fr] mb-6 items-start print-grid print-grid-2">
         {/* Oferta Educativa */}
-        <div className="rounded-xl bg-white p-4 shadow-sm border border-slate-200 print-card">
-          <h3 className="font-semibold text-orange-700 mb-2">
-            {isRegionSelection
-              ? `Oferta Educativa – Región ${selectedMunicipio?.region}`
-              : isProvinceSelection
-                ? `Oferta Educativa – Provincia ${selectedMunicipio?.provincia || muni.provincia}`
-                : `Oferta Educativa – Municipio ${muni.municipio}`}
-          </h3>
+        <div className="end-card end-card--social rounded-xl p-4 print-card">
+          <div className="mb-2 flex items-start justify-between gap-3">
+            <h3 className="end-card-title font-semibold">
+              {isRegionSelection
+                ? `Oferta Educativa – Región ${selectedMunicipio?.region}`
+                : isProvinceSelection
+                  ? `Oferta Educativa – Provincia ${selectedMunicipio?.provincia || muni.provincia}`
+                  : `Oferta Educativa – Municipio ${muni.municipio}`}
+            </h3>
+          </div>
 
           {oferta ? (
             <>
@@ -524,10 +528,10 @@ export default function EducacionDashboard({
 
         {/* Nivel de instrucción */}
         {nivel && pct && shares && (
-          <div className="rounded-xl bg-white p-4 shadow-sm border border-slate-200 print-card">
-            <h3 className="font-semibold text-orange-700 mb-3">
-              Nivel de instrucción – Censo 2022
-            </h3>
+          <div className="end-card end-card--social rounded-xl p-4 print-card">
+            <div className="mb-3 flex items-start justify-between gap-3">
+              <h3 className="end-card-title font-semibold">Nivel de instrucción – Censo 2022</h3>
+            </div>
 
             <div className="grid grid-cols-1 md:grid-cols-[0.55fr,1fr] gap-3 items-center print-grid print-grid-2">
               <div className="h-44">
@@ -603,10 +607,10 @@ export default function EducacionDashboard({
         return (
           <div className="mb-4 print-card">
             <div className="flex items-baseline gap-2">
-              <span className="text-sm font-semibold text-slate-700">
+              <span className="end-card-title text-sm font-semibold">
                 Distrito educativo
               </span>
-              <span className="text-base font-semibold text-slate-900">
+              <span className="end-section-subtitle text-base font-semibold">
                 {label || "—"}
               </span>
             </div>
@@ -624,7 +628,7 @@ export default function EducacionDashboard({
           Infraestructura educativa
          ============================ */}
       <div className="mb-6">
-        <h3 className="font-semibold text-slate-700 mb-2">
+        <h3 className="end-card-title font-semibold mb-2">
           Infraestructura educativa
         </h3>
 
@@ -641,9 +645,9 @@ export default function EducacionDashboard({
       </div>
 
       {/* Eficiencia */}
-      <h3 className="font-semibold text-slate-700 mt-6 mb-3">
-        Eficiencia del sistema educativo
-      </h3>
+      <div className="mb-3 mt-6 flex items-center justify-between gap-3">
+        <h3 className="end-card-title font-semibold">Eficiencia del sistema educativo</h3>
+      </div>
 
       <div className="grid md:grid-cols-3 gap-4 educacion-eficiencia-grid">
         <CycleChartCard

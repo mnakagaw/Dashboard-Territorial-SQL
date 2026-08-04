@@ -63,11 +63,11 @@ export default function SaludSection({
 
   return (
     <section id="salud-tipos-centro" className="w-full">
-      <Card className="w-full rounded-3xl bg-amber-50 border-amber-100">
+      <Card className="end-section end-section--social w-full rounded-3xl">
         <CardHeader className="pb-2">
           <div className="flex flex-wrap items-baseline justify-between gap-2">
-            <CardTitle className="flex items-center gap-2 text-lg font-bold text-amber-900">
-              <Stethoscope className="h-5 w-5" />
+            <CardTitle className="end-section-title flex items-center gap-2 text-lg font-bold">
+              <span className="end-section-icon h-8 w-8"><Stethoscope className="h-5 w-5" /></span>
               Salud – Establecimientos de Salud (tipo de centro)
             </CardTitle>
             <div className="text-xs md:text-sm text-slate-700">

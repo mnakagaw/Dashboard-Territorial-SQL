@@ -158,7 +158,7 @@ export function PrintMapSVG({
                 width="100%"
                 height="100%"
                 preserveAspectRatio="xMidYMid meet"
-                style={{ background: "white" }}
+                style={{ background: "#50102c" }}
             >
                 {/* Draw non-selected first, then selected on top */}
                 {svgData.paths
@@ -167,10 +167,11 @@ export function PrintMapSVG({
                         <path
                             key={p.key}
                             d={p.d}
-                            fill="#e2e8f0"
-                            fillOpacity="0.6"
-                            stroke="#64748b"
-                            strokeWidth="0.5"
+                            fill="#ffffff"
+                            fillOpacity="0.08"
+                            stroke="#ffffff"
+                            strokeOpacity="0.7"
+                            strokeWidth="0.65"
                         />
                     ))}
                 {svgData.paths
@@ -179,10 +180,10 @@ export function PrintMapSVG({
                         <path
                             key={p.key}
                             d={p.d}
-                            fill="#fecaca"
-                            fillOpacity="0.9"
-                            stroke="#b91c1c"
-                            strokeWidth="1.2"
+                            fill="#b6125a"
+                            fillOpacity="0.92"
+                            stroke="#ffffff"
+                            strokeWidth="1.4"
                         />
                     ))}
             </svg>

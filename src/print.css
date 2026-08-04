@@ -21,6 +21,7 @@
     margin: 0 !important;
     padding: 0 !important;
     zoom: 1.0 !important;
+    font-family: "Montserrat", "Aptos", "Segoe UI", sans-serif !important;
     /* Restore normal zoom */
   }
 
@@ -92,7 +93,7 @@
   .print-basic-indicators div[class*="text-lg"] {
     font-size: 16px !important;
     font-weight: 800 !important;
-    color: #2563eb !important;
+    color: #861547 !important;
   }
 
   .print-basic-indicators .text-sm {
@@ -526,5 +527,46 @@
   /* (4) Urbana / Rural card: larger text */
   .print-hogares-left .text-xs {
     font-size: 12px !important;
+  }
+
+  /* END theme stays identifiable in print without dark ink-heavy panels. */
+  .end-section,
+  .end-card {
+    color: #30242a !important;
+    background: white !important;
+    border-color: #d9c7cf !important;
+    backdrop-filter: none !important;
+  }
+
+  .end-section-title,
+  .end-card-title {
+    color: #30242a !important;
+  }
+
+  .end-data-row,
+  .end-section [class*="text-slate-"],
+  .end-card [class*="text-slate-"] {
+    color: #5f4a53 !important;
+    border-color: #eadde2 !important;
+  }
+
+  .economy-end-section .economy-lq-badge {
+    color: #5f4a53 !important;
+    background: #f7f1f4 !important;
+    border-color: #d9c7cf !important;
+  }
+
+  .economy-end-section .economy-lq-badge--high {
+    color: #7d2932 !important;
+    background: #f7e1e3 !important;
+    border-color: #c45f65 !important;
+  }
+
+  .comparison-end-section [class*="text-white"] {
+    color: #5f4a53 !important;
+  }
+
+  .comparison-end-section [class*="bg-white"] {
+    background: #f7f1f4 !important;
   }
 }

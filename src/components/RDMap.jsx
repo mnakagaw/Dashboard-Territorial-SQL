@@ -3,7 +3,7 @@
  *
  * Este componente renderiza un mapa interactivo usando Leaflet que muestra:
  * - Todos los municipios de República Dominicana (158)
- * - El municipio/provincia/región seleccionado resaltado en rojo
+ * - El municipio/provincia/región seleccionado resaltado en magenta ONE
  * - Tooltips con el nombre del municipio al pasar el cursor
  *
  * La impresión se maneja por PrintMapSVG.jsx (componente aparte),
@@ -11,7 +11,7 @@
  */
 
 import React, { useEffect, useState } from "react";
-import { MapContainer, TileLayer, GeoJSON } from "react-leaflet";
+import { MapContainer, GeoJSON } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import { provinceListIncludes, sameProvinceName } from "../utils/dataHelpers";
 
@@ -71,10 +71,11 @@ export function RDMap({ selectedAdm2, selectedProvince, selectedRegion, onSelect
     }
 
     return {
-      color: isSelected ? "#b91c1c" : "#64748b",
-      weight: isSelected ? 2 : 1,
-      fillColor: isSelected ? "#fecaca" : "#e2e8f0",
-      fillOpacity: isSelected ? 0.9 : 0.6,
+      color: "#ffffff",
+      opacity: isSelected ? 1 : 0.68,
+      weight: isSelected ? 2.2 : 0.8,
+      fillColor: isSelected ? "#b6125a" : "#ffffff",
+      fillOpacity: isSelected ? 0.92 : 0.08,
     };
   };
 
@@ -88,14 +89,27 @@ export function RDMap({ selectedAdm2, selectedProvince, selectedRegion, onSelect
           );
         }
       },
+      mouseover: () => {
+        const baseStyle = styleFeature(feature);
+        layer.setStyle({
+          color: "#ffffff",
+          weight: Math.max(baseStyle.weight, 1.8),
+          fillOpacity: baseStyle.fillOpacity + (baseStyle.fillOpacity < 0.5 ? 0.12 : 0.04),
+        });
+        layer.bringToFront();
+      },
+      mouseout: () => layer.setStyle(styleFeature(feature)),
     });
     if (feature.properties.municipio) {
-      layer.bindTooltip(feature.properties.municipio, { direction: "center" });
+      layer.bindTooltip(feature.properties.municipio, {
+        direction: "center",
+        className: "one-map-tooltip",
+      });
     }
   };
 
   return (
-    <div className="h-[360px] w-full overflow-hidden rounded-2xl border border-slate-200 print-map-wrapper">
+    <div className="one-vector-map h-[360px] w-full overflow-hidden rounded-xl border border-white/20 print-map-wrapper">
       <MapContainer
         center={[18.9, -70.2]}
         zoom={7.2}
@@ -104,11 +118,8 @@ export function RDMap({ selectedAdm2, selectedProvince, selectedRegion, onSelect
         wheelPxPerZoomLevel={60}
         className="h-full w-full"
         scrollWheelZoom={true}
+        attributionControl={false}
       >
-        <TileLayer
-          attribution="&copy; OSM"
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        />
         {geojson && (
           <GeoJSON key={selectedAdm2 || selectedProvince || selectedRegion || 'all'} data={geojson} style={styleFeature} onEachFeature={onEachFeature} />
         )}

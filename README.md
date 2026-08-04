@@ -55,7 +55,8 @@ Visualización y comparación de indicadores territoriales a tres niveles: **mun
  | Entorno | Motor | Estado |
  |---------|---------|--------|
  | **Desarrollo / CoreServer** | MariaDB 10.11+ | ✅ 100% Funcional |
- | **Producción ONE** | SQL Server 2022+ | ✅ DDL T-SQL Incluido |
+| **Producción ONE** | SQL Server 2022+ | ✅ DDL T-SQL Incluido |
+| **Local / Entrega ONE** | SQLite 3 | ✅ Reproducible sin servidor DB |
 
 ## Instalación (desarrollo local)
 
@@ -63,6 +64,41 @@ Visualización y comparación de indicadores territoriales a tres niveles: **mun
 npm install
 npm run dev
 ```
+
+### Variante SQLite reproducible
+
+```bash
+npm install
+npm run sqlite:init
+npm run sqlite:verify
+npm run build:sqlite
+npm run sqlite:serve
+```
+
+Abra `http://127.0.0.1:8000/dbt/`. En Windows también puede usar
+`START_SQLITE.bat`. Para crear el ZIP autocontenido destinado a ONE:
+
+```bash
+npm run handoff:one
+```
+
+Consulte [`docs/ONE_SQLITE_HANDOFF.md`](docs/ONE_SQLITE_HANDOFF.md) para el
+procedimiento de operación, aceptación y migración posterior a SQL Server.
+
+### Publicación SQLite en CORESERVER
+
+La instancia `https://prodecare.net/ONE/` consume los 36 datasets desde una
+base SQLite privada mediante un API PHP de solo lectura. Para reconstruir,
+publicar y verificar:
+
+```bash
+npm run build:one
+npm run deploy:one:sqlite
+npm run verify:one:remote
+```
+
+Los archivos estadísticos JSON no se publican como copia estática; solo los
+mapas y el índice regional permanecen en `data/`.
 
 El tablero funciona **sin base de datos** en modo local — carga datos directamente desde los archivos JSON estáticos (`public/data/`).
 

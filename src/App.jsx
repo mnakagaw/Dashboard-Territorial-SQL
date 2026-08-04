@@ -24,11 +24,11 @@
  * ├─────────────────────────────────────────────┤
  * │  ResumenComparacionSection                  │
  * ├─────────────────────────────────────────────┤
- * │  ResumenNarrativoSection (IA opcional)      │
  * └─────────────────────────────────────────────┘
  */
 
 import React from "react";
+import { Printer } from "lucide-react";
 import { DashboardProvider, useDashboard } from "./context/DashboardContext";
 
 // Componentes de sección del dashboard
@@ -39,7 +39,6 @@ import CondicionVidaSection from "./components/CondicionVidaSection";
 import EducacionDashboard from "./components/EducacionDashboard";
 import SaludSection from "./components/SaludSection";
 import ResumenComparacionSection from "./components/ResumenComparacionSection";
-import ResumenNarrativoSection from "./components/ResumenNarrativoSection";
 import { EconomyEmployment } from "./components/charts";
 
 export default function App() {
@@ -95,11 +94,7 @@ function DashboardContent() {
     educacionRecords,
     educacionNivel,
 
-    nationalTic,
-    nationalEducNivel,
     nationalEducOferta,
-    nationalHogares,
-    nationalSalud,
     educacionData,
     educacionOfertaMunicipalData,
     educacionOfertaMunicipalProvinciaData,
@@ -107,34 +102,48 @@ function DashboardContent() {
     resumenComparacionRows,
   } = ctx;
 
+  const assetUrl = (path) => `${import.meta.env.BASE_URL}${path}`;
+
   return (
-    <div className="min-h-screen bg-slate-50">
+    <div className="one-dashboard min-h-screen">
       {/* HEADER */}
-      <header className="border-b border-slate-200 bg-white/80 backdrop-blur">
-        <div className="mx-auto w-full max-w-6xl px-4 py-3 flex flex-col md:flex-row gap-3 md:gap-6 items-start md:items-center justify-between">
-          <div className="text-center md:text-left flex-1">
-            <h1 className="text-lg font-semibold text-slate-900 md:text-xl">
-              Diagnóstico Territorial
-              {selectedMunicipio?.municipio
-                ? ` – ${selectedMunicipio.municipio}`
-                : ""}
-            </h1>
-            <p className="text-xs text-slate-500 md:text-sm">
-              Panel de diagnóstico territorial – población, salud, economía y
-              empleo, educación
-            </p>
+      <header className="one-header border-b border-white/20">
+        <div className="mx-auto w-full max-w-6xl px-4 py-3">
+          <div className="flex items-center justify-between gap-5 border-b border-white/20 pb-3">
+            <div className="one-brand-lockup relative w-[245px] sm:w-[300px]">
+              <img
+                src={assetUrl("brand/tu-municipio-logo-white.png")}
+                alt="Tu Municipio en cifras"
+                className="block h-auto w-full"
+              />
+              <span className="one-dashboard-word">Dashboard</span>
+            </div>
+            <img
+              src={assetUrl("brand/one-institutional-logo-white.png")}
+              alt="Gobierno de la República Dominicana, Hacienda y Economía, Oficina Nacional de Estadística"
+              className="hidden h-auto w-[190px] sm:block"
+            />
           </div>
 
-          {/* Imprimir */}
-          <div className="flex flex-col items-end gap-2">
-            <div className="text-[10px] text-slate-400 md:text-xs text-right">
-              Fuente: Censo 2022, DEE 2024, Anuario Estadístico 2024.
+          <div className="flex flex-col gap-4 py-5 md:flex-row md:items-end md:justify-between">
+            <div className="text-center md:text-left">
+              <h1 className="text-lg font-bold text-white md:text-xl">
+                Diagnóstico Territorial
+                {selectedMunicipio?.municipio
+                  ? ` - ${selectedMunicipio.municipio}`
+                  : ""}
+              </h1>
+              <p className="mt-1 text-xs text-white/75 md:text-sm">
+                Panel de diagnóstico territorial - población, salud, economía, empleo y educación
+              </p>
             </div>
+
             <button
               onClick={handlePrint}
-              className="hide-on-print text-xs md:text-sm px-3 py-1 rounded-md bg-blue-600 text-white hover:bg-blue-700 transition"
+              className="one-print-button hide-on-print inline-flex items-center justify-center gap-2 self-center rounded-md border border-white/70 px-3 py-2 text-xs font-medium text-white transition hover:bg-white hover:text-[#50102c] md:self-auto md:text-sm"
             >
-              🖨️ Imprimir (exportar PDF)
+              <Printer aria-hidden="true" className="h-4 w-4" />
+              Imprimir (exportar PDF)
             </button>
           </div>
         </div>
@@ -145,42 +154,44 @@ function DashboardContent() {
         id="dashboard-pdf"
         className="w-full mx-auto flex flex-col gap-4 md:gap-5 px-2 sm:px-4 py-4 md:py-6 md:max-w-6xl"
       >
-        <TopSelectionAndMap
-          selectedRegion={selectedRegion}
-          setSelectedRegion={setSelectedRegion}
-          selectedProvince={selectedProvince}
-          setSelectedProvince={setSelectedProvince}
-          selectionKey={selectionKey}
-          setSelectionKey={setSelectionKey}
-          regionOptions={regionOptions}
-          provinciaOptions={provinciaOptions}
-          municipioOptions={municipioOptions}
-          municipiosIndex={municipiosIndex}
-          selectedMunicipio={selectedMunicipio}
-          indicadores={indicadores}
-          nationalBasic={nationalBasic}
-          selectedAdm2={selectedAdm2}
-          isProvinceSelection={isProvinceSelection}
-          isRegionSelection={isRegionSelection}
-          selectedProvinceScope={selectedProvinceScope}
-          selectedRegionScope={selectedRegionScope}
-          handleMapSelect={handleMapSelect}
-        />
+        <section className="one-demography-shell space-y-4 md:space-y-5">
+          <TopSelectionAndMap
+            selectedRegion={selectedRegion}
+            setSelectedRegion={setSelectedRegion}
+            selectedProvince={selectedProvince}
+            setSelectedProvince={setSelectedProvince}
+            selectionKey={selectionKey}
+            setSelectionKey={setSelectionKey}
+            regionOptions={regionOptions}
+            provinciaOptions={provinciaOptions}
+            municipioOptions={municipioOptions}
+            municipiosIndex={municipiosIndex}
+            selectedMunicipio={selectedMunicipio}
+            indicadores={indicadores}
+            nationalBasic={nationalBasic}
+            selectedAdm2={selectedAdm2}
+            isProvinceSelection={isProvinceSelection}
+            isRegionSelection={isRegionSelection}
+            selectedProvinceScope={selectedProvinceScope}
+            selectedRegionScope={selectedRegionScope}
+            handleMapSelect={handleMapSelect}
+          />
 
-        <PyramidsRow
-          indicadores={indicadores}
-          nationalBasic={nationalBasic}
-          pyramid={pyramid}
-          pyramid2010={pyramid2010}
-        />
+          <PyramidsRow
+            indicadores={indicadores}
+            nationalBasic={nationalBasic}
+            pyramid={pyramid}
+            pyramid2010={pyramid2010}
+          />
 
-        <DemografiaHogaresSection
-          hogaresResumen={hogaresResumen}
-          poblacionUrbanaRural={poblacionUrbanaRural}
-          hogaresTamanoRecords={hogaresTamanoRecords}
-          isProvinceSelection={isProvinceSelection}
-          isRegionSelection={isRegionSelection}
-        />
+          <DemografiaHogaresSection
+            hogaresResumen={hogaresResumen}
+            poblacionUrbanaRural={poblacionUrbanaRural}
+            hogaresTamanoRecords={hogaresTamanoRecords}
+            isProvinceSelection={isProvinceSelection}
+            isRegionSelection={isRegionSelection}
+          />
+        </section>
 
         <CondicionVidaSection
           condicionVida={condicionVida}
@@ -227,29 +238,20 @@ function DashboardContent() {
           selectedMunicipio={selectedMunicipio}
           rows={resumenComparacionRows}
         />
-
-        <div className="page-break"></div>
-
-        <ResumenNarrativoSection
-          municipio={selectedMunicipio?.municipio}
-          indicators={indicadores}
-          condVida={condicionVida}
-          econ={econ}
-          educ={educacionRecords}
-          tic={tic}
-          salud={saludEstablecimientos}
-          nationalBasic={nationalBasic}
-          nationalCondVida={nationalCondicionVida}
-          nationalEcon={nationalEcon}
-          nationalTic={nationalTic}
-          nationalEducNivel={nationalEducNivel}
-          nationalEducOferta={nationalEducOferta}
-          nationalHogares={nationalHogares}
-          nationalSalud={nationalSalud}
-          educNivel={educacionNivel}
-          resumenComparacion={resumenComparacionRows}
-        />
       </main>
+
+      <footer className="one-footer border-t border-white/20">
+        <div className="mx-auto flex w-full max-w-6xl flex-col items-center justify-between gap-3 px-4 py-6 text-center sm:flex-row sm:text-left">
+          <img
+            src={assetUrl("brand/one-institutional-logo-white.png")}
+            alt="Gobierno de la República Dominicana, Hacienda y Economía, Oficina Nacional de Estadística"
+            className="h-auto w-[175px]"
+          />
+          <p className="text-[10px] leading-relaxed text-white/60 sm:max-w-md sm:text-right">
+            Tu Municipio en cifras · Panel de diagnóstico territorial
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }

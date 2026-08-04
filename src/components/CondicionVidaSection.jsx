@@ -77,13 +77,13 @@ export default function CondicionVidaSection({
       return (
         <div
           key={catKey}
-          className="flex justify-between print-flex border-b border-emerald-50 py-0.5 text-xs"
+          className="end-data-row flex justify-between print-flex border-b py-0.5 text-xs"
         >
           <span>{formatLabel(catKey)}:</span>
           <span className="text-right">
             {obj.abs.toLocaleString("es-DO")} ({obj.pct.toFixed(1)}%)
             {rdPct !== null && (
-              <span className="ml-2 text-[10px] text-emerald-700">
+              <span className="end-card-accent ml-2 text-[10px]">
                 RD: {rdPct.toFixed(1)}%
               </span>
             )}
@@ -97,12 +97,12 @@ export default function CondicionVidaSection({
     if (!block) return null;
 
     return (
-      <Card className="border-emerald-100 bg-white shadow-sm no-break print-card">
+      <Card className="end-card end-card--social no-break print-card">
         <CardHeader className="pb-2">
-          <CardTitle className="text-xs font-semibold text-emerald-900">
+          <CardTitle className="end-card-title text-xs font-semibold">
             {title}
           </CardTitle>
-          <div className="text-[10px] text-emerald-700">
+          <div className="end-card-meta text-[10px]">
             Total: {block.total.toLocaleString("es-DO")} (100%)
           </div>
         </CardHeader>
@@ -116,9 +116,9 @@ export default function CondicionVidaSection({
   const renderTIC = () => {
     if (!tic) {
       return (
-        <Card className="border-emerald-100 bg-white shadow-sm no-break print-card">
+        <Card className="end-card end-card--social no-break print-card">
           <CardHeader className="pb-2">
-            <CardTitle className="text-xs font-semibold text-emerald-900">
+            <CardTitle className="end-card-title text-xs font-semibold">
               TIC – acceso personal (5+ años)
             </CardTitle>
           </CardHeader>
@@ -133,9 +133,9 @@ export default function CondicionVidaSection({
       obj?.rate_used != null ? (obj.rate_used * 100).toFixed(1) : "–";
 
     return (
-      <Card className="border-emerald-100 bg-white shadow-sm no-break print-card">
+      <Card className="end-card end-card--social no-break print-card">
         <CardHeader className="pb-2">
-          <CardTitle className="text-xs font-semibold text-emerald-900">
+          <CardTitle className="end-card-title text-xs font-semibold">
             TIC – acceso personal (5+ años)
           </CardTitle>
         </CardHeader>
@@ -157,13 +157,13 @@ export default function CondicionVidaSection({
 
   return (
     <section className="mt-4 print-grid no-break">
-      <Card className="border-emerald-100 bg-emerald-50/60 no-break print-card">
-        <CardHeader className="border-b border-emerald-100 pb-3">
-          <CardTitle className="flex items-center gap-2 text-lg font-bold text-emerald-600">
-            <Leaf className="h-5 w-5" />
+      <Card className="end-section end-section--social no-break print-card">
+        <CardHeader className="border-b border-white/10 pb-3">
+          <CardTitle className="end-section-title flex items-center gap-2 text-lg font-bold">
+            <span className="end-section-icon"><Leaf className="h-5 w-5" /></span>
             Condición de vida / Servicios básicos
           </CardTitle>
-          <p className="text-[10px] text-emerald-800">Hogares (Censo 2022)</p>
+          <p className="end-section-subtitle text-[10px]">Hogares (Censo 2022)</p>
         </CardHeader>
 
         <CardContent className="pt-4 space-y-4">

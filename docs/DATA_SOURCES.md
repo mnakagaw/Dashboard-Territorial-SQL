@@ -69,11 +69,19 @@ https://geoportal.iderd.gob.do/layers/geonode:RD_MUNICIPIOS/metadata_detail
 
 ## Proceso de Actualización de Datos
 
-1. Obtener datos crudos (PDF, XLSX) de la fuente oficial
-2. Procesar con scripts en `scripts/` (parse_*.js)
-3. Guardar JSON resultante en `public/data/`
-4. Verificar integridad con `npm run verify` (`scripts/verify_data_integrity.cjs`)
-5. Reconstruir: `npm run build`
+1. Obtener datos crudos (PDF, XLSX) de la fuente oficial.
+2. Cuando se actualice la población final, ejecutar `npm run data:fetch:population-final`.
+3. Reconstruir los conjuntos auditados con `npm run data:rebuild:audit`. Este proceso
+   actualiza las copias sincronizadas de `public/data/` y `src/data/`.
+4. Verificar integridad con `npm run verify` (`scripts/verify_data_integrity.cjs`).
+5. Regenerar SQLite con `npm run sqlite:init` y validarlo con `npm run sqlite:verify`.
+6. Reconstruir la entrega para ONE con `npm run build:one`.
 
-> **Nota**: Los scripts de parseo (`scripts/parse_*.js`) requieren los archivos fuente
-> originales en la carpeta `data_sources/` que no se incluye en el repositorio.
+Los controles de auditoría verifican, entre otros, la población final del X Censo
+(10,773,983 habitantes), la pirámide 2010 (9,250,163 habitantes, sin claves
+duplicadas), 158 municipios únicos en educación y TIC, 3,726,048 hogares y la
+igualdad de los totales municipales, provinciales y nacionales de educación y salud.
+
+> **Nota**: Los scripts requieren los archivos fuente originales en `data_sources/`.
+> Las fuentes incluidas en una entrega deben conservarse junto con el script para que
+> la generación sea reproducible.

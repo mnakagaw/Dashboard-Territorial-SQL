@@ -1,3456 +1,3478 @@
 [
   {
-    "adm2_code": 32001,
-    "municipio": "Santo Domingo Este",
+    "adm2_code": "01001",
+    "municipio": "Santo Domingo de Guzmán",
     "internet": {
-      "municipio": "Santo Domingo Este",
-      "total": 948656.0,
-      "used": 813227.0,
-      "rate_used": 0.8572411917491694
+      "municipio": "Santo Domingo de Guzmán",
+      "total": 956569,
+      "used": 824719,
+      "rate_used": 0.8621636285516256
     },
     "cellular": {
-      "municipio": "Santo Domingo Este",
-      "total": 948656.0,
-      "used": 813227.0,
-      "rate_used": 0.8572411917491694
+      "municipio": "Santo Domingo de Guzmán",
+      "total": 956569,
+      "used": 801016,
+      "rate_used": 0.8373844437777097
     },
     "computer": {
-      "municipio": "Santo Domingo Este",
-      "total": 948656.0,
-      "used": 83604.0,
-      "rate_used": 0.08812888971344723
+      "municipio": "Santo Domingo de Guzmán",
+      "total": 956569,
+      "used": 644616,
+      "rate_used": 0.6738834313050078
     }
   },
   {
-    "adm2_code": 32002,
-    "municipio": "Santo Domingo Oeste",
+    "adm2_code": "02001",
+    "municipio": "Azua",
     "internet": {
-      "municipio": "Santo Domingo Oeste",
-      "total": 377585.0,
-      "used": 320188.0,
-      "rate_used": 0.8479891944860097
+      "municipio": "Azua",
+      "total": 94098,
+      "used": 60601,
+      "rate_used": 0.6440200641883993
     },
     "cellular": {
-      "municipio": "Santo Domingo Oeste",
-      "total": 377585.0,
-      "used": 320188.0,
-      "rate_used": 0.8479891944860097
+      "municipio": "Azua",
+      "total": 94098,
+      "used": 58591,
+      "rate_used": 0.6226593551403855
     },
     "computer": {
-      "municipio": "Santo Domingo Oeste",
-      "total": 377585.0,
-      "used": 34535.0,
-      "rate_used": 0.09146284942463287
+      "municipio": "Azua",
+      "total": 94098,
+      "used": 24027,
+      "rate_used": 0.2553401772620034
     }
   },
   {
-    "adm2_code": 32003,
-    "municipio": "Santo Domingo Norte",
+    "adm2_code": "02002",
+    "municipio": "Las Charcas",
     "internet": {
-      "municipio": "Santo Domingo Norte",
-      "total": 615122.0,
-      "used": 496213.0,
-      "rate_used": 0.806690380119716
+      "municipio": "Las Charcas",
+      "total": 12978,
+      "used": 8173,
+      "rate_used": 0.6297580520881492
     },
     "cellular": {
-      "municipio": "Santo Domingo Norte",
-      "total": 615122.0,
-      "used": 496213.0,
-      "rate_used": 0.806690380119716
+      "municipio": "Las Charcas",
+      "total": 12978,
+      "used": 8455,
+      "rate_used": 0.6514871320696564
     },
     "computer": {
-      "municipio": "Santo Domingo Norte",
-      "total": 615122.0,
-      "used": 60991.0,
-      "rate_used": 0.09915268840977887
+      "municipio": "Las Charcas",
+      "total": 12978,
+      "used": 1407,
+      "rate_used": 0.10841423948220065
     }
   },
   {
-    "adm2_code": 32004,
-    "municipio": "Boca Chica",
+    "adm2_code": "02003",
+    "municipio": "Las Yayas de Viajama",
     "internet": {
-      "municipio": "Boca Chica",
-      "total": 151464.0,
-      "used": 116988.0,
-      "rate_used": 0.77238155601331
+      "municipio": "Las Yayas de Viajama",
+      "total": 17595,
+      "used": 10202,
+      "rate_used": 0.5798238135834044
     },
     "cellular": {
-      "municipio": "Boca Chica",
-      "total": 151464.0,
-      "used": 116988.0,
-      "rate_used": 0.77238155601331
+      "municipio": "Las Yayas de Viajama",
+      "total": 17595,
+      "used": 9662,
+      "rate_used": 0.5491332764990055
     },
     "computer": {
-      "municipio": "Boca Chica",
-      "total": 151464.0,
-      "used": 16229.0,
-      "rate_used": 0.10714757302065177
+      "municipio": "Las Yayas de Viajama",
+      "total": 17595,
+      "used": 2230,
+      "rate_used": 0.12674055129298095
     }
   },
   {
-    "adm2_code": 32005,
-    "municipio": "San Antonio de Guerra",
+    "adm2_code": "02004",
+    "municipio": "Padre Las Casas",
     "internet": {
-      "municipio": "San Antonio de Guerra",
-      "total": 53789.0,
-      "used": 41181.0,
-      "rate_used": 0.7656026325085055
+      "municipio": "Padre Las Casas",
+      "total": 18965,
+      "used": 10206,
+      "rate_used": 0.538149222251516
     },
     "cellular": {
-      "municipio": "San Antonio de Guerra",
-      "total": 53789.0,
-      "used": 41181.0,
-      "rate_used": 0.7656026325085055
+      "municipio": "Padre Las Casas",
+      "total": 18965,
+      "used": 9707,
+      "rate_used": 0.5118375955707883
     },
     "computer": {
-      "municipio": "San Antonio de Guerra",
-      "total": 53789.0,
-      "used": 5503.0,
-      "rate_used": 0.10230716317462678
+      "municipio": "Padre Las Casas",
+      "total": 18965,
+      "used": 3083,
+      "rate_used": 0.16256261534405483
     }
   },
   {
-    "adm2_code": 32006,
-    "municipio": "Los Alcarrizos",
+    "adm2_code": "02005",
+    "municipio": "Peralta",
     "internet": {
-      "municipio": "Los Alcarrizos",
-      "total": 305885.0,
-      "used": 253172.0,
-      "rate_used": 0.8276705297742616
+      "municipio": "Peralta",
+      "total": 13407,
+      "used": 7806,
+      "rate_used": 0.5822331617811591
     },
     "cellular": {
-      "municipio": "Los Alcarrizos",
-      "total": 305885.0,
-      "used": 253172.0,
-      "rate_used": 0.8276705297742616
+      "municipio": "Peralta",
+      "total": 13407,
+      "used": 7111,
+      "rate_used": 0.5303945700007459
     },
     "computer": {
-      "municipio": "Los Alcarrizos",
-      "total": 305885.0,
-      "used": 32608.0,
-      "rate_used": 0.10660215440443303
+      "municipio": "Peralta",
+      "total": 13407,
+      "used": 2705,
+      "rate_used": 0.20176027448347877
     }
   },
   {
-    "adm2_code": 32007,
-    "municipio": "Pedro Brand",
+    "adm2_code": "02006",
+    "municipio": "Sabana Yegua",
     "internet": {
-      "municipio": "Pedro Brand",
-      "total": 84212.0,
-      "used": 67969.0,
-      "rate_used": 0.8071177504393673
+      "municipio": "Sabana Yegua",
+      "total": 19502,
+      "used": 13114,
+      "rate_used": 0.6724438519126243
     },
     "cellular": {
-      "municipio": "Pedro Brand",
-      "total": 84212.0,
-      "used": 67969.0,
-      "rate_used": 0.8071177504393673
+      "municipio": "Sabana Yegua",
+      "total": 19502,
+      "used": 12635,
+      "rate_used": 0.6478822684852835
     },
     "computer": {
-      "municipio": "Pedro Brand",
-      "total": 84212.0,
-      "used": 9302.0,
-      "rate_used": 0.11045931696195317
+      "municipio": "Sabana Yegua",
+      "total": 19502,
+      "used": 3539,
+      "rate_used": 0.18146856732642805
     }
   },
   {
-    "adm2_code": 9001,
+    "adm2_code": "02007",
+    "municipio": "Pueblo Viejo",
+    "internet": {
+      "municipio": "Pueblo Viejo",
+      "total": 10895,
+      "used": 6613,
+      "rate_used": 0.6069756769160165
+    },
+    "cellular": {
+      "municipio": "Pueblo Viejo",
+      "total": 10895,
+      "used": 6363,
+      "rate_used": 0.5840293712712253
+    },
+    "computer": {
+      "municipio": "Pueblo Viejo",
+      "total": 10895,
+      "used": 1859,
+      "rate_used": 0.17062872877466728
+    }
+  },
+  {
+    "adm2_code": "02008",
+    "municipio": "Tábara Arriba",
+    "internet": {
+      "municipio": "Tábara Arriba",
+      "total": 19283,
+      "used": 12642,
+      "rate_used": 0.6556033812166157
+    },
+    "cellular": {
+      "municipio": "Tábara Arriba",
+      "total": 19283,
+      "used": 12346,
+      "rate_used": 0.6402530726546699
+    },
+    "computer": {
+      "municipio": "Tábara Arriba",
+      "total": 19283,
+      "used": 3307,
+      "rate_used": 0.17149821085930614
+    }
+  },
+  {
+    "adm2_code": "02009",
+    "municipio": "Guayabal",
+    "internet": {
+      "municipio": "Guayabal",
+      "total": 5187,
+      "used": 3049,
+      "rate_used": 0.587815693078851
+    },
+    "cellular": {
+      "municipio": "Guayabal",
+      "total": 5187,
+      "used": 3251,
+      "rate_used": 0.6267592057065742
+    },
+    "computer": {
+      "municipio": "Guayabal",
+      "total": 5187,
+      "used": 1239,
+      "rate_used": 0.2388663967611336
+    }
+  },
+  {
+    "adm2_code": "02010",
+    "municipio": "Estebanía",
+    "internet": {
+      "municipio": "Estebanía",
+      "total": 7628,
+      "used": 5022,
+      "rate_used": 0.6583639223911903
+    },
+    "cellular": {
+      "municipio": "Estebanía",
+      "total": 7628,
+      "used": 5051,
+      "rate_used": 0.6621657052962768
+    },
+    "computer": {
+      "municipio": "Estebanía",
+      "total": 7628,
+      "used": 1546,
+      "rate_used": 0.202674357629785
+    }
+  },
+  {
+    "adm2_code": "03001",
+    "municipio": "Neiba",
+    "internet": {
+      "municipio": "Neiba",
+      "total": 36676,
+      "used": 20807,
+      "rate_used": 0.5673192278329152
+    },
+    "cellular": {
+      "municipio": "Neiba",
+      "total": 36676,
+      "used": 19590,
+      "rate_used": 0.5341367651870433
+    },
+    "computer": {
+      "municipio": "Neiba",
+      "total": 36676,
+      "used": 10960,
+      "rate_used": 0.2988330243210819
+    }
+  },
+  {
+    "adm2_code": "03002",
+    "municipio": "Galván",
+    "internet": {
+      "municipio": "Galván",
+      "total": 14306,
+      "used": 7338,
+      "rate_used": 0.512931637075353
+    },
+    "cellular": {
+      "municipio": "Galván",
+      "total": 14306,
+      "used": 7146,
+      "rate_used": 0.499510694813365
+    },
+    "computer": {
+      "municipio": "Galván",
+      "total": 14306,
+      "used": 2306,
+      "rate_used": 0.16119110862575142
+    }
+  },
+  {
+    "adm2_code": "03003",
+    "municipio": "Tamayo",
+    "internet": {
+      "municipio": "Tamayo",
+      "total": 27751,
+      "used": 14359,
+      "rate_used": 0.5174227955749342
+    },
+    "cellular": {
+      "municipio": "Tamayo",
+      "total": 27751,
+      "used": 14175,
+      "rate_used": 0.5107924038773377
+    },
+    "computer": {
+      "municipio": "Tamayo",
+      "total": 27751,
+      "used": 5052,
+      "rate_used": 0.18204749378400778
+    }
+  },
+  {
+    "adm2_code": "03004",
+    "municipio": "Villa Jaragua",
+    "internet": {
+      "municipio": "Villa Jaragua",
+      "total": 11282,
+      "used": 6682,
+      "rate_used": 0.592270873958518
+    },
+    "cellular": {
+      "municipio": "Villa Jaragua",
+      "total": 11282,
+      "used": 6467,
+      "rate_used": 0.5732139691544053
+    },
+    "computer": {
+      "municipio": "Villa Jaragua",
+      "total": 11282,
+      "used": 2747,
+      "rate_used": 0.24348519765998936
+    }
+  },
+  {
+    "adm2_code": "03005",
+    "municipio": "Los Ríos",
+    "internet": {
+      "municipio": "Los Ríos",
+      "total": 8377,
+      "used": 4148,
+      "rate_used": 0.49516533365166526
+    },
+    "cellular": {
+      "municipio": "Los Ríos",
+      "total": 8377,
+      "used": 4250,
+      "rate_used": 0.5073415303808045
+    },
+    "computer": {
+      "municipio": "Los Ríos",
+      "total": 8377,
+      "used": 1082,
+      "rate_used": 0.12916318491106601
+    }
+  },
+  {
+    "adm2_code": "04001",
+    "municipio": "Barahona",
+    "internet": {
+      "municipio": "Barahona",
+      "total": 81709,
+      "used": 54079,
+      "rate_used": 0.6618487559509968
+    },
+    "cellular": {
+      "municipio": "Barahona",
+      "total": 81709,
+      "used": 52809,
+      "rate_used": 0.6463057925075573
+    },
+    "computer": {
+      "municipio": "Barahona",
+      "total": 81709,
+      "used": 26553,
+      "rate_used": 0.32497032150681077
+    }
+  },
+  {
+    "adm2_code": "04002",
+    "municipio": "Cabral",
+    "internet": {
+      "municipio": "Cabral",
+      "total": 14540,
+      "used": 9024,
+      "rate_used": 0.6206327372764787
+    },
+    "cellular": {
+      "municipio": "Cabral",
+      "total": 14540,
+      "used": 7972,
+      "rate_used": 0.5482806052269601
+    },
+    "computer": {
+      "municipio": "Cabral",
+      "total": 14540,
+      "used": 3072,
+      "rate_used": 0.2112792297111417
+    }
+  },
+  {
+    "adm2_code": "04003",
+    "municipio": "Enriquillo",
+    "internet": {
+      "municipio": "Enriquillo",
+      "total": 11321,
+      "used": 4741,
+      "rate_used": 0.4187792597827047
+    },
+    "cellular": {
+      "municipio": "Enriquillo",
+      "total": 11321,
+      "used": 5145,
+      "rate_used": 0.4544651532550128
+    },
+    "computer": {
+      "municipio": "Enriquillo",
+      "total": 11321,
+      "used": 1042,
+      "rate_used": 0.0920413391043194
+    }
+  },
+  {
+    "adm2_code": "04004",
+    "municipio": "Paraíso",
+    "internet": {
+      "municipio": "Paraíso",
+      "total": 14851,
+      "used": 8555,
+      "rate_used": 0.5760554844791597
+    },
+    "cellular": {
+      "municipio": "Paraíso",
+      "total": 14851,
+      "used": 8094,
+      "rate_used": 0.5450138037842569
+    },
+    "computer": {
+      "municipio": "Paraíso",
+      "total": 14851,
+      "used": 1885,
+      "rate_used": 0.1269274796310013
+    }
+  },
+  {
+    "adm2_code": "04005",
+    "municipio": "Vicente Noble",
+    "internet": {
+      "municipio": "Vicente Noble",
+      "total": 23279,
+      "used": 14133,
+      "rate_used": 0.6071137076334894
+    },
+    "cellular": {
+      "municipio": "Vicente Noble",
+      "total": 23279,
+      "used": 14471,
+      "rate_used": 0.621633231668027
+    },
+    "computer": {
+      "municipio": "Vicente Noble",
+      "total": 23279,
+      "used": 4184,
+      "rate_used": 0.17973280639202716
+    }
+  },
+  {
+    "adm2_code": "04006",
+    "municipio": "El Peñón",
+    "internet": {
+      "municipio": "El Peñón",
+      "total": 4066,
+      "used": 2565,
+      "rate_used": 0.6308411214953271
+    },
+    "cellular": {
+      "municipio": "El Peñón",
+      "total": 4066,
+      "used": 2616,
+      "rate_used": 0.6433841613379242
+    },
+    "computer": {
+      "municipio": "El Peñón",
+      "total": 4066,
+      "used": 621,
+      "rate_used": 0.15272995573044762
+    }
+  },
+  {
+    "adm2_code": "04007",
+    "municipio": "La Ciénaga",
+    "internet": {
+      "municipio": "La Ciénaga",
+      "total": 8245,
+      "used": 4646,
+      "rate_used": 0.5634930260764099
+    },
+    "cellular": {
+      "municipio": "La Ciénaga",
+      "total": 8245,
+      "used": 3709,
+      "rate_used": 0.4498483929654336
+    },
+    "computer": {
+      "municipio": "La Ciénaga",
+      "total": 8245,
+      "used": 864,
+      "rate_used": 0.10479078229229837
+    }
+  },
+  {
+    "adm2_code": "04008",
+    "municipio": "Fundación",
+    "internet": {
+      "municipio": "Fundación",
+      "total": 8419,
+      "used": 4570,
+      "rate_used": 0.5428198123292552
+    },
+    "cellular": {
+      "municipio": "Fundación",
+      "total": 8419,
+      "used": 4081,
+      "rate_used": 0.48473690462050123
+    },
+    "computer": {
+      "municipio": "Fundación",
+      "total": 8419,
+      "used": 1247,
+      "rate_used": 0.14811735360494122
+    }
+  },
+  {
+    "adm2_code": "04009",
+    "municipio": "Las Salinas",
+    "internet": {
+      "municipio": "Las Salinas",
+      "total": 4423,
+      "used": 2584,
+      "rate_used": 0.584218855980104
+    },
+    "cellular": {
+      "municipio": "Las Salinas",
+      "total": 4423,
+      "used": 2344,
+      "rate_used": 0.5299570427311779
+    },
+    "computer": {
+      "municipio": "Las Salinas",
+      "total": 4423,
+      "used": 825,
+      "rate_used": 0.18652498304318335
+    }
+  },
+  {
+    "adm2_code": "04010",
+    "municipio": "Polo",
+    "internet": {
+      "municipio": "Polo",
+      "total": 6988,
+      "used": 3758,
+      "rate_used": 0.5377790497996565
+    },
+    "cellular": {
+      "municipio": "Polo",
+      "total": 6988,
+      "used": 3307,
+      "rate_used": 0.47323983972524325
+    },
+    "computer": {
+      "municipio": "Polo",
+      "total": 6988,
+      "used": 1670,
+      "rate_used": 0.23898111047510018
+    }
+  },
+  {
+    "adm2_code": "04011",
+    "municipio": "Jaquimeyes",
+    "internet": {
+      "municipio": "Jaquimeyes",
+      "total": 4292,
+      "used": 2985,
+      "rate_used": 0.695479962721342
+    },
+    "cellular": {
+      "municipio": "Jaquimeyes",
+      "total": 4292,
+      "used": 2642,
+      "rate_used": 0.6155638397017708
+    },
+    "computer": {
+      "municipio": "Jaquimeyes",
+      "total": 4292,
+      "used": 1299,
+      "rate_used": 0.3026561043802423
+    }
+  },
+  {
+    "adm2_code": "05001",
+    "municipio": "Dajabón",
+    "internet": {
+      "municipio": "Dajabón",
+      "total": 32249,
+      "used": 24012,
+      "rate_used": 0.7445812273248783
+    },
+    "cellular": {
+      "municipio": "Dajabón",
+      "total": 32249,
+      "used": 23049,
+      "rate_used": 0.7147198362739929
+    },
+    "computer": {
+      "municipio": "Dajabón",
+      "total": 32249,
+      "used": 9127,
+      "rate_used": 0.28301652764426805
+    }
+  },
+  {
+    "adm2_code": "05002",
+    "municipio": "Loma de Cabrera",
+    "internet": {
+      "municipio": "Loma de Cabrera",
+      "total": 15249,
+      "used": 9770,
+      "rate_used": 0.6406977506721753
+    },
+    "cellular": {
+      "municipio": "Loma de Cabrera",
+      "total": 15249,
+      "used": 9781,
+      "rate_used": 0.6414191094498
+    },
+    "computer": {
+      "municipio": "Loma de Cabrera",
+      "total": 15249,
+      "used": 3437,
+      "rate_used": 0.22539182897239163
+    }
+  },
+  {
+    "adm2_code": "05003",
+    "municipio": "Partido",
+    "internet": {
+      "municipio": "Partido",
+      "total": 7098,
+      "used": 4630,
+      "rate_used": 0.6522964215271908
+    },
+    "cellular": {
+      "municipio": "Partido",
+      "total": 7098,
+      "used": 4535,
+      "rate_used": 0.6389123696816005
+    },
+    "computer": {
+      "municipio": "Partido",
+      "total": 7098,
+      "used": 1339,
+      "rate_used": 0.18864468864468864
+    }
+  },
+  {
+    "adm2_code": "05004",
+    "municipio": "Restauración",
+    "internet": {
+      "municipio": "Restauración",
+      "total": 7315,
+      "used": 3757,
+      "rate_used": 0.5136021872863978
+    },
+    "cellular": {
+      "municipio": "Restauración",
+      "total": 7315,
+      "used": 3738,
+      "rate_used": 0.5110047846889952
+    },
+    "computer": {
+      "municipio": "Restauración",
+      "total": 7315,
+      "used": 1116,
+      "rate_used": 0.15256322624743676
+    }
+  },
+  {
+    "adm2_code": "05005",
+    "municipio": "El Pino",
+    "internet": {
+      "municipio": "El Pino",
+      "total": 5913,
+      "used": 3884,
+      "rate_used": 0.6568577710130221
+    },
+    "cellular": {
+      "municipio": "El Pino",
+      "total": 5913,
+      "used": 3944,
+      "rate_used": 0.6670049044478268
+    },
+    "computer": {
+      "municipio": "El Pino",
+      "total": 5913,
+      "used": 803,
+      "rate_used": 0.13580246913580246
+    }
+  },
+  {
+    "adm2_code": "06001",
+    "municipio": "San Francisco de Macorís",
+    "internet": {
+      "municipio": "San Francisco de Macorís",
+      "total": 188029,
+      "used": 144314,
+      "rate_used": 0.7675092671875083
+    },
+    "cellular": {
+      "municipio": "San Francisco de Macorís",
+      "total": 188029,
+      "used": 141144,
+      "rate_used": 0.7506501656659346
+    },
+    "computer": {
+      "municipio": "San Francisco de Macorís",
+      "total": 188029,
+      "used": 53897,
+      "rate_used": 0.2866419541666445
+    }
+  },
+  {
+    "adm2_code": "06002",
+    "municipio": "Arenoso",
+    "internet": {
+      "municipio": "Arenoso",
+      "total": 12872,
+      "used": 9082,
+      "rate_used": 0.7055624611559975
+    },
+    "cellular": {
+      "municipio": "Arenoso",
+      "total": 12872,
+      "used": 8670,
+      "rate_used": 0.6735550031075201
+    },
+    "computer": {
+      "municipio": "Arenoso",
+      "total": 12872,
+      "used": 2101,
+      "rate_used": 0.1632224984462399
+    }
+  },
+  {
+    "adm2_code": "06003",
+    "municipio": "Castillo",
+    "internet": {
+      "municipio": "Castillo",
+      "total": 15755,
+      "used": 9694,
+      "rate_used": 0.6152967311964456
+    },
+    "cellular": {
+      "municipio": "Castillo",
+      "total": 15755,
+      "used": 9697,
+      "rate_used": 0.6154871469374802
+    },
+    "computer": {
+      "municipio": "Castillo",
+      "total": 15755,
+      "used": 3989,
+      "rate_used": 0.2531894636623294
+    }
+  },
+  {
+    "adm2_code": "06004",
+    "municipio": "Pimentel",
+    "internet": {
+      "municipio": "Pimentel",
+      "total": 17485,
+      "used": 11984,
+      "rate_used": 0.685387474978553
+    },
+    "cellular": {
+      "municipio": "Pimentel",
+      "total": 17485,
+      "used": 11002,
+      "rate_used": 0.6292250500428939
+    },
+    "computer": {
+      "municipio": "Pimentel",
+      "total": 17485,
+      "used": 3568,
+      "rate_used": 0.2040606233914784
+    }
+  },
+  {
+    "adm2_code": "06005",
+    "municipio": "Villa Riva",
+    "internet": {
+      "municipio": "Villa Riva",
+      "total": 33167,
+      "used": 22450,
+      "rate_used": 0.6768776193204088
+    },
+    "cellular": {
+      "municipio": "Villa Riva",
+      "total": 33167,
+      "used": 21510,
+      "rate_used": 0.6485361956161244
+    },
+    "computer": {
+      "municipio": "Villa Riva",
+      "total": 33167,
+      "used": 5710,
+      "rate_used": 0.17215907377815298
+    }
+  },
+  {
+    "adm2_code": "06006",
+    "municipio": "Las Guáranas",
+    "internet": {
+      "municipio": "Las Guáranas",
+      "total": 13045,
+      "used": 10271,
+      "rate_used": 0.7873514756611729
+    },
+    "cellular": {
+      "municipio": "Las Guáranas",
+      "total": 13045,
+      "used": 9565,
+      "rate_used": 0.7332311230356459
+    },
+    "computer": {
+      "municipio": "Las Guáranas",
+      "total": 13045,
+      "used": 2404,
+      "rate_used": 0.1842851667305481
+    }
+  },
+  {
+    "adm2_code": "06007",
+    "municipio": "Eugenio María de Hostos",
+    "internet": {
+      "municipio": "Eugenio María de Hostos",
+      "total": 5353,
+      "used": 3572,
+      "rate_used": 0.6672893704464786
+    },
+    "cellular": {
+      "municipio": "Eugenio María de Hostos",
+      "total": 5353,
+      "used": 3621,
+      "rate_used": 0.6764431160097142
+    },
+    "computer": {
+      "municipio": "Eugenio María de Hostos",
+      "total": 5353,
+      "used": 882,
+      "rate_used": 0.16476742013824025
+    }
+  },
+  {
+    "adm2_code": "07001",
+    "municipio": "Comendador",
+    "internet": {
+      "municipio": "Comendador",
+      "total": 25348,
+      "used": 10807,
+      "rate_used": 0.42634527378885906
+    },
+    "cellular": {
+      "municipio": "Comendador",
+      "total": 25348,
+      "used": 10003,
+      "rate_used": 0.3946267950134133
+    },
+    "computer": {
+      "municipio": "Comendador",
+      "total": 25348,
+      "used": 3830,
+      "rate_used": 0.15109673347009625
+    }
+  },
+  {
+    "adm2_code": "07002",
+    "municipio": "Bánica",
+    "internet": {
+      "municipio": "Bánica",
+      "total": 6782,
+      "used": 2633,
+      "rate_used": 0.3882335594219994
+    },
+    "cellular": {
+      "municipio": "Bánica",
+      "total": 6782,
+      "used": 2965,
+      "rate_used": 0.43718667059864347
+    },
+    "computer": {
+      "municipio": "Bánica",
+      "total": 6782,
+      "used": 991,
+      "rate_used": 0.1461220878796815
+    }
+  },
+  {
+    "adm2_code": "07003",
+    "municipio": "El Llano",
+    "internet": {
+      "municipio": "El Llano",
+      "total": 7662,
+      "used": 2772,
+      "rate_used": 0.3617854346123727
+    },
+    "cellular": {
+      "municipio": "El Llano",
+      "total": 7662,
+      "used": 2913,
+      "rate_used": 0.3801879404855129
+    },
+    "computer": {
+      "municipio": "El Llano",
+      "total": 7662,
+      "used": 704,
+      "rate_used": 0.09188201513965022
+    }
+  },
+  {
+    "adm2_code": "07004",
+    "municipio": "Hondo Valle",
+    "internet": {
+      "municipio": "Hondo Valle",
+      "total": 8643,
+      "used": 3508,
+      "rate_used": 0.4058775888001851
+    },
+    "cellular": {
+      "municipio": "Hondo Valle",
+      "total": 8643,
+      "used": 3195,
+      "rate_used": 0.3696633113502256
+    },
+    "computer": {
+      "municipio": "Hondo Valle",
+      "total": 8643,
+      "used": 1304,
+      "rate_used": 0.15087353928034247
+    }
+  },
+  {
+    "adm2_code": "07005",
+    "municipio": "Pedro Santana",
+    "internet": {
+      "municipio": "Pedro Santana",
+      "total": 5838,
+      "used": 1933,
+      "rate_used": 0.33110654333675915
+    },
+    "cellular": {
+      "municipio": "Pedro Santana",
+      "total": 5838,
+      "used": 1952,
+      "rate_used": 0.3343610825625214
+    },
+    "computer": {
+      "municipio": "Pedro Santana",
+      "total": 5838,
+      "used": 741,
+      "rate_used": 0.12692702980472764
+    }
+  },
+  {
+    "adm2_code": "07006",
+    "municipio": "Juan Santiago",
+    "internet": {
+      "municipio": "Juan Santiago",
+      "total": 3140,
+      "used": 1167,
+      "rate_used": 0.371656050955414
+    },
+    "cellular": {
+      "municipio": "Juan Santiago",
+      "total": 3140,
+      "used": 1002,
+      "rate_used": 0.31910828025477705
+    },
+    "computer": {
+      "municipio": "Juan Santiago",
+      "total": 3140,
+      "used": 465,
+      "rate_used": 0.1480891719745223
+    }
+  },
+  {
+    "adm2_code": "08001",
+    "municipio": "El Seibo",
+    "internet": {
+      "municipio": "El Seibo",
+      "total": 66561,
+      "used": 39128,
+      "rate_used": 0.5878517450158501
+    },
+    "cellular": {
+      "municipio": "El Seibo",
+      "total": 66561,
+      "used": 38025,
+      "rate_used": 0.5712804795601027
+    },
+    "computer": {
+      "municipio": "El Seibo",
+      "total": 66561,
+      "used": 13574,
+      "rate_used": 0.20393323417616924
+    }
+  },
+  {
+    "adm2_code": "08002",
+    "municipio": "Miches",
+    "internet": {
+      "municipio": "Miches",
+      "total": 23964,
+      "used": 17783,
+      "rate_used": 0.7420714404940745
+    },
+    "cellular": {
+      "municipio": "Miches",
+      "total": 23964,
+      "used": 16098,
+      "rate_used": 0.671757636454682
+    },
+    "computer": {
+      "municipio": "Miches",
+      "total": 23964,
+      "used": 4308,
+      "rate_used": 0.17976965448172258
+    }
+  },
+  {
+    "adm2_code": "09001",
     "municipio": "Moca",
     "internet": {
       "municipio": "Moca",
-      "total": 152188.0,
-      "used": 115771.0,
+      "total": 152188,
+      "used": 115771,
       "rate_used": 0.7607104370909664
     },
     "cellular": {
       "municipio": "Moca",
-      "total": 152188.0,
-      "used": 115771.0,
-      "rate_used": 0.7607104370909664
+      "total": 152188,
+      "used": 113167,
+      "rate_used": 0.7436000210266249
     },
     "computer": {
       "municipio": "Moca",
-      "total": 152188.0,
-      "used": 11384.0,
-      "rate_used": 0.07480221830893369
+      "total": 152188,
+      "used": 38344,
+      "rate_used": 0.2519515336294583
     }
   },
   {
-    "adm2_code": 9002,
+    "adm2_code": "09002",
     "municipio": "Cayetano Germosén",
     "internet": {
       "municipio": "Cayetano Germosén",
-      "total": 7452.0,
-      "used": 5387.0,
+      "total": 7452,
+      "used": 5387,
       "rate_used": 0.7228931830381106
     },
     "cellular": {
       "municipio": "Cayetano Germosén",
-      "total": 7452.0,
-      "used": 5387.0,
-      "rate_used": 0.7228931830381106
+      "total": 7452,
+      "used": 5372,
+      "rate_used": 0.7208803005904455
     },
     "computer": {
       "municipio": "Cayetano Germosén",
-      "total": 7452.0,
-      "used": 557.0,
-      "rate_used": 0.07474503488996243
+      "total": 7452,
+      "used": 1596,
+      "rate_used": 0.214170692431562
     }
   },
   {
-    "adm2_code": 9003,
+    "adm2_code": "09003",
     "municipio": "Gaspar Hernández",
     "internet": {
       "municipio": "Gaspar Hernández",
-      "total": 37780.0,
-      "used": 27480.0,
+      "total": 37780,
+      "used": 27480,
       "rate_used": 0.7273689782953944
     },
     "cellular": {
       "municipio": "Gaspar Hernández",
-      "total": 37780.0,
-      "used": 27480.0,
-      "rate_used": 0.7273689782953944
+      "total": 37780,
+      "used": 26850,
+      "rate_used": 0.7106934886183166
     },
     "computer": {
       "municipio": "Gaspar Hernández",
-      "total": 37780.0,
-      "used": 3376.0,
-      "rate_used": 0.08935944944415035
+      "total": 37780,
+      "used": 9335,
+      "rate_used": 0.24708840656431974
     }
   },
   {
-    "adm2_code": 9004,
-    "municipio": "Jamao al Norte",
+    "adm2_code": "09004",
+    "municipio": "Jamao Al Norte",
     "internet": {
-      "municipio": "Jamao al Norte",
-      "total": 7413.0,
-      "used": 4915.0,
+      "municipio": "Jamao Al Norte",
+      "total": 7413,
+      "used": 4915,
       "rate_used": 0.663024416565493
     },
     "cellular": {
-      "municipio": "Jamao al Norte",
-      "total": 7413.0,
-      "used": 4915.0,
-      "rate_used": 0.663024416565493
+      "municipio": "Jamao Al Norte",
+      "total": 7413,
+      "used": 5016,
+      "rate_used": 0.6766491299069203
     },
     "computer": {
-      "municipio": "Jamao al Norte",
-      "total": 7413.0,
-      "used": 602.0,
-      "rate_used": 0.08120868744098206
+      "municipio": "Jamao Al Norte",
+      "total": 7413,
+      "used": 1157,
+      "rate_used": 0.15607716174288414
     }
   },
   {
-    "adm2_code": 9005,
+    "adm2_code": "09005",
     "municipio": "San Víctor",
     "internet": {
       "municipio": "San Víctor",
-      "total": 18695.0,
-      "used": 12774.0,
+      "total": 18695,
+      "used": 12774,
       "rate_used": 0.6832843006151378
     },
     "cellular": {
       "municipio": "San Víctor",
-      "total": 18695.0,
-      "used": 12774.0,
-      "rate_used": 0.6832843006151378
+      "total": 18695,
+      "used": 13525,
+      "rate_used": 0.7234554693768387
     },
     "computer": {
       "municipio": "San Víctor",
-      "total": 18695.0,
-      "used": 1517.0,
-      "rate_used": 0.08114469109387537
+      "total": 18695,
+      "used": 3347,
+      "rate_used": 0.1790318266916288
     }
   },
   {
-    "adm2_code": 18001,
+    "adm2_code": "10001",
+    "municipio": "Jimaní",
+    "internet": {
+      "municipio": "Jimaní",
+      "total": 17150,
+      "used": 6911,
+      "rate_used": 0.4029737609329446
+    },
+    "cellular": {
+      "municipio": "Jimaní",
+      "total": 17150,
+      "used": 7263,
+      "rate_used": 0.4234985422740525
+    },
+    "computer": {
+      "municipio": "Jimaní",
+      "total": 17150,
+      "used": 2596,
+      "rate_used": 0.15137026239067056
+    }
+  },
+  {
+    "adm2_code": "10002",
+    "municipio": "Duvergé",
+    "internet": {
+      "municipio": "Duvergé",
+      "total": 12759,
+      "used": 7010,
+      "rate_used": 0.5494160984403167
+    },
+    "cellular": {
+      "municipio": "Duvergé",
+      "total": 12759,
+      "used": 6883,
+      "rate_used": 0.5394623403088016
+    },
+    "computer": {
+      "municipio": "Duvergé",
+      "total": 12759,
+      "used": 3320,
+      "rate_used": 0.26020848028842386
+    }
+  },
+  {
+    "adm2_code": "10003",
+    "municipio": "La Descubierta",
+    "internet": {
+      "municipio": "La Descubierta",
+      "total": 7306,
+      "used": 3273,
+      "rate_used": 0.44798795510539285
+    },
+    "cellular": {
+      "municipio": "La Descubierta",
+      "total": 7306,
+      "used": 3546,
+      "rate_used": 0.48535450314809747
+    },
+    "computer": {
+      "municipio": "La Descubierta",
+      "total": 7306,
+      "used": 867,
+      "rate_used": 0.11866958664111689
+    }
+  },
+  {
+    "adm2_code": "10004",
+    "municipio": "Postrer Río",
+    "internet": {
+      "municipio": "Postrer Río",
+      "total": 6522,
+      "used": 2854,
+      "rate_used": 0.43759582950015335
+    },
+    "cellular": {
+      "municipio": "Postrer Río",
+      "total": 6522,
+      "used": 2815,
+      "rate_used": 0.4316160686905857
+    },
+    "computer": {
+      "municipio": "Postrer Río",
+      "total": 6522,
+      "used": 655,
+      "rate_used": 0.1004293161606869
+    }
+  },
+  {
+    "adm2_code": "10005",
+    "municipio": "Cristóbal",
+    "internet": {
+      "municipio": "Cristóbal",
+      "total": 6788,
+      "used": 3170,
+      "rate_used": 0.4670005892751915
+    },
+    "cellular": {
+      "municipio": "Cristóbal",
+      "total": 6788,
+      "used": 2994,
+      "rate_used": 0.44107248084855627
+    },
+    "computer": {
+      "municipio": "Cristóbal",
+      "total": 6788,
+      "used": 898,
+      "rate_used": 0.13229228049499117
+    }
+  },
+  {
+    "adm2_code": "10006",
+    "municipio": "Mella",
+    "internet": {
+      "municipio": "Mella",
+      "total": 4141,
+      "used": 2564,
+      "rate_used": 0.6191741125332045
+    },
+    "cellular": {
+      "municipio": "Mella",
+      "total": 4141,
+      "used": 2340,
+      "rate_used": 0.5650808983337358
+    },
+    "computer": {
+      "municipio": "Mella",
+      "total": 4141,
+      "used": 1044,
+      "rate_used": 0.25211301617966675
+    }
+  },
+  {
+    "adm2_code": "11001",
+    "municipio": "Higüey",
+    "internet": {
+      "municipio": "Higüey",
+      "total": 378960,
+      "used": 298258,
+      "rate_used": 0.7870434874393076
+    },
+    "cellular": {
+      "municipio": "Higüey",
+      "total": 378960,
+      "used": 291347,
+      "rate_used": 0.7688067342199705
+    },
+    "computer": {
+      "municipio": "Higüey",
+      "total": 378960,
+      "used": 129478,
+      "rate_used": 0.3416666666666667
+    }
+  },
+  {
+    "adm2_code": "11002",
+    "municipio": "San Rafael del Yuma",
+    "internet": {
+      "municipio": "San Rafael del Yuma",
+      "total": 28425,
+      "used": 17148,
+      "rate_used": 0.6032717678100263
+    },
+    "cellular": {
+      "municipio": "San Rafael del Yuma",
+      "total": 28425,
+      "used": 17237,
+      "rate_used": 0.6064028144239226
+    },
+    "computer": {
+      "municipio": "San Rafael del Yuma",
+      "total": 28425,
+      "used": 5452,
+      "rate_used": 0.19180299032541775
+    }
+  },
+  {
+    "adm2_code": "12001",
+    "municipio": "La Romana",
+    "internet": {
+      "municipio": "La Romana",
+      "total": 141478,
+      "used": 116996,
+      "rate_used": 0.8269554276990062
+    },
+    "cellular": {
+      "municipio": "La Romana",
+      "total": 141478,
+      "used": 112361,
+      "rate_used": 0.7941941503272594
+    },
+    "computer": {
+      "municipio": "La Romana",
+      "total": 141478,
+      "used": 55306,
+      "rate_used": 0.39091590211905736
+    }
+  },
+  {
+    "adm2_code": "12002",
+    "municipio": "Guaymate",
+    "internet": {
+      "municipio": "Guaymate",
+      "total": 15401,
+      "used": 8809,
+      "rate_used": 0.5719758457243036
+    },
+    "cellular": {
+      "municipio": "Guaymate",
+      "total": 15401,
+      "used": 8095,
+      "rate_used": 0.5256152197909226
+    },
+    "computer": {
+      "municipio": "Guaymate",
+      "total": 15401,
+      "used": 2707,
+      "rate_used": 0.17576780728524122
+    }
+  },
+  {
+    "adm2_code": "12003",
+    "municipio": "Villa Hermosa",
+    "internet": {
+      "municipio": "Villa Hermosa",
+      "total": 106227,
+      "used": 76358,
+      "rate_used": 0.7188191326122361
+    },
+    "cellular": {
+      "municipio": "Villa Hermosa",
+      "total": 106227,
+      "used": 74035,
+      "rate_used": 0.6969508693646624
+    },
+    "computer": {
+      "municipio": "Villa Hermosa",
+      "total": 106227,
+      "used": 20126,
+      "rate_used": 0.18946218946218946
+    }
+  },
+  {
+    "adm2_code": "13001",
+    "municipio": "La Vega",
+    "internet": {
+      "municipio": "La Vega",
+      "total": 261219,
+      "used": 200245,
+      "rate_used": 0.7665790007618128
+    },
+    "cellular": {
+      "municipio": "La Vega",
+      "total": 261219,
+      "used": 194033,
+      "rate_used": 0.74279818849318
+    },
+    "computer": {
+      "municipio": "La Vega",
+      "total": 261219,
+      "used": 72518,
+      "rate_used": 0.2776138029775782
+    }
+  },
+  {
+    "adm2_code": "13002",
+    "municipio": "Constanza",
+    "internet": {
+      "municipio": "Constanza",
+      "total": 61069,
+      "used": 42502,
+      "rate_used": 0.6959668571615714
+    },
+    "cellular": {
+      "municipio": "Constanza",
+      "total": 61069,
+      "used": 42062,
+      "rate_used": 0.6887618922857751
+    },
+    "computer": {
+      "municipio": "Constanza",
+      "total": 61069,
+      "used": 14881,
+      "rate_used": 0.24367518708346297
+    }
+  },
+  {
+    "adm2_code": "13003",
+    "municipio": "Jarabacoa",
+    "internet": {
+      "municipio": "Jarabacoa",
+      "total": 60296,
+      "used": 44873,
+      "rate_used": 0.7442118880191058
+    },
+    "cellular": {
+      "municipio": "Jarabacoa",
+      "total": 60296,
+      "used": 44415,
+      "rate_used": 0.7366160275971873
+    },
+    "computer": {
+      "municipio": "Jarabacoa",
+      "total": 60296,
+      "used": 13943,
+      "rate_used": 0.23124253681836274
+    }
+  },
+  {
+    "adm2_code": "13004",
+    "municipio": "Jima Abajo",
+    "internet": {
+      "municipio": "Jima Abajo",
+      "total": 27124,
+      "used": 20343,
+      "rate_used": 0.75
+    },
+    "cellular": {
+      "municipio": "Jima Abajo",
+      "total": 27124,
+      "used": 19825,
+      "rate_used": 0.730902521751954
+    },
+    "computer": {
+      "municipio": "Jima Abajo",
+      "total": 27124,
+      "used": 5674,
+      "rate_used": 0.2091874354814924
+    }
+  },
+  {
+    "adm2_code": "14001",
+    "municipio": "Nagua",
+    "internet": {
+      "municipio": "Nagua",
+      "total": 75175,
+      "used": 52889,
+      "rate_used": 0.7035450615231127
+    },
+    "cellular": {
+      "municipio": "Nagua",
+      "total": 75175,
+      "used": 53570,
+      "rate_used": 0.7126039241769205
+    },
+    "computer": {
+      "municipio": "Nagua",
+      "total": 75175,
+      "used": 17159,
+      "rate_used": 0.22825407382773527
+    }
+  },
+  {
+    "adm2_code": "14002",
+    "municipio": "Cabrera",
+    "internet": {
+      "municipio": "Cabrera",
+      "total": 26534,
+      "used": 19013,
+      "rate_used": 0.7165523479309565
+    },
+    "cellular": {
+      "municipio": "Cabrera",
+      "total": 26534,
+      "used": 18101,
+      "rate_used": 0.682181352227331
+    },
+    "computer": {
+      "municipio": "Cabrera",
+      "total": 26534,
+      "used": 5714,
+      "rate_used": 0.2153463480817065
+    }
+  },
+  {
+    "adm2_code": "14003",
+    "municipio": "El Factor",
+    "internet": {
+      "municipio": "El Factor",
+      "total": 27279,
+      "used": 19636,
+      "rate_used": 0.7198211078118699
+    },
+    "cellular": {
+      "municipio": "El Factor",
+      "total": 27279,
+      "used": 18999,
+      "rate_used": 0.6964698119432531
+    },
+    "computer": {
+      "municipio": "El Factor",
+      "total": 27279,
+      "used": 3936,
+      "rate_used": 0.14428681403277246
+    }
+  },
+  {
+    "adm2_code": "14004",
+    "municipio": "Río San Juan",
+    "internet": {
+      "municipio": "Río San Juan",
+      "total": 15537,
+      "used": 11922,
+      "rate_used": 0.7673296003089399
+    },
+    "cellular": {
+      "municipio": "Río San Juan",
+      "total": 15537,
+      "used": 11647,
+      "rate_used": 0.7496299156851387
+    },
+    "computer": {
+      "municipio": "Río San Juan",
+      "total": 15537,
+      "used": 2975,
+      "rate_used": 0.19147840638475896
+    }
+  },
+  {
+    "adm2_code": "15001",
+    "municipio": "Monte Cristi",
+    "internet": {
+      "municipio": "Monte Cristi",
+      "total": 24979,
+      "used": 18544,
+      "rate_used": 0.7423836022258697
+    },
+    "cellular": {
+      "municipio": "Monte Cristi",
+      "total": 24979,
+      "used": 18106,
+      "rate_used": 0.7248488730533649
+    },
+    "computer": {
+      "municipio": "Monte Cristi",
+      "total": 24979,
+      "used": 6895,
+      "rate_used": 0.27603186676808517
+    }
+  },
+  {
+    "adm2_code": "15002",
+    "municipio": "Castañuelas",
+    "internet": {
+      "municipio": "Castañuelas",
+      "total": 16976,
+      "used": 11355,
+      "rate_used": 0.6688854853911405
+    },
+    "cellular": {
+      "municipio": "Castañuelas",
+      "total": 16976,
+      "used": 10794,
+      "rate_used": 0.6358388312912346
+    },
+    "computer": {
+      "municipio": "Castañuelas",
+      "total": 16976,
+      "used": 2443,
+      "rate_used": 0.1439090480678605
+    }
+  },
+  {
+    "adm2_code": "15003",
+    "municipio": "Guayubín",
+    "internet": {
+      "municipio": "Guayubín",
+      "total": 36436,
+      "used": 24887,
+      "rate_used": 0.683033263805028
+    },
+    "cellular": {
+      "municipio": "Guayubín",
+      "total": 36436,
+      "used": 24830,
+      "rate_used": 0.6814688769348995
+    },
+    "computer": {
+      "municipio": "Guayubín",
+      "total": 36436,
+      "used": 6026,
+      "rate_used": 0.16538588209463168
+    }
+  },
+  {
+    "adm2_code": "15004",
+    "municipio": "Las Matas de Santa Cruz",
+    "internet": {
+      "municipio": "Las Matas de Santa Cruz",
+      "total": 10195,
+      "used": 6878,
+      "rate_used": 0.6746444335458558
+    },
+    "cellular": {
+      "municipio": "Las Matas de Santa Cruz",
+      "total": 10195,
+      "used": 6884,
+      "rate_used": 0.6752329573320255
+    },
+    "computer": {
+      "municipio": "Las Matas de Santa Cruz",
+      "total": 10195,
+      "used": 1548,
+      "rate_used": 0.1518391368317803
+    }
+  },
+  {
+    "adm2_code": "15005",
+    "municipio": "Pepillo Salcedo",
+    "internet": {
+      "municipio": "Pepillo Salcedo",
+      "total": 9766,
+      "used": 6700,
+      "rate_used": 0.6860536555396273
+    },
+    "cellular": {
+      "municipio": "Pepillo Salcedo",
+      "total": 9766,
+      "used": 6600,
+      "rate_used": 0.6758140487405284
+    },
+    "computer": {
+      "municipio": "Pepillo Salcedo",
+      "total": 9766,
+      "used": 2294,
+      "rate_used": 0.2348965799713291
+    }
+  },
+  {
+    "adm2_code": "15006",
+    "municipio": "Villa Vásquez",
+    "internet": {
+      "municipio": "Villa Vásquez",
+      "total": 15012,
+      "used": 10533,
+      "rate_used": 0.701638689048761
+    },
+    "cellular": {
+      "municipio": "Villa Vásquez",
+      "total": 15012,
+      "used": 10678,
+      "rate_used": 0.7112976285638156
+    },
+    "computer": {
+      "municipio": "Villa Vásquez",
+      "total": 15012,
+      "used": 2825,
+      "rate_used": 0.1881827871036504
+    }
+  },
+  {
+    "adm2_code": "16001",
+    "municipio": "Pedernales",
+    "internet": {
+      "municipio": "Pedernales",
+      "total": 21863,
+      "used": 12210,
+      "rate_used": 0.5584777935324521
+    },
+    "cellular": {
+      "municipio": "Pedernales",
+      "total": 21863,
+      "used": 12426,
+      "rate_used": 0.5683574989708641
+    },
+    "computer": {
+      "municipio": "Pedernales",
+      "total": 21863,
+      "used": 5587,
+      "rate_used": 0.2555458994648493
+    }
+  },
+  {
+    "adm2_code": "16002",
+    "municipio": "Oviedo",
+    "internet": {
+      "municipio": "Oviedo",
+      "total": 8798,
+      "used": 4447,
+      "rate_used": 0.5054557854057741
+    },
+    "cellular": {
+      "municipio": "Oviedo",
+      "total": 8798,
+      "used": 4215,
+      "rate_used": 0.47908615594453285
+    },
+    "computer": {
+      "municipio": "Oviedo",
+      "total": 8798,
+      "used": 900,
+      "rate_used": 0.10229597635826324
+    }
+  },
+  {
+    "adm2_code": "17001",
+    "municipio": "Baní",
+    "internet": {
+      "municipio": "Baní",
+      "total": 143678,
+      "used": 102401,
+      "rate_used": 0.7127117582371693
+    },
+    "cellular": {
+      "municipio": "Baní",
+      "total": 143678,
+      "used": 100605,
+      "rate_used": 0.7002115842369744
+    },
+    "computer": {
+      "municipio": "Baní",
+      "total": 143678,
+      "used": 28806,
+      "rate_used": 0.2004899845487827
+    }
+  },
+  {
+    "adm2_code": "17002",
+    "municipio": "Nizao",
+    "internet": {
+      "municipio": "Nizao",
+      "total": 29152,
+      "used": 20440,
+      "rate_used": 0.7011525795828759
+    },
+    "cellular": {
+      "municipio": "Nizao",
+      "total": 29152,
+      "used": 20080,
+      "rate_used": 0.6888035126234907
+    },
+    "computer": {
+      "municipio": "Nizao",
+      "total": 29152,
+      "used": 4717,
+      "rate_used": 0.16180708013172337
+    }
+  },
+  {
+    "adm2_code": "17003",
+    "municipio": "Matanzas",
+    "internet": {
+      "municipio": "Matanzas",
+      "total": 17338,
+      "used": 12961,
+      "rate_used": 0.7475487368785327
+    },
+    "cellular": {
+      "municipio": "Matanzas",
+      "total": 17338,
+      "used": 12407,
+      "rate_used": 0.7155958011304648
+    },
+    "computer": {
+      "municipio": "Matanzas",
+      "total": 17338,
+      "used": 2641,
+      "rate_used": 0.15232437420694428
+    }
+  },
+  {
+    "adm2_code": "18001",
     "municipio": "Puerto Plata",
     "internet": {
       "municipio": "Puerto Plata",
-      "total": 151006.0,
-      "used": 122796.0,
+      "total": 151006,
+      "used": 122796,
       "rate_used": 0.8131862310106883
     },
     "cellular": {
       "municipio": "Puerto Plata",
-      "total": 151006.0,
-      "used": 122796.0,
-      "rate_used": 0.8131862310106883
+      "total": 151006,
+      "used": 118570,
+      "rate_used": 0.7852005880561037
     },
     "computer": {
       "municipio": "Puerto Plata",
-      "total": 151006.0,
-      "used": 12391.0,
-      "rate_used": 0.08205634213210071
+      "total": 151006,
+      "used": 50673,
+      "rate_used": 0.33556944757161966
     }
   },
   {
-    "adm2_code": 18002,
+    "adm2_code": "18002",
     "municipio": "Altamira",
     "internet": {
       "municipio": "Altamira",
-      "total": 16667.0,
-      "used": 10950.0,
+      "total": 16667,
+      "used": 10950,
       "rate_used": 0.6569868602627947
     },
     "cellular": {
       "municipio": "Altamira",
-      "total": 16667.0,
-      "used": 10950.0,
-      "rate_used": 0.6569868602627947
+      "total": 16667,
+      "used": 11137,
+      "rate_used": 0.6682066358672827
     },
     "computer": {
       "municipio": "Altamira",
-      "total": 16667.0,
-      "used": 1180.0,
-      "rate_used": 0.07079858402831943
+      "total": 16667,
+      "used": 3032,
+      "rate_used": 0.18191636167276654
     }
   },
   {
-    "adm2_code": 18003,
+    "adm2_code": "18003",
     "municipio": "Guananico",
     "internet": {
       "municipio": "Guananico",
-      "total": 6090.0,
-      "used": 4507.0,
+      "total": 6090,
+      "used": 4507,
       "rate_used": 0.7400656814449917
     },
     "cellular": {
       "municipio": "Guananico",
-      "total": 6090.0,
-      "used": 4507.0,
-      "rate_used": 0.7400656814449917
+      "total": 6090,
+      "used": 4389,
+      "rate_used": 0.7206896551724138
     },
     "computer": {
       "municipio": "Guananico",
-      "total": 6090.0,
-      "used": 449.0,
-      "rate_used": 0.07372742200328407
+      "total": 6090,
+      "used": 1347,
+      "rate_used": 0.22118226600985222
     }
   },
   {
-    "adm2_code": 18004,
+    "adm2_code": "18004",
     "municipio": "Imbert",
     "internet": {
       "municipio": "Imbert",
-      "total": 21349.0,
-      "used": 15974.0,
+      "total": 21349,
+      "used": 15974,
       "rate_used": 0.748231767295892
     },
     "cellular": {
       "municipio": "Imbert",
-      "total": 21349.0,
-      "used": 15974.0,
-      "rate_used": 0.748231767295892
+      "total": 21349,
+      "used": 15585,
+      "rate_used": 0.7300107733383296
     },
     "computer": {
       "municipio": "Imbert",
-      "total": 21349.0,
-      "used": 1638.0,
-      "rate_used": 0.0767249051477821
+      "total": 21349,
+      "used": 5834,
+      "rate_used": 0.2732680687620029
     }
   },
   {
-    "adm2_code": 18005,
+    "adm2_code": "18005",
     "municipio": "Los Hidalgos",
     "internet": {
       "municipio": "Los Hidalgos",
-      "total": 12611.0,
-      "used": 8725.0,
+      "total": 12611,
+      "used": 8725,
       "rate_used": 0.6918563159146777
     },
     "cellular": {
       "municipio": "Los Hidalgos",
-      "total": 12611.0,
-      "used": 8725.0,
-      "rate_used": 0.6918563159146777
+      "total": 12611,
+      "used": 8640,
+      "rate_used": 0.6851161684243914
     },
     "computer": {
       "municipio": "Los Hidalgos",
-      "total": 12611.0,
-      "used": 1058.0,
-      "rate_used": 0.08389501229085719
+      "total": 12611,
+      "used": 2319,
+      "rate_used": 0.1838870827055745
     }
   },
   {
-    "adm2_code": 18006,
+    "adm2_code": "18006",
     "municipio": "Luperón",
     "internet": {
       "municipio": "Luperón",
-      "total": 16305.0,
-      "used": 12232.0,
+      "total": 16305,
+      "used": 12232,
       "rate_used": 0.750199325360319
     },
     "cellular": {
       "municipio": "Luperón",
-      "total": 16305.0,
-      "used": 12232.0,
-      "rate_used": 0.750199325360319
+      "total": 16305,
+      "used": 11378,
+      "rate_used": 0.6978227537565164
     },
     "computer": {
       "municipio": "Luperón",
-      "total": 16305.0,
-      "used": 1288.0,
-      "rate_used": 0.07899417356639067
+      "total": 16305,
+      "used": 3379,
+      "rate_used": 0.20723704385157926
     }
   },
   {
-    "adm2_code": 18007,
+    "adm2_code": "18007",
     "municipio": "Sosúa",
     "internet": {
       "municipio": "Sosúa",
-      "total": 52579.0,
-      "used": 42819.0,
+      "total": 52579,
+      "used": 42819,
       "rate_used": 0.8143745601856255
     },
     "cellular": {
       "municipio": "Sosúa",
-      "total": 52579.0,
-      "used": 42819.0,
-      "rate_used": 0.8143745601856255
+      "total": 52579,
+      "used": 41976,
+      "rate_used": 0.7983415432016585
     },
     "computer": {
       "municipio": "Sosúa",
-      "total": 52579.0,
-      "used": 4580.0,
-      "rate_used": 0.08710701991289298
+      "total": 52579,
+      "used": 17615,
+      "rate_used": 0.33501968466498033
     }
   },
   {
-    "adm2_code": 18008,
+    "adm2_code": "18008",
     "municipio": "Villa Isabela",
     "internet": {
       "municipio": "Villa Isabela",
-      "total": 18710.0,
-      "used": 12745.0,
+      "total": 18710,
+      "used": 12745,
       "rate_used": 0.6811865312667023
     },
     "cellular": {
       "municipio": "Villa Isabela",
-      "total": 18710.0,
-      "used": 12745.0,
-      "rate_used": 0.6811865312667023
+      "total": 18710,
+      "used": 12674,
+      "rate_used": 0.6773917691074292
     },
     "computer": {
       "municipio": "Villa Isabela",
-      "total": 18710.0,
-      "used": 1701.0,
-      "rate_used": 0.09091394975948691
+      "total": 18710,
+      "used": 3344,
+      "rate_used": 0.17872795296632818
     }
   },
   {
-    "adm2_code": 18009,
+    "adm2_code": "18009",
     "municipio": "Villa Montellano",
     "internet": {
       "municipio": "Villa Montellano",
-      "total": 19347.0,
-      "used": 14245.0,
+      "total": 19347,
+      "used": 14245,
       "rate_used": 0.7362898640616116
     },
     "cellular": {
       "municipio": "Villa Montellano",
-      "total": 19347.0,
-      "used": 14245.0,
-      "rate_used": 0.7362898640616116
+      "total": 19347,
+      "used": 13942,
+      "rate_used": 0.7206285212177599
     },
     "computer": {
       "municipio": "Villa Montellano",
-      "total": 19347.0,
-      "used": 1671.0,
-      "rate_used": 0.08636997984183595
+      "total": 19347,
+      "used": 5065,
+      "rate_used": 0.26179769473303355
     }
   },
   {
-    "adm2_code": 25001,
+    "adm2_code": "19001",
+    "municipio": "Salcedo",
+    "internet": {
+      "municipio": "Salcedo",
+      "total": 38393,
+      "used": 28099,
+      "rate_used": 0.7318782069648113
+    },
+    "cellular": {
+      "municipio": "Salcedo",
+      "total": 38393,
+      "used": 28224,
+      "rate_used": 0.7351340088036882
+    },
+    "computer": {
+      "municipio": "Salcedo",
+      "total": 38393,
+      "used": 10101,
+      "rate_used": 0.2630948349959628
+    }
+  },
+  {
+    "adm2_code": "19002",
+    "municipio": "Tenares",
+    "internet": {
+      "municipio": "Tenares",
+      "total": 26872,
+      "used": 21347,
+      "rate_used": 0.7943956534682941
+    },
+    "cellular": {
+      "municipio": "Tenares",
+      "total": 26872,
+      "used": 20405,
+      "rate_used": 0.7593405775528431
+    },
+    "computer": {
+      "municipio": "Tenares",
+      "total": 26872,
+      "used": 5826,
+      "rate_used": 0.21680559690384044
+    }
+  },
+  {
+    "adm2_code": "19003",
+    "municipio": "Villa Tapia",
+    "internet": {
+      "municipio": "Villa Tapia",
+      "total": 24316,
+      "used": 17666,
+      "rate_used": 0.726517519328837
+    },
+    "cellular": {
+      "municipio": "Villa Tapia",
+      "total": 24316,
+      "used": 17415,
+      "rate_used": 0.7161950978779404
+    },
+    "computer": {
+      "municipio": "Villa Tapia",
+      "total": 24316,
+      "used": 5117,
+      "rate_used": 0.21043757196907387
+    }
+  },
+  {
+    "adm2_code": "20001",
+    "municipio": "Samaná",
+    "internet": {
+      "municipio": "Samaná",
+      "total": 58098,
+      "used": 39518,
+      "rate_used": 0.6801955316878378
+    },
+    "cellular": {
+      "municipio": "Samaná",
+      "total": 58098,
+      "used": 39702,
+      "rate_used": 0.6833625942373232
+    },
+    "computer": {
+      "municipio": "Samaná",
+      "total": 58098,
+      "used": 10794,
+      "rate_used": 0.18578952803883095
+    }
+  },
+  {
+    "adm2_code": "20002",
+    "municipio": "Sánchez",
+    "internet": {
+      "municipio": "Sánchez",
+      "total": 23497,
+      "used": 16650,
+      "rate_used": 0.7086010980125123
+    },
+    "cellular": {
+      "municipio": "Sánchez",
+      "total": 23497,
+      "used": 16007,
+      "rate_used": 0.6812359024556326
+    },
+    "computer": {
+      "municipio": "Sánchez",
+      "total": 23497,
+      "used": 5212,
+      "rate_used": 0.2218155509213942
+    }
+  },
+  {
+    "adm2_code": "20003",
+    "municipio": "Las Terrenas",
+    "internet": {
+      "municipio": "Las Terrenas",
+      "total": 23332,
+      "used": 17973,
+      "rate_used": 0.7703154465969484
+    },
+    "cellular": {
+      "municipio": "Las Terrenas",
+      "total": 23332,
+      "used": 16998,
+      "rate_used": 0.7285273444196811
+    },
+    "computer": {
+      "municipio": "Las Terrenas",
+      "total": 23332,
+      "used": 5671,
+      "rate_used": 0.24305674609977712
+    }
+  },
+  {
+    "adm2_code": "21001",
+    "municipio": "San Cristóbal",
+    "internet": {
+      "municipio": "San Cristóbal",
+      "total": 254049,
+      "used": 192710,
+      "rate_used": 0.7585544520938874
+    },
+    "cellular": {
+      "municipio": "San Cristóbal",
+      "total": 254049,
+      "used": 182797,
+      "rate_used": 0.7195344205251742
+    },
+    "computer": {
+      "municipio": "San Cristóbal",
+      "total": 254049,
+      "used": 87216,
+      "rate_used": 0.3433038508319261
+    }
+  },
+  {
+    "adm2_code": "21002",
+    "municipio": "Sabana Grande de Palenque",
+    "internet": {
+      "municipio": "Sabana Grande de Palenque",
+      "total": 16573,
+      "used": 13075,
+      "rate_used": 0.7889338080009655
+    },
+    "cellular": {
+      "municipio": "Sabana Grande de Palenque",
+      "total": 16573,
+      "used": 12066,
+      "rate_used": 0.7280516502745429
+    },
+    "computer": {
+      "municipio": "Sabana Grande de Palenque",
+      "total": 16573,
+      "used": 4476,
+      "rate_used": 0.27007783744644903
+    }
+  },
+  {
+    "adm2_code": "21003",
+    "municipio": "Bajos de Haina",
+    "internet": {
+      "municipio": "Bajos de Haina",
+      "total": 145231,
+      "used": 111333,
+      "rate_used": 0.7665925318974599
+    },
+    "cellular": {
+      "municipio": "Bajos de Haina",
+      "total": 145231,
+      "used": 107740,
+      "rate_used": 0.7418526347680592
+    },
+    "computer": {
+      "municipio": "Bajos de Haina",
+      "total": 145231,
+      "used": 45927,
+      "rate_used": 0.31623413733982414
+    }
+  },
+  {
+    "adm2_code": "21004",
+    "municipio": "Cambita Garabitos",
+    "internet": {
+      "municipio": "Cambita Garabitos",
+      "total": 28685,
+      "used": 19635,
+      "rate_used": 0.6845040962175353
+    },
+    "cellular": {
+      "municipio": "Cambita Garabitos",
+      "total": 28685,
+      "used": 18800,
+      "rate_used": 0.655394805647551
+    },
+    "computer": {
+      "municipio": "Cambita Garabitos",
+      "total": 28685,
+      "used": 7752,
+      "rate_used": 0.27024577305211783
+    }
+  },
+  {
+    "adm2_code": "21005",
+    "municipio": "Villa Altagracia",
+    "internet": {
+      "municipio": "Villa Altagracia",
+      "total": 88723,
+      "used": 66986,
+      "rate_used": 0.7550015215896667
+    },
+    "cellular": {
+      "municipio": "Villa Altagracia",
+      "total": 88723,
+      "used": 61204,
+      "rate_used": 0.6898323997159699
+    },
+    "computer": {
+      "municipio": "Villa Altagracia",
+      "total": 88723,
+      "used": 19811,
+      "rate_used": 0.22329046583185871
+    }
+  },
+  {
+    "adm2_code": "21006",
+    "municipio": "Yaguate",
+    "internet": {
+      "municipio": "Yaguate",
+      "total": 46851,
+      "used": 31229,
+      "rate_used": 0.6665599453586903
+    },
+    "cellular": {
+      "municipio": "Yaguate",
+      "total": 46851,
+      "used": 29010,
+      "rate_used": 0.6191970288787859
+    },
+    "computer": {
+      "municipio": "Yaguate",
+      "total": 46851,
+      "used": 10848,
+      "rate_used": 0.23154254978549016
+    }
+  },
+  {
+    "adm2_code": "21007",
+    "municipio": "San Gregorio de Nigua",
+    "internet": {
+      "municipio": "San Gregorio de Nigua",
+      "total": 34814,
+      "used": 22940,
+      "rate_used": 0.6589303153903602
+    },
+    "cellular": {
+      "municipio": "San Gregorio de Nigua",
+      "total": 34814,
+      "used": 22587,
+      "rate_used": 0.6487907163784684
+    },
+    "computer": {
+      "municipio": "San Gregorio de Nigua",
+      "total": 34814,
+      "used": 8787,
+      "rate_used": 0.2523984603894985
+    }
+  },
+  {
+    "adm2_code": "21008",
+    "municipio": "Los Cacaos",
+    "internet": {
+      "municipio": "Los Cacaos",
+      "total": 12721,
+      "used": 8446,
+      "rate_used": 0.6639415140319157
+    },
+    "cellular": {
+      "municipio": "Los Cacaos",
+      "total": 12721,
+      "used": 7664,
+      "rate_used": 0.6024683594057071
+    },
+    "computer": {
+      "municipio": "Los Cacaos",
+      "total": 12721,
+      "used": 1310,
+      "rate_used": 0.1029793255247229
+    }
+  },
+  {
+    "adm2_code": "22001",
+    "municipio": "San Juan",
+    "internet": {
+      "municipio": "San Juan",
+      "total": 130373,
+      "used": 85005,
+      "rate_used": 0.652013837220897
+    },
+    "cellular": {
+      "municipio": "San Juan",
+      "total": 130373,
+      "used": 81744,
+      "rate_used": 0.6270009894686783
+    },
+    "computer": {
+      "municipio": "San Juan",
+      "total": 130373,
+      "used": 36395,
+      "rate_used": 0.2791605623863837
+    }
+  },
+  {
+    "adm2_code": "22002",
+    "municipio": "Bohechío",
+    "internet": {
+      "municipio": "Bohechío",
+      "total": 9223,
+      "used": 5107,
+      "rate_used": 0.5537243846904478
+    },
+    "cellular": {
+      "municipio": "Bohechío",
+      "total": 9223,
+      "used": 5228,
+      "rate_used": 0.5668437601648054
+    },
+    "computer": {
+      "municipio": "Bohechío",
+      "total": 9223,
+      "used": 1494,
+      "rate_used": 0.16198633850157215
+    }
+  },
+  {
+    "adm2_code": "22003",
+    "municipio": "El Cercado",
+    "internet": {
+      "municipio": "El Cercado",
+      "total": 16184,
+      "used": 6643,
+      "rate_used": 0.41046712802768165
+    },
+    "cellular": {
+      "municipio": "El Cercado",
+      "total": 16184,
+      "used": 6974,
+      "rate_used": 0.4309194265941671
+    },
+    "computer": {
+      "municipio": "El Cercado",
+      "total": 16184,
+      "used": 2121,
+      "rate_used": 0.13105536332179932
+    }
+  },
+  {
+    "adm2_code": "22004",
+    "municipio": "Juan de Herrera",
+    "internet": {
+      "municipio": "Juan de Herrera",
+      "total": 11488,
+      "used": 7184,
+      "rate_used": 0.6253481894150418
+    },
+    "cellular": {
+      "municipio": "Juan de Herrera",
+      "total": 11488,
+      "used": 6891,
+      "rate_used": 0.5998433147632312
+    },
+    "computer": {
+      "municipio": "Juan de Herrera",
+      "total": 11488,
+      "used": 2201,
+      "rate_used": 0.19159122562674094
+    }
+  },
+  {
+    "adm2_code": "22005",
+    "municipio": "Las Matas de Farfán",
+    "internet": {
+      "municipio": "Las Matas de Farfán",
+      "total": 44090,
+      "used": 25042,
+      "rate_used": 0.5679745974143797
+    },
+    "cellular": {
+      "municipio": "Las Matas de Farfán",
+      "total": 44090,
+      "used": 24399,
+      "rate_used": 0.5533907915627126
+    },
+    "computer": {
+      "municipio": "Las Matas de Farfán",
+      "total": 44090,
+      "used": 9212,
+      "rate_used": 0.20893626672714902
+    }
+  },
+  {
+    "adm2_code": "22006",
+    "municipio": "Vallejuelo",
+    "internet": {
+      "municipio": "Vallejuelo",
+      "total": 11615,
+      "used": 5163,
+      "rate_used": 0.44451140766250535
+    },
+    "cellular": {
+      "municipio": "Vallejuelo",
+      "total": 11615,
+      "used": 5075,
+      "rate_used": 0.43693499784761086
+    },
+    "computer": {
+      "municipio": "Vallejuelo",
+      "total": 11615,
+      "used": 1644,
+      "rate_used": 0.14154111063280242
+    }
+  },
+  {
+    "adm2_code": "23001",
+    "municipio": "San Pedro de Macorís",
+    "internet": {
+      "municipio": "San Pedro de Macorís",
+      "total": 200173,
+      "used": 162409,
+      "rate_used": 0.8113431881422569
+    },
+    "cellular": {
+      "municipio": "San Pedro de Macorís",
+      "total": 200173,
+      "used": 152705,
+      "rate_used": 0.7628651216697556
+    },
+    "computer": {
+      "municipio": "San Pedro de Macorís",
+      "total": 200173,
+      "used": 64765,
+      "rate_used": 0.3235451334595575
+    }
+  },
+  {
+    "adm2_code": "23002",
+    "municipio": "Los Llanos",
+    "internet": {
+      "municipio": "Los Llanos",
+      "total": 23674,
+      "used": 15220,
+      "rate_used": 0.6428993832896849
+    },
+    "cellular": {
+      "municipio": "Los Llanos",
+      "total": 23674,
+      "used": 13779,
+      "rate_used": 0.5820309199966207
+    },
+    "computer": {
+      "municipio": "Los Llanos",
+      "total": 23674,
+      "used": 3742,
+      "rate_used": 0.15806369857227337
+    }
+  },
+  {
+    "adm2_code": "23003",
+    "municipio": "Ramón Santana",
+    "internet": {
+      "municipio": "Ramón Santana",
+      "total": 10106,
+      "used": 5940,
+      "rate_used": 0.5877696417969523
+    },
+    "cellular": {
+      "municipio": "Ramón Santana",
+      "total": 10106,
+      "used": 5507,
+      "rate_used": 0.5449238076390264
+    },
+    "computer": {
+      "municipio": "Ramón Santana",
+      "total": 10106,
+      "used": 1268,
+      "rate_used": 0.12547001781120126
+    }
+  },
+  {
+    "adm2_code": "23004",
+    "municipio": "Consuelo",
+    "internet": {
+      "municipio": "Consuelo",
+      "total": 36844,
+      "used": 27489,
+      "rate_used": 0.7460916295733362
+    },
+    "cellular": {
+      "municipio": "Consuelo",
+      "total": 36844,
+      "used": 25133,
+      "rate_used": 0.6821463467593095
+    },
+    "computer": {
+      "municipio": "Consuelo",
+      "total": 36844,
+      "used": 9304,
+      "rate_used": 0.25252415590055366
+    }
+  },
+  {
+    "adm2_code": "23005",
+    "municipio": "Quisqueya",
+    "internet": {
+      "municipio": "Quisqueya",
+      "total": 20810,
+      "used": 15198,
+      "rate_used": 0.7303219605958674
+    },
+    "cellular": {
+      "municipio": "Quisqueya",
+      "total": 20810,
+      "used": 14154,
+      "rate_used": 0.6801537722248919
+    },
+    "computer": {
+      "municipio": "Quisqueya",
+      "total": 20810,
+      "used": 4025,
+      "rate_used": 0.19341662662181644
+    }
+  },
+  {
+    "adm2_code": "23006",
+    "municipio": "Guayacanes",
+    "internet": {
+      "municipio": "Guayacanes",
+      "total": 17321,
+      "used": 13144,
+      "rate_used": 0.7588476415911322
+    },
+    "cellular": {
+      "municipio": "Guayacanes",
+      "total": 17321,
+      "used": 11930,
+      "rate_used": 0.6887593095086889
+    },
+    "computer": {
+      "municipio": "Guayacanes",
+      "total": 17321,
+      "used": 3919,
+      "rate_used": 0.2262571445066682
+    }
+  },
+  {
+    "adm2_code": "24001",
+    "municipio": "Cotuí",
+    "internet": {
+      "municipio": "Cotuí",
+      "total": 77798,
+      "used": 57776,
+      "rate_used": 0.7426411990025451
+    },
+    "cellular": {
+      "municipio": "Cotuí",
+      "total": 77798,
+      "used": 56047,
+      "rate_used": 0.7204169773001876
+    },
+    "computer": {
+      "municipio": "Cotuí",
+      "total": 77798,
+      "used": 24882,
+      "rate_used": 0.31982827322039126
+    }
+  },
+  {
+    "adm2_code": "24002",
+    "municipio": "Cevicos",
+    "internet": {
+      "municipio": "Cevicos",
+      "total": 14972,
+      "used": 10315,
+      "rate_used": 0.68895271172856
+    },
+    "cellular": {
+      "municipio": "Cevicos",
+      "total": 14972,
+      "used": 9860,
+      "rate_used": 0.6585626502805236
+    },
+    "computer": {
+      "municipio": "Cevicos",
+      "total": 14972,
+      "used": 2772,
+      "rate_used": 0.1851456051295752
+    }
+  },
+  {
+    "adm2_code": "24003",
+    "municipio": "Fantino",
+    "internet": {
+      "municipio": "Fantino",
+      "total": 22133,
+      "used": 17159,
+      "rate_used": 0.7752676998147563
+    },
+    "cellular": {
+      "municipio": "Fantino",
+      "total": 22133,
+      "used": 16170,
+      "rate_used": 0.730583291917047
+    },
+    "computer": {
+      "municipio": "Fantino",
+      "total": 22133,
+      "used": 6455,
+      "rate_used": 0.29164595852347175
+    }
+  },
+  {
+    "adm2_code": "24004",
+    "municipio": "Villa La Mata",
+    "internet": {
+      "municipio": "Villa La Mata",
+      "total": 35353,
+      "used": 25427,
+      "rate_used": 0.7192317483664753
+    },
+    "cellular": {
+      "municipio": "Villa La Mata",
+      "total": 35353,
+      "used": 24220,
+      "rate_used": 0.6850903742256669
+    },
+    "computer": {
+      "municipio": "Villa La Mata",
+      "total": 35353,
+      "used": 7046,
+      "rate_used": 0.1993041608915792
+    }
+  },
+  {
+    "adm2_code": "25001",
     "municipio": "Santiago",
     "internet": {
       "municipio": "Santiago",
-      "total": 713652.0,
-      "used": 604553.0,
+      "total": 713652,
+      "used": 604553,
       "rate_used": 0.847125769983129
     },
     "cellular": {
       "municipio": "Santiago",
-      "total": 993206.0,
-      "used": 822849.0,
-      "rate_used": 0.8284776773398469
+      "total": 713652,
+      "used": 593569,
+      "rate_used": 0.8317345148615852
     },
     "computer": {
       "municipio": "Santiago",
-      "total": 713652.0,
-      "used": 58246.0,
-      "rate_used": 0.08161681043421724
+      "total": 713652,
+      "used": 289874,
+      "rate_used": 0.4061839664150034
     }
   },
   {
-    "adm2_code": 25002,
+    "adm2_code": "25002",
     "municipio": "Bisonó",
     "internet": {
       "municipio": "Bisonó",
-      "total": 44932.0,
-      "used": 34292.0,
+      "total": 44932,
+      "used": 34292,
       "rate_used": 0.7631977210006232
     },
     "cellular": {
       "municipio": "Bisonó",
-      "total": 44932.0,
-      "used": 34292.0,
-      "rate_used": 0.7631977210006232
+      "total": 44932,
+      "used": 33719,
+      "rate_used": 0.7504451170657883
     },
     "computer": {
       "municipio": "Bisonó",
-      "total": 44932.0,
-      "used": 4253.0,
-      "rate_used": 0.0946541440398825
+      "total": 44932,
+      "used": 9983,
+      "rate_used": 0.22218018338823112
     }
   },
   {
-    "adm2_code": 25003,
+    "adm2_code": "25003",
     "municipio": "Jánico",
     "internet": {
       "municipio": "Jánico",
-      "total": 13540.0,
-      "used": 9631.0,
+      "total": 13540,
+      "used": 9631,
       "rate_used": 0.7112998522895125
     },
     "cellular": {
       "municipio": "Jánico",
-      "total": 13540.0,
-      "used": 9631.0,
-      "rate_used": 0.7112998522895125
+      "total": 13540,
+      "used": 9692,
+      "rate_used": 0.7158050221565732
     },
     "computer": {
       "municipio": "Jánico",
-      "total": 13540.0,
-      "used": 844.0,
-      "rate_used": 0.062333825701624816
+      "total": 13540,
+      "used": 1706,
+      "rate_used": 0.12599704579025112
     }
   },
   {
-    "adm2_code": 25004,
+    "adm2_code": "25004",
     "municipio": "Licey al Medio",
     "internet": {
       "municipio": "Licey al Medio",
-      "total": 27911.0,
-      "used": 22068.0,
+      "total": 27911,
+      "used": 22068,
       "rate_used": 0.7906560137580165
     },
     "cellular": {
       "municipio": "Licey al Medio",
-      "total": 27911.0,
-      "used": 22068.0,
-      "rate_used": 0.7906560137580165
+      "total": 27911,
+      "used": 21537,
+      "rate_used": 0.7716312564938554
     },
     "computer": {
       "municipio": "Licey al Medio",
-      "total": 27911.0,
-      "used": 2228.0,
-      "rate_used": 0.07982515853964386
+      "total": 27911,
+      "used": 8412,
+      "rate_used": 0.3013865501056931
     }
   },
   {
-    "adm2_code": 25005,
-    "municipio": "San José de las Matas",
+    "adm2_code": "25005",
+    "municipio": "San José de Las Matas",
     "internet": {
-      "municipio": "San José de las Matas",
-      "total": 35059.0,
-      "used": 26550.0,
+      "municipio": "San José de Las Matas",
+      "total": 35059,
+      "used": 26550,
       "rate_used": 0.7572948458313129
     },
     "cellular": {
-      "municipio": "San José de las Matas",
-      "total": 35059.0,
-      "used": 26550.0,
-      "rate_used": 0.7572948458313129
+      "municipio": "San José de Las Matas",
+      "total": 35059,
+      "used": 26378,
+      "rate_used": 0.7523888302575659
     },
     "computer": {
-      "municipio": "San José de las Matas",
-      "total": 35059.0,
-      "used": 2384.0,
-      "rate_used": 0.06799965771984369
+      "municipio": "San José de Las Matas",
+      "total": 35059,
+      "used": 6535,
+      "rate_used": 0.18640006845603127
     }
   },
   {
-    "adm2_code": 25006,
+    "adm2_code": "25006",
     "municipio": "Tamboril",
     "internet": {
       "municipio": "Tamboril",
-      "total": 52868.0,
-      "used": 42702.0,
+      "total": 52868,
+      "used": 42702,
       "rate_used": 0.8077097677233865
     },
     "cellular": {
       "municipio": "Tamboril",
-      "total": 52868.0,
-      "used": 42702.0,
-      "rate_used": 0.8077097677233865
+      "total": 52868,
+      "used": 41314,
+      "rate_used": 0.7814557009911478
     },
     "computer": {
       "municipio": "Tamboril",
-      "total": 52868.0,
-      "used": 4585.0,
-      "rate_used": 0.08672542937126428
+      "total": 52868,
+      "used": 13824,
+      "rate_used": 0.26148142543693725
     }
   },
   {
-    "adm2_code": 25007,
+    "adm2_code": "25007",
     "municipio": "Villa González",
     "internet": {
       "municipio": "Villa González",
-      "total": 38672.0,
-      "used": 29181.0,
+      "total": 38672,
+      "used": 29181,
       "rate_used": 0.754576954902772
     },
     "cellular": {
       "municipio": "Villa González",
-      "total": 38672.0,
-      "used": 29181.0,
-      "rate_used": 0.754576954902772
+      "total": 38672,
+      "used": 28280,
+      "rate_used": 0.7312784443525031
     },
     "computer": {
       "municipio": "Villa González",
-      "total": 38672.0,
-      "used": 3617.0,
-      "rate_used": 0.09353020273065785
+      "total": 38672,
+      "used": 8189,
+      "rate_used": 0.2117552751344642
     }
   },
   {
-    "adm2_code": 25008,
+    "adm2_code": "25008",
     "municipio": "Puñal",
     "internet": {
       "municipio": "Puñal",
-      "total": 42693.0,
-      "used": 35126.0,
+      "total": 42693,
+      "used": 35126,
       "rate_used": 0.8227578291523201
     },
     "cellular": {
       "municipio": "Puñal",
-      "total": 42693.0,
-      "used": 35126.0,
-      "rate_used": 0.8227578291523201
+      "total": 42693,
+      "used": 34242,
+      "rate_used": 0.8020518586185089
     },
     "computer": {
       "municipio": "Puñal",
-      "total": 42693.0,
-      "used": 3254.0,
-      "rate_used": 0.07621858384278453
+      "total": 42693,
+      "used": 16804,
+      "rate_used": 0.39360082449113437
     }
   },
   {
-    "adm2_code": 25009,
+    "adm2_code": "25009",
     "municipio": "Sabana Iglesia",
     "internet": {
       "municipio": "Sabana Iglesia",
-      "total": 13016.0,
-      "used": 10403.0,
+      "total": 13016,
+      "used": 10403,
       "rate_used": 0.7992470805162877
     },
     "cellular": {
       "municipio": "Sabana Iglesia",
-      "total": 13016.0,
-      "used": 10403.0,
-      "rate_used": 0.7992470805162877
+      "total": 13016,
+      "used": 9840,
+      "rate_used": 0.7559926244622004
     },
     "computer": {
       "municipio": "Sabana Iglesia",
-      "total": 13016.0,
-      "used": 945.0,
-      "rate_used": 0.07260295021511985
+      "total": 13016,
+      "used": 1978,
+      "rate_used": 0.15196681007990165
     }
   },
   {
-    "adm2_code": 25010,
+    "adm2_code": "25010",
     "municipio": "Baitoa",
     "internet": {
       "municipio": "Baitoa",
-      "total": 10863.0,
-      "used": 8343.0,
+      "total": 10863,
+      "used": 8343,
       "rate_used": 0.768019884009942
     },
     "cellular": {
       "municipio": "Baitoa",
-      "total": 10863.0,
-      "used": 8343.0,
-      "rate_used": 0.768019884009942
+      "total": 10863,
+      "used": 8270,
+      "rate_used": 0.761299825094357
     },
     "computer": {
       "municipio": "Baitoa",
-      "total": 10863.0,
-      "used": 846.0,
-      "rate_used": 0.07787903893951947
+      "total": 10863,
+      "used": 1452,
+      "rate_used": 0.1336647334990334
     }
   },
   {
-    "adm2_code": 13001,
-    "municipio": "La Vega",
-    "internet": {
-      "municipio": "La Vega",
-      "total": 261219.0,
-      "used": 200245.0,
-      "rate_used": 0.7665790007618128
-    },
-    "cellular": {
-      "municipio": "La Vega",
-      "total": 261219.0,
-      "used": 200245.0,
-      "rate_used": 0.7665790007618128
-    },
-    "computer": {
-      "municipio": "La Vega",
-      "total": 261219.0,
-      "used": 21536.0,
-      "rate_used": 0.08244423261707609
-    }
-  },
-  {
-    "adm2_code": 13002,
-    "municipio": "Constanza",
-    "internet": {
-      "municipio": "Constanza",
-      "total": 61069.0,
-      "used": 42502.0,
-      "rate_used": 0.6959668571615714
-    },
-    "cellular": {
-      "municipio": "Constanza",
-      "total": 61069.0,
-      "used": 42502.0,
-      "rate_used": 0.6959668571615714
-    },
-    "computer": {
-      "municipio": "Constanza",
-      "total": 61069.0,
-      "used": 5910.0,
-      "rate_used": 0.09677577821808118
-    }
-  },
-  {
-    "adm2_code": 13003,
-    "municipio": "Jarabacoa",
-    "internet": {
-      "municipio": "Jarabacoa",
-      "total": 60296.0,
-      "used": 44873.0,
-      "rate_used": 0.7442118880191058
-    },
-    "cellular": {
-      "municipio": "Jarabacoa",
-      "total": 60296.0,
-      "used": 44873.0,
-      "rate_used": 0.7442118880191058
-    },
-    "computer": {
-      "municipio": "Jarabacoa",
-      "total": 60296.0,
-      "used": 4801.0,
-      "rate_used": 0.07962385564548229
-    }
-  },
-  {
-    "adm2_code": 13004,
-    "municipio": "Jima Abajo",
-    "internet": {
-      "municipio": "Jima Abajo",
-      "total": 27124.0,
-      "used": 20343.0,
-      "rate_used": 0.75
-    },
-    "cellular": {
-      "municipio": "Jima Abajo",
-      "total": 27124.0,
-      "used": 20343.0,
-      "rate_used": 0.75
-    },
-    "computer": {
-      "municipio": "Jima Abajo",
-      "total": 27124.0,
-      "used": 2445.0,
-      "rate_used": 0.0901415720395222
-    }
-  },
-  {
-    "adm2_code": 24001,
-    "municipio": "Cotuí",
-    "internet": {
-      "municipio": "Cotuí",
-      "total": 77798.0,
-      "used": 57776.0,
-      "rate_used": 0.7426411990025451
-    },
-    "cellular": {
-      "municipio": "Cotuí",
-      "total": 77798.0,
-      "used": 57776.0,
-      "rate_used": 0.7426411990025451
-    },
-    "computer": {
-      "municipio": "Cotuí",
-      "total": 77798.0,
-      "used": 6934.0,
-      "rate_used": 0.08912825522507005
-    }
-  },
-  {
-    "adm2_code": 24002,
-    "municipio": "Cevicos",
-    "internet": {
-      "municipio": "Cevicos",
-      "total": 14972.0,
-      "used": 10315.0,
-      "rate_used": 0.68895271172856
-    },
-    "cellular": {
-      "municipio": "Cevicos",
-      "total": 14972.0,
-      "used": 10315.0,
-      "rate_used": 0.68895271172856
-    },
-    "computer": {
-      "municipio": "Cevicos",
-      "total": 14972.0,
-      "used": 1430.0,
-      "rate_used": 0.09551162169382849
-    }
-  },
-  {
-    "adm2_code": 24003,
-    "municipio": "Fantino",
-    "internet": {
-      "municipio": "Fantino",
-      "total": 22133.0,
-      "used": 17159.0,
-      "rate_used": 0.7752676998147563
-    },
-    "cellular": {
-      "municipio": "Fantino",
-      "total": 22133.0,
-      "used": 17159.0,
-      "rate_used": 0.7752676998147563
-    },
-    "computer": {
-      "municipio": "Fantino",
-      "total": 22133.0,
-      "used": 1761.0,
-      "rate_used": 0.0795644512718565
-    }
-  },
-  {
-    "adm2_code": 24004,
-    "municipio": "Villa La Mata",
-    "internet": {
-      "municipio": "Villa La Mata",
-      "total": 35353.0,
-      "used": 25427.0,
-      "rate_used": 0.7192317483664753
-    },
-    "cellular": {
-      "municipio": "Villa La Mata",
-      "total": 35353.0,
-      "used": 25427.0,
-      "rate_used": 0.7192317483664753
-    },
-    "computer": {
-      "municipio": "Villa La Mata",
-      "total": 35353.0,
-      "used": 3260.0,
-      "rate_used": 0.09221282493706333
-    }
-  },
-  {
-    "adm2_code": 28001,
-    "municipio": "Bonao",
-    "internet": {
-      "municipio": "Bonao",
-      "total": 133399.0,
-      "used": 105422.0,
-      "rate_used": 0.7902757891738319
-    },
-    "cellular": {
-      "municipio": "Bonao",
-      "total": 133399.0,
-      "used": 105422.0,
-      "rate_used": 0.7902757891738319
-    },
-    "computer": {
-      "municipio": "Bonao",
-      "total": 133399.0,
-      "used": 12219.0,
-      "rate_used": 0.09159738828626901
-    }
-  },
-  {
-    "adm2_code": 28002,
-    "municipio": "Maimón",
-    "internet": {
-      "municipio": "Maimón",
-      "total": 21845.0,
-      "used": 16995.0,
-      "rate_used": 0.7779812314030671
-    },
-    "cellular": {
-      "municipio": "Maimón",
-      "total": 21845.0,
-      "used": 16995.0,
-      "rate_used": 0.7779812314030671
-    },
-    "computer": {
-      "municipio": "Maimón",
-      "total": 21845.0,
-      "used": 2360.0,
-      "rate_used": 0.10803387502861067
-    }
-  },
-  {
-    "adm2_code": 28003,
-    "municipio": "Piedra Blanca",
-    "internet": {
-      "municipio": "Piedra Blanca",
-      "total": 24428.0,
-      "used": 17466.0,
-      "rate_used": 0.714999181267398
-    },
-    "cellular": {
-      "municipio": "Piedra Blanca",
-      "total": 24428.0,
-      "used": 17466.0,
-      "rate_used": 0.714999181267398
-    },
-    "computer": {
-      "municipio": "Piedra Blanca",
-      "total": 24428.0,
-      "used": 2427.0,
-      "rate_used": 0.09935320124447355
-    }
-  },
-  {
-    "adm2_code": 6001,
-    "municipio": "San Francisco de Macorís",
-    "internet": {
-      "municipio": "San Francisco de Macorís",
-      "total": 188029.0,
-      "used": 144314.0,
-      "rate_used": 0.7675092671875083
-    },
-    "cellular": {
-      "municipio": "San Francisco de Macorís",
-      "total": 188029.0,
-      "used": 144314.0,
-      "rate_used": 0.7675092671875083
-    },
-    "computer": {
-      "municipio": "San Francisco de Macorís",
-      "total": 188029.0,
-      "used": 15269.0,
-      "rate_used": 0.08120555871700642
-    }
-  },
-  {
-    "adm2_code": 6002,
-    "municipio": "Arenoso",
-    "internet": {
-      "municipio": "Arenoso",
-      "total": 12872.0,
-      "used": 9082.0,
-      "rate_used": 0.7055624611559975
-    },
-    "cellular": {
-      "municipio": "Arenoso",
-      "total": 12872.0,
-      "used": 9082.0,
-      "rate_used": 0.7055624611559975
-    },
-    "computer": {
-      "municipio": "Arenoso",
-      "total": 12872.0,
-      "used": 1102.0,
-      "rate_used": 0.08561218147917961
-    }
-  },
-  {
-    "adm2_code": 6003,
-    "municipio": "Castillo",
-    "internet": {
-      "municipio": "Castillo",
-      "total": 15755.0,
-      "used": 9694.0,
-      "rate_used": 0.6152967311964456
-    },
-    "cellular": {
-      "municipio": "Castillo",
-      "total": 15755.0,
-      "used": 9694.0,
-      "rate_used": 0.6152967311964456
-    },
-    "computer": {
-      "municipio": "Castillo",
-      "total": 15755.0,
-      "used": 1119.0,
-      "rate_used": 0.07102507140590289
-    }
-  },
-  {
-    "adm2_code": 6004,
-    "municipio": "Pimentel",
-    "internet": {
-      "municipio": "Pimentel",
-      "total": 17485.0,
-      "used": 11984.0,
-      "rate_used": 0.685387474978553
-    },
-    "cellular": {
-      "municipio": "Pimentel",
-      "total": 17485.0,
-      "used": 11984.0,
-      "rate_used": 0.685387474978553
-    },
-    "computer": {
-      "municipio": "Pimentel",
-      "total": 17485.0,
-      "used": 1573.0,
-      "rate_used": 0.08996282527881042
-    }
-  },
-  {
-    "adm2_code": 6005,
-    "municipio": "Villa Riva",
-    "internet": {
-      "municipio": "Villa Riva",
-      "total": 33167.0,
-      "used": 22450.0,
-      "rate_used": 0.6768776193204088
-    },
-    "cellular": {
-      "municipio": "Villa Riva",
-      "total": 33167.0,
-      "used": 22450.0,
-      "rate_used": 0.6768776193204088
-    },
-    "computer": {
-      "municipio": "Villa Riva",
-      "total": 33167.0,
-      "used": 3024.0,
-      "rate_used": 0.09117496306569783
-    }
-  },
-  {
-    "adm2_code": 6006,
-    "municipio": "Las Guáranas",
-    "internet": {
-      "municipio": "Las Guáranas",
-      "total": 13045.0,
-      "used": 10271.0,
-      "rate_used": 0.7873514756611729
-    },
-    "cellular": {
-      "municipio": "Las Guáranas",
-      "total": 13045.0,
-      "used": 10271.0,
-      "rate_used": 0.7873514756611729
-    },
-    "computer": {
-      "municipio": "Las Guáranas",
-      "total": 13045.0,
-      "used": 1070.0,
-      "rate_used": 0.08202376389421234
-    }
-  },
-  {
-    "adm2_code": 6007,
-    "municipio": "Eugenio María de Hostos",
-    "internet": {
-      "municipio": "Eugenio María de Hostos",
-      "total": 5353.0,
-      "used": 3572.0,
-      "rate_used": 0.6672893704464786
-    },
-    "cellular": {
-      "municipio": "Eugenio María de Hostos",
-      "total": 5353.0,
-      "used": 3572.0,
-      "rate_used": 0.6672893704464786
-    },
-    "computer": {
-      "municipio": "Eugenio María de Hostos",
-      "total": 5353.0,
-      "used": 458.0,
-      "rate_used": 0.08555949934616103
-    }
-  },
-  {
-    "adm2_code": 14001,
-    "municipio": "Nagua",
-    "internet": {
-      "municipio": "Nagua",
-      "total": 75175.0,
-      "used": 52889.0,
-      "rate_used": 0.7035450615231127
-    },
-    "cellular": {
-      "municipio": "Nagua",
-      "total": 75175.0,
-      "used": 52889.0,
-      "rate_used": 0.7035450615231127
-    },
-    "computer": {
-      "municipio": "Nagua",
-      "total": 75175.0,
-      "used": 6587.0,
-      "rate_used": 0.08762221483205854
-    }
-  },
-  {
-    "adm2_code": 14002,
-    "municipio": "Cabrera",
-    "internet": {
-      "municipio": "Cabrera",
-      "total": 26534.0,
-      "used": 19013.0,
-      "rate_used": 0.7165523479309565
-    },
-    "cellular": {
-      "municipio": "Cabrera",
-      "total": 26534.0,
-      "used": 19013.0,
-      "rate_used": 0.7165523479309565
-    },
-    "computer": {
-      "municipio": "Cabrera",
-      "total": 26534.0,
-      "used": 2322.0,
-      "rate_used": 0.0875103640612045
-    }
-  },
-  {
-    "adm2_code": 14003,
-    "municipio": "El Factor",
-    "internet": {
-      "municipio": "El Factor",
-      "total": 27279.0,
-      "used": 19636.0,
-      "rate_used": 0.7198211078118699
-    },
-    "cellular": {
-      "municipio": "El Factor",
-      "total": 27279.0,
-      "used": 19636.0,
-      "rate_used": 0.7198211078118699
-    },
-    "computer": {
-      "municipio": "El Factor",
-      "total": 27279.0,
-      "used": 2495.0,
-      "rate_used": 0.09146229700502218
-    }
-  },
-  {
-    "adm2_code": 14004,
-    "municipio": "Río San Juan",
-    "internet": {
-      "municipio": "Río San Juan",
-      "total": 15537.0,
-      "used": 11922.0,
-      "rate_used": 0.7673296003089399
-    },
-    "cellular": {
-      "municipio": "Río San Juan",
-      "total": 15537.0,
-      "used": 11922.0,
-      "rate_used": 0.7673296003089399
-    },
-    "computer": {
-      "municipio": "Río San Juan",
-      "total": 15537.0,
-      "used": 1308.0,
-      "rate_used": 0.08418613631975284
-    }
-  },
-  {
-    "adm2_code": 19001,
-    "municipio": "Salcedo",
-    "internet": {
-      "municipio": "Salcedo",
-      "total": 38393.0,
-      "used": 28099.0,
-      "rate_used": 0.7318782069648113
-    },
-    "cellular": {
-      "municipio": "Salcedo",
-      "total": 38393.0,
-      "used": 28099.0,
-      "rate_used": 0.7318782069648113
-    },
-    "computer": {
-      "municipio": "Salcedo",
-      "total": 38393.0,
-      "used": 2913.0,
-      "rate_used": 0.07587320605318677
-    }
-  },
-  {
-    "adm2_code": 19002,
-    "municipio": "Tenares",
-    "internet": {
-      "municipio": "Tenares",
-      "total": 26872.0,
-      "used": 21347.0,
-      "rate_used": 0.7943956534682941
-    },
-    "cellular": {
-      "municipio": "Tenares",
-      "total": 26872.0,
-      "used": 21347.0,
-      "rate_used": 0.7943956534682941
-    },
-    "computer": {
-      "municipio": "Tenares",
-      "total": 26872.0,
-      "used": 1958.0,
-      "rate_used": 0.07286394760345341
-    }
-  },
-  {
-    "adm2_code": 19003,
-    "municipio": "Villa Tapia",
-    "internet": {
-      "municipio": "Villa Tapia",
-      "total": 24316.0,
-      "used": 17666.0,
-      "rate_used": 0.726517519328837
-    },
-    "cellular": {
-      "municipio": "Villa Tapia",
-      "total": 24316.0,
-      "used": 17666.0,
-      "rate_used": 0.726517519328837
-    },
-    "computer": {
-      "municipio": "Villa Tapia",
-      "total": 24316.0,
-      "used": 1813.0,
-      "rate_used": 0.07455996051982233
-    }
-  },
-  {
-    "adm2_code": 20001,
-    "municipio": "Samaná",
-    "internet": {
-      "municipio": "Samaná",
-      "total": 58098.0,
-      "used": 39518.0,
-      "rate_used": 0.6801955316878378
-    },
-    "cellular": {
-      "municipio": "Samaná",
-      "total": 58098.0,
-      "used": 39518.0,
-      "rate_used": 0.6801955316878378
-    },
-    "computer": {
-      "municipio": "Samaná",
-      "total": 58098.0,
-      "used": 5376.0,
-      "rate_used": 0.092533305793659
-    }
-  },
-  {
-    "adm2_code": 20002,
-    "municipio": "Sánchez",
-    "internet": {
-      "municipio": "Sánchez",
-      "total": 23497.0,
-      "used": 16650.0,
-      "rate_used": 0.7086010980125123
-    },
-    "cellular": {
-      "municipio": "Sánchez",
-      "total": 23497.0,
-      "used": 16650.0,
-      "rate_used": 0.7086010980125123
-    },
-    "computer": {
-      "municipio": "Sánchez",
-      "total": 23497.0,
-      "used": 2161.0,
-      "rate_used": 0.0919691875558582
-    }
-  },
-  {
-    "adm2_code": 20003,
-    "municipio": "Las Terrenas",
-    "internet": {
-      "municipio": "Las Terrenas",
-      "total": 23332.0,
-      "used": 17973.0,
-      "rate_used": 0.7703154465969484
-    },
-    "cellular": {
-      "municipio": "Las Terrenas",
-      "total": 23332.0,
-      "used": 17973.0,
-      "rate_used": 0.7703154465969484
-    },
-    "computer": {
-      "municipio": "Las Terrenas",
-      "total": 23332.0,
-      "used": 2315.0,
-      "rate_used": 0.09921995542602434
-    }
-  },
-  {
-    "adm2_code": 5001,
-    "municipio": "Dajabón",
-    "internet": {
-      "municipio": "Dajabón",
-      "total": 32249.0,
-      "used": 24012.0,
-      "rate_used": 0.7445812273248783
-    },
-    "cellular": {
-      "municipio": "Dajabón",
-      "total": 32249.0,
-      "used": 24012.0,
-      "rate_used": 0.7445812273248783
-    },
-    "computer": {
-      "municipio": "Dajabón",
-      "total": 32249.0,
-      "used": 3483.0,
-      "rate_used": 0.10800334894105243
-    }
-  },
-  {
-    "adm2_code": 5002,
-    "municipio": "Loma de Cabrera",
-    "internet": {
-      "municipio": "Loma de Cabrera",
-      "total": 15249.0,
-      "used": 9770.0,
-      "rate_used": 0.6406977506721753
-    },
-    "cellular": {
-      "municipio": "Loma de Cabrera",
-      "total": 15249.0,
-      "used": 9770.0,
-      "rate_used": 0.6406977506721753
-    },
-    "computer": {
-      "municipio": "Loma de Cabrera",
-      "total": 15249.0,
-      "used": 1661.0,
-      "rate_used": 0.1089251754213391
-    }
-  },
-  {
-    "adm2_code": 5003,
-    "municipio": "Partido",
-    "internet": {
-      "municipio": "Partido",
-      "total": 7098.0,
-      "used": 4630.0,
-      "rate_used": 0.6522964215271908
-    },
-    "cellular": {
-      "municipio": "Partido",
-      "total": 7098.0,
-      "used": 4630.0,
-      "rate_used": 0.6522964215271908
-    },
-    "computer": {
-      "municipio": "Partido",
-      "total": 7098.0,
-      "used": 553.0,
-      "rate_used": 0.07790927021696252
-    }
-  },
-  {
-    "adm2_code": 5004,
-    "municipio": "Restauración",
-    "internet": {
-      "municipio": "Restauración",
-      "total": 7315.0,
-      "used": 3757.0,
-      "rate_used": 0.5136021872863978
-    },
-    "cellular": {
-      "municipio": "Restauración",
-      "total": 7315.0,
-      "used": 3757.0,
-      "rate_used": 0.5136021872863978
-    },
-    "computer": {
-      "municipio": "Restauración",
-      "total": 7315.0,
-      "used": 901.0,
-      "rate_used": 0.12317156527682843
-    }
-  },
-  {
-    "adm2_code": 5005,
-    "municipio": "El Pino",
-    "internet": {
-      "municipio": "El Pino",
-      "total": 5913.0,
-      "used": 3884.0,
-      "rate_used": 0.6568577710130221
-    },
-    "cellular": {
-      "municipio": "El Pino",
-      "total": 5913.0,
-      "used": 3884.0,
-      "rate_used": 0.6568577710130221
-    },
-    "computer": {
-      "municipio": "El Pino",
-      "total": 5913.0,
-      "used": 514.0,
-      "rate_used": 0.08692710975815998
-    }
-  },
-  {
-    "adm2_code": 15001,
-    "municipio": "Monte Cristi",
-    "internet": {
-      "municipio": "Monte Cristi",
-      "total": 24979.0,
-      "used": 18544.0,
-      "rate_used": 0.7423836022258697
-    },
-    "cellular": {
-      "municipio": "Monte Cristi",
-      "total": 24979.0,
-      "used": 18544.0,
-      "rate_used": 0.7423836022258697
-    },
-    "computer": {
-      "municipio": "Monte Cristi",
-      "total": 24979.0,
-      "used": 2168.0,
-      "rate_used": 0.08679290604107451
-    }
-  },
-  {
-    "adm2_code": 15002,
-    "municipio": "Castañuelas",
-    "internet": {
-      "municipio": "Castañuelas",
-      "total": 16976.0,
-      "used": 11355.0,
-      "rate_used": 0.6688854853911405
-    },
-    "cellular": {
-      "municipio": "Castañuelas",
-      "total": 16976.0,
-      "used": 11355.0,
-      "rate_used": 0.6688854853911405
-    },
-    "computer": {
-      "municipio": "Castañuelas",
-      "total": 16976.0,
-      "used": 1528.0,
-      "rate_used": 0.09000942507068803
-    }
-  },
-  {
-    "adm2_code": 15003,
-    "municipio": "Guayubín",
-    "internet": {
-      "municipio": "Guayubín",
-      "total": 36436.0,
-      "used": 24887.0,
-      "rate_used": 0.683033263805028
-    },
-    "cellular": {
-      "municipio": "Guayubín",
-      "total": 36436.0,
-      "used": 24887.0,
-      "rate_used": 0.683033263805028
-    },
-    "computer": {
-      "municipio": "Guayubín",
-      "total": 36436.0,
-      "used": 3184.0,
-      "rate_used": 0.08738610165770118
-    }
-  },
-  {
-    "adm2_code": 15004,
-    "municipio": "Las Matas de Santa Cruz",
-    "internet": {
-      "municipio": "Las Matas de Santa Cruz",
-      "total": 10195.0,
-      "used": 6878.0,
-      "rate_used": 0.6746444335458558
-    },
-    "cellular": {
-      "municipio": "Las Matas de Santa Cruz",
-      "total": 10195.0,
-      "used": 6878.0,
-      "rate_used": 0.6746444335458558
-    },
-    "computer": {
-      "municipio": "Las Matas de Santa Cruz",
-      "total": 10195.0,
-      "used": 878.0,
-      "rate_used": 0.08612064737616479
-    }
-  },
-  {
-    "adm2_code": 15005,
-    "municipio": "Pepillo Salcedo",
-    "internet": {
-      "municipio": "Pepillo Salcedo",
-      "total": 9766.0,
-      "used": 6700.0,
-      "rate_used": 0.6860536555396273
-    },
-    "cellular": {
-      "municipio": "Pepillo Salcedo",
-      "total": 9766.0,
-      "used": 6700.0,
-      "rate_used": 0.6860536555396273
-    },
-    "computer": {
-      "municipio": "Pepillo Salcedo",
-      "total": 9766.0,
-      "used": 896.0,
-      "rate_used": 0.09174687691992628
-    }
-  },
-  {
-    "adm2_code": 15006,
-    "municipio": "Villa Vásquez",
-    "internet": {
-      "municipio": "Villa Vásquez",
-      "total": 15012.0,
-      "used": 10533.0,
-      "rate_used": 0.701638689048761
-    },
-    "cellular": {
-      "municipio": "Villa Vásquez",
-      "total": 15012.0,
-      "used": 10533.0,
-      "rate_used": 0.701638689048761
-    },
-    "computer": {
-      "municipio": "Villa Vásquez",
-      "total": 15012.0,
-      "used": 1384.0,
-      "rate_used": 0.09219291233679723
-    }
-  },
-  {
-    "adm2_code": 26001,
+    "adm2_code": "26001",
     "municipio": "San Ignacio de Sabaneta",
     "internet": {
       "municipio": "San Ignacio de Sabaneta",
-      "total": 35688.0,
-      "used": 25647.0,
+      "total": 35688,
+      "used": 25647,
       "rate_used": 0.71864492266308
     },
     "cellular": {
       "municipio": "San Ignacio de Sabaneta",
-      "total": 35688.0,
-      "used": 25647.0,
-      "rate_used": 0.71864492266308
+      "total": 35688,
+      "used": 25413,
+      "rate_used": 0.7120880968392737
     },
     "computer": {
       "municipio": "San Ignacio de Sabaneta",
-      "total": 35688.0,
-      "used": 2876.0,
-      "rate_used": 0.08058731226182471
+      "total": 35688,
+      "used": 8786,
+      "rate_used": 0.2461891952477023
     }
   },
   {
-    "adm2_code": 26002,
+    "adm2_code": "26002",
     "municipio": "Villa Los Almácigos",
     "internet": {
       "municipio": "Villa Los Almácigos",
-      "total": 10729.0,
-      "used": 7143.0,
+      "total": 10729,
+      "used": 7143,
       "rate_used": 0.6657656817969988
     },
     "cellular": {
       "municipio": "Villa Los Almácigos",
-      "total": 10729.0,
-      "used": 7143.0,
-      "rate_used": 0.6657656817969988
+      "total": 10729,
+      "used": 6909,
+      "rate_used": 0.6439556342622798
     },
     "computer": {
       "municipio": "Villa Los Almácigos",
-      "total": 10729.0,
-      "used": 1090.0,
-      "rate_used": 0.1015938111659987
+      "total": 10729,
+      "used": 1831,
+      "rate_used": 0.17065896169260883
     }
   },
   {
-    "adm2_code": 26003,
+    "adm2_code": "26003",
     "municipio": "Monción",
     "internet": {
       "municipio": "Monción",
-      "total": 12969.0,
-      "used": 10115.0,
+      "total": 12969,
+      "used": 10115,
       "rate_used": 0.7799367723031845
     },
     "cellular": {
       "municipio": "Monción",
-      "total": 12969.0,
-      "used": 10115.0,
-      "rate_used": 0.7799367723031845
+      "total": 12969,
+      "used": 9802,
+      "rate_used": 0.7558022977870306
     },
     "computer": {
       "municipio": "Monción",
-      "total": 12969.0,
-      "used": 939.0,
-      "rate_used": 0.07240342354846172
+      "total": 12969,
+      "used": 2675,
+      "rate_used": 0.20626108412367955
     }
   },
   {
-    "adm2_code": 27001,
+    "adm2_code": "27001",
     "municipio": "Mao",
     "internet": {
       "municipio": "Mao",
-      "total": 79845.0,
-      "used": 62170.0,
+      "total": 79845,
+      "used": 62170,
       "rate_used": 0.7786336026050473
     },
     "cellular": {
       "municipio": "Mao",
-      "total": 79845.0,
-      "used": 62170.0,
-      "rate_used": 0.7786336026050473
+      "total": 79845,
+      "used": 59920,
+      "rate_used": 0.7504540046339784
     },
     "computer": {
       "municipio": "Mao",
-      "total": 79845.0,
-      "used": 6839.0,
-      "rate_used": 0.08565345356628468
+      "total": 79845,
+      "used": 23065,
+      "rate_used": 0.288872189867869
     }
   },
   {
-    "adm2_code": 27002,
+    "adm2_code": "27002",
     "municipio": "Esperanza",
     "internet": {
       "municipio": "Esperanza",
-      "total": 63644.0,
-      "used": 47892.0,
+      "total": 63644,
+      "used": 47892,
       "rate_used": 0.7524982716359752
     },
     "cellular": {
       "municipio": "Esperanza",
-      "total": 63644.0,
-      "used": 47892.0,
-      "rate_used": 0.7524982716359752
+      "total": 63644,
+      "used": 47125,
+      "rate_used": 0.7404468606624348
     },
     "computer": {
       "municipio": "Esperanza",
-      "total": 63644.0,
-      "used": 6071.0,
-      "rate_used": 0.09538998177361574
+      "total": 63644,
+      "used": 11642,
+      "rate_used": 0.1829237634341022
     }
   },
   {
-    "adm2_code": 27003,
+    "adm2_code": "27003",
     "municipio": "Laguna Salada",
     "internet": {
       "municipio": "Laguna Salada",
-      "total": 25267.0,
-      "used": 17594.0,
+      "total": 25267,
+      "used": 17594,
       "rate_used": 0.6963232675030673
     },
     "cellular": {
       "municipio": "Laguna Salada",
-      "total": 25267.0,
-      "used": 17594.0,
-      "rate_used": 0.6963232675030673
+      "total": 25267,
+      "used": 17178,
+      "rate_used": 0.6798591047611509
     },
     "computer": {
       "municipio": "Laguna Salada",
-      "total": 25267.0,
-      "used": 2351.0,
-      "rate_used": 0.09304626588039736
+      "total": 25267,
+      "used": 4324,
+      "rate_used": 0.17113230696164958
     }
   },
   {
-    "adm2_code": 17001,
-    "municipio": "Baní",
+    "adm2_code": "28001",
+    "municipio": "Bonao",
     "internet": {
-      "municipio": "Baní",
-      "total": 143678.0,
-      "used": 102401.0,
-      "rate_used": 0.7127117582371693
+      "municipio": "Bonao",
+      "total": 133399,
+      "used": 105422,
+      "rate_used": 0.7902757891738319
     },
     "cellular": {
-      "municipio": "Baní",
-      "total": 143678.0,
-      "used": 102401.0,
-      "rate_used": 0.7127117582371693
+      "municipio": "Bonao",
+      "total": 133399,
+      "used": 101883,
+      "rate_used": 0.7637463549202018
     },
     "computer": {
-      "municipio": "Baní",
-      "total": 143678.0,
-      "used": 13945.0,
-      "rate_used": 0.09705730870418575
+      "municipio": "Bonao",
+      "total": 133399,
+      "used": 40556,
+      "rate_used": 0.3040202700170166
     }
   },
   {
-    "adm2_code": 17002,
-    "municipio": "Nizao",
+    "adm2_code": "28002",
+    "municipio": "Maimón",
     "internet": {
-      "municipio": "Nizao",
-      "total": 29152.0,
-      "used": 20440.0,
-      "rate_used": 0.7011525795828759
+      "municipio": "Maimón",
+      "total": 21845,
+      "used": 16995,
+      "rate_used": 0.7779812314030671
     },
     "cellular": {
-      "municipio": "Nizao",
-      "total": 29152.0,
-      "used": 20440.0,
-      "rate_used": 0.7011525795828759
+      "municipio": "Maimón",
+      "total": 21845,
+      "used": 16286,
+      "rate_used": 0.7455252918287938
     },
     "computer": {
-      "municipio": "Nizao",
-      "total": 29152.0,
-      "used": 2774.0,
-      "rate_used": 0.09515642151481889
+      "municipio": "Maimón",
+      "total": 21845,
+      "used": 6864,
+      "rate_used": 0.3142137788967727
     }
   },
   {
-    "adm2_code": 17003,
-    "municipio": "Matanzas",
+    "adm2_code": "28003",
+    "municipio": "Piedra Blanca",
     "internet": {
-      "municipio": "Matanzas",
-      "total": 17338.0,
-      "used": 12961.0,
-      "rate_used": 0.7475487368785327
+      "municipio": "Piedra Blanca",
+      "total": 24428,
+      "used": 17466,
+      "rate_used": 0.714999181267398
     },
     "cellular": {
-      "municipio": "Matanzas",
-      "total": 17338.0,
-      "used": 12961.0,
-      "rate_used": 0.7475487368785327
+      "municipio": "Piedra Blanca",
+      "total": 24428,
+      "used": 17007,
+      "rate_used": 0.6962092680530538
     },
     "computer": {
-      "municipio": "Matanzas",
-      "total": 17338.0,
-      "used": 1651.0,
-      "rate_used": 0.09522436267158842
+      "municipio": "Piedra Blanca",
+      "total": 24428,
+      "used": 6046,
+      "rate_used": 0.24750286556410675
     }
   },
   {
-    "adm2_code": 21001,
-    "municipio": "San Cristóbal",
-    "internet": {
-      "municipio": "San Cristóbal",
-      "total": 254049.0,
-      "used": 192710.0,
-      "rate_used": 0.7585544520938874
-    },
-    "cellular": {
-      "municipio": "San Cristóbal",
-      "total": 254049.0,
-      "used": 192710.0,
-      "rate_used": 0.7585544520938874
-    },
-    "computer": {
-      "municipio": "San Cristóbal",
-      "total": 254049.0,
-      "used": 25946.0,
-      "rate_used": 0.10212990407362359
-    }
-  },
-  {
-    "adm2_code": 21002,
-    "municipio": "Sabana Grande de Palenque",
-    "internet": {
-      "municipio": "Sabana Grande de Palenque",
-      "total": 16573.0,
-      "used": 13075.0,
-      "rate_used": 0.7889338080009655
-    },
-    "cellular": {
-      "municipio": "Sabana Grande de Palenque",
-      "total": 16573.0,
-      "used": 13075.0,
-      "rate_used": 0.7889338080009655
-    },
-    "computer": {
-      "municipio": "Sabana Grande de Palenque",
-      "total": 16573.0,
-      "used": 1715.0,
-      "rate_used": 0.1034815664031859
-    }
-  },
-  {
-    "adm2_code": 21003,
-    "municipio": "Bajos de Haina",
-    "internet": {
-      "municipio": "Bajos de Haina",
-      "total": 145231.0,
-      "used": 111333.0,
-      "rate_used": 0.7665925318974599
-    },
-    "cellular": {
-      "municipio": "Bajos de Haina",
-      "total": 145231.0,
-      "used": 111333.0,
-      "rate_used": 0.7665925318974599
-    },
-    "computer": {
-      "municipio": "Bajos de Haina",
-      "total": 145231.0,
-      "used": 15775.0,
-      "rate_used": 0.1086200604554124
-    }
-  },
-  {
-    "adm2_code": 21004,
-    "municipio": "Cambita Garabitos",
-    "internet": {
-      "municipio": "Cambita Garabitos",
-      "total": 28685.0,
-      "used": 19635.0,
-      "rate_used": 0.6845040962175353
-    },
-    "cellular": {
-      "municipio": "Cambita Garabitos",
-      "total": 28685.0,
-      "used": 19635.0,
-      "rate_used": 0.6845040962175353
-    },
-    "computer": {
-      "municipio": "Cambita Garabitos",
-      "total": 28685.0,
-      "used": 2983.0,
-      "rate_used": 0.10399163325780024
-    }
-  },
-  {
-    "adm2_code": 21005,
-    "municipio": "Villa Altagracia",
-    "internet": {
-      "municipio": "Villa Altagracia",
-      "total": 88723.0,
-      "used": 66986.0,
-      "rate_used": 0.7550015215896667
-    },
-    "cellular": {
-      "municipio": "Villa Altagracia",
-      "total": 88723.0,
-      "used": 66986.0,
-      "rate_used": 0.7550015215896667
-    },
-    "computer": {
-      "municipio": "Villa Altagracia",
-      "total": 88723.0,
-      "used": 9813.0,
-      "rate_used": 0.11060266221836502
-    }
-  },
-  {
-    "adm2_code": 21006,
-    "municipio": "Yaguate",
-    "internet": {
-      "municipio": "Yaguate",
-      "total": 46851.0,
-      "used": 31229.0,
-      "rate_used": 0.6665599453586903
-    },
-    "cellular": {
-      "municipio": "Yaguate",
-      "total": 46851.0,
-      "used": 31229.0,
-      "rate_used": 0.6665599453586903
-    },
-    "computer": {
-      "municipio": "Yaguate",
-      "total": 46851.0,
-      "used": 4803.0,
-      "rate_used": 0.10251648844208235
-    }
-  },
-  {
-    "adm2_code": 21007,
-    "municipio": "San Gregorio de Nigua",
-    "internet": {
-      "municipio": "San Gregorio de Nigua",
-      "total": 34814.0,
-      "used": 22940.0,
-      "rate_used": 0.6589303153903602
-    },
-    "cellular": {
-      "municipio": "San Gregorio de Nigua",
-      "total": 34814.0,
-      "used": 22940.0,
-      "rate_used": 0.6589303153903602
-    },
-    "computer": {
-      "municipio": "San Gregorio de Nigua",
-      "total": 34814.0,
-      "used": 3679.0,
-      "rate_used": 0.10567587752053771
-    }
-  },
-  {
-    "adm2_code": 21008,
-    "municipio": "Los Cacaos",
-    "internet": {
-      "municipio": "Los Cacaos",
-      "total": 12721.0,
-      "used": 8446.0,
-      "rate_used": 0.6639415140319157
-    },
-    "cellular": {
-      "municipio": "Los Cacaos",
-      "total": 12721.0,
-      "used": 8446.0,
-      "rate_used": 0.6639415140319157
-    },
-    "computer": {
-      "municipio": "Los Cacaos",
-      "total": 12721.0,
-      "used": 1323.0,
-      "rate_used": 0.1040012577627545
-    }
-  },
-  {
-    "adm2_code": 31001,
-    "municipio": "San José de Ocoa",
-    "internet": {
-      "municipio": "San José de Ocoa",
-      "total": 39889.0,
-      "used": 26606.0,
-      "rate_used": 0.6670009275740179
-    },
-    "cellular": {
-      "municipio": "San José de Ocoa",
-      "total": 39889.0,
-      "used": 26606.0,
-      "rate_used": 0.6670009275740179
-    },
-    "computer": {
-      "municipio": "San José de Ocoa",
-      "total": 39889.0,
-      "used": 3140.0,
-      "rate_used": 0.07871844368121537
-    }
-  },
-  {
-    "adm2_code": 31002,
-    "municipio": "Sabana Larga",
-    "internet": {
-      "municipio": "Sabana Larga",
-      "total": 10597.0,
-      "used": 6535.0,
-      "rate_used": 0.6166839671605171
-    },
-    "cellular": {
-      "municipio": "Sabana Larga",
-      "total": 10597.0,
-      "used": 6535.0,
-      "rate_used": 0.6166839671605171
-    },
-    "computer": {
-      "municipio": "Sabana Larga",
-      "total": 10597.0,
-      "used": 827.0,
-      "rate_used": 0.07804095498726055
-    }
-  },
-  {
-    "adm2_code": 31003,
-    "municipio": "Rancho Arriba",
-    "internet": {
-      "municipio": "Rancho Arriba",
-      "total": 12789.0,
-      "used": 6094.0,
-      "rate_used": 0.4765032449761514
-    },
-    "cellular": {
-      "municipio": "Rancho Arriba",
-      "total": 12789.0,
-      "used": 6094.0,
-      "rate_used": 0.4765032449761514
-    },
-    "computer": {
-      "municipio": "Rancho Arriba",
-      "total": 12789.0,
-      "used": 994.0,
-      "rate_used": 0.07772304324028462
-    }
-  },
-  {
-    "adm2_code": 3001,
-    "municipio": "Neiba",
-    "internet": {
-      "municipio": "Neiba",
-      "total": 36676.0,
-      "used": 20807.0,
-      "rate_used": 0.5673192278329152
-    },
-    "cellular": {
-      "municipio": "Neiba",
-      "total": 36676.0,
-      "used": 20807.0,
-      "rate_used": 0.5673192278329152
-    },
-    "computer": {
-      "municipio": "Neiba",
-      "total": 36676.0,
-      "used": 3961.0,
-      "rate_used": 0.10799978187370488
-    }
-  },
-  {
-    "adm2_code": 3002,
-    "municipio": "Galván",
-    "internet": {
-      "municipio": "Galván",
-      "total": 14306.0,
-      "used": 7338.0,
-      "rate_used": 0.512931637075353
-    },
-    "cellular": {
-      "municipio": "Galván",
-      "total": 14306.0,
-      "used": 7338.0,
-      "rate_used": 0.512931637075353
-    },
-    "computer": {
-      "municipio": "Galván",
-      "total": 14306.0,
-      "used": 1359.0,
-      "rate_used": 0.09499510694813365
-    }
-  },
-  {
-    "adm2_code": 3003,
-    "municipio": "Tamayo",
-    "internet": {
-      "municipio": "Tamayo",
-      "total": 27751.0,
-      "used": 14359.0,
-      "rate_used": 0.5174227955749342
-    },
-    "cellular": {
-      "municipio": "Tamayo",
-      "total": 27751.0,
-      "used": 14359.0,
-      "rate_used": 0.5174227955749342
-    },
-    "computer": {
-      "municipio": "Tamayo",
-      "total": 27751.0,
-      "used": 2975.0,
-      "rate_used": 0.10720334402363879
-    }
-  },
-  {
-    "adm2_code": 3004,
-    "municipio": "Villa Jaragua",
-    "internet": {
-      "municipio": "Villa Jaragua",
-      "total": 11282.0,
-      "used": 6682.0,
-      "rate_used": 0.592270873958518
-    },
-    "cellular": {
-      "municipio": "Villa Jaragua",
-      "total": 11282.0,
-      "used": 6682.0,
-      "rate_used": 0.592270873958518
-    },
-    "computer": {
-      "municipio": "Villa Jaragua",
-      "total": 11282.0,
-      "used": 1079.0,
-      "rate_used": 0.09563907108668676
-    }
-  },
-  {
-    "adm2_code": 3005,
-    "municipio": "Los Ríos",
-    "internet": {
-      "municipio": "Los Ríos",
-      "total": 8377.0,
-      "used": 4148.0,
-      "rate_used": 0.49516533365166526
-    },
-    "cellular": {
-      "municipio": "Los Ríos",
-      "total": 8377.0,
-      "used": 4148.0,
-      "rate_used": 0.49516533365166526
-    },
-    "computer": {
-      "municipio": "Los Ríos",
-      "total": 8377.0,
-      "used": 990.0,
-      "rate_used": 0.11818073295929331
-    }
-  },
-  {
-    "adm2_code": 4001,
-    "municipio": "Barahona",
-    "internet": {
-      "municipio": "Barahona",
-      "total": 81709.0,
-      "used": 54079.0,
-      "rate_used": 0.6618487559509968
-    },
-    "cellular": {
-      "municipio": "Barahona",
-      "total": 81709.0,
-      "used": 54079.0,
-      "rate_used": 0.6618487559509968
-    },
-    "computer": {
-      "municipio": "Barahona",
-      "total": 81709.0,
-      "used": 9115.0,
-      "rate_used": 0.11155441872988288
-    }
-  },
-  {
-    "adm2_code": 4002,
-    "municipio": "Cabral",
-    "internet": {
-      "municipio": "Cabral",
-      "total": 14540.0,
-      "used": 9024.0,
-      "rate_used": 0.6206327372764787
-    },
-    "cellular": {
-      "municipio": "Cabral",
-      "total": 14540.0,
-      "used": 9024.0,
-      "rate_used": 0.6206327372764787
-    },
-    "computer": {
-      "municipio": "Cabral",
-      "total": 14540.0,
-      "used": 1648.0,
-      "rate_used": 0.11334250343878954
-    }
-  },
-  {
-    "adm2_code": 4003,
-    "municipio": "Enriquillo",
-    "internet": {
-      "municipio": "Enriquillo",
-      "total": 11321.0,
-      "used": 4741.0,
-      "rate_used": 0.4187792597827047
-    },
-    "cellular": {
-      "municipio": "Enriquillo",
-      "total": 11321.0,
-      "used": 4741.0,
-      "rate_used": 0.4187792597827047
-    },
-    "computer": {
-      "municipio": "Enriquillo",
-      "total": 11321.0,
-      "used": 1177.0,
-      "rate_used": 0.10396608073491741
-    }
-  },
-  {
-    "adm2_code": 4004,
-    "municipio": "Paraíso",
-    "internet": {
-      "municipio": "Paraíso",
-      "total": 14851.0,
-      "used": 8555.0,
-      "rate_used": 0.5760554844791597
-    },
-    "cellular": {
-      "municipio": "Paraíso",
-      "total": 14851.0,
-      "used": 8555.0,
-      "rate_used": 0.5760554844791597
-    },
-    "computer": {
-      "municipio": "Paraíso",
-      "total": 14851.0,
-      "used": 1744.0,
-      "rate_used": 0.11743316948353646
-    }
-  },
-  {
-    "adm2_code": 4005,
-    "municipio": "Vicente Noble",
-    "internet": {
-      "municipio": "Vicente Noble",
-      "total": 23279.0,
-      "used": 14133.0,
-      "rate_used": 0.6071137076334894
-    },
-    "cellular": {
-      "municipio": "Vicente Noble",
-      "total": 23279.0,
-      "used": 14133.0,
-      "rate_used": 0.6071137076334894
-    },
-    "computer": {
-      "municipio": "Vicente Noble",
-      "total": 23279.0,
-      "used": 2573.0,
-      "rate_used": 0.11052880278362473
-    }
-  },
-  {
-    "adm2_code": 4006,
-    "municipio": "El Peñón",
-    "internet": {
-      "municipio": "El Peñón",
-      "total": 4066.0,
-      "used": 2565.0,
-      "rate_used": 0.6308411214953271
-    },
-    "cellular": {
-      "municipio": "El Peñón",
-      "total": 4066.0,
-      "used": 2565.0,
-      "rate_used": 0.6308411214953271
-    },
-    "computer": {
-      "municipio": "El Peñón",
-      "total": 4066.0,
-      "used": 407.0,
-      "rate_used": 0.10009837678307919
-    }
-  },
-  {
-    "adm2_code": 4007,
-    "municipio": "La Ciénaga",
-    "internet": {
-      "municipio": "La Ciénaga",
-      "total": 8245.0,
-      "used": 4646.0,
-      "rate_used": 0.5634930260764099
-    },
-    "cellular": {
-      "municipio": "La Ciénaga",
-      "total": 8245.0,
-      "used": 4646.0,
-      "rate_used": 0.5634930260764099
-    },
-    "computer": {
-      "municipio": "La Ciénaga",
-      "total": 8245.0,
-      "used": 999.0,
-      "rate_used": 0.12116434202546998
-    }
-  },
-  {
-    "adm2_code": 4008,
-    "municipio": "Fundación",
-    "internet": {
-      "municipio": "Fundación",
-      "total": 8419.0,
-      "used": 4570.0,
-      "rate_used": 0.5428198123292552
-    },
-    "cellular": {
-      "municipio": "Fundación",
-      "total": 8419.0,
-      "used": 4570.0,
-      "rate_used": 0.5428198123292552
-    },
-    "computer": {
-      "municipio": "Fundación",
-      "total": 8419.0,
-      "used": 890.0,
-      "rate_used": 0.10571326760897969
-    }
-  },
-  {
-    "adm2_code": 4009,
-    "municipio": "Las Salinas",
-    "internet": {
-      "municipio": "Las Salinas",
-      "total": 4423.0,
-      "used": 2584.0,
-      "rate_used": 0.584218855980104
-    },
-    "cellular": {
-      "municipio": "Las Salinas",
-      "total": 4423.0,
-      "used": 2584.0,
-      "rate_used": 0.584218855980104
-    },
-    "computer": {
-      "municipio": "Las Salinas",
-      "total": 4423.0,
-      "used": 487.0,
-      "rate_used": 0.11010626271761248
-    }
-  },
-  {
-    "adm2_code": 4010,
-    "municipio": "Polo",
-    "internet": {
-      "municipio": "Polo",
-      "total": 6988.0,
-      "used": 3758.0,
-      "rate_used": 0.5377790497996565
-    },
-    "cellular": {
-      "municipio": "Polo",
-      "total": 6988.0,
-      "used": 3758.0,
-      "rate_used": 0.5377790497996565
-    },
-    "computer": {
-      "municipio": "Polo",
-      "total": 6988.0,
-      "used": 749.0,
-      "rate_used": 0.10718374356038923
-    }
-  },
-  {
-    "adm2_code": 4011,
-    "municipio": "Jaquimeyes",
-    "internet": {
-      "municipio": "Jaquimeyes",
-      "total": 4292.0,
-      "used": 2985.0,
-      "rate_used": 0.695479962721342
-    },
-    "cellular": {
-      "municipio": "Jaquimeyes",
-      "total": 4292.0,
-      "used": 2985.0,
-      "rate_used": 0.695479962721342
-    },
-    "computer": {
-      "municipio": "Jaquimeyes",
-      "total": 4292.0,
-      "used": 478.0,
-      "rate_used": 0.11136999068033551
-    }
-  },
-  {
-    "adm2_code": 10001,
-    "municipio": "Jimaní",
-    "internet": {
-      "municipio": "Jimaní",
-      "total": 17150.0,
-      "used": 6911.0,
-      "rate_used": 0.4029737609329446
-    },
-    "cellular": {
-      "municipio": "Jimaní",
-      "total": 17150.0,
-      "used": 6911.0,
-      "rate_used": 0.4029737609329446
-    },
-    "computer": {
-      "municipio": "Jimaní",
-      "total": 17150.0,
-      "used": 2131.0,
-      "rate_used": 0.12425655976676385
-    }
-  },
-  {
-    "adm2_code": 10002,
-    "municipio": "Duvergé",
-    "internet": {
-      "municipio": "Duvergé",
-      "total": 12759.0,
-      "used": 7010.0,
-      "rate_used": 0.5494160984403167
-    },
-    "cellular": {
-      "municipio": "Duvergé",
-      "total": 12759.0,
-      "used": 7010.0,
-      "rate_used": 0.5494160984403167
-    },
-    "computer": {
-      "municipio": "Duvergé",
-      "total": 12759.0,
-      "used": 1255.0,
-      "rate_used": 0.0983619405909554
-    }
-  },
-  {
-    "adm2_code": 10003,
-    "municipio": "La Descubierta",
-    "internet": {
-      "municipio": "La Descubierta",
-      "total": 7306.0,
-      "used": 3273.0,
-      "rate_used": 0.44798795510539285
-    },
-    "cellular": {
-      "municipio": "La Descubierta",
-      "total": 7306.0,
-      "used": 3273.0,
-      "rate_used": 0.44798795510539285
-    },
-    "computer": {
-      "municipio": "La Descubierta",
-      "total": 7306.0,
-      "used": 873.0,
-      "rate_used": 0.11949082945524227
-    }
-  },
-  {
-    "adm2_code": 10004,
-    "municipio": "Postrer Río",
-    "internet": {
-      "municipio": "Postrer Río",
-      "total": 6522.0,
-      "used": 2854.0,
-      "rate_used": 0.43759582950015335
-    },
-    "cellular": {
-      "municipio": "Postrer Río",
-      "total": 6522.0,
-      "used": 2854.0,
-      "rate_used": 0.43759582950015335
-    },
-    "computer": {
-      "municipio": "Postrer Río",
-      "total": 6522.0,
-      "used": 714.0,
-      "rate_used": 0.10947562097516099
-    }
-  },
-  {
-    "adm2_code": 10005,
-    "municipio": "Cristóbal",
-    "internet": {
-      "municipio": "Cristóbal",
-      "total": 6788.0,
-      "used": 3170.0,
-      "rate_used": 0.4670005892751915
-    },
-    "cellular": {
-      "municipio": "Cristóbal",
-      "total": 6788.0,
-      "used": 3170.0,
-      "rate_used": 0.4670005892751915
-    },
-    "computer": {
-      "municipio": "Cristóbal",
-      "total": 6788.0,
-      "used": 841.0,
-      "rate_used": 0.12389510901591043
-    }
-  },
-  {
-    "adm2_code": 10006,
-    "municipio": "Mella",
-    "internet": {
-      "municipio": "Mella",
-      "total": 4141.0,
-      "used": 2564.0,
-      "rate_used": 0.6191741125332045
-    },
-    "cellular": {
-      "municipio": "Mella",
-      "total": 4141.0,
-      "used": 2564.0,
-      "rate_used": 0.6191741125332045
-    },
-    "computer": {
-      "municipio": "Mella",
-      "total": 4141.0,
-      "used": 438.0,
-      "rate_used": 0.1057715527650326
-    }
-  },
-  {
-    "adm2_code": 16001,
-    "municipio": "Pedernales",
-    "internet": {
-      "municipio": "Pedernales",
-      "total": 21863.0,
-      "used": 12210.0,
-      "rate_used": 0.5584777935324521
-    },
-    "cellular": {
-      "municipio": "Pedernales",
-      "total": 21863.0,
-      "used": 12210.0,
-      "rate_used": 0.5584777935324521
-    },
-    "computer": {
-      "municipio": "Pedernales",
-      "total": 21863.0,
-      "used": 2814.0,
-      "rate_used": 0.1287106069615332
-    }
-  },
-  {
-    "adm2_code": 16002,
-    "municipio": "Oviedo",
-    "internet": {
-      "municipio": "Oviedo",
-      "total": 8798.0,
-      "used": 4447.0,
-      "rate_used": 0.5054557854057741
-    },
-    "cellular": {
-      "municipio": "Oviedo",
-      "total": 8798.0,
-      "used": 4447.0,
-      "rate_used": 0.5054557854057741
-    },
-    "computer": {
-      "municipio": "Oviedo",
-      "total": 8798.0,
-      "used": 963.0,
-      "rate_used": 0.10945669470334167
-    }
-  },
-  {
-    "adm2_code": 2001,
-    "municipio": "Azua",
-    "internet": {
-      "municipio": "Azua",
-      "total": 94098.0,
-      "used": 60601.0,
-      "rate_used": 0.6440200641883993
-    },
-    "cellular": {
-      "municipio": "Azua",
-      "total": 94098.0,
-      "used": 60601.0,
-      "rate_used": 0.6440200641883993
-    },
-    "computer": {
-      "municipio": "Azua",
-      "total": 94098.0,
-      "used": 9790.0,
-      "rate_used": 0.10404046844778847
-    }
-  },
-  {
-    "adm2_code": 2002,
-    "municipio": "Las Charcas",
-    "internet": {
-      "municipio": "Las Charcas",
-      "total": 12978.0,
-      "used": 8173.0,
-      "rate_used": 0.6297580520881492
-    },
-    "cellular": {
-      "municipio": "Las Charcas",
-      "total": 12978.0,
-      "used": 8173.0,
-      "rate_used": 0.6297580520881492
-    },
-    "computer": {
-      "municipio": "Las Charcas",
-      "total": 12978.0,
-      "used": 1448.0,
-      "rate_used": 0.11157343196178147
-    }
-  },
-  {
-    "adm2_code": 2003,
-    "municipio": "Las Yayas de Viajama",
-    "internet": {
-      "municipio": "Las Yayas de Viajama",
-      "total": 17595.0,
-      "used": 10202.0,
-      "rate_used": 0.5798238135834044
-    },
-    "cellular": {
-      "municipio": "Las Yayas de Viajama",
-      "total": 17595.0,
-      "used": 10202.0,
-      "rate_used": 0.5798238135834044
-    },
-    "computer": {
-      "municipio": "Las Yayas de Viajama",
-      "total": 17595.0,
-      "used": 1958.0,
-      "rate_used": 0.11128161409491333
-    }
-  },
-  {
-    "adm2_code": 2004,
-    "municipio": "Padre Las Casas",
-    "internet": {
-      "municipio": "Padre Las Casas",
-      "total": 18965.0,
-      "used": 10206.0,
-      "rate_used": 0.538149222251516
-    },
-    "cellular": {
-      "municipio": "Padre Las Casas",
-      "total": 18965.0,
-      "used": 10206.0,
-      "rate_used": 0.538149222251516
-    },
-    "computer": {
-      "municipio": "Padre Las Casas",
-      "total": 18965.0,
-      "used": 2009.0,
-      "rate_used": 0.10593197996308991
-    }
-  },
-  {
-    "adm2_code": 2005,
-    "municipio": "Peralta",
-    "internet": {
-      "municipio": "Peralta",
-      "total": 13407.0,
-      "used": 7806.0,
-      "rate_used": 0.5822331617811591
-    },
-    "cellular": {
-      "municipio": "Peralta",
-      "total": 13407.0,
-      "used": 7806.0,
-      "rate_used": 0.5822331617811591
-    },
-    "computer": {
-      "municipio": "Peralta",
-      "total": 13407.0,
-      "used": 1400.0,
-      "rate_used": 0.10442306257924965
-    }
-  },
-  {
-    "adm2_code": 2006,
-    "municipio": "Sabana Yegua",
-    "internet": {
-      "municipio": "Sabana Yegua",
-      "total": 19502.0,
-      "used": 13114.0,
-      "rate_used": 0.6724438519126243
-    },
-    "cellular": {
-      "municipio": "Sabana Yegua",
-      "total": 19502.0,
-      "used": 13114.0,
-      "rate_used": 0.6724438519126243
-    },
-    "computer": {
-      "municipio": "Sabana Yegua",
-      "total": 19502.0,
-      "used": 1876.0,
-      "rate_used": 0.09619526202440776
-    }
-  },
-  {
-    "adm2_code": 2007,
-    "municipio": "Pueblo Viejo",
-    "internet": {
-      "municipio": "Pueblo Viejo",
-      "total": 10895.0,
-      "used": 6613.0,
-      "rate_used": 0.6069756769160165
-    },
-    "cellular": {
-      "municipio": "Pueblo Viejo",
-      "total": 10895.0,
-      "used": 6613.0,
-      "rate_used": 0.6069756769160165
-    },
-    "computer": {
-      "municipio": "Pueblo Viejo",
-      "total": 10895.0,
-      "used": 1177.0,
-      "rate_used": 0.10803120697567692
-    }
-  },
-  {
-    "adm2_code": 2008,
-    "municipio": "Tábara Arriba",
-    "internet": {
-      "municipio": "Tábara Arriba",
-      "total": 19283.0,
-      "used": 12642.0,
-      "rate_used": 0.6556033812166157
-    },
-    "cellular": {
-      "municipio": "Tábara Arriba",
-      "total": 19283.0,
-      "used": 12642.0,
-      "rate_used": 0.6556033812166157
-    },
-    "computer": {
-      "municipio": "Tábara Arriba",
-      "total": 19283.0,
-      "used": 1713.0,
-      "rate_used": 0.08883472488720635
-    }
-  },
-  {
-    "adm2_code": 2009,
-    "municipio": "Guayabal",
-    "internet": {
-      "municipio": "Guayabal",
-      "total": 5187.0,
-      "used": 3049.0,
-      "rate_used": 0.587815693078851
-    },
-    "cellular": {
-      "municipio": "Guayabal",
-      "total": 5187.0,
-      "used": 3049.0,
-      "rate_used": 0.587815693078851
-    },
-    "computer": {
-      "municipio": "Guayabal",
-      "total": 5187.0,
-      "used": 466.0,
-      "rate_used": 0.08983998457682668
-    }
-  },
-  {
-    "adm2_code": 2010,
-    "municipio": "Estebanía",
-    "internet": {
-      "municipio": "Estebanía",
-      "total": 7628.0,
-      "used": 5022.0,
-      "rate_used": 0.6583639223911903
-    },
-    "cellular": {
-      "municipio": "Estebanía",
-      "total": 7628.0,
-      "used": 5022.0,
-      "rate_used": 0.6583639223911903
-    },
-    "computer": {
-      "municipio": "Estebanía",
-      "total": 7628.0,
-      "used": 660.0,
-      "rate_used": 0.08652333508127949
-    }
-  },
-  {
-    "adm2_code": 7001,
-    "municipio": "Comendador",
-    "internet": {
-      "municipio": "Comendador",
-      "total": 25348.0,
-      "used": 10807.0,
-      "rate_used": 0.42634527378885906
-    },
-    "cellular": {
-      "municipio": "Comendador",
-      "total": 25348.0,
-      "used": 10807.0,
-      "rate_used": 0.42634527378885906
-    },
-    "computer": {
-      "municipio": "Comendador",
-      "total": 25348.0,
-      "used": 3394.0,
-      "rate_used": 0.13389616537793908
-    }
-  },
-  {
-    "adm2_code": 7002,
-    "municipio": "Bánica",
-    "internet": {
-      "municipio": "Bánica",
-      "total": 6782.0,
-      "used": 2633.0,
-      "rate_used": 0.3882335594219994
-    },
-    "cellular": {
-      "municipio": "Bánica",
-      "total": 6782.0,
-      "used": 2633.0,
-      "rate_used": 0.3882335594219994
-    },
-    "computer": {
-      "municipio": "Bánica",
-      "total": 6782.0,
-      "used": 818.0,
-      "rate_used": 0.12061338838100855
-    }
-  },
-  {
-    "adm2_code": 7003,
-    "municipio": "El Llano",
-    "internet": {
-      "municipio": "El Llano",
-      "total": 7662.0,
-      "used": 2772.0,
-      "rate_used": 0.3617854346123727
-    },
-    "cellular": {
-      "municipio": "El Llano",
-      "total": 7662.0,
-      "used": 2772.0,
-      "rate_used": 0.3617854346123727
-    },
-    "computer": {
-      "municipio": "El Llano",
-      "total": 7662.0,
-      "used": 1001.0,
-      "rate_used": 0.13064474027669015
-    }
-  },
-  {
-    "adm2_code": 7004,
-    "municipio": "Hondo Valle",
-    "internet": {
-      "municipio": "Hondo Valle",
-      "total": 8643.0,
-      "used": 3508.0,
-      "rate_used": 0.4058775888001851
-    },
-    "cellular": {
-      "municipio": "Hondo Valle",
-      "total": 8643.0,
-      "used": 3508.0,
-      "rate_used": 0.4058775888001851
-    },
-    "computer": {
-      "municipio": "Hondo Valle",
-      "total": 8643.0,
-      "used": 1045.0,
-      "rate_used": 0.12090709244475298
-    }
-  },
-  {
-    "adm2_code": 7005,
-    "municipio": "Pedro Santana",
-    "internet": {
-      "municipio": "Pedro Santana",
-      "total": 5838.0,
-      "used": 1933.0,
-      "rate_used": 0.33110654333675915
-    },
-    "cellular": {
-      "municipio": "Pedro Santana",
-      "total": 5838.0,
-      "used": 1933.0,
-      "rate_used": 0.33110654333675915
-    },
-    "computer": {
-      "municipio": "Pedro Santana",
-      "total": 5838.0,
-      "used": 848.0,
-      "rate_used": 0.14525522439191504
-    }
-  },
-  {
-    "adm2_code": 7006,
-    "municipio": "Juan Santiago",
-    "internet": {
-      "municipio": "Juan Santiago",
-      "total": 3140.0,
-      "used": 1167.0,
-      "rate_used": 0.371656050955414
-    },
-    "cellular": {
-      "municipio": "Juan Santiago",
-      "total": 3140.0,
-      "used": 1167.0,
-      "rate_used": 0.371656050955414
-    },
-    "computer": {
-      "municipio": "Juan Santiago",
-      "total": 3140.0,
-      "used": 368.0,
-      "rate_used": 0.11719745222929936
-    }
-  },
-  {
-    "adm2_code": 22001,
-    "municipio": "San Juan",
-    "internet": {
-      "municipio": "San Juan",
-      "total": 130373.0,
-      "used": 85005.0,
-      "rate_used": 0.652013837220897
-    },
-    "cellular": {
-      "municipio": "San Juan",
-      "total": 130373.0,
-      "used": 85005.0,
-      "rate_used": 0.652013837220897
-    },
-    "computer": {
-      "municipio": "San Juan",
-      "total": 130373.0,
-      "used": 12753.0,
-      "rate_used": 0.09781933375775659
-    }
-  },
-  {
-    "adm2_code": 22002,
-    "municipio": "Bohechío",
-    "internet": {
-      "municipio": "Bohechío",
-      "total": 9223.0,
-      "used": 5107.0,
-      "rate_used": 0.5537243846904478
-    },
-    "cellular": {
-      "municipio": "Bohechío",
-      "total": 9223.0,
-      "used": 5107.0,
-      "rate_used": 0.5537243846904478
-    },
-    "computer": {
-      "municipio": "Bohechío",
-      "total": 9223.0,
-      "used": 950.0,
-      "rate_used": 0.10300336116231161
-    }
-  },
-  {
-    "adm2_code": 22003,
-    "municipio": "El Cercado",
-    "internet": {
-      "municipio": "El Cercado",
-      "total": 16184.0,
-      "used": 6643.0,
-      "rate_used": 0.41046712802768165
-    },
-    "cellular": {
-      "municipio": "El Cercado",
-      "total": 16184.0,
-      "used": 6643.0,
-      "rate_used": 0.41046712802768165
-    },
-    "computer": {
-      "municipio": "El Cercado",
-      "total": 16184.0,
-      "used": 1622.0,
-      "rate_used": 0.10022244191794365
-    }
-  },
-  {
-    "adm2_code": 22004,
-    "municipio": "Juan de Herrera",
-    "internet": {
-      "municipio": "Juan de Herrera",
-      "total": 11488.0,
-      "used": 7184.0,
-      "rate_used": 0.6253481894150418
-    },
-    "cellular": {
-      "municipio": "Juan de Herrera",
-      "total": 11488.0,
-      "used": 7184.0,
-      "rate_used": 0.6253481894150418
-    },
-    "computer": {
-      "municipio": "Juan de Herrera",
-      "total": 11488.0,
-      "used": 1106.0,
-      "rate_used": 0.09627437325905293
-    }
-  },
-  {
-    "adm2_code": 22005,
-    "municipio": "Las Matas de Farfán",
-    "internet": {
-      "municipio": "Las Matas de Farfán",
-      "total": 44090.0,
-      "used": 25042.0,
-      "rate_used": 0.5679745974143797
-    },
-    "cellular": {
-      "municipio": "Las Matas de Farfán",
-      "total": 44090.0,
-      "used": 25042.0,
-      "rate_used": 0.5679745974143797
-    },
-    "computer": {
-      "municipio": "Las Matas de Farfán",
-      "total": 44090.0,
-      "used": 4271.0,
-      "rate_used": 0.09687003855749603
-    }
-  },
-  {
-    "adm2_code": 22006,
-    "municipio": "Vallejuelo",
-    "internet": {
-      "municipio": "Vallejuelo",
-      "total": 11615.0,
-      "used": 5163.0,
-      "rate_used": 0.44451140766250535
-    },
-    "cellular": {
-      "municipio": "Vallejuelo",
-      "total": 11615.0,
-      "used": 5163.0,
-      "rate_used": 0.44451140766250535
-    },
-    "computer": {
-      "municipio": "Vallejuelo",
-      "total": 11615.0,
-      "used": 1205.0,
-      "rate_used": 0.1037451571244081
-    }
-  },
-  {
-    "adm2_code": 8001,
-    "municipio": "El Seibo",
-    "internet": {
-      "municipio": "El Seibo",
-      "total": 66561.0,
-      "used": 39128.0,
-      "rate_used": 0.5878517450158501
-    },
-    "cellular": {
-      "municipio": "El Seibo",
-      "total": 66561.0,
-      "used": 39128.0,
-      "rate_used": 0.5878517450158501
-    },
-    "computer": {
-      "municipio": "El Seibo",
-      "total": 66561.0,
-      "used": 6416.0,
-      "rate_used": 0.09639278256035817
-    }
-  },
-  {
-    "adm2_code": 8002,
-    "municipio": "Miches",
-    "internet": {
-      "municipio": "Miches",
-      "total": 23964.0,
-      "used": 17783.0,
-      "rate_used": 0.7420714404940745
-    },
-    "cellular": {
-      "municipio": "Miches",
-      "total": 23964.0,
-      "used": 17783.0,
-      "rate_used": 0.7420714404940745
-    },
-    "computer": {
-      "municipio": "Miches",
-      "total": 23964.0,
-      "used": 2391.0,
-      "rate_used": 0.09977466199298948
-    }
-  },
-  {
-    "adm2_code": 11001,
-    "municipio": "Higüey",
-    "internet": {
-      "municipio": "Higüey",
-      "total": 378960.0,
-      "used": 298258.0,
-      "rate_used": 0.7870434874393076
-    },
-    "cellular": {
-      "municipio": "Higüey",
-      "total": 378960.0,
-      "used": 298258.0,
-      "rate_used": 0.7870434874393076
-    },
-    "computer": {
-      "municipio": "Higüey",
-      "total": 378960.0,
-      "used": 35987.0,
-      "rate_used": 0.09496252902681021
-    }
-  },
-  {
-    "adm2_code": 11002,
-    "municipio": "San Rafael del Yuma",
-    "internet": {
-      "municipio": "San Rafael del Yuma",
-      "total": 28425.0,
-      "used": 17148.0,
-      "rate_used": 0.6032717678100263
-    },
-    "cellular": {
-      "municipio": "San Rafael del Yuma",
-      "total": 28425.0,
-      "used": 17148.0,
-      "rate_used": 0.6032717678100263
-    },
-    "computer": {
-      "municipio": "San Rafael del Yuma",
-      "total": 28425.0,
-      "used": 2628.0,
-      "rate_used": 0.0924538258575198
-    }
-  },
-  {
-    "adm2_code": 12001,
-    "municipio": "La Romana",
-    "internet": {
-      "municipio": "La Romana",
-      "total": 141478.0,
-      "used": 116996.0,
-      "rate_used": 0.8269554276990062
-    },
-    "cellular": {
-      "municipio": "La Romana",
-      "total": 141478.0,
-      "used": 116996.0,
-      "rate_used": 0.8269554276990062
-    },
-    "computer": {
-      "municipio": "La Romana",
-      "total": 141478.0,
-      "used": 12231.0,
-      "rate_used": 0.08645160378292031
-    }
-  },
-  {
-    "adm2_code": 12002,
-    "municipio": "Guaymate",
-    "internet": {
-      "municipio": "Guaymate",
-      "total": 15401.0,
-      "used": 8809.0,
-      "rate_used": 0.5719758457243036
-    },
-    "cellular": {
-      "municipio": "Guaymate",
-      "total": 15401.0,
-      "used": 8809.0,
-      "rate_used": 0.5719758457243036
-    },
-    "computer": {
-      "municipio": "Guaymate",
-      "total": 15401.0,
-      "used": 1810.0,
-      "rate_used": 0.11752483604960717
-    }
-  },
-  {
-    "adm2_code": 12003,
-    "municipio": "Villa Hermosa",
-    "internet": {
-      "municipio": "Villa Hermosa",
-      "total": 106227.0,
-      "used": 76358.0,
-      "rate_used": 0.7188191326122361
-    },
-    "cellular": {
-      "municipio": "Villa Hermosa",
-      "total": 106227.0,
-      "used": 76358.0,
-      "rate_used": 0.7188191326122361
-    },
-    "computer": {
-      "municipio": "Villa Hermosa",
-      "total": 106227.0,
-      "used": 11441.0,
-      "rate_used": 0.10770331459986632
-    }
-  },
-  {
-    "adm2_code": 23001,
-    "municipio": "San Pedro de Macorís",
-    "internet": {
-      "municipio": "San Pedro de Macorís",
-      "total": 200173.0,
-      "used": 162409.0,
-      "rate_used": 0.8113431881422569
-    },
-    "cellular": {
-      "municipio": "San Pedro de Macorís",
-      "total": 200173.0,
-      "used": 162409.0,
-      "rate_used": 0.8113431881422569
-    },
-    "computer": {
-      "municipio": "San Pedro de Macorís",
-      "total": 200173.0,
-      "used": 18496.0,
-      "rate_used": 0.09240007393604532
-    }
-  },
-  {
-    "adm2_code": 23002,
-    "municipio": "Los Llanos",
-    "internet": {
-      "municipio": "Los Llanos",
-      "total": 23674.0,
-      "used": 15220.0,
-      "rate_used": 0.6428993832896849
-    },
-    "cellular": {
-      "municipio": "Los Llanos",
-      "total": 23674.0,
-      "used": 15220.0,
-      "rate_used": 0.6428993832896849
-    },
-    "computer": {
-      "municipio": "Los Llanos",
-      "total": 23674.0,
-      "used": 2465.0,
-      "rate_used": 0.10412266621610206
-    }
-  },
-  {
-    "adm2_code": 23003,
-    "municipio": "Ramón Santana",
-    "internet": {
-      "municipio": "Ramón Santana",
-      "total": 10106.0,
-      "used": 5940.0,
-      "rate_used": 0.5877696417969523
-    },
-    "cellular": {
-      "municipio": "Ramón Santana",
-      "total": 10106.0,
-      "used": 5940.0,
-      "rate_used": 0.5877696417969523
-    },
-    "computer": {
-      "municipio": "Ramón Santana",
-      "total": 10106.0,
-      "used": 1094.0,
-      "rate_used": 0.10825252325351277
-    }
-  },
-  {
-    "adm2_code": 23004,
-    "municipio": "Consuelo",
-    "internet": {
-      "municipio": "Consuelo",
-      "total": 36844.0,
-      "used": 27489.0,
-      "rate_used": 0.7460916295733362
-    },
-    "cellular": {
-      "municipio": "Consuelo",
-      "total": 36844.0,
-      "used": 27489.0,
-      "rate_used": 0.7460916295733362
-    },
-    "computer": {
-      "municipio": "Consuelo",
-      "total": 36844.0,
-      "used": 3691.0,
-      "rate_used": 0.10017913364455543
-    }
-  },
-  {
-    "adm2_code": 23005,
-    "municipio": "Quisqueya",
-    "internet": {
-      "municipio": "Quisqueya",
-      "total": 20810.0,
-      "used": 15198.0,
-      "rate_used": 0.7303219605958674
-    },
-    "cellular": {
-      "municipio": "Quisqueya",
-      "total": 20810.0,
-      "used": 15198.0,
-      "rate_used": 0.7303219605958674
-    },
-    "computer": {
-      "municipio": "Quisqueya",
-      "total": 20810.0,
-      "used": 2183.0,
-      "rate_used": 0.10490148966842865
-    }
-  },
-  {
-    "adm2_code": 23006,
-    "municipio": "Guayacanes",
-    "internet": {
-      "municipio": "Guayacanes",
-      "total": 17321.0,
-      "used": 13144.0,
-      "rate_used": 0.7588476415911322
-    },
-    "cellular": {
-      "municipio": "Guayacanes",
-      "total": 17321.0,
-      "used": 13144.0,
-      "rate_used": 0.7588476415911322
-    },
-    "computer": {
-      "municipio": "Guayacanes",
-      "total": 17321.0,
-      "used": 1837.0,
-      "rate_used": 0.10605623231915016
-    }
-  },
-  {
-    "adm2_code": 29001,
+    "adm2_code": "29001",
     "municipio": "Monte Plata",
     "internet": {
       "municipio": "Monte Plata",
-      "total": 48386.0,
-      "used": 33743.0,
+      "total": 48386,
+      "used": 33743,
       "rate_used": 0.697371140412516
     },
     "cellular": {
       "municipio": "Monte Plata",
-      "total": 48386.0,
-      "used": 33743.0,
-      "rate_used": 0.697371140412516
+      "total": 48386,
+      "used": 32258,
+      "rate_used": 0.6666804447567478
     },
     "computer": {
       "municipio": "Monte Plata",
-      "total": 48386.0,
-      "used": 4927.0,
-      "rate_used": 0.10182697474476088
+      "total": 48386,
+      "used": 10829,
+      "rate_used": 0.22380440623320796
     }
   },
   {
-    "adm2_code": 29002,
+    "adm2_code": "29002",
     "municipio": "Bayaguana",
     "internet": {
       "municipio": "Bayaguana",
-      "total": 32360.0,
-      "used": 20894.0,
+      "total": 32360,
+      "used": 20894,
       "rate_used": 0.6456736711990111
     },
     "cellular": {
       "municipio": "Bayaguana",
-      "total": 32360.0,
-      "used": 20894.0,
-      "rate_used": 0.6456736711990111
+      "total": 32360,
+      "used": 20611,
+      "rate_used": 0.636928306551298
     },
     "computer": {
       "municipio": "Bayaguana",
-      "total": 32360.0,
-      "used": 2986.0,
-      "rate_used": 0.092274412855377
+      "total": 32360,
+      "used": 7516,
+      "rate_used": 0.23226205191594562
     }
   },
   {
-    "adm2_code": 29003,
+    "adm2_code": "29003",
     "municipio": "Sabana Grande de Boyá",
     "internet": {
       "municipio": "Sabana Grande de Boyá",
-      "total": 31733.0,
-      "used": 21150.0,
+      "total": 31733,
+      "used": 21150,
       "rate_used": 0.6664985976743453
     },
     "cellular": {
       "municipio": "Sabana Grande de Boyá",
-      "total": 31733.0,
-      "used": 21150.0,
-      "rate_used": 0.6664985976743453
+      "total": 31733,
+      "used": 19848,
+      "rate_used": 0.6254687549238963
     },
     "computer": {
       "municipio": "Sabana Grande de Boyá",
-      "total": 31733.0,
-      "used": 3396.0,
-      "rate_used": 0.10701793086061828
+      "total": 31733,
+      "used": 7407,
+      "rate_used": 0.233416317398292
     }
   },
   {
-    "adm2_code": 29004,
+    "adm2_code": "29004",
     "municipio": "Yamasá",
     "internet": {
       "municipio": "Yamasá",
-      "total": 57933.0,
-      "used": 39270.0,
+      "total": 57933,
+      "used": 39270,
       "rate_used": 0.6778520014499508
     },
     "cellular": {
       "municipio": "Yamasá",
-      "total": 57933.0,
-      "used": 39270.0,
-      "rate_used": 0.6778520014499508
+      "total": 57933,
+      "used": 36018,
+      "rate_used": 0.62171819170421
     },
     "computer": {
       "municipio": "Yamasá",
-      "total": 57933.0,
-      "used": 6501.0,
-      "rate_used": 0.11221583553415151
+      "total": 57933,
+      "used": 13004,
+      "rate_used": 0.22446619370652304
     }
   },
   {
-    "adm2_code": 29005,
+    "adm2_code": "29005",
     "municipio": "Peralvillo",
     "internet": {
       "municipio": "Peralvillo",
-      "total": 16720.0,
-      "used": 11200.0,
+      "total": 16720,
+      "used": 11200,
       "rate_used": 0.6698564593301436
     },
     "cellular": {
       "municipio": "Peralvillo",
-      "total": 16720.0,
-      "used": 11200.0,
-      "rate_used": 0.6698564593301436
+      "total": 16720,
+      "used": 10528,
+      "rate_used": 0.6296650717703349
     },
     "computer": {
       "municipio": "Peralvillo",
-      "total": 16720.0,
-      "used": 1622.0,
-      "rate_used": 0.09700956937799043
+      "total": 16720,
+      "used": 3262,
+      "rate_used": 0.1950956937799043
     }
   },
   {
-    "adm2_code": 30001,
+    "adm2_code": "30001",
     "municipio": "Hato Mayor",
     "internet": {
       "municipio": "Hato Mayor",
-      "total": 64725.0,
-      "used": 45701.0,
+      "total": 64725,
+      "used": 45701,
       "rate_used": 0.7060795674005408
     },
     "cellular": {
       "municipio": "Hato Mayor",
-      "total": 64725.0,
-      "used": 45701.0,
-      "rate_used": 0.7060795674005408
+      "total": 64725,
+      "used": 43931,
+      "rate_used": 0.678733101583623
     },
     "computer": {
       "municipio": "Hato Mayor",
-      "total": 64725.0,
-      "used": 6128.0,
-      "rate_used": 0.09467748165314793
+      "total": 64725,
+      "used": 17863,
+      "rate_used": 0.27598300502124373
     }
   },
   {
-    "adm2_code": 30002,
-    "municipio": "Sabana de la mar",
+    "adm2_code": "30002",
+    "municipio": "Sabana de La Mar",
     "internet": {
-      "municipio": "Sabana de la mar",
-      "total": 17982.0,
-      "used": 12257.0,
+      "municipio": "Sabana de La Mar",
+      "total": 17982,
+      "used": 12257,
       "rate_used": 0.6816260705149594
     },
     "cellular": {
-      "municipio": "Sabana de la mar",
-      "total": 17982.0,
-      "used": 12257.0,
-      "rate_used": 0.6816260705149594
+      "municipio": "Sabana de La Mar",
+      "total": 17982,
+      "used": 12356,
+      "rate_used": 0.6871315760204649
     },
     "computer": {
-      "municipio": "Sabana de la mar",
-      "total": 17982.0,
-      "used": 1823.0,
-      "rate_used": 0.10137915693471249
+      "municipio": "Sabana de La Mar",
+      "total": 17982,
+      "used": 3328,
+      "rate_used": 0.18507396285174063
     }
   },
   {
-    "adm2_code": 30003,
-    "municipio": "El valle",
+    "adm2_code": "30003",
+    "municipio": "El Valle",
     "internet": {
-      "municipio": "El valle",
-      "total": 9070.0,
-      "used": 5677.0,
+      "municipio": "El Valle",
+      "total": 9070,
+      "used": 5677,
       "rate_used": 0.625909592061742
     },
     "cellular": {
-      "municipio": "El valle",
-      "total": 9070.0,
-      "used": 5677.0,
-      "rate_used": 0.625909592061742
+      "municipio": "El Valle",
+      "total": 9070,
+      "used": 5544,
+      "rate_used": 0.6112458654906284
     },
     "computer": {
-      "municipio": "El valle",
-      "total": 9070.0,
-      "used": 937.0,
-      "rate_used": 0.10330760749724366
+      "municipio": "El Valle",
+      "total": 9070,
+      "used": 1954,
+      "rate_used": 0.21543550165380373
+    }
+  },
+  {
+    "adm2_code": "31001",
+    "municipio": "San José de Ocoa",
+    "internet": {
+      "municipio": "San José de Ocoa",
+      "total": 39889,
+      "used": 26606,
+      "rate_used": 0.6670009275740179
+    },
+    "cellular": {
+      "municipio": "San José de Ocoa",
+      "total": 39889,
+      "used": 26561,
+      "rate_used": 0.6658727970117075
+    },
+    "computer": {
+      "municipio": "San José de Ocoa",
+      "total": 39889,
+      "used": 9843,
+      "rate_used": 0.24675975832936398
+    }
+  },
+  {
+    "adm2_code": "31002",
+    "municipio": "Sabana Larga",
+    "internet": {
+      "municipio": "Sabana Larga",
+      "total": 10597,
+      "used": 6535,
+      "rate_used": 0.6166839671605171
+    },
+    "cellular": {
+      "municipio": "Sabana Larga",
+      "total": 10597,
+      "used": 6407,
+      "rate_used": 0.604605076908559
+    },
+    "computer": {
+      "municipio": "Sabana Larga",
+      "total": 10597,
+      "used": 2327,
+      "rate_used": 0.21959045012739453
+    }
+  },
+  {
+    "adm2_code": "31003",
+    "municipio": "Rancho Arriba",
+    "internet": {
+      "municipio": "Rancho Arriba",
+      "total": 12789,
+      "used": 6094,
+      "rate_used": 0.4765032449761514
+    },
+    "cellular": {
+      "municipio": "Rancho Arriba",
+      "total": 12789,
+      "used": 7020,
+      "rate_used": 0.5489092188599578
+    },
+    "computer": {
+      "municipio": "Rancho Arriba",
+      "total": 12789,
+      "used": 1329,
+      "rate_used": 0.10391742904058175
+    }
+  },
+  {
+    "adm2_code": "32001",
+    "municipio": "Santo Domingo Este",
+    "internet": {
+      "municipio": "Santo Domingo Este",
+      "total": 948656,
+      "used": 813227,
+      "rate_used": 0.8572411917491694
+    },
+    "cellular": {
+      "municipio": "Santo Domingo Este",
+      "total": 948656,
+      "used": 782132,
+      "rate_used": 0.8244632406267393
+    },
+    "computer": {
+      "municipio": "Santo Domingo Este",
+      "total": 948656,
+      "used": 487280,
+      "rate_used": 0.5136529996120828
+    }
+  },
+  {
+    "adm2_code": "32002",
+    "municipio": "Santo Domingo Oeste",
+    "internet": {
+      "municipio": "Santo Domingo Oeste",
+      "total": 377585,
+      "used": 320188,
+      "rate_used": 0.8479891944860097
+    },
+    "cellular": {
+      "municipio": "Santo Domingo Oeste",
+      "total": 377585,
+      "used": 304777,
+      "rate_used": 0.807174543480276
+    },
+    "computer": {
+      "municipio": "Santo Domingo Oeste",
+      "total": 377585,
+      "used": 171683,
+      "rate_used": 0.4546870241137757
+    }
+  },
+  {
+    "adm2_code": "32003",
+    "municipio": "Santo Domingo Norte",
+    "internet": {
+      "municipio": "Santo Domingo Norte",
+      "total": 615122,
+      "used": 496213,
+      "rate_used": 0.806690380119716
+    },
+    "cellular": {
+      "municipio": "Santo Domingo Norte",
+      "total": 615122,
+      "used": 479014,
+      "rate_used": 0.7787300730586778
+    },
+    "computer": {
+      "municipio": "Santo Domingo Norte",
+      "total": 615122,
+      "used": 232241,
+      "rate_used": 0.3775527456341994
+    }
+  },
+  {
+    "adm2_code": "32004",
+    "municipio": "Boca Chica",
+    "internet": {
+      "municipio": "Boca Chica",
+      "total": 151464,
+      "used": 116988,
+      "rate_used": 0.77238155601331
+    },
+    "cellular": {
+      "municipio": "Boca Chica",
+      "total": 151464,
+      "used": 110873,
+      "rate_used": 0.7320089262134897
+    },
+    "computer": {
+      "municipio": "Boca Chica",
+      "total": 151464,
+      "used": 42642,
+      "rate_used": 0.28153224528600856
+    }
+  },
+  {
+    "adm2_code": "32005",
+    "municipio": "San Antonio de Guerra",
+    "internet": {
+      "municipio": "San Antonio de Guerra",
+      "total": 53789,
+      "used": 41181,
+      "rate_used": 0.7656026325085055
+    },
+    "cellular": {
+      "municipio": "San Antonio de Guerra",
+      "total": 53789,
+      "used": 37716,
+      "rate_used": 0.7011842570042202
+    },
+    "computer": {
+      "municipio": "San Antonio de Guerra",
+      "total": 53789,
+      "used": 13196,
+      "rate_used": 0.24532897060737324
+    }
+  },
+  {
+    "adm2_code": "32006",
+    "municipio": "Los Alcarrizos",
+    "internet": {
+      "municipio": "Los Alcarrizos",
+      "total": 305885,
+      "used": 253172,
+      "rate_used": 0.8276705297742616
+    },
+    "cellular": {
+      "municipio": "Los Alcarrizos",
+      "total": 305885,
+      "used": 237325,
+      "rate_used": 0.7758634781045164
+    },
+    "computer": {
+      "municipio": "Los Alcarrizos",
+      "total": 305885,
+      "used": 105314,
+      "rate_used": 0.3442927897739346
+    }
+  },
+  {
+    "adm2_code": "32007",
+    "municipio": "Pedro Brand",
+    "internet": {
+      "municipio": "Pedro Brand",
+      "total": 84212,
+      "used": 67969,
+      "rate_used": 0.8071177504393673
+    },
+    "cellular": {
+      "municipio": "Pedro Brand",
+      "total": 84212,
+      "used": 62538,
+      "rate_used": 0.7426257540493041
+    },
+    "computer": {
+      "municipio": "Pedro Brand",
+      "total": 84212,
+      "used": 26721,
+      "rate_used": 0.31730632213936255
     }
   }
 ]

@@ -602,7 +602,7 @@ EXTENSIÓN:
   }
 
   return (
-    <div className="card p-4 my-6">
+    <div className="one-card rounded-2xl border border-[#d9c7cf] bg-white p-4 my-6 shadow-sm">
       <h2 className="hide-on-print text-lg font-bold mb-2">
         📝 Resumen de Diagnóstico Automático (ChatGPT)
       </h2>
@@ -610,7 +610,7 @@ EXTENSIÓN:
       <button
         onClick={handleGenerar}
         disabled={loading}
-        className="hide-on-print bg-blue-600 text-white font-semibold px-4 py-2 rounded"
+        className="hide-on-print bg-[#861547] hover:bg-[#69143a] text-white font-semibold px-4 py-2 rounded transition"
       >
         {loading ? "Generando..." : "Crear Diagnóstico Narrativo"}
       </button>

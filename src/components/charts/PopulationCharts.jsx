@@ -24,9 +24,44 @@ import {
 } from "recharts";
 import { Users, BarChartBig, Building2 } from "lucide-react";
 
-export const BLUE = "#1d4ed8";
-export const RED = "#dc2626";
-export const COLORS = ["#0ea5e9", "#22c55e", "#f97316", "#6366f1", "#e11d48"];
+export const BLUE = "#3b6f9c";
+export const RED = "#b6125a";
+export const COLORS = ["#50102c", "#b6125a", "#d5a62a", "#217d7a", "#3b6f9c", "#7c6fb2"];
+
+function getSymmetricAxisMax(records) {
+    const maximum = Math.max(
+        0,
+        ...records.flatMap((record) => [Math.abs(Number(record.male) || 0), Math.abs(Number(record.female) || 0)])
+    );
+    if (maximum === 0) return 1;
+
+    const magnitude = 10 ** Math.floor(Math.log10(maximum));
+    const normalized = maximum / magnitude;
+    const niceStep = normalized <= 1 ? 1 : normalized <= 2 ? 2 : normalized <= 5 ? 5 : 10;
+    return niceStep * magnitude;
+}
+
+function formatPyramidTooltip(value, name) {
+    return [Math.abs(Number(value) || 0).toLocaleString("es-DO"), name];
+}
+
+function formatPyramidAxisTick(value) {
+    const absolute = Math.abs(Number(value) || 0);
+    if (absolute >= 1_000_000) {
+        return `${(absolute / 1_000_000).toLocaleString("es-DO", { maximumFractionDigits: 1 })} M`;
+    }
+    if (absolute >= 1_000) {
+        return `${(absolute / 1_000).toLocaleString("es-DO", { maximumFractionDigits: 0 })} mil`;
+    }
+    return absolute.toLocaleString("es-DO");
+}
+
+function formatPyramidAgeLabel(value) {
+    return String(value ?? "")
+        .trim()
+        .replace(/\s*-\s*/g, "–")
+        .replace(/\s+/g, "\u00a0");
+}
 
 /* -------------------------------------------------------
    BasicIndicators
@@ -101,7 +136,8 @@ export function BasicIndicators({ indicators, national }) {
 export function PopulationPyramid({ pyramid }) {
     if (!pyramid || !pyramid.length) return null;
     const ordered = [...pyramid].reverse();
-    const data = ordered.map((g) => ({ age_group: g.age_group, male: -(g.male ?? 0), female: g.female ?? 0 }));
+    const data = ordered.map((g) => ({ age_group: formatPyramidAgeLabel(g.age_group), male: -(g.male ?? 0), female: g.female ?? 0 }));
+    const axisMax = getSymmetricAxisMax(data);
 
     return (
         <Card className="border-sky-100 bg-sky-50/70 print-pyramid print-card flex flex-col">
@@ -115,9 +151,15 @@ export function PopulationPyramid({ pyramid }) {
                 <div className="w-full h-full print-chart-container">
                     <ResponsiveContainer width="100%" height="100%">
                         <BarChart data={data} layout="vertical" stackOffset="sign" margin={{ left: 10, right: 30, top: 5, bottom: 5 }}>
-                            <XAxis type="number" tickFormatter={(v) => Math.abs(v).toLocaleString("es-DO")} />
-                            <YAxis dataKey="age_group" type="category" width={50} />
-                            <Tooltip />
+                            <XAxis
+                                type="number"
+                                domain={[-axisMax, axisMax]}
+                                tickCount={5}
+                                tick={{ fontSize: 10 }}
+                                tickFormatter={formatPyramidAxisTick}
+                            />
+                            <YAxis dataKey="age_group" type="category" width={72} interval={0} tick={{ fontSize: 10 }} />
+                            <Tooltip formatter={formatPyramidTooltip} />
                             <Bar dataKey="male" stackId="stack" fill={BLUE} name="Hombres" />
                             <Bar dataKey="female" stackId="stack" fill={RED} name="Mujeres" />
                         </BarChart>
@@ -132,7 +174,13 @@ export function PopulationPyramid({ pyramid }) {
 export function PopulationPyramid2010({ pyramid }) {
     if (!pyramid || !pyramid.length) return null;
     const ordered = [...pyramid].reverse();
-    const data = ordered.map((g) => ({ ...g, male: -Math.abs(g.male || 0), female: Math.abs(g.female || 0) }));
+    const data = ordered.map((g) => ({
+        ...g,
+        age_group: formatPyramidAgeLabel(g.age_group),
+        male: -Math.abs(g.male || 0),
+        female: Math.abs(g.female || 0),
+    }));
+    const axisMax = getSymmetricAxisMax(data);
 
     return (
         <Card className="border-slate-200 bg-slate-50/80 print-pyramid print-card flex flex-col">
@@ -146,11 +194,17 @@ export function PopulationPyramid2010({ pyramid }) {
                 <div className="w-full h-full print-chart-container">
                     <ResponsiveContainer width="100%" height="100%">
                         <BarChart data={data} layout="vertical" stackOffset="sign" margin={{ left: 10, right: 30, top: 5, bottom: 5 }}>
-                            <XAxis type="number" tickFormatter={(v) => Math.abs(v).toLocaleString("es-DO")} />
-                            <YAxis dataKey="age_group" type="category" width={50} />
-                            <Tooltip />
-                            <Bar dataKey="male" stackId="stack" fill="#4b5563" name="Hombres" />
-                            <Bar dataKey="female" stackId="stack" fill="#9ca3af" name="Mujeres" />
+                            <XAxis
+                                type="number"
+                                domain={[-axisMax, axisMax]}
+                                tickCount={5}
+                                tick={{ fontSize: 10 }}
+                                tickFormatter={formatPyramidAxisTick}
+                            />
+                            <YAxis dataKey="age_group" type="category" width={72} interval={0} tick={{ fontSize: 10 }} />
+                            <Tooltip formatter={formatPyramidTooltip} />
+                            <Bar dataKey="male" stackId="stack" fill="#8f7380" name="Hombres" />
+                            <Bar dataKey="female" stackId="stack" fill="#c9b4bd" name="Mujeres" />
                         </BarChart>
                     </ResponsiveContainer>
                 </div>

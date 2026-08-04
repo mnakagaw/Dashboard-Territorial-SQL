@@ -54,7 +54,7 @@ export default function TopSelectionAndMap({
 
         {/* Selector de región/provincia/municipio (oculto en impresión) */}
         <div className="hide-on-print">
-          <Card className="max-w-md w-full">
+          <Card className="one-dark-panel max-w-md w-full">
             <CardHeader className="pb-2">
               <CardTitle>Ubicación Geográfica</CardTitle>
             </CardHeader>
@@ -62,7 +62,7 @@ export default function TopSelectionAndMap({
 
               {/* Región */}
               <div className="space-y-1 text-xs md:text-sm">
-                <div className="text-[11px] text-slate-600 md:text-xs">
+                <div className="text-[11px] text-white/70 md:text-xs">
                   Región (Ley 345-22)
                 </div>
                 <Select
@@ -74,12 +74,13 @@ export default function TopSelectionAndMap({
                   }}
                   options={regionOptions}
                   placeholder="Seleccione una región"
+                  ariaLabel="Región (Ley 345-22)"
                 />
               </div>
 
               {/* Provincia */}
               <div className="space-y-1 text-xs md:text-sm">
-                <div className="text-[11px] text-slate-600 md:text-xs">
+                <div className="text-[11px] text-white/70 md:text-xs">
                   Provincia
                 </div>
                 <Select
@@ -96,12 +97,13 @@ export default function TopSelectionAndMap({
                   disabled={!selectedRegion}
                   options={provinciaOptions}
                   placeholder="Seleccione una provincia"
+                  ariaLabel="Provincia"
                 />
               </div>
 
               {/* Municipio */}
               <div className="space-y-1 text-xs md:text-sm">
-                <div className="text-[11px] text-slate-600 md:text-xs">
+                <div className="text-[11px] text-white/70 md:text-xs">
                   Municipio
                 </div>
                 <Select
@@ -116,6 +118,7 @@ export default function TopSelectionAndMap({
                   disabled={!selectedProvince}
                   options={municipioOptions}
                   placeholder="Seleccione un municipio"
+                  ariaLabel="Municipio"
                 />
               </div>
 
@@ -131,9 +134,9 @@ export default function TopSelectionAndMap({
 
       {/* Right column: Map */}
       <div className="lg:flex-[1.3] flex-1 print-map-card">
-        <Card className="w-full h-full">
+        <Card className="one-dark-panel w-full h-full">
           <CardHeader>
-            <CardTitle>Mapa Interactivos</CardTitle>
+            <CardTitle>Mapa interactivo</CardTitle>
           </CardHeader>
           <CardContent>
             <RDMap
@@ -148,7 +151,7 @@ export default function TopSelectionAndMap({
               selectedProvince={isProvinceSelection ? selectedProvinceScope : null}
               selectedRegion={isRegionSelection ? selectedRegionScope : null}
             />
-            <p className="mt-2 text-[10px] text-slate-400 md:text-xs">
+            <p className="mt-2 text-[10px] text-white/55 md:text-xs">
               Fuente: División político-administrativa y cartografía oficial.
             </p>
           </CardContent>
