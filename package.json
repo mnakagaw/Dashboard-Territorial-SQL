@@ -53,6 +53,7 @@
     "esbuild": "^0.27.3",
     "esbuild-wasm": "^0.27.3",
     "jsdom": "^28.1.0",
+    "mssql": "^12.7.0",
     "pdf-parse": "^2.4.5",
     "pdfjs-dist": "^5.4.624",
     "postcss": "^8.4.0",
